@@ -1,0 +1,18 @@
+[Event "MMM 2025/2026 A-Klasse (2)"]
+[Site "?"]
+[Date "2025.12.12"]
+[Round "3"]
+[White "Le Masson, Nicolas"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1800"]
+[BlackElo "1713"]
+[Annotator "Tim Schmitz"]
+[PlyCount "73"]
+[SourceVersionDate "2025.12.15"]
+[WhiteTeam "MSA Zugzwang 3"]
+[BlackTeam "SC Sendling 2"]
+
+{[%evp 0,15,19,9,42,20,20,23,41,35,40,18,48,22,49,12,32,1]} 1. d4 Nf6 2. Nc3 d5 3. Bf4 g6 4. e3 Bg7 5. h4 h5 6. Nf3 Bf5 $6 7. Qd2 O-O 8. Ne5 Nbd7 9. f3 c5 10. Nxd7 Qxd7 11. dxc5 Rac8 12. b4 a6 $6 13. Rd1 Rfd8 14. Be5 Qe6 $2 ({Den folgenden Zug habe ich zwar gesehen, aber aus Zeitmangel und Feigheit nicht gespielt} 14... Ne4 $3 15. fxe4 Bxe5 16. exf5 Bg3+ 17. Ke2 Qxf5 {Schwarz hat eine ganze(!) Figur weniger, aber einen starken Angriff. Laut Stockfish steht er bereits auf Gewinn.}) 15. Bd4 Bh6 16. Bd3 Nd7 17. Kf2 Ne5 $4 ({Nahezu Ausgleich versprach} 17... Bxd3 18. Qxd3 b6 19. Na4 bxc5 20. Nxc5 Qc6) 18. Bxf5 Qxf5 19. Bxe5 Qxe5 20. Qd4 $1 Qe6 21. Nxd5 Bxe3+ 22. Qxe3 Rxd5 23. Qxe6 fxe6 24. c4 Rxd1 25. Rxd1 Rc7 26. Rd4 a5 27. a3 Kf7 28. Rf4+ Kg7 29. Rd4 axb4 30. axb4 e5 31. Rd5 Kf6 32. Ke3 Ke6 33. Ke4 b6 34. Rxe5+ Kf6 35. Rd5 bxc5 36. Rxc5 Rb7 37. b5 1-0
+
