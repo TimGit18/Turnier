@@ -1,0 +1,127 @@
+[Event "Bad Wörishofen (B-Open)"]
+[Site "?"]
+[Date "2023.03.11"]
+[Round "9"]
+[White "Franke, Maximilian"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "1729"]
+[BlackElo "1841"]
+[Annotator "Tim Schmitz"]
+[PlyCount "48"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.03.11"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 {Das ist die anspruchsvollste Erwiderung auf
+das Rossolimo-System, wenngleich nicht so solide wie Lc8-d7.} 4. a4 {Das ist
+eine interessante Nebenvariante, die in die Hauptvariante mit ähnlichen
+Stellungsbildern führen kann.} ({Die eigentliche Hauptvariante beginnt mit} 4.
+d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. O-O {In der Partie folgt d2-d4 mit
+Stellungsöffnung.}) 4... a6 {Ungeachtet dessen befragt Schwarz den Läufer,
+da er die Entwicklung der schwarzen Figuren stört.} 5. Be2 {Weiß spielt
+einen sehr zurückhaltenden Aufbau. Im Grunde ist die Aufstellung von Weiß
+sehr harmonisch, aber er setzt Schwarz nicht besonders unter Druck. Schwarz
+muss sich um die Entwicklung der Leichtfiguren kümmern und erst danach die
+Stellung öffnen.} Ngf6 {Ein logischer Entwicklungszug, der den schwachen
+Punkt im weißen Lager (den Bauern e4) angreift.} 6. Nc3 {Ebenso ein
+Entwicklungszug, der den Bauern e4 verteidigt. Weiß hätte auch d2-d3 spielen
+können, um den Bauern zu verteidigen. Aber der Textzug läßt ihm noch die
+Möglichkeit von d2-d4 offen, wie es in der Partie geschieht.} g6 {
+Wahrscheinlich ist die Entwicklung mit dem Fianchetto die stellungsgemäßere.
+Abgesehen davon scheint der Läufer auf g7 aktiver, und ich bin ja das
+Königsfianchetto gewöhnt.} ({Die Alternative} 6... e6 {führt nach} 7. d4
+cxd4 8. Nxd4 Be7 {zu einer Art Scheveningen-System. Ich finde diesen Set-Up
+nicht besonders attraktiv für Schwarz. Es gibt hier auch Gegenspiel, aber
+dieses muss sehr geduldig erarbeitet werden.}) 7. a5 $6 {[%csl Ya5][%cal Ga5b6]
+Der Zug ist die logische Fortsetzung der weißen Entscheidung. Weiß will den
+Bauerndurchbruch b7-b5 verhindern. Eine andere Idee ist die Kontrolle von b6
+mittels Sc3-a4-b6. Er gefällt nicht besonders, macht einen etwas langsamen
+Eindruck und wirkt keinen Druck auf Schwarz. Außerdem tut er nichts für die
+Entwicklung und für die Zentrumskontrolle.} ({Ich hätte eher erwartet, dass
+Weiß seine langsame, zurückhaltende Entwicklung fortsetzt wie etwa nach} 7.
+d3 Bg7 8. O-O O-O 9. h3 b6 10. Be3 Bb7 {Die Stellung ist sehr geschlossen und
+es wird eine Reihe langsamer und sehr langer Manöver beginnen. Weiß beginnt
+mit Dd1-d2 und wird am Königsflügel angreifen. Schwarz wird mit Lb7-c6
+starten und ein aktives Spiel auf dem Damenflügel beginnen.}) 7... Bg7 {
+[%csl Yd4][%cal Gg7d4] Schwarz beendet die Entwicklung des Königsflügels und
+bereitet die lange Rochade vor. Außerdem wird die Kontrolle über den Punkt
+d4 verstärkt.} 8. O-O O-O {Soweit haben beide Seiten ihre Entwicklung
+fortgesetzt. Jetzt steht die Frage der Zentrumsentscheidung an.} 9. d4 {
+Mit dieser Entscheidung transponiert Weiß in eine Offene Sizilianische
+Verteidigung, eine Art Drachen, in der die Züge a7-a6 und a2-a4-a5 eher
+ungewöhnlich sind. Außerdem hat sich Schwarz bereits auf den Zug Sb8-d7
+festgelegt, der eigentlich zu zaghaft in diesem System ist.} cxd4 10. Qxd4 $5 {
+Eine sehr interessante Zentralisierung der weißen Dame. Sie ist hier möglich,
+da Schwarz den Tempozug Sb8-c6 nicht mehr zur Verfügung hat. Im übrigen hat
+Schwarz (momentan) noch keinen Abzug des Königsspringers, um die weiße Dame
+anzugreifen. Schwarz hat aber in Verbindung mit der weißen Damenstellung eine
+andere interessante taktische Option.} Qc7 {[%csl Yc2,Ye5][%cal Gc7e5,Rc7c2]
+Hier steht die Dame optimal. Sie übt Druck auf der c-Linie aus, insbesondere
+gegen den weißen Bauern c2 und kontrolliert ein weiteres Mal e5.} 11. Nd2 {
+Die Idee von Weiß, wie sich später zeigt, ist die Aktivierung des f-Bauern
+und Raumgewinn im Zentrum. Der Springer ist aber nun passiv (er verteidigt ein
+weiteres Mal den Bauern e4) und versperrt dem Läufer c1 die Entwicklung.} (11.
+Nd5 $6 Nxd5 12. Qxd5 Nf6 13. Qd3 Be6 {bringt für Weiß nichts ein, denn
+Schwarz hat seine Entwicklung gut beendet und hat gutes Gegenspiel auf der
+c-Linie und möglicherweise auf der d-Linie.}) 11... Nc5 $5 {Jetzt offenbart
+sich die versteckte Drohung gegen die weiße Dame und den Bauern e4. Nach
+Sf6xe4 muss Weiß die Dame wegziehen und verliert den Bauern.} 12. Qe3 {
+Weiß zieht die Dame aus der Gefahrenzone zurück. An dieser Stelle gefiel mir
+die Stellung schon ganz gut, denn ich habe alle meine Figuren harmonisch
+postiert und gut koordiniert. Der nächste Zug beendet die Eröffnung, sichert
+das Zentrum und verband ich mit einem Remisangebot.} Be6 {Die Kontrolle über
+d5 wird verstärkt und die Türme miteinander verbunden. Außerdem steht in
+der Drachen-Verteidigung der Damenläufer auf e6 traditionell immer gut.} 13.
+f4 $5 {Weiß lehnt das Remisangebot ab und spielt auf Sieg. Dafür muss er
+allerdings auch Risiken eingehen, um die Stellung aus dem Gleichgewicht zu
+bringen.} d5 $5 {Mir gefiel der Zug, der Engine nicht. Normalerweise wird ein
+Flügelangriff immer am besten mit einem Zentrumsstoß gekontert. In der Regel
+kann Schwarz in der Sizilianischen Verteidigung mit dem Gegenstoß auf d5
+stets ausgleichen oder sogar bessser stehen.} 14. e5 $1 {Das ist die einzige
+Möglichkeit für Weiß um Vorteil zu kämpfen.} ({Nach} 14. exd5 Nxd5 15. Nxd5
+Bxd5 {hat Schwarz eine fantastische Stellung im Zentrum. Die weißen Figuren
+sind viel schlechter als ihre schwarzen Gegenparts. Die leichte schwarze
+Schwäche auf e7 fällt hier nicht besonders in das Gewicht.}) 14... Nfe4 $1 {
+Der Springer gehört in das Zentrum. Zeitweise wird damit der Bauer d5
+geopfert.} 15. Nf3 {Weiß verfolgt eine andere Idee. Der Springer, auf d2 mehr
+oder weniger deplatziert, soll wieder in dem Zentrum postiert werden.} ({
+Allerdings kann Weiß den gewonnenen Bauern nicht halten. Nach} 15. Ndxe4 Nxe4
+16. Nxe4 dxe4 17. Qxe4 Bf5 {[%csl Yc2,Yc7,Yf5][%cal Gc7c2,Gf5c2] fällt der
+weiße c-Bauer.}) 15... Rac8 {Der Turm wird auf die halboffene c-Linie
+gebracht. Es fehlt bloß noch der andere Turm auf d8, dann ist Schwarz optimal
+postiert.} 16. Nd4 $5 {Weiß verkompliziert die Stellung. Es droht im
+ungünstigen Fall immer wieder einmal f4-f5, wonach sich die f-Linie für den
+weißen Turm öffnete und die Diagonale für den Damenläufer.} Qd7 {Die erste
+Aufgabe dieses Zugs ist es, den schwarzen Damenläufer zu sichern und eine
+Verdopplung des e-Bauern zu vermeiden. Die zweite Aufgabe ist es, den
+Durchbruch f4-f5 zu erschweren. Der Nachteil dieses Zugs ist es, dass das
+schwarze Läuferpaar aufgegeben wird. Die Stellung ist noch sehr geschlossen,
+weshalb diese Entscheidung hier gerechtfertigt ist.} 17. Nxe6 {Weiß sichert
+sich das Läuferpaar.} ({Interessanter ist noch} 17. f5 $5 gxf5 18. Nxe6 Qxe6 {
+Schwarz hat seine Bauernstellung kompromittiert. Aber Weiß kämpft gegen
+jetzt ein starkes schwarzes Bauernzentrum, während sein e-Bauer sehr schwach
+ist und verlorengeht.}) 17... Qxe6 18. Bf3 {Weiß verbessert die Stellung
+seines Königsläufers und versucht die Stellung des Springers e4 zu
+unterminieren. Man kann versuchen, den Springer auf dem starken Feld e4 zu
+halten, es erschien mir allerdings auch relativ kompliziert.} ({Eine andere
+interessante Option wäre noch} 18. h3 {mit der Drohung Le2-g4. Nach} Qc6 19.
+Bg4 e6 {ist die schwarze Stellung bruchfest. Daher ist wahrschinlich der
+Bauerndurchbruch f4-f5 hier besser.}) 18... Nxc3 19. Qxc3 Ne4 {Der nächste
+Springer taucht auf e4 auf. Wegen des Abzugs auf die weiße Dame kann der
+Läufer nicht auf e4 schlagen.} 20. Qb3 {[%csl Yb7,Yc2,Yd5][%cal Gb3c2,Rb3d5,
+Rb3b7] Hier steht die weiße Dame aktiv. Sie greift d5 und b7 an und
+verteidigt c2. Schwarz hat die Stellung etwas vereinfacht. Er muss nur seine
+schlechten Figuren aktivieren und Ziele im gegnerischen Lager ausmachen. Der
+nächste Zug bereitet dies vor.} Qc6 {[%csl Yc2,Ye4][%cal Rc6c2,Gc8c6,Gc6d5,
+Gd5e4] Schwarz verstärkt den Druck gegen b2 und verteidigt zentrale Punkte im
+schwarzen Lager. Außerdem stellt der Zug eine kleine, nicht besonders subtile
+Falle.} 21. c3 $4 {Dieser scheinbare natürliche Verteidigungszug verliert.
+Weiß verliert die Kontrolle über die dritte Reihe. Die Kombination von
+Springer e4 und Dame auf der Diagonalen g1-a7 ist lethal.} ({Die Stellung ist
+schon schwierig. Weiß kann hier versuchen einen Bauern zu gewinnen.} 21. Qxb7
+Qxc2 22. Qxe7 Rfe8 23. Qa3 Bf8 {Schwarz hat eine Menge Kompensation für den
+Bauern.} 24. b4 Rc3 25. Qa2 Qd3) 21... Qc5+ {Hier resignierte Weiß. Er
+verliert eine Qualität ohne Kompensation in schlechterer Stellung.} 22. Kh1
+Nf2+ 23. Rxf2 Qxf2 24. Qd1 Rfd8 0-1
+

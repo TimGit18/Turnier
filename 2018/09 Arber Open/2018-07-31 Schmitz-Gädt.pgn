@@ -1,0 +1,19 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2018.07.31"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Gädt, Mario"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1821"]
+[BlackElo "1506"]
+[PlyCount "55"]
+[SourceDate "2018.08.01"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 a6 7. Bd3 g6 8. Bg5
+Be7 9. O-O O-O 10. Qe2 Nbd7 11. Rfd1 b6 12. e5 Ne8 13. Bf4 Bb7 14. Ne4 Bxe4 15.
+Bxe4 d5 16. Bd3 b5 17. a4 bxa4 18. Bh6 Ng7 19. Bxa6 Nb8 20. Bb5 a3 21. bxa3
+Rxa3 22. Rxa3 Bxa3 23. Ra1 Be7 24. Ra7 Kh8 25. g4 Rg8 26. Qd2 Ne8 27. Ng5 Nc7
+28. Nxf7# 1-0
+

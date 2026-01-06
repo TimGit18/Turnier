@@ -1,0 +1,34 @@
+[Event "SCS Vereinsmeisterschaft 2004/2005"]
+[Site "?"]
+[Date "2005.01.21"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Rybak, Leonid"]
+[Result "1-0"]
+[ECO "B15"]
+[Annotator "Tim Schmitz"]
+[PlyCount "60"]
+[EventDate "2005.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 Nf6 4. e5 Ng8 {Damit hat Schwarz unter Tempoverlust
+eine französische Stellung erreicht.} 5. Bd3 e6 6. Nf3 c5 7. Bg5 {Die weiße
+Strategie beruht auf dem Entwicklungsvorsprung und dem thematischen Vorstoß
+Sc3-d5.} Qa5 8. dxc5 Bxc5 {Es ist notwendig die Stellung zu öffnen, sonst
+spielt Schwarz c5-c4 und blockiert das Zentrum.} 9. O-O a6 10. Qe2 {Ungenau,
+denn die Dame gehört nach d2, und e2 muß für den Springer frei bleiben.} Nc6
+11. a3 {Droht b2-b4 und verhindert den Sc6-b4.} Qc7 {Damit beginnt das Spiel
+gegen den schwachen Bauern e5. Eigentlich will Weiß den schwarzen Lc5
+abtauschen, aber Le3 verliert aufgrund der Gabel d5-d4. Alle andere Varianten
+kosten den Bauern e5.} 12. Rad1 Nge7 13. Bxe7 {Sonst geschieht Se7-g6 mit
+Eroberung des Bauern e5.} Qxe7 14. Qd2 {Das ist das richtige Feld für die
+Dame.} O-O 15. Ne2 {Bereitet Sf4 und c4 vor.} f6 16. exf6 gxf6 $2 {Kein guter
+Zug, denn er verstellt die halboffene Linie und schwächt die Königsstellung.}
+17. Nf4 {verhindert e6-e5. Schwarz hat ein starkes Bauernzentrum, gegen das
+Weiß seine Figuren massiert.} Qf7 18. Rfe1 Kh8 $2 {Das ist allerdings ein
+Fehler, der mindestens einen Bauern verliert.} 19. Qc3 Bd6 20. Ng5 {Von
+Schwarz übersehen} Qg8 21. Ngxe6 {Besser war Sf4xe6} Be5 22. Rxe5 fxe5 23.
+Nxf8 $2 {Viel besser ist Ld3xh7} d4 24. Qc5 Bg4 {Jetzt hängen beide weißen
+Springer. Trotzdem übersieht Weiß in Zeitnot wieder den Zug Ld3xh7.} 25.
+N8g6+ hxg6 26. Nxg6+ Kg7 27. f3 Bh5 28. Nxe5 Qf8 29. Nd7 Qxc5 30. Nxc5 Ra7 {
+Schwarz verliert nach Zeit, aber er hat ohnehin drei Bauern weniger.} 1-0
+

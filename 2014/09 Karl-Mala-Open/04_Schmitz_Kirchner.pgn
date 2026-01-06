@@ -1,0 +1,21 @@
+[Event "Karl-Mala-Open"]
+[Site "?"]
+[Date "2014.08.02"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Kirchner, Markus"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "1735"]
+[BlackElo "1519"]
+[PlyCount "71"]
+[SourceDate "2014.08.27"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Be7 7. Be3 O-O 8. Qd2
+Nc6 9. dxc5 Bxc5 10. O-O-O Qb6 11. Bxc5 Nxc5 12. Bd3 Nxd3+ 13. Qxd3 h6 14. h4
+Qf2 $5 15. Rdf1 Qb6 $2 (15... Qg3 $1 16. Ne2 Qg6 17. Qxg6 fxg6 18. Ned4 $14)
+16. Ng5 hxg5 17. hxg5 Re8 18. Qh7+ $6 (18. f5 $1 Nxe5 19. Qh3) 18... Kf8 19.
+Qh8+ Ke7 20. Qxg7 Nd8 21. g6 Qe3+ 22. Kb1 Qg3 23. Qf6+ Kd7 24. gxf7 Rf8 25. Rh7
+Qxg2 26. Rd1 Qg4 27. Rxd5+ Kc6 28. Rd6+ Kc5 29. Ne4+ Kc4 30. b3+ Kb4 31. Rd4+
+Kb5 32. Rxd8 Rxd8 33. Qxd8 Bd7 34. Qxd7+ Kb6 35. Qd6+ Kb5 36. a4+ 1-0
+

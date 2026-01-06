@@ -1,0 +1,73 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2020.02.28"]
+[Round "7"]
+[White "Schamberger, Alfons"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2129"]
+[BlackElo "1802"]
+[Annotator "Tim Schmitz"]
+[PlyCount "59"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.03.01"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Be2 $5 {Das ist ein ungewöhnlicher
+Zug, der von Short gegen Karjakin gespielt wurde.} Nc6 6. d3 {Bevor Weiß
+irgendwelche Aktionen unternimmt stabilisiert er zunächst einmal sein Zentrum.
+} ({Short spielte direkt in der Klassischen Fortsetzung} 6. O-O e6 7. Qe1 Nge7
+8. Kh1 Nd4 9. Nxd4 cxd4 10. Nd1 O-O 11. d3 f5 $1 {Mit diesem starken Zug
+beansprucht Karjakin einen Teil des Zentrums und gleicht aus.} 12. Bd2 Nc6 13.
+Nf2 e5 {Dieser Zug erobert Raum. Schwarz nimmt die Spannung aus der Stellung.}
+14. exf5 gxf5 15. Bf3 {mit späteren Remis in Short,N (2652)-Karjakin,S (2760)
+Douglas 2018}) 6... e6 $6 {Schwarz beabsichtigt - wie in der Partie von
+Karjakin, aber unbekannterweise - mit den beiden Springern und dem Läufer auf
+den schwarzen Feldern spielen. Die Idee kann ja dann eigentlich auch nicht so
+schlecht sein.} ({Konventioneller ist die Fortsetzung} 6... Nf6 {Allerdings
+scheint der Springer hier keine guten Felder zu haben, und der Springer
+verdeckt auch die Linie des fianchettierten Läufers.}) 7. O-O {Weiß beendet
+zunächst einmal seine Enwicklung und wartet mit konkreten Schritten auf dem
+Königsflügel.} Nge7 {Das ist das logische Follow-Up.} 8. Be3 Nd4 9. Qd2 Nec6
+10. Nd1 {Weiß spielt geschickt um den Springer auf d4 "herum". Er tauscht ihn
+nicht aktiv ab, verhindert aber auch einen größeren Schaden und droht
+damit´, ihn von d4 mit c2-c3 zu vertreiben.} b5 {Das sieht zunächst einmal
+nicht schlecht aus, aber vielleicht war die kurze Rochade vorzuziehen.} 11. c3
+Nxe2+ 12. Qxe2 O-O 13. Nf2 b4 $2 {Das ist schon viel zu optimistisch und ein
+Fehler.} ({Besser ist es, die Entwicklung der Leichtfiguren fortszusetzen und
+das Zentrum zu kontrollieren wie z.B. mit} 13... Bb7 14. d4 e5 $5) {Weiß
+verfügt jetzt über einen raumgreifenden Vorstoß, der das Feld e4
+freiräumnt und den schwachen Bauern auf c5 unter Druck setzt.} 14. e5 $1 bxc3
+{Das ist wahrscheinlich noch die beste Option.} 15. bxc3 c4 $2 {Schwarz opfert
+die Schwäche auf c4, um sie los zu werden und sowohl Linien als auch
+Diagonalen am Damenflügel zu öffnen.} ({(a) Eine Alternative war vielleicht} 
+15... Ba6 {, obwohl es nach} 16. Ne4 dxe5 17. Nxc5 {[%csl Ya6,Yd3][%cal Gc5d3,
+Rc5a6] auch schlecht aussieht, denn der Bauer auf d3 ist mittlerweile gedeckt
+und der Läufer auf a6 direkt angegriffen.}) ({(b) Ganz schlecht ist es, das
+angenommene Bauernpfand zu nehmen.} 15... dxe5 16. Bxc5 Re8 17. fxe5 {Weiß
+hat einen Mehrbauern und die offene f-Linie. Es sollte zum Gewinn ausreichen.})
+16. d4 dxe5 $6 {Dieses Schlagen führt zu einer positionell sehr schlechen
+Stellung für Schwarz (beide Läufer sind eingekesselt, der Bauer auf c4 ist
+schwach und isoliert). Die Alternativen schienen nicht einladender.} ({Das
+sofortige} 16... d5 {würde zwar Materialverlust vermeiden, aber auf lange
+Sicht scheint diese Stellung hoffnungslos. Beide Läufer sind wirkungslos. Das
+mögliche Gegenspiel auf der b-Linie kann leicht unterbunden werden. Hingegen
+kann der weiße Angriff auf dem Königsflügel sich sehr leicht entfalten, da
+die Springer in dieser Stellung den Läufern überlegen sind.}) 17. fxe5 Qd5 $2
+{Das ist ein weiterer pseudoaktiver Zug, der nur den Zweck hat, dass die Dame
+hier auch zum Gejagten wird.} 18. Ng4 {[%csl Yf6][%cal Rg4f6] Der Springer
+macht sich die ungünstige Stellung von Dame und König zunutze und droht mit
+einer Fast-Gabel auf f6.} f5 {Das ist eine herbe Konzession. Schwarz darf das
+Springerschach auf f6 nicht zulassen, denn nach Schlagen mit dem Läufer
+werden die schwarzen Felder um den König herum sehr schwach.} 19. exf6 Bxf6
+20. Bh6 {Weiß hätte auch direkt den Läufer nehmen können, aber er zieht es
+vor, den Druck auf den schwarzen König zu steigern.} Bg7 21. Qe3 Qh5 ({
+Es drohte bereits} 21... Bd7 22. Bxg7 Kxg7 23. Qh6+ Kg8 24. Ng5 Rxf1+ 25. Rxf1
+{und das Matt auf h7 ist nicht vermeidbar.}) 22. h3 {Eine kluge, ruhige
+Fortsetzung. Weiß deckt ganz souverän den Springer und schafft nebenbei auch
+noch ein Luftloch für den eigenen König.} Bxh6 {Die Figuren müssen ja weg.}
+23. Nxh6+ Kg7 24. Ng4 Bd7 25. Ng5 {Weiß entscheidet das Spiel mit einer
+kleinen Taktik.} Rae8 26. Rxf8 Rxf8 27. Nxe6+ Bxe6 28. Qxe6 Nd8 {Was sonst?
+Der Bauer auf c4 ist ohnehin verloren und die schwarze Dame paralysiert.} 29.
+Qe7+ Nf7 30. Rf1 {Diese tödliche Fesselung entscheidet.} 1-0
+

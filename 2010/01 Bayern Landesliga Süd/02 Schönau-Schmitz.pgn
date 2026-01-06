@@ -1,0 +1,38 @@
+[Event "Bayern Landesliga Süd"]
+[Site "?"]
+[Date "2010.02.07"]
+[Round "?"]
+[White "Schönau, Helmut"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "D46"]
+[WhiteElo "1945"]
+[BlackElo "1877"]
+[Annotator "Tim Schmitz"]
+[PlyCount "65"]
+[EventDate "2010.01.24"]
+[WhiteTeam "SK Kriegshaber Augsburg 1"]
+[BlackTeam "SC Sendling 1"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Nbd7 5. e3 c6 6. Bd3 Bd6 {Die
+Grundstellung im Bisguier-Halbslawen} 7. O-O O-O 8. e4 dxe4 (8... dxc4 {
+ist vielleicht an der Stelle die bessere Alternative, denn Schwarz macht
+Fortschritte bei der Befreiung seines Damenflügels} 9. Bxc4 e5 10. Bg5 Qe7) 9.
+Nxe4 Nxe4 10. Bxe4 h6 {Bereitet e6-e5 vor} 11. Bc2 e5 12. Be3 {Diesen Zug
+hatte ich nicht erwartet, sondern nur mit Dd3 gerechnet} Qe7 (12... Re8 13.
+dxe5 Nxe5 14. Nxe5 Bxe5 15. Qxd8 Rxd8 16. Rad1 Be6 17. b3 {ist gebräuchlicher
+und führt zu einem remislichen Endspiel}) 13. Qb1 {Der Sinn des Zuges ist
+nicht ganz klar} Re8 14. Qc1 $2 {Weiß spielt planlos, da wollte ich nicht
+nachstehen} Qf6 $2 {schützt vor dem nicht-drohenden Einschlag auf h6} (14... e4
+$1 15. Nd2 Nf6 16. Re1 Bf5 {und die schwarzen Figuren sind gut entwickelt}) 15.
+Re1 {Jetzt bin ich ratlos, denn das Schlagen auf d4 geht ja nicht mehr} Kf8 $6
+({(a)} 15... exd4 16. Bxd4 Rxe1+ 17. Qxe1 Qd8 18. Qc3 Bf8 19. Qd3 {und Weiß
+hat einen guten Angriff}) ({(b)} 15... b6 16. Be4 Bb7 17. c5 Bc7 {und Weiß
+steht viel aktiver}) 16. b3 e4 {Auf Kosten eines Bauern generiere ich Aktivität
+} 17. Nd2 Qh4 $6 (17... Qg6 18. Nxe4 Rxe4 19. f3 {ist auch nicht besser}) 18.
+g3 Qg4 19. Qd1 $2 {Zeitnot} (19. Bxe4 $1 Rxe4 20. f3 {mit Gewinn für Weiß})
+19... Qxd1 20. Raxd1 Nf6 21. Nb1 {Die weiße Stellung wirkt langsam skurril} Bg4
+22. Rc1 Rad8 23. Bd1 Bb4 24. Rf1 $4 Bh3 25. a3 Bxf1 26. Kxf1 Bd6 {Hauptsache
+schnell} 27. Nc3 $2 {Der nächste Fehler} Bxa3 28. Rc2 Bb4 29. h3 a6 30. Ke2 b5
+31. c5 Bxc3 32. Rxc3 Nd5 33. Bd2 $2 {Berührt geführt} 0-1
+

@@ -1,0 +1,52 @@
+[Event "OIBM Bad Wiessee 2009"]
+[Site "?"]
+[Date "2009.11.03"]
+[Round "4"]
+[White "Klee, Helmut"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "E01"]
+[WhiteElo "2146"]
+[BlackElo "1860"]
+[Annotator "Tim Schmitz"]
+[PlyCount "154"]
+[EventDate "2009.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 {Katalanisch, na ja} c6 5. Bg2 Nbd7 6. O-O
+Bd6 7. Nc3 O-O 8. b3 {Langsam kommt die Partie auf ausgefallene Pfade} dxc4 9.
+bxc4 e5 10. d5 {Damit hat Weiß einige Erfolge (64%) erzielt} cxd5 11. cxd5 {
+Weiß steht komfortabler, vor allem seiner beiden Läufer wegen} Nb6 12. Qb3 {
+Deckt d5 und drückt auf der b-Linie} Qe7 {Ein nützlicher Abwartezug} 13. e4 {
+Später von Klee kritisiert. Aber es droht Le3} Bg4 {Um Sfd7 folgen zu lassen}
+14. Bb2 Nfd7 {Trotzdem} 15. Rac1 Nc5 {Rollback} 16. Qb5 Bd7 17. Qe2 a6 18. Rfd1
+{Jetzt hat Schwarz weniger Probleme} Rac8 {Soll Sb-a4 vorbereiten} (18... Nba4
+19. Nxa4 Bxa4 20. Rxc5 Bxc5 21. Bxe5 {sieht zweischneidig aus}) 19. Ba1 Nba4
+20. Nb1 Bb5 {Sieht nach aktivem schwarzen Spiel aus, mittlerweile aber wieder
+Zeitnot} 21. Qe3 Nd7 (21... Nd3 22. Rxc8 Rxc8 23. Rxd3 Bxd3 24. Qxd3 Rc1+ 25.
+Bf1 Nc5 {hat mal wieder keiner von uns gesehen. Schwarz kriegt die Figur mit
+Zinsen zurück}) 22. Bh3 $1 {Ein guter Zug} Rfe8 {Um e5 zu überdecken} 23. Nh4 {
+[%csl Yf5] Jetzt droht Sf5} Bc5 24. Qf3 Qg5 {[%csl Yc1][%cal Rg5c1,Rc5f2]
+Etwas im Trüben fischen} 25. Nd2 Bb4 26. Nb3 Nab6 27. Nf5 Ba3 $2 {Erst dieser
+Zug läßt Weiß viel besser stehen} (27... g6 28. Ne3 Qe7 {war angesagt}) 28.
+Rxc8 Rxc8 29. Na5 {Oops} Rc1 30. Ne3 {Die korrekte Reaktion, andere Züge sind
+für Weiß schlechter} Rxd1+ 31. Qxd1 Bc5 {[%csl Ye3][%cal Rc5e3,Rg5e3] Der
+Bauer b7 ist sowieso nicht zu retten.} 32. Qf3 Qh6 33. Kg2 Bd4 $1 {Wenn nichts
+mehr hilft, kreativ spielen} 34. Nb3 Bxa1 35. Nxa1 Qd6 36. Nf5 Qb4 {Das führt
+auf Abwege} 37. Nc2 Qd2 $2 (37... Qb1 38. Nce3 Nc4) 38. Qg4 {Plötzlich hat
+Weiß große Drohungen} g6 39. Nce3 Nf6 $6 {Besser zurück mit Db4} 40. Qh4 ({
+Natürlich nicht} 40. Qg5 Qxf2+) 40... Nbd7 41. Nd6 Qb4 42. Nxb5 Qxb5 {Jetzt
+hat Weiß gutes Spiel} 43. Bxd7 Nxd7 44. Qe7 $1 Qa4 45. Kh3 Kg7 {Schwarz hat
+kaum Optionen} 46. d6 (46. Ng4 {gewänne} Qb5 47. Kh4 h6 48. Nxe5 g5+ 49. Kg4
+Nxe5+ 50. Qxe5+ {und Weiß hat alles im Griff}) 46... Qb5 47. Qg5 $6 {ist
+inkonsequent} f6 48. Qg4 Nf8 49. Qc8 Qd7+ 50. Qxd7+ Nxd7 {Das wollte ich
+erreichen. Nach menschlichem Ermessen hat Schwarz hier gute Remischancen} 51.
+Kg4 $2 {Jetzt fällt der Bauer d6, die Enttäuschung über den verpatzten Gewinn
+bei Weiß war zu groß} Kf7 52. f4 exf4 53. gxf4 Ke6 54. f5+ Kxd6 55. h4 Ke5 56.
+fxg6 hxg6 57. Nd5 $2 {Das schmeißt allerdings alles weg} Kxe4 58. Ne7 Ne5+ 59.
+Kg3 b5 60. Nc8 Kd4 61. Nd6 b4 62. Ne8 Nd7 63. Nc7 a5 64. Ne6+ Kc3 {Etwas
+ungenau, denn ich verliere den Bauern f6. Aber dafür kriege ich den Bauern a2}
+65. Nf4 Ne5 66. Nd5+ Kb2 67. Nxf6 Kxa2 68. Kf4 b3 69. Ne4 b2 70. Kxe5 {Die
+Gabel auf c3 habe ich irgendwie übersehen, aber es gibt ja noch einen Bauern}
+a4 71. Kf6 {Die Tempi reichen} b1=Q 72. Nc3+ Kb2 73. Nxb1 Kxb1 74. Kxg6 a3 75.
+h5 a2 76. Kh7 {Der Pattrick funktioniert hier leider nciht} a1=Q 77. h6 Qf6 0-1
+

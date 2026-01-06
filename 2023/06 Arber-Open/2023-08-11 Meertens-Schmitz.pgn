@@ -1,0 +1,51 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2023.08.11"]
+[Round "7"]
+[White "Meertens, Martin"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E84"]
+[WhiteElo "2079"]
+[BlackElo "1888"]
+[Annotator "Tim Schmitz"]
+[PlyCount "95"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.08.11"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 d6 5. Nc3 O-O 6. Be3 Nc6 7. Qd2 a6 8. Nge2
+Rb8 9. Rc1 {Das ist die Modevariante im Sämisch-System.} Bd7 10. Nd1 {Und das
+ist der Hauptzug der Modevariante im Sämisch-System. Der Springer soll nach
+f2 gebracht werden.} e5 {Dieser thematische Zug im Königsinder ist nicht
+unbedingt ein Fehler, aber vielleicht nicht erste Wahl. Das Problem ist, dass
+Weiß eine ganz einfache Antwort hat und sich nicht einmal schwer tut.} ({
+David Vigorito empfiehlt an dieser Stelle auch bereits} 10... b5 11. c5 e6) 11.
+d5 {Das ist die logische Wahl von Weiß. Er schließt das Zentrum ab und
+erobert Raum auf dem Damenflügel.} Nd4 $2 {Das ist ganz bewusst ein
+Bauernopfer, das von Schwarz beabsichtigt wurde. Vermutlich ist das Opfer
+nicht ganz korrekt, allerdings besser als ein ähnliches Opfer in der Partie
+gegen Vihan knapp drei Monate später. Weiß erhält einen gesunden Mehrbauern,
+Schwarz etwas Gegenspiel.} ({Gesünder, aber auch beengter ist} 11... Ne7 {
+Die Stellung ähnelt nun etwas mehr den Klassischen Stellungen der
+Königsindischen Verteidigung. Es kann folgen} 12. Nf2 Ne8 13. g3 f5 14. Bg2
+Nf6 15. O-O {Die weiße Stellung ist sehr fest, aber die schwarze Stellung hat
+auch noch keine Schwächen. Auf dem Damenflügel ist nichts zu gewinnen für
+Schwarz. Das Spiel verlagert sich auf den Königsflügel.}) 12. Nxd4 exd4 13.
+Bxd4 {Was hat Schwarz für den geopferten Bauern? Im Grunde nicht viel. Weiß
+hat immer noch ein sehr imponierendes Zentrum, wenngleich er in der
+Entwicklung noch hinterherhinkt. Schwarz hat sicher noch einige Hebel, um
+gegen das weiße Zentrum zu arbeiten (f7-f5, c7-c6, b7-b5). Außerdem haben
+die beiden Läufer gute Aussichten. Mehr aber auch nicht.} c5 $5 {Immerhin.
+Würde Weiß jetzt en passant schlagen, dann würde sich für Schwarz
+zumindest die b-Linie öffnen. Wenn Schwarz dann noch einen Turm nach e8
+bringen kann, so könnte man dann d6-d5 spielen.} 14. Be3 b5 {Der nächste
+Hebel wird angesetzt. Im Grunde waren die schwarzen Züge nicht schwer zu
+sehen. Es bleibt ja auch nichts anderes übrig.} 15. Bd3 bxc4 16. Bxc4 Bb5 17.
+O-O Re8 18. Nf2 Nd7 19. Bxb5 Rxb5 20. b3 a5 21. Bf4 Ne5 22. Rfe1 $2 Rb4 $6 (
+22... a4 $1) 23. Bxe5 Bxe5 24. Rc4 Bd4 25. Kh1 Qf6 26. Ng4 Qg7 27. Rec1 h5 28.
+Nf2 Rxc4 29. bxc4 (29. Rxc4 $4 Bxf2 30. Qxf2 Qa1+ 31. Qg1 Qxa2) 29... Rb8 30.
+Nd3 a4 31. Qc2 a3 32. Rb1 $2 Bb2 $4 (32... Rxb1+ 33. Qxb1 Bb2 $1) 33. e5 $1
+dxe5 34. Nxb2 axb2 35. Rxb2 Rxb2 36. Qxb2 Qh6 37. Qc3 Kf8 38. a4 Qf4 39. h3 e4
+40. fxe4 Qf1+ 41. Kh2 Qf4+ 42. Qg3 Qxe4 43. Qd6+ Kg7 44. Qxc5 Qf4+ 45. Kh1 Qf1+
+46. Qg1 Qxc4 47. Qd1 Kf6 48. d6 1-0
+

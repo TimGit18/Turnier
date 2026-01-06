@@ -1,0 +1,44 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "Munich"]
+[Date "2008.10.24"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Ahrens, Klaus"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1807"]
+[BlackElo "1526"]
+[Annotator "Tim Schmitz"]
+[PlyCount "65"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 a6 $6 {An irregular move, probably to enforce
+b5} 5. Bd3 {This ought to be the right square for the light-squared bishop}
+cxd4 6. cxd4 Nc6 7. Nf3 Bb4+ {I don't understand the idea of this move for the
+black dark-squared bishop has to retained} 8. Bd2 Be7 {Of course Black doesn't
+want to exchange the bishops but he blocks the square for the kingside knight}
+9. Na3 {I don't want to head the knight on c3 because the knight has reduced
+effect} f6 {Black wants White to capture the pawn on f6 to develop his knight.
+White waits for Black to move and develops his pieces.} 10. Nc2 fxe5 11. dxe5
+h6 $2 {A fatal blunder which gives White possibility for an attack on the
+central king.} 12. Bg6+ Kd7 {I cannot judge if the alternative Kf8 is less
+dangerous because of the open file.} 13. Ncd4 {This move centralizes the
+knight and looks for the weak e6-pawn.} Qb6 14. Qa4 {Pins the knight and
+prevents the exchange on d4, but the immediate Bc3 is much more precise.} Bc5
+$1 ({The best move for Black to attack the white center. Black could regain
+after} 14... Qxb2 15. Rb1 Qa3) 15. Bc3 {Now all the white minor pieces are
+developed on the best squares.} Nge7 16. Bf7 {Looking for e6} Kd8 17. O-O Nxd4
+({The move gives the black queen for two minor pieces, but makes it easy for
+White. Black should have played} 17... Rf8 18. Nxe6+ Bxe6 19. Bxe6 {after this
+his position is quite difficult too}) 18. Ba5 Nxf3+ 19. gxf3 Rf8 20. Bxb6+ Bxb6
+{Black has a slight counterattack now without creating serious danger.} 21. Bh5
+g6 22. Bg4 h5 23. Bh3 Rxf3 24. Bg2 Rf8 {I expected Rf5. White can control
+Black's position at all} 25. Qb4 Ba7 ({Not safer is} 25... Bc7 26. Rac1 Bb8 27.
+Rxc8+ {with decisive material win for White}) 26. Rac1 Rf5 {Too late} 27. Qd6+
+Ke8 28. Rc7 Rf7 ({If the knight moves White wins quickly} 28... Ng8 29. Rg7)
+29. Rfc1 $1 {White can afford to sacrifice the f2-pawn.} Bxf2+ 30. Kh1 Bh4 31.
+Bh3 {All white pieces have their most aggressive stances, whereas Black is
+awkward in development.} Nc6 32. R7xc6 ({A quickier way to win is mating in a
+few moves} 32. Rxf7 Kxf7 33. Rf1+ Kg7 34. Qf8+ Kh7 35. Rf7#) 32... bxc6 33.
+Qxc6+ {White wins a rook and has a decisive material advantage} 1-0
+

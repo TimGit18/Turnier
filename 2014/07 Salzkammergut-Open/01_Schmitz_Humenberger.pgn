@@ -1,0 +1,19 @@
+[Event "Salzkammergut-Open (B)"]
+[Site "?"]
+[Date "2014.06.06"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Humenberger, Werner"]
+[Result "1/2-1/2"]
+[ECO "B65"]
+[WhiteElo "1770"]
+[BlackElo "1766"]
+[PlyCount "30"]
+[SourceDate "2014.06.07"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 a6 10. Be2 (10. e5 $5 dxe5 11. Nxc6 bxc6 12. fxe5) 10... Qc7
+11. g4 $6 (11. Bxf6 Bxf6 12. Nxc6 Qxc6 13. Qxd6) 11... Rd8 12. Bf3 Rb8 13. Rhe1
+Nxd4 14. Qxd4 b5 15. Kb1 (15. e5 dxe5 16. Qxe5 Rxd1+ 17. Rxd1 Qb6 18. Ne4 $14)
+15... b4 1/2-1/2
+

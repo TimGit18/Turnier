@@ -1,0 +1,22 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.10.18"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Huber, Dorit"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "1820"]
+[BlackElo "1569"]
+[Annotator "Tim Schmitz"]
+[PlyCount "83"]
+[SourceVersionDate "2022.10.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O O-O 8. Re1
+d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 Re8 13. h3 h6 14. Ng3 Bf8 15. d4
+cxd4 16. cxd4 Qc7 17. Be3 Bd7 18. Rc1 Rac8 19. Bb1 Qd8 20. Qd2 Qa5 $1 21. Qxa5
+Nxa5 22. b3 Nc6 23. d5 Na5 24. Bb6 Nb7 25. b4 $1 Rxc1 26. Rxc1 Rc8 $2 27. Rxc8
+Bxc8 28. Bd3 Be7 29. a4 $1 bxa4 30. Bxa6 Kf8 31. Nd2 a3 32. Bc4 Nd7 33. Be3 Bd8
+34. Nb1 Nb6 35. Bb3 Bd7 36. Nxa3 Na4 37. Bc4 Nb2 38. Ba6 Bc8 39. Kf1 Na4 40.
+Nb5 Ke8 41. Na7 Kd7 42. Bb5+ 1-0
+

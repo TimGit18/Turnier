@@ -1,0 +1,42 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.08.05"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Pavlov, Liliane"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1820"]
+[BlackElo "1771"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[SourceVersionDate "2022.10.08"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 d6 {Meistens geht dieser Zug in andere
+Hauptsysteme durch Zugumstellung über.} 5. Nf3 Nc6 {Dieser Aufbau ist mir
+völlig unbekannt. Normalerweise schlägt Schwarz immer zunächst auf d4,
+bevor er andere Operationen gegen das weiße Zentrum unternimmt. Am besten man
+entwickelt sich ganz normal weiter und achtet auf mögliche Zugumstellungen.}
+6. Bc4 dxe5 7. dxe5 {Mir kommt die Idee immer noch seltsam vor. Der Bauer auf
+c5 tut nicht viel zur Sache und steht eher dem Königsläufer im Weg. Die
+einzige Kompensation ist der Bauer auf c3, der dem eigenen Damenspringer im
+Wege steht, kontrolliert allerdings das Feld d4.} e6 8. Qe2 g6 $6 {Der Zug ist
+schwach, denn erschwächt die schwarzen Felder auf dem Königsflügel.} ({
+Besser ist} 8... Be7 9. O-O a6 10. Bd3 Qc7) 9. O-O Bg7 10. Bg5 $6 {Der Zug
+gewinnt leider kein Tempo, denn die Dame will sowieso woanders hin.} Qc7 11.
+Re1 O-O 12. Nbd2 b6 13. Rad1 Bb7 {Die Entwicklung beider Seiten ist so gut wie
+abgeschlossen. Weiß hat allerdings schon seine Türme in die Mitte gebracht
+und viel mehr Raum.} 14. Nf1 Na5 15. Bd3 ({Die Engine empfiehlt} 15. Bxd5 Bxd5
+16. Ne3) 15... h6 16. Bc1 {Natürlich kontrolliert der Springer auf d5
+wichtige Felder wie f4 und e3, aber die weißen Figuren sind bereit in Aktion
+zu treten.} Rad8 17. h4 Ne7 {Schwarz möchte den geschwächten Punkt g6
+stützen.} 18. h5 Kh7 $2 {Das ist zu leichtsinnig. Weiß hat jetzt großen
+Vorteil auf dem Köngisflügel} 19. N1h2 Kh8 20. Ng4 gxh5 $4 {Schwarz
+kollabiert unter dem Druck.} ({Stärker ist} 20... Nf5 21. hxg6 fxg6) 21. Nxh6
+Ng6 22. Bg5 $6 ({Der Plan war hier eigentlich} 22. Ng5 {und das gewinnt ganz
+einfach} Nxe5 ({Oder} 22... Bxh6 23. Qxh5 Kg7 24. Nxe6+ fxe6 {mit Matt.}) 23.
+Qxh5 {, doch ich übersah das Matt nach} Nxd3 24. Nhxf7+ Kg8 25. Qh7#) 22...
+Rd7 23. Nh4 Nxe5 24. Qxh5 Nxd3 25. Ng4+ Kg8 26. Nf6+ {Weiß setzt Matt. Das
+ist zwar langwieriger und langweiliger als die Variante oben, war aber
+leichter zu berechnen.} Bxf6 27. Bxf6 Nxe1 28. Qh8# 1-0
+

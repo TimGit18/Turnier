@@ -1,0 +1,83 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2022.11.11"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Glaser, Christian"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1848"]
+[BlackElo "2070"]
+[Annotator "Tim Schmitz"]
+[PlyCount "146"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.11.12"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 {Weiß möchte gerne
+das Pavasovic-Gambit gegen Schwarz spielen.} Nc6 7. Bc4 Nb6 8. Bb3 d5 {Schwarz
+vermeidet die Kritische Variante und will die Stellung lieber geschlossen
+halten.} ({Die Hauptvariante beginnt mit} 8... dxe5 9. d5 Na5 10. Nc3 Nxb3 11.
+Qxb3 e6 12. Nxe5 exd5 13. Be3 Bd6) 9. Nh4 $5 {[%csl Yf5,Yg4][%cal Gc8f5,Gf5g4,
+Rh4f5,Rd1g4] Laut Sam Collins der einzige Zug in dieser Stellung, den man sich
+merken muss. Schwarz dachte auch erstmal 35 Minuten darüber nach. Der Zug hat
+als einziges Ziel, die Entwicklung des schwarzen Damenläufers nach f5 oder
+nach g4 zu verhindern.} e6 {Das ist der logische Zug. Der Springer muss wieder
+zurück nach f3. Und das war auch sein Ziel. Jetzt ist ein Vorstoßfranzose
+entstanden, der für Weiß vorteilhaft ist, da der Springer nach c3 entwickelt
+werden kann.} 10. Nf3 Be7 11. Nc3 a6 12. O-O {[%csl Ya5,Yb5,Yc2,Yg5,Yh6,Yh7]
+[%cal Gb3c2,Rc2h7,Rc1g5,Rg5h6,Rf3g5,Gb7b5,Gc6a5,Ra5c4,Rb6c4] Nach einigen
+sinnvollen Zügen ist eine typisch "Französische" Stellung entstanden mit
+einigen Besonderheiten: 1. Der Läufer steht auf b3 falsch, er muss nach c2 2.
+Schwarz möchte nicht kurz rochieren, da die weißen Figuren bedrohlich auf
+den Königsflügel schauen 3. Statt dessen versucht Schwarz ein Gegenspiel auf
+dem Damenflügel einzuleiten, was auch halbwegs gelingt.} Bd7 13. Qe2 Na5 14.
+Bc2 Nbc4 {Hier dachte ich sehr lange nach. Der Springer soll mit b2-b3
+vertrieben werden, aber dann ist Sc4-a3 unangenehm. Insgesamt gefiel mir die
+Stellung des Läufers auf c2 nicht.} 15. Bd3 b5 16. b3 Na3 {Das schwarze
+Gegenspiel auf dem Damenflügel ist nicht richtig vom Fleck gekommen und wird
+jetzt gestoppt.} 17. Nb1 Nxb1 18. Rxb1 Qb6 {Hier steht die Dame auch nicht
+besonders günstig. Ich rechnete mit einer langen Rochade und wollte danach
+auf dem Damenflügel Linien öffnen.} 19. Be3 h6 {Offenbar soll nach der
+langen Rochade der Springerzug nach g5 verhindert werden.} 20. Rfc1 O-O $2 {
+Das ist aber schon eine grobe Ungenauigkeit. Weiß kann jetzt eine klassische
+Batterie aufbauen.} 21. Bc2 Nc6 {Um gegen die Batterie mit Sc6-b4 zu operieren.
+} 22. Qd3 g6 {Erzwungen, aber es verliert einen Bauern.} 23. Bxh6 Nb4 $5 {
+Immerhin bekommt Schwarz für den Bauern Gegenspiel.} 24. Qe2 $6 {Wohl der
+schlechteste Rückzug weil der Springer jetzt auf a2 nehmen kann.} (24. Qe3
+Nxa2 25. Bxf8 Nxc1 26. Rxc1 Bxf8 {Sonst kommt De3-h6+.} 27. Qf4 {Weiß hat
+schönes Druckspiel - ähnlich wie später in der Partie.}) 24... Nxa2 25. Bxf8
+Nxc1 26. Rxc1 Kxf8 27. Qd2 {Ein Tempoverlust.} Ke8 $6 {Im Nachhinein sieht
+dieser Rückzug in das Zentrum nicht besonders überzeugend aus. Wenigstens
+kann der Läufer zurück nach f8 und die schwachen schwarzen Felder decken.}
+28. Qf4 {[%csl Yf7,Yg5][%cal Gf3g5,Rg5f7,Rf4f7] Ziel ist matt.} a5 {Schwarz
+organisiert ein Gegenspiel, ist aber zu langsam.} 29. h4 $5 {Das droht
+vielleicht noch nichts Konkretes, sieht aber unangenehm aus.} (29. Ng5 Bxg5 30.
+Qxg5 Qd8 31. Qh6 Qe7 {hält für Schwarz den Laden noch zusammen.}) 29... Qd8
+30. Qh6 Bf8 31. Qh7 {Immer noch mit der Drohung Sf3-g5 und dem Einschlag auf
+f7.} Rc8 $1 {Ein starker Zug, der den Läufer fesselt. Trotzdem ist Schwarz in
+der Defensive.} 32. Ng5 Qe7 33. Kh2 {Macht den Läufer wieder auf einmal
+beweglich.} f5 $2 {Wahrscheinlich verliert dieser Zug.} ({Besser ist} 33... a4
+{, denn hier geht nicht} 34. Bxg6 Rxc1 {mit Gewinn für Schwarz.}) 34. Qxg6+
+Kd8 35. Nf7+ Kc7 36. Bxf5+ {Weiß hat Mehrbauern und Angriff, Schwarz den
+schlechten König und das Läuferpaar.} Kb8 37. Rxc8+ Bxc8 38. Bh3 $2 {Zu weit
+zurück. Das Schach war nicht gefährlich.} ({Denn nach} 38. Bg4 Qxh4+ 39. Kg1
+{steht Weiß mit den aktiveren Figuren besser.}) 38... Qxh4 39. Qd3 $4 {
+Ein völliger Einsteller. Weiß möchte aktiv spielen (und auf b5 nehmen),
+übersieht aber das Damenschach auf f4.} Qf4+ 40. g3 $4 {Der zweite Fehler
+folgt nun hinterher, ein Zug ohne zu überlegen.} Qxf2+ 41. Kh1 Qxf7 42. Qxb5+
+{Schwarz steht nun auf Gewinn. Weiß kann nun noch etwas im Trüben fischen
+und einige Schwindelchancen erzeugen.} Bb7 43. Qxa5 Qc7 $5 {Ein geschickter
+Übergang in das Endspiel. Allerdings kostet diese Transformation Schwarz auch
+einige Bauern. Vielleicht praktisch die beste Remis-Chance von Weiß.} 44.
+Qxc7+ Kxc7 45. Bxe6 Bh6 {Schwarz erobert den Bauern d4 zurück und wird die
+anderen Freibauern von Weiß halten. Auch wenn er sehr spielen muss.} 46. Kg2
+Be3 47. Kf3 Bxd4 48. Kf4 Kd8 49. g4 (49. b4 {ist besser. Der g-Bauer sollte
+zurückgehalten werden.}) 49... Ke7 50. Kf5 Be3 51. b4 Bd2 52. b5 Be3 53. Bg8
+$4 {Vorher war die Partie vielleicht noch haltbar. Jetzt nicht mehr.} Bc8+ 54.
+e6 Bd4 {[%csl Yh8][%cal Rd4h8] Der schwarze Läufer kontrolliert das halbe
+Brett.} 55. g5 {Der Rest der Partie ist sehr einseitig, wenn auch von Schwarz
+sehr genau und präzise gespielt. Am Ausgang bestand eigentlich nie ein
+Zweifel.} Bc3 56. Bf7 Bb7 57. Bh5 Bc8 58. Bf7 Bh8 59. g6 Bb7 60. Kg5 Bg7 61.
+Kf5 d4 62. Kf4 Kf6 63. e7 Kxe7 64. Bc4 Kf6 65. Bd3 Bh6+ 66. Kg4 Ke5 67. Kh5 Bg7
+68. Kg4 Bc8+ 69. Kg5 Kd5 70. Kf4 Bh6+ 71. Kg3 Bd7 72. Kh4 Kc5 73. Kh5 Bg7 0-1
+

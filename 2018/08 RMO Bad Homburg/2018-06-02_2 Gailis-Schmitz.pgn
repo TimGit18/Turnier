@@ -1,0 +1,28 @@
+[Event "RMO Bad Homburg, B-Turnier"]
+[Site "?"]
+[Date "2018.06.02"]
+[Round "6"]
+[White "Gailis, Gunnar"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "E63"]
+[WhiteElo "1625"]
+[BlackElo "1769"]
+[PlyCount "86"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.06.03"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O a6 {
+Das ist die Ausgangsstellung des Panno-Systems in der Königsindischen
+Verteidigung} 8. Re1 {Der Zug sieht zunächst etwas seltsam aus, denn
+schließlich könnte Weiß e2-e4 auch schon sofort spielen. Aber er möchte
+gerne Ta1-b1 spielen und dafür gegen Lc8-f5 gerüstet sein.} Rb8 9. a4 $6 {
+Dieser Zug sieht schon mehr seltsam aus. Zwar verhindert Weiß damit b7-b5,
+aber er leistet nichts für die Entwicklung und schwächt auch das Feld b4} e5
+10. dxe5 dxe5 11. Qxd8 Rxd8 12. Bg5 Re8 13. Bxf6 Bxf6 14. Nd5 Bd8 15. Nd2 Nd4
+16. Rac1 c6 17. Nc3 Be7 18. e3 Ne6 19. Rcd1 Nc5 20. Bf1 a5 21. Nce4 Bf5 22.
+Nxc5 Bxc5 23. Bg2 Rbd8 24. Ne4 Be7 25. h3 Kg7 26. g4 Be6 27. b3 f5 28. gxf5
+gxf5 29. Nc3 Rxd1 30. Rxd1 Rd8 31. Rxd8 Bxd8 32. Ne2 Bb6 33. Nc1 Kf6 34. Nd3 e4
+35. Nc1 Ke5 36. Ne2 Bf7 37. Kf1 Bh5 38. Ke1 Bc5 39. Nc3 Bb4 40. Kd2 f4 41. Kc2
+f3 42. Bf1 (42. Bh1 Bxc3 43. Kxc3 c5) 42... Bxc3 43. Kxc3 c5 0-1
+

@@ -1,0 +1,106 @@
+[Event "Pyramiden-Cup Fürth"]
+[Site "?"]
+[Date "2014.09.05"]
+[Round "2"]
+[White "Kammer, Christoph"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2064"]
+[BlackElo "1743"]
+[PlyCount "67"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bc4 {Das ist die
+berühmte Verzögerungsvariante, die von Gawain Jones empfohlen wurde. Erstens
+steht der weiße Königsläufer auf seinem plangemäßen Feld, aber der
+schwarze Damenläufer steht nicht so gut} Nc6 7. O-O e6 8. d3 Nge7 {Bis
+hierhin ist noch alles im Lot. Die schwarzen Figuren haben sich harmonisch
+entwickelt, er kann rochieren und auf d4 einsteigen} 9. f5 $6 {Weiß möchte
+etwas in der Stellung unternehmen und opfert einen Bauern. Der Zug ist
+allerdings sehr zweischneidig und es ist überhaupt nicht klar, ob Weiß
+Kompensation erhält} Ne5 $2 {Das ist eine ganz schwache Antwort auf den
+weißen Vorstoß. Schwarz will die Linien und Diagonalen rund um seinen König
+geschlossen halten, aber dies gelingt sowie nicht. Stattdessen kommt Weiß zu
+einem schönen Angriff} ({(a) Die prinzipielle Fortsetzung lautet} 9... exf5
+10. exf5 Bxf5 11. g4 Bxg4 12. Bxf7+ Kd7) ({(b) Am soidesten ist wohl} 9... O-O
+10. fxe6 fxe6 11. Bg5 h6) 10. fxe6 {Weiß wählt eine solide Fortsetzung, denn
+er hat berechnet, dass Schwarz nicht mehr rochieren kann. Da der Vorstoß von
+Weiß durch Schwarz nicht bestraft wurde, aber auch nichts für die Sicherheit
+des eigenen Königs gemacht wurde, steht Weiß mit seinen aktiven Figuren und
+offenen Linien jetzt klar besser} ({Besser ist noch} 10. Bg5 $1 {, was Scheele
+einige Monate später gegen mich spielte mit der direkten Drohung f5-f6}) 10...
+Bxe6 {Die Vorstellung, dass einige Figuren getauscht werden, war natürlich
+interessant} 11. Bxe6 fxe6 12. Nxe5 {[%csl Yf1][%cal Rf1f7] Das ist ein
+Abtausch ganz im Sinne von Weiß, denn er öffnet die e-Linie für Turm und
+Dame. Schwarz kann zwar mit dem Bauern schlagen und die Kontrolle über f8
+behalten, aber dann ist die Stellung eine positionelle Ruine aufgrund des
+isolierten Doppelbauern auf der e-Linie} Bxe5 {Außerlich ist die schwarze
+Stellung im Zentrum noch in Ordnung, aber der schwarze König findet kein
+sicheres Zuhause} 13. Qf3 {[%csl Yf7][%cal Rf3f7] Die Drohung auf f7 ist
+eigentlich unparierbar} Kd7 {Vielleicht noch das kleinste Zugeständnis. Der
+Bauer auf e6 ist gedeckt und die Kontrolle über f8 wiederhergestellt.
+Außerdem ist der König im Zentrum noch "relativ" sicher} 14. Qh3 $1 {[%csl
+Ye6,Yf7,Yh3,Yh7][%cal Rh3e6,Rh3h7,Gf1f7] Das ist ein guter Zug. Weiß
+kontrolliert die Diagonale des Königs und visiert den Bauern h7 an.
+Gleichzeitig droht er mit Zügen wie Tf1-f7} Rf8 {Das sieht etwas nach
+Verzweifelung, denn Schwarz hat keine konstruktiven Pläne. Der Bauer auf h7
+sollte allerdings nicht direkt genommen werden (und muss es auch nicht)} 15.
+Bg5 {[%csl Yd5,Ye7,Yg5][%cal Rg5e7,Rc3d5] Weiß entwickelt seine letzte
+Leichtfigur auf ein aggressives Feld und fesselt den schwarzen Springer an
+seine Dame. Jetzt droht bereits Sc3-d5 die Doppelfesselung von Springer und
+e-Bauern auszunutzen} ({Ein schwerer Fehler wäre} 15. Qxh7 {wegen der
+Remisschaukel} Rh8 16. Qf7 Bxh2+ 17. Kh1 Bg3+ 18. Kg1) 15... Rxf1+ {Dieser
+Abtausch spielt nur Weiß in die Hände, denn er entwickelt die letzte weiße
+Figur. Ich sah bloß keine Möglichkeit mehr, den Bauern auf h7 in irgendeiner
+Form vernünftig zu decken} 16. Rxf1 Qg8 {[%csl Ye6,Yh7][%cal Gg8h7,Gg8e6]
+Vorläufig hat Schwarz alle Felder gedeckt, aber die strukturellen Probleme
+seiner Stellung und die schlecht platzierten Figuren bleiben weiter} 17. Qf3 {
+Damit sichert Weiß wieder die Kontrolle der f-Linie, so dass Schwarz den
+Damenturm nicht auf dem Feld f8 platzieren kann} h6 {Damit wird der aktive
+Läufer vom Königsflügel vertrieben} 18. Be3 Bg7 $6 {[%csl Yf8] Das ist ein
+fragwürdiger Zug, der nur den Sinn hatte Ta8-f8 vorzubereiten. Der Läufer
+stand im Zentrum aber sehr gut.} ({Schwarz hätte besser} 18... g5 {[%csl Yf8,
+Yg6][%cal Ge7g6,Ra8f8,Gg6f8] gespielt. Damit würde er Raum auf dem
+Königsflügel gewinnen und er hätte Platz für seine Figuren Se7-g6 nebst
+Ta8-f8}) 19. Rd1 {Weiß verhindert den Turmtausch auf der f-Linie und bereitet
+einen Durchbruch im Zentrum vor} ({Eine Alternative ist} 19. e5 d5) 19... Rf8 {
+Mit dieser Stellung kann Schwarz wieder einigermaßen zufrieden sein. Er hat
+seine Figuren entwickelt und die meisten schlechten Felder überdeckt} 20. Qh3
+Qf7 {Jetzt kontrolliert ausnahmsweise einmal Schwarz die offene Linie} 21. Ne2
+{[%csl Ye6] Weiß bereitet eine Umgruppierung der Figuren vor, um die
+Schwächen g6 und e6 anzuvisieren} Nc6 {Schwarz möchte d3-d4 zwar nicht
+verhindern, aber erschweren. Leider hat der Springer auf dem Damenflügel
+keine Zukunft} (21... g5 {ist auch möglich, aber sehr langsam. Es folgt} 22.
+d4 {und Weiß kann das Spiel öffnen}) 22. c3 {Weiß nimmt erst einmal ein
+wichtiges Einbruchsfeld unter Kontrolle} Ne5 {Darauf hatte Schwarz einige
+Hoffnungen gesetzt, aber Weiß spielt einfach um den Springer herum} 23. d4
+cxd4 24. Nxd4 {[%csl Ye6][%cal Rh3e6,Rd4e6] Nun ist die d-Linie geöffnet und
+der Springer drückt im Verbund mit der Dame gegen den Bauern e6} Nc4 {[%csl
+Yb2,Ye3] Es gelingt Schwarz noch ein wenig Aktivität auf dem Damenflügel zu
+erzeugen} 25. b3 Nb2 26. Rb1 Nd3 27. Qg4 Ne5 28. Qe2 {[%csl Yb5][%cal Ge2b5,
+Gd4b5] Nach der Rundreise hat der Springer einfach nur Zeit verbraucht und ist
+wieder auf dem selben Feld wie sechs Züge vorher gelandet. Weiß versucht
+jetzt noch einige Schwächen auf dem Damenflügel zu induzieren} a6 29. Rd1 {
+An dieser Stelle endet der rationale Teil der Partie. Weiß hat einen kleinen
+Vorteil und kann sicher immer weiter auf zwei Ergebnisse spielen. Schwarz muss
+jetzt langsam die Stellung seiner Figuren verbessern. Aber wie so oft in
+solchen Stellungen finde ich nicht die richtigen Züge und werfe innerhalb
+weniger Züge die Partie weg} h5 {Das schwächt nur unnötig die schwarzen
+Felder auf dem Königsflügel} (29... g5 {[%csl Yf4,Yg6][%cal Ge5g6,Gg6f4] ist
+nach wie vor der richtige Zug in einer Sizilianischen Struktur} 30. c4 Qg6 31.
+Qc2 Rc8 {und Schwarz kann selber eigene Drohungen anmelden}) 30. h3 {Weiß
+verhindert die Verankerung eines Springers auf g4} h4 $2 {Das ist aber ein
+ganz schwacher Zug. Der Bauer kann nicht mehr vernünftig gedeckt werden und
+leistet auch nichts auf h4, außer dass er g2-g4 verhindert (was gar keine
+Drohung war)} 31. Bg5 {Jetzt würde Lg7-f6 nur den Läufer auf f6 durch Td1-f1
+wieder fesseln lassen, aber der nächste Zug ist auch nur mit Zeitnot zu
+erklären} Kc7 {Natürlich geht der König lieber aus der d-Linie, aber dann
+schon besser nach c8 wie man gleich sieht} 32. Bxh4 Bh6 {Die Diagonale ist
+schön und gut, aber keinen Bauern wert} 33. Bg3 {Weiß unterminiert den
+starken Springer auf e5 und hat jetzt echten Vorteil} Bf4 $4 {Und da ist auch
+schon der Fehler. Eigentlich war die gegnerische Drohung nicht schwer zu sehen,
+aber der Wunsch nach aktiver Verteidigung blendet gern die gegnerischen
+Möglichkeiten aus} 34. Bxf4 {[%csl Ye6] Das Wiedernehmen des Läufers kostet
+die Dame} 1-0
+

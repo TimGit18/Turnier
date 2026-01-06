@@ -1,0 +1,74 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2023.11.05"]
+[Round "9"]
+[White "Vihan, Shourya"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E84"]
+[WhiteElo "2029"]
+[BlackElo "1829"]
+[Annotator "Tim Schmitz"]
+[PlyCount "83"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.11.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große, vielleicht noch gefährlichere System gegen die Königsindische
+Verteidigung.} O-O 6. Be3 Nc6 {Das Panno-System ist riskanter als die
+Klassische Verteidigung e7-e5 gegen das Sämisch-System oder die Moderne
+Verteidigung c7-c5.} 7. Nge2 a6 8. Qd2 Rb8 {Bereitet b7-b5 vor.} 9. Rc1 {
+Das ist die Modevariante im sowie schon modischen Sämisch-Systems.} Bd7 {
+Dieser Zug ist notwendig. Schwarz entwickelt den Läufer und deckt
+gleichzeitig den Springer c6, so dass Schwarz b7-b5 spielen kann, ohne dass
+der Springer auf c6 verloren geht.} (9... b5 $2 {scheitert an} 10. cxb5 axb5
+11. Nxb5 Rxb5 12. Rxc6 {und Weiß hat einen Bauern gewonnen.}) 10. Ng3 $6 {
+Dieser Zug scheint inkonsequent. Der Springer entfernt sich vom Zentrum. Er
+hat auf dem Königsflügel keine guten Felder.} e5 $1 {Schwarz nutzt das
+Momentum zu einem Gegenschlag im Zentrum.} 11. d5 Nd4 {Hier steht der Springer
+ziemlich gut. Weiß kann hier keinen Bauern gewinnen.} 12. Nge2 {Der Springer
+kehrt freiwillig zurück. Der Springer auf d4 ist zu stark und muss befragt
+werden. Gute Spieler erkennen, wann ein Zug überflüssig war und korrigieren
+diesen Fehler.} (12. Bxd4 {scheitert an} exd4 13. Qxd4 Nxe4 {und Schwarz steht
+klar auf Gewinn.}) 12... Nxe2 $6 {Das ist bereits sehr kooperativ.} ({Besser
+ist womöglich} 12... c5 $1 {, was den Springer zementiert oder das weiße
+Zentrum aufbricht, denn nach} 13. dxc6 Nxc6 14. Qxd6 b5 {hat Schwarz - anders
+als in der Partie - tatsächlich Gegenspiel und etwas Kompensation für den
+geopferten Bauern.}) 13. Bxe2 {Dies ist ein kritischer Punkt in der Partie.
+Die Eröffnungskenntnisse waren hier verbraucht. Ab jetzt kommt es darauf an,
+die Stellung zu verstehen. Weiß hat mehr Raum im Zentrum, aber die schwarze
+Stellung hat (noch) keine Schhwächen. Jetzt kommt es darauf an, einen
+konkreten und korrekten Plan zu entwickeln.} c6 $2 {Das frontale Aufbrechen
+des Zentrums und des vorgeschobenen Bauern ist oft das richtige Mittel im
+Königsinder, aber hier ein schwerer Fehler. Weiß nutzt jetzt den Raumvorteil
+und die schwache schwarze Bauernstellung, um in ein gewonnenes Endspiel zu
+transformieren.} ({Besser ist} 13... Nh5 14. O-O f5 {Statt auf dem
+Damenflügel oder im Zentrum anzugreifen wird die Initiative auf dem
+Königsflügel ergriffen.}) 14. O-O b5 $2 {Der zweite Fehler: der Damenflügel
+wird liquidiert und der d-Bauer geht kampflos verloren. Schwarz erhält einen
+Hauch von Kompensation, aber nicht genügend Initiative für den Bauern.} (
+14... c5 $5 {hätte den Fehler eingeräumt, aber das Schlimmste vermieden.})
+15. dxc6 Bxc6 16. cxb5 axb5 17. Rfd1 b4 $6 {Dieser Vortstoß führt auch zu
+nichts, obwohl der Springer auf ein schlechtes Feld vertrieben wird.} (17...
+Ne8 {hätte zumindest den d-Bauern gerettet. Allerdings steht keine schwarze
+Figur auf einem guten Feld.}) 18. Nb1 Ba4 {Der Läufer war angegriffen, findet
+aber auf dem Damenflügel keine guten Felder.} 19. b3 Bb5 {Eine traurige
+Wahrheit. Der gute Läufer von Schwarz wird gegen den schlechten von Weiß
+abgetauscht.} 20. Bxb5 Rxb5 21. Qxd6 {Weiß tauscht in ein gewonnenes Endspiel
+ab.} {Der Damentausch ist eigentlich schon die moralische Kapitulation, war
+aber auch nicht gut zu verhindern.} Qxd6 22. Rxd6 Ra5 23. Rc2 h6 $2 $18 {
+Ein furchtbarer Zug. Schwarz hat keinen guten Ansatz mehr.} ({Die Idee} 23...
+Rfa8 {wäre besser gewesen. Ich hatte gedacht, dass sie nicht funktioniert
+nicht wegen} 24. Nd2 Rxa2 $4 (24... h5 {räumt ein Feld für den König.}) 25.
+Rxa2 Rxa2 26. Rd8+ Bf8 27. Bh6 (27. Bc5 {ist schlechter wegen} Rxd2) 27... Nd7
+28. Nc4 Ra6 29. Nxe5 {Jetzt geht ganz schön viel Material verloren.}) 24. Bd2
+$1 {Das ist ein sehr guter Zug, der die zweite schwarze Schwäche auf das Korn
+nimmt.} Rb5 25. Rdc6 Rd8 26. Rc8 {Weiß wickelt emotionslos das Endspiel ab.}
+Rb8 27. Rxd8+ Rxd8 28. Kf2 ({Sehr billig wäre} 28. Bxb4 $4 Rd1+) 28... Bf8 {
+deckt den schwachen Bauern b4 und aktiviert den passiven Läufer.} 29. Ke2 Kg7
+30. Kd1 Ne8 31. Kc1 Be7 32. Be3 h5 33. Nd2 Kf6 34. Bc5 Bxc5 35. Rxc5 Nd6 36.
+Rc6 Rc8 (36... Ke7 {ist ein Hauch besser.}) 37. Rxc8 Nxc8 {Das
+Springerendspiel ist eigentlich ein Bauernendspiel. Wenn der Bauer b4 verloren
+geht, ist das Endspiel auch verloren.} 38. Kc2 Ke6 39. Kd3 Nb6 40. Nc4 Nd7 41.
+Ne3 Nb6 42. Nc2 {Und jetzt konnte endlich aufgegeben werden.} 1-0
+

@@ -1,0 +1,155 @@
+[Event "MMM 2014: Siemens 2 - SCS 3"]
+[Site "?"]
+[Date "2014.03.31"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Geiß, Dietmar"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "1759"]
+[BlackElo "1902"]
+[Annotator "Tim Schmitz"]
+[PlyCount "86"]
+[SourceDate "2014.05.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 {Die Wahl der Italienischen Partie erfolgte aus dem
+Wunsch nach Reduzierung von Komplexität (im Vergleich zur Spanischen Partie).
+Das Konzept geht allerdings nicht auf. Möglicherweise wurde die Partie zu
+scharf angelegt.} Bc5 4. c3 Nf6 5. d3 d6 {Das ist die Klassische Verteidigung
+in der Modernen Italienischen Partie. Diese Verteidigung ist vielleicht auf
+der Großmeister-Ebene nicht mehr so beliebt, aber auf Vereinsebene immer noch
+sehr verbreitet.} ({Aktueller ist} 5... a6 6. Bb3 Ba7 7. Nbd2 d6 8. h3 h6 9.
+Nf1 {mit dem modernen Konzept eines Königsflügel-Angriffs und dem Verzicht
+auf die schnelle kurze Rochade. Das wurde in der vorliegenden Partie auch
+versucht, funktioniert aber nicht.}) 6. Bb3 {Das ist ein thematischer Zug in
+dieser Eröffnung, denn Weiß muss den Königsläufer vor dem Abtausch
+schützen. Der Bauer e5 ist ja nun gedeckt, und Schwarz könnte mit Sc6-a5 den
+weißen Königsläufer bedrängen.} Qe7 {Dieser Zug ist eher selten, aber
+nicht schlecht. Schwarz bereitet die große Rochade vor und räumt das Feld d8
+eventuell für den Springer, ein Motiv, das auch aus dem Vierspringerspiel
+bekannt ist. Außerdem steht das Angriffsfeld d5 dem Weißen momentan nicht
+zur Verfügung, so dass die schwarze Dame nicht angegriffen werden kann. Ein
+weiterer zusätzlicher Nutzen entsteht im indirekten Druck gegen e4, so dass
+der Vorstoß d3-d4 nicht ohne weitere Vorbereitung möglich ist.} 7. h3 {Das
+ist der übliche Abwartezug in solchen Stellungen. Bevor Weiß kurz rochiert
+schließt er zunächst einmal die Möglichkeit einer Fesselung auf g4 aus.
+Außerdem bereitet der Zug einen möglichen Bauernsturm auf dem Königsflügel
+vor, unterstützt von dem Springermanöver Sb1-d2-f1-g3} h6 {Auch Schwarz
+entscheidet sich für einen Abwartezug, der die Fesselung Lc1-g5 verhindert.} (
+{Nach der kurzen Rochade} 7... O-O {ist} 8. Bg5 {sehr ärgerlich, denn die
+Fesselung läßt sich mit} h6 9. Bh4 g5 10. Nxg5 hxg5 11. Bxg5 {nur sehr
+schwer abschütteln. Weiß erhält zwar nur zwei Bauern für den Springer, hat
+aber Kompensation durch den Angriff auf den entblößten König}) 8. Nbd2 {In
+dieser ruhigen Stellung ist eine weitere Entwicklung der Figuren am
+sinnvollsten. Der Springer strebt nach f1, ohne dass Weiß in dieser Stellung
+vorher rochieren will.} Bd7 {Das ist ein sehr verhaltener Entwicklungszug.
+Schwarz entwickelt seinen Damenläufer und bereitet die lange Rochade vor.} 9.
+Nf1 {Auf dieses Feld wollte der Springer ohnehin. Er soll hier nach e3 oder g3
+gebracht werden, um das weiße Spiel im Zentrum und / oder auf dem
+Damenflügel zu unterstützen} ({Eine veritable Alternative stellt} 9. O-O {
+dar. Weiß bringt seinen König in Sicherheit, muss aber aufpassen nicht in
+einen gegnerischen Königsangriff zu geraten.} O-O-O 10. Bc2 Bb6 11. b4 g5 12.
+a4 g4 13. hxg4 Nxg4 14. a5 {Die Stellung wird jetzt sehr scharf nach} Bxf2+ 15.
+Rxf2 Nxf2 16. Kxf2) 9... O-O-O {Schwarz bringt seinen König in Sicherheit und
+verbindet die beiden Türme miteinander. Die Frage ist jetzt, wie Weiß am
+besten fortsetzt.} 10. Be3 {Ein logischer Zug, der die letzte Weißfigur
+entwickelt und die Kontrolle über das Zentrum verstärkt. Aber er ist
+vielleicht nicht sehr zwingend. Andererseits hat dieser Läufer auch kein
+allzu gutes Feld und die Kontrolle des schwarzen Königsläufers über die
+schwarzen Felder wird abgemildert.} ({Eine Alternative besteht in} 10. Ne3 {,
+um die Spannung im Zentrum etwas aufrecht zu erhalten.} g5 11. Bd2 g4 12. hxg4
+Nxg4 13. Nxg4 Bxg4 14. Qe2 {Weiß kann jetzt lang rochieren und versuchen, im
+Zentrum langsam die Kontrolle übernehmen.}) 10... Bxe3 {Schwarz vereinfacht
+die Stellung und verhindert auf jeden Fall den Vorstoß d3-d4, der ihn
+vielleicht in Bedrängnis hätte bringen können.} 11. Nxe3 {Wie ist die
+Stellung einzuschätzen? Beide Seiten haben sich gut entwickelt. Der schwarze
+König steht etwas sicherer. Der weiße Damenspringer und der weiße Läufer
+sind etwas aktiver als ihre schwarzen Gegenspieler. Dafür sind die schwarzen
+Türme schon verbunden und die Dame auf einem aktiven Feld. Wenn jetzt Weiß
+lang rochieren würde, könnte er auf etwas Eröffnungsvorteil hoffen.} g6 {
+Ein sehr prophylaktischer Zug, der dem weißen Springer das Feld f5 verhindert
+und den Bauernvorstoß f7-f5 vorbereitet.} 12. Nd5 $6 {Das sieht zwar wie ein
+optisch guter Zug aus, erscheint aber wie eine verfrühte Aktivität. Schwarz
+kann ganz einfach die Stellung vereinfachen und langsam das Kommando
+übernehmen.} Nxd5 {Natürlich darf der dominante Springer nicht im Zentrum
+stehen bleiben, da jeder andere Zug Material kostet.} 13. Bxd5 f5 $1 {Schwarz
+spielt den logischen und richtigen Zug. Er greift im Zentrum an und öffnet -
+mit seinem rochierten König - die Stellung, in der der weiße König noch in
+der Mitte steht.} 14. b4 $6 {Ein übermotivierter Gegenangriff auf dem
+Damenflügel, der keinen Erfolg verspricht. Denn Schwarz kann den zu langsamen
+weißen Angriff auf dem Damenflügel abfedern und mit einigen guten und
+aktiven Zügen das Zentrum öffnen. Strategisch ist die weiße Stellung schon
+sehr bedenklich.} ({Es ist nicht einfach, hier eine gute Alternative zu finden.
+Vielleicht ist} 14. Qe2 Qf6 15. O-O-O Ne7 16. Bb3 {noch das geringste Übel,
+auch wenn Schwarz hier aktiver steht und die Initiative auf dem Königsflügel
+übernommen hat.}) 14... Qf6 {Schwarz verstärkt die Kontrolle über die
+f-Linie und versucht die schwarzen Felder zu beherrschen, auch wenn der Zug
+keine direkte Drohung darstellt.} 15. Qa4 {Weiß versucht eine taktische, aber
+sehr durchsichtige Drohung auf a7 aufzustellen. Leider stellt sich die Dame
+auch dem Bauernaufmarsch auf der a-Linie entgegen und sich selber auch noch in
+den möglichen Abzug des Läufers auf d7.} Kb8 {Die weiße Drohung war sehr
+einfach zu parieren. Jetzt muss Weiß schon zu zweifelhaften Bauernvorstößen
+greifen, um noch Gegenchancen zu erhalten.} 16. b5 $5 ({Nach dem
+wünschenswerten Zug} 16. O-O-O {folgt einfach} Nd4 17. Qa3 Nxf3 {und die
+weiße Stellung ist hinüber}) 16... Ne7 {Offenkundig wird nicht nur eine
+Verteidigungsfigur von dem schwarzen Damenflügel abgezogen, sondern auch noch
+die Kontrolle über die weißen Felder im Zentrum verstärkt. Der weiße
+Königsläufer muss sich jetzt entscheiden.} 17. Bb3 $2 {Dieser Rückzug ist
+mehr als unglücklich. Er schneidet der weißen Dame den Rückzug ab und deckt
+auch nicht den Bauern b5, der immer eine Schwäche werden kann.} ({Besser
+erscheint hier} 17. Bc4 Rhf8 18. Qc2 fxe4 19. dxe4 g5 20. O-O-O {mit besserem
+Spiel für Schwarz, aber einer möglicherweise haltbaren Stellung für Weiß})
+17... g5 {Die schwarze Bauernfront auf dem Königsflügel marschiert. Leider
+hat Weiß auf dem Damenflügel dem wenig entgegenzusetzen.} 18. Qb4 {Dies ist
+ein Versuch, die Dame aus der schlechten Stellung auf a4 zu befreien.
+Allerdings ist der weiße Angriff sehr langsam und kommt kaum voran.} Rhf8 {
+Schwarz verstärkt systematisch und punktuell seine Figurenstellung.} 19. a4 {
+Endlich setzen sich auch die weißen Bauern in Marsch. Aber dieser Vormarsch
+kommt zu spät und findet auch kein richtiges Ziel} fxe4 {Zum richtigen
+Zeitpunkt öffnet Schwarz die entscheidenden Linien in die weiße Stellung.} ({
+Sehr stark ist auch} 19... Ng6 $1 {mit der Drohung} 20. -- Nf4) 20. dxe4 h5 {
+Es droht jetzt g5-g4. Weiß hat im Grunde keine Möglichkeit mehr diesen Zug
+zu verhindern und muss jetzt auf passive Verteidigung umschalten.} 21. Rf1 $2 {
+Das ist ein schwacher, weil sehr passiver Verteidigungszug von f2. Der Turm
+sollte besser auf der später zu öffnenden h-Linie platziert bleiben.} ({Der
+Zug} 21. Ra2 {würde wenigstens noch die zweite Reihe samt f2 überdecken.})
+21... g4 22. hxg4 Bxg4 {Der Läufer kommt auf ein aktives Feld und beunruhigt
+den weißen König. Er wird für die Verteidigung des eigenen Königs nicht
+mehr benötigt.} ({Nach} 22... hxg4 23. Nd2 {sieht} g3 24. fxg3 {nicht mehr so
+klar gewonnen aus für Schwarz}) 23. Nd2 Ng6 24. b6 $6 {Ein etwas
+verzweifelter Versuch, um Verwirrung zu stiften.} ({Der passive, aber solide
+aussehende Zug} 24. f3 {hätte mehr Ressourcen mobilisiert} Bd7 25. O-O-O Nf4
+26. Kb1 Nxg2 {Schwarz hat deutlichen Vorteil, aber Weiß kann noch um das
+Überleben kämpfen}) 24... axb6 {Natürlich braucht sich Schwarz auf
+keinerlei Abenteuer einzulassen.} 25. f3 {Dieser Zug ist richtig, kommt aber
+jetzt etwas zu spät.} Bd7 {Schwarz geht alle Vereinfachungen nach Lg4-e6 aus
+dem Weg und hält die Spannung in der Partie aufrecht.} 26. Bc4 {Auf dieses
+Feld hätte der Läufer schon im 17.Zug gehört. Er muss das riesige Loch auf
+d3 decken, das der schwarze Springer mit seinem Einstieg auf f4 bedroht (nebst
+Angriff auf den schwachen Bauern g2).} Nf4 {Natürlich geht der Springer auf
+sein Idealfeld, auch wenn die Gabeldrohung auf d3 zunächst abgewendet wurde.}
+27. Rg1 $2 {Wieder ein schwacher Verteidigungszug, nachdem Schwarz in die
+weiße Stellung einfallen kann.} (27. g3 {hätte etwas mehr Widerstand
+geleistet, obwohl nach} Ng2+ 28. Ke2 Qg5 {die Felder um den weißen König
+sehr schwach sind und seine Figuren entsetzlich unkoordiniert wirken.} 29. a5)
+27... Qh4+ {Nun gelangt die schwarze Dame unter Tempogewinn in die weiße
+Stellung.} 28. Kd1 $2 ({Hier war die letzte Chance} 28. g3 {zu spielen mit der
+Folge} Qh2 29. O-O-O {Natürlich ist die weiße Stellung immer noch verloren,
+aber man kann zumindest etwas Unklarheit hineinbringen.}) 28... Qf2 {Die
+schwarze Dame dringt in die weiße Königsstellung ein und bedroht den Turm
+auf g1} 29. Kc2 $2 {Weiß findet nur einen sehr schwachen Verteidigungszug,
+obwohl er gerne den König auf den Damenflügel wegbewegen will} ({Viel
+aktiver ist} 29. Rf1 Qxg2 30. a5 {und die weißen Figuren sind momentan alle
+gedeckt. Schwarz kann zwar mit dem h-Bauern jetzt nach vorne marschieren und
+gewinnen, muss sich aber vorher noch um einige Drohungen kümmern}) 29... Nxg2
+$1 {Der entscheidende Einschlag. Schwarz kann jetzt die Trümmer der weißen
+Stellung einsammeln. Aufgrund des Zwischenschachs auf e3 sind auch keine
+taktischen Tricks wie Ta1-f1 mehr möglich} 30. Rxg2 {Diese Qualitätsopfer
+ist fast schon erzwungen. Aber mit Qualität, zwei Minusbauern und der
+schlechten Königsstellung ist ein weiteres Spiel aussichtslos.} Qxg2 31. a5 {
+Es gibt in der Tat keine anderen Züge als auf einen groben Ausrutscher von
+Schwarz zu hoffen.} Qf2 {Ein feiner Zug, mit dem Schwarz seine Dame wieder in
+das Spiel bringt und seinen Damenflügel verteidigt.} 32. axb6 Qxb6 33. Qa3 c5
+34. Rb1 Qa7 35. Ba6 Bc6 36. Qa5 Rd7 37. Nc4 Rxf3 38. Nb6 Bxe4+ 39. Kd2 Rg7 40.
+Re1 Qxa6 41. Qxa6 bxa6 42. Rxe4 Rg2+ 43. Ke1 Rxc3 0-1
+

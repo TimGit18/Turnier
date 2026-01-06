@@ -1,0 +1,104 @@
+[Event "SCS VM HT"]
+[Site "?"]
+[Date "2014.01.26"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Langen, Bernd"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "1800"]
+[BlackElo "1815"]
+[PlyCount "84"]
+[EventDate "2014.??.??"]
+[SourceDate "2014.01.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {Hiernach entsteht die Spanische Partie. Weiß übt
+sofort Druck auf den Verteidigungsspringer auf c6 auf und damit auch weiteren
+Druck auf den Bauern e5.} a6 {Die Morphy-Verteidigung ist eine der
+flexibelsten und beliebtesten Antworten. Der weiße Damenläufer muss sich
+erklären, ob er abgetauscht werden soll oder zurückgezogen wird} 4. Ba4 {
+Weiß behält vorerst das Läuferpaar und läßt den Druck nicht nach.
+Allerdings hat Schwarz immer wieder einmal die Option, selber b7-b5 zu spielen
+und den weißen Läufer ganz von seinem Verteidigungsspringer zu vertreiben}
+Nf6 {Schwarz leitet ein Gegenspiel gegen den weißen Königsbauern ein und
+entwickelt sich} 5. O-O {Weiß ignoriert die Drohung. Er bietet dem Schwarzen
+an, mit Sf6 x e4 in die Offene Verteidigung überzugehen} Be7 {In der
+Geschlossenen Verteidigung verzichtet Schwarz auf das Schlagen des weißen
+Königsbauern. Er will sich vielmehr in Ruhe entwickeln und sein Zentrum
+verteidigen} 6. Re1 {Weiß deckt den angegriffenen e-Bauern und droht
+seinerseits damit nach Tausch auf c6 den Bauern e5 zu nehmen.} b5 7. Bb3 {Auf
+diesem Feld besetzt der Läufer die schöne Diagonale a2-g8. Er verhindert mit
+Druck auf d5 den typischen schwarzen Befreiungszug mit dem Damenbauern} O-O {
+Schwarz möchte nach dem thematischen Zug c2-c3 den berühmten
+Marshall-Angriff mit d7-d5 und einem Bauernopfer spielen} 8. h3 {Das ist der
+flexibelste Zug für Weiß. Er verhindert das Marshall-Gambit zwar nicht, aber
+nimmt diesem viel von seiner Kraft. Wenn Schwarz jetzt normal mit d7-d6 spielt,
+dann erhält man die normalen Varianten der Geschlossenen Verteidigung} Bb7 {
+Neil McDonald: Schwarz entwickelt seine Figuren im Geist der Zaitsev-Variante.
+Er will nachweisen, dass der prophylaktische Zug h2-h3 eine Zeitverschwendung
+darstellt.} 9. d3 {Dieser Zug unterstützt den Bauern e4 und weigert sich, die
+Entwicklung zu vernachlässigen. Weiß will eine ruhige Manöverpartie spielen
+und zeigen, dass der schwarze Läufer auf b7 schlecht platziert ist} d6 {Damit
+lenkt Schwarz in das ruhige Fahrwasser des Weißen ein. Hier hat Schwarz noch
+die Chance d7-d5 zu spielen. Stattdessen entsteht eine Geschlossene
+Verteidigung} 10. a4 $6 {Ein zweifelhafter Zug, denn Schwarz kann unter
+Tempogewinn einen Bauern erobern} ({Besser ist} 10. a3 {Die Priorität des
+Weißen liegt in der Sicherung seines Läufers vor einem Abtausch durch den
+Springer a5 und darin, die Bewegungsfreiheit der schwarzen Läufer zu
+blockieren. Oft kehrt der Läufer von b7 nach c8 zurück, da er auf b7
+eingesperrt bleibt und das Feld f5 überwacht werden muss, falls ein weißer
+Springer auf g3 auftaucht} Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Bc8 14. c3 Be6
+15. Bxe6 fxe6 16. b4 d5 17. Ng3 dxe4 18. Nxe4 Nxe4 19. Rxe4 Qd5 20. Qe2 Rad8
+21. Ne1 {nach Neil McDonald}) 10... Qd7 {Schwarz verzichtet auf den
+Bauerngewinn und verbessert die Stellung seiner Figuren. Außerdem verbindet
+dieser Zug die beiden Türme} ({Nach} 10... Na5 11. Ba2 bxa4 12. Nc3 Bc6 {hat
+zwar Schwarz materiell einen Bauern mehr, aber es ist ein Doppelbauer und
+seine Figuren sind etwas unkoordiniert}) 11. Nc3 {An dieser Stelle logisch.
+Der Springer soll nach d5 gebracht werden oder über e2 auf den Königsflügel
+(entweder nach g3 oder um f4 zu überdecken). Außerdem wird der schwache
+a-Bauer noch einmal gedeckt. Ein Tausch auf b5 wäre viel zu voreilig} Nd8 {
+Dieser Zug verfolgt mehrere Ziele. Der schlechte schwarze Springer soll auf e6
+viel effektiver eingesetzt werden mit dem Ziel des schwachen weißen Feldes f4.
+Außerdem wird der c-Bauer mobilisiert und kann eine schwarze Bauernlawine
+bilden. Zuletzt wird der eingeschlossene schwarze Damenläufer aktiviert} 12.
+Be3 {Das scheint ein vernünftiger Entwicklungszug. Auf g5 wäre der
+Damenläufer nicht sonderlich effektiv} c5 {Schwarz sucht Gegenspiel auf dem
+Damenflügel} 13. axb5 {Mir schien dies der richtige Zeitpunkt, um ein
+Turmpaar zu tauschen.} axb5 14. Rxa8 Bxa8 15. Qd2 {Die Dame soll irgendwann
+mal auf dem Königsflügel eingesetzt werden} ({Eine interessante Alternative
+ist} 15. Qa1 {, um die offene a-Linie zu Nutzen}) 15... Ne6 {[%csl Rd4,Rf4]
+[%cal Ge6d4,Ge6f4] Ein schöner Zug, um die Figuren wieder zu koordinieren.
+Die Felder d4 und h4 leuchten} 16. Ne2 {Mir schien die Drohung mit Sc6-d4 zu
+stark. Aber der Zug hat andere Nachteile} (16. Ra1 Nd4 17. Bxd4 exd4 18. Ne2 {
+gibt Schwarz das Läuferpaar und ein gutes Zentrum für den Doppelbauern})
+16... Bc6 {Der Läufer kommt zurück in das Spiel und räumt a8 für seinen
+Turm} ({Sehr stark ist} 16... c4 $1 17. dxc4 bxc4 18. Bxc4 Nxe4 19. Qd3 d5 20.
+Bb3 N6c5 {und Schwarz marschiert im Zentrum}) 17. Ra1 {Endlich wird der Turm
+aktiviert. Das Spiel gewinnt Manövriercharakter} h6 {Dieser Zug wirkte
+zunächst schwach. Er schafft zwar eine weitere Schwäche auf dem
+Königsflügel, überdeckt aber g5 und räumt h7 für Springermanöver} 18. c3
+{Weiß überdeckt das schwache Feld d4 mit einem weiteren Bauernzug und
+schafft eine Rückzugsdiagonale für den Läufer} Nh7 {Das ist die Idee.
+Schwarz will sich mit Abtausch entlasten} 19. Ng3 {Hier gehört der Springer
+hin} Nhg5 20. Nxg5 Nxg5 21. Nf5 Bf6 {Das ist die kritische Stellung der
+gesamten Partie. Weiß hat etwas mehr Raum am Königsflügel 
+("Kasparov-Springer"), Schwarz das potentiell bessere Zentrum. Vermutlich
+sollte man die weiße Dame nach g4 bringen, um den Druck auf g7 zu steigern}
+22. h4 (22. Qe2 Rd8 23. Qg4 Kh8 24. h4 Ne6 {mit unklarer Stellung}) 22... Nh7
+23. Bxh6 $2 {Weiß verspielt seinen Vorteil mit diesem Figurenopfer, das nicht
+durchschlägt. Ich übersah einfach, dass der Springer auf h7 den Läufer f6
+deckt} gxh6 24. Qxh6 d5 $5 {Ein sehr starker Konter im Zentrum} (24... c4 {
+wäre noch stärker wegen} 25. dxc4 Bxe4 {und Schwarz ist am Drücker}) 25. Ra6
+({Interessant ist} 25. exd5 Qxf5 (25... Bxd5 26. Bxd5 Qxd5 27. Ra6 Qd8 28. Rd6
+{und Weiß gewinnt}) 26. dxc6 Qxd3 27. Qh5 c4 28. Bd1 Bg7 29. Bf3) 25... dxe4
+26. Rxc6 Qxf5 (26... Qxc6 {verliert wegen} 27. Ne7+) 27. dxe4 Qxe4 28. Rxf6
+Nxf6 29. Qxf6 $2 (29. Qg5+ $1 {hätte vielleicht zum Remis gereicht} Kh8 30.
+Qxf6+ Kh7 31. Qe7 {und die weißen Figuren sind sehr aktiv gegen den Bauern f7
+gerichtet}) 29... c4 30. Qg5+ Qg6 31. Qxg6+ fxg6 32. Bc2 {Das Endspiel ist
+schwierig, aber vielleicht noch gerade zu halten} Kg7 33. b3 $4 {Dieser
+Fehlzug wirft die Partie einzügig weg, denn Schwarz gewinnt jetzt ohne Mühe
+einen Bauern und der Freibauer auf dem Damenflügel entscheidet das Spiel} ({
+Eine vernünftige Alternative wäre} 33. Be4 Rf4 34. Bc6 Rxh4 35. Bxb5) 33...
+cxb3 34. Bxb3 Rc8 35. Kf1 Rxc3 36. Bd5 Rc2 37. Be4 Rc4 38. Bd3 Rc5 39. Ke2 b4
+40. Kd2 b3 41. g4 b2 42. Ke3 {Ein peinlicher Fehler zum Abschluß} Rc3 0-1
+

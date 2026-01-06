@@ -1,0 +1,23 @@
+[Event "Sommer-Open Baden-Baden 2010"]
+[Site "?"]
+[Date "2010.08.13"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Wohlfahrt, Michael"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1932"]
+[BlackElo "1746"]
+[Annotator "Tim Schmitz"]
+[PlyCount "71"]
+[EventDate "2010.08.11"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3 Bg4 7. Nc3 Qd7 $2
+{Ein taktischer Fehler, der Material verliert} 8. d5 Bxf3 9. gxf3 O-O-O {
+Sonst folgt Lb5} 10. dxc6 Qxc6 11. Qe2 e5 $6 12. Qc4 Ne7 13. Be3 Kb8 14. Qxc6
+Nxc6 15. Bg2 f5 (15... Nd4 16. Rd1) 16. f4 e4 17. Rd1 {[%csl Rd4]} Bb4 18. Ke2
+Bxc3 19. bxc3 Kc7 20. Rxd8 Rxd8 21. Rd1 Rxd1 22. Kxd1 {Die weisse Aufgabe ist
+jetzt einfach} Ne7 23. Bd4 g6 24. f3 exf3 25. Bxf3 b6 26. Kd2 Kd6 27. Bf6 Ng8
+28. Be5+ Kc5 29. Kd3 Ne7 30. Bf6 Ng8 31. Bg7 Kd6 32. Kd4 Kd7 33. Bd5 Ne7 34.
+Ke5 b5 35. Be6+ Ke8 36. Kd6 1-0
+

@@ -1,0 +1,33 @@
+[Event "Bayern Landesliga Süd"]
+[Site "?"]
+[Date "2010.01.24"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Zauner, Christoph"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "1877"]
+[BlackElo "1819"]
+[Annotator "Tim Schmitz"]
+[PlyCount "89"]
+[EventDate "2010.01.24"]
+[WhiteTeam "SC Sendling 1"]
+[BlackTeam "SK Passau 2"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 {Morosewitsch-Variante} 4. Bd3 c5 5. exd5 {
+Gebräuchlich ist dxc5} Qxd5 6. Ngf3 Nf6 7. Bc4 Qd6 8. dxc5 Qxc5 9. O-O {
+Vielleicht ist De2 genauer} b5 $6 {Zu optimistisch} 10. Bd3 Ba6 11. Ne4 {
+Logisch, weil Schwarz den Springer nicht schlagen darf} Qc7 12. Qe2 Nxe4 13.
+Qxe4 Bb7 {Schwarz opfert einen Bauern für Gegenspiel} 14. Bxb5+ Nd7 15. Qe2 $2
+(15. Qe5 Bd6 16. Qxg7 O-O-O 17. Qxf7) 15... O-O 16. Rd1 Rfd8 17. Be3 a6 18. Bd3
+Nc5 {Schwarz erhält Gegenspiel} 19. Bxc5 Qxc5 (19... Bxc5 20. Be4 Bxe4 21. Qxe4
+Qb6 {ist sogar besser für Schwarz}) 20. Be4 Qb4 21. Bxb7 Qxb7 {Schwarz hat
+jetzt das Läuferpaar verloren und eine schwierige Verteidigung gegen den
+weißen Damenflügel} 22. b3 Rdc8 23. c4 Bf6 24. Rab1 {Alles auf die weißen
+Felder} a5 25. Nd4 Qb4 26. Nb5 a4 27. Qd2 Qc5 28. Qd6 $2 {Ungenau, Schwarz
+kann jetzt Drohungen kreiren} Qh5 29. Qb6 Be5 30. h3 g5 {Wild, aber wie sonst
+Gegenspiel organisieren} 31. Qe3 g4 32. Qe2 $1 axb3 33. axb3 Bh2+ 34. Kf1 Kh8
+35. Qxg4 Qc5 36. Qd4+ Qxd4 37. Rxd4 Ra2 {vergisst den Läufer auf h2} 38. g3 Rg8
+39. Rg4 Rd8 40. Rd4 Rg8 41. Rd3 Rg5 42. Rf3 e5 43. Rxf7 h5 44. h4 Rg4 45. Rf5 {
+Alle Bauern gehen verloren, später auch der Läufer} 1-0
+

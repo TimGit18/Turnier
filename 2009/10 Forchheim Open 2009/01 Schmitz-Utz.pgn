@@ -1,0 +1,47 @@
+[Event "SC Forchheim Sparkassen Open"]
+[Site "?"]
+[Date "2009.10.02"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Utz, Günther"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "1860"]
+[BlackElo "1710"]
+[Annotator "Tim Schmitz"]
+[PlyCount "83"]
+[EventDate "2009.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 {Der Anti-Winawer} Ne7 6. dxc5
+Nbc6 {Die Hauptvariante} 7. Qxg7 Rg8 8. Qxh7 Nxe5 {Hier war ich aus dem Buch}
+9. Bf4 {Sah für mich gut aus, und auch Rybka ist nicht dagegen} N5g6 10. Bg5 {
+Die logische Fortsetzung. Es droht Dxe7 mit Qualitätsgewinn} Qa5 $1 {Hilfe,
+hier dachte ich 20 Minuten nach.} 11. Bf6 $2 ({Aber Rybka empfiehlt cool} 11.
+Bd2 d4 12. Bb5+ Kd8 13. O-O-O) ({Direkt verliert} 11. Kd1 Bxc3 12. bxc3 Qxc3
+13. Rb1 Rh8) ({Ich wollte ursprünglich spielen} 11. Bxe7 Nxe7 ({Aber das
+scheitert an} 11... Bxc3+ 12. Kd1 Rh8) 12. Qd3) 11... e5 12. Kd1 Bxc3 13. bxc3
+Qxc3 14. Rb1 {Das einzige aktive Feld für den Turm. Auch wenn es immer noch
+düster für Weiß aussieht} a6 {Schwarz will Lb5+ verhindern} 15. Nf3 {Schnelle
+Entwicklung ist alles, was zählt} Bf5 {Mit furchtbaren Drohungen} 16. Bd3 Bxd3
+17. cxd3 {Wickelt in ein leicht besseres Endspiel für Schwarz ab} Qxd3+ 18. Nd2
+Nf4 $6 {Jetzt kann ich meine inaktive Dame tauschen und war wieder
+einigermaßen zufrieden} 19. Qxd3 Nxd3 20. Ke2 Nxc5 21. Bxe5 {Hier hat Weiß
+schon wieder gute Aussichten, die ich leider nicht realisieren kann} b5 ({
+Ich hoffte auf} 21... Rxg2 22. Bg3 {mit Turmfang}) 22. Rbc1 $6 {Richtige Idee
+falsch ausgeführt} (22. Rhc1 Nd7 23. Bf4 Ng6 24. Bg3 f5 25. f4 {und Weiß steht
+ganz gut}) 22... Nd7 23. Bg3 Nf5 24. Bf4 Nd4+ 25. Kf1 $2 {Das ist viel zu
+passiv. Der König muss im Endspiel in das Zentrum. Die Türme müssen verbunden
+bleiben. Auf einmal hat Schwarz die besseren Aussichten} Ke7 26. Be3 Ne6 27.
+Nf3 {Naja, die schlechteste weiße Figur wird wenigstens aktiviert} Rac8 $1 {
+Akkurat gespielt: Schwarz gewinnt einen Bauern} 28. Rxc8 (28. Rd1 Nf6 {Die
+schwarzen Türme sind viel aktiver als die weißen}) 28... Rxc8 29. g3 Rc2 30. h4
+{Die einzige Chance für mich besteht in raschem Fortschritt des Freibauern}
+Rxa2 31. Kg2 {Sonst tauscht Schwarz die Türme und schickt meinen König in die
+Ecke} b4 32. h5 Rc2 $2 {Ungenau} ({Hofft auf} 32... b3 33. h6 b2 34. h7 Ra1 35.
+h8=Q) ({besser ist} 32... Nf6 33. h6 Nh7) 33. h6 Rc8 34. Nd4 {Versucht noch
+etwas im Trüben zu fischen} Nef8 $6 {Ein gekünsteltes Manöver, Weiß steht
+wieder etwas besser. Zudem haben beide Seiten schreckliche Zeitnot} 35. h7 Ng6
+36. Nf5+ $6 Ke6 37. g4 Nde5 {Sieht gut aus aber a5 ist einfacher} 38. Nh6 Rc4
+$2 {Ein Klops zum Schluß: Weiß hat noch einen Hebel} 39. f4 Nxg4 40. f5+ $1 {
+Das entscheidet für Weiß} Kd7 41. fxg6 {Schwarz gibt auf} Rc8 42. g7 1-0
+

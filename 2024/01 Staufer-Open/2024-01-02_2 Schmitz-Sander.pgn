@@ -1,0 +1,24 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2024.01.02"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Sander, Tino"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "1801"]
+[BlackElo "1328"]
+[Annotator "Tim Schmitz"]
+[PlyCount "91"]
+[SourceVersionDate "2024.01.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. d3 Be6 7. O-O Be7 8. Re1
+O-O 9. Nbd2 b5 10. Bc2 b4 $2 11. Ba4 bxc3 12. bxc3 $6 (12. Bxc6 cxd2 13. Bxd2
+Rb8 14. b3) 12... Bd7 13. d4 exd4 14. cxd4 $16 Nb4 15. a3 Nd3 16. Re3 Nxc1 17.
+Rxc1 Bb5 18. Bb3 Re8 19. a4 Bd7 20. h3 (20. e5 Ng4 21. Rec3) 20... Be6 21. Bxe6
+fxe6 22. Qc2 c5 23. dxc5 Rc8 24. Qc4 $2 d5 25. Qxa6 Bf8 $4 (25... Bxc5 26. Rec3
+) 26. c6 d4 27. Rd3 e5 28. Qc4+ Kh8 29. Ng5 Re7 30. Nf7+ Rxf7 31. Qxf7 Qe7 32.
+Qxe7 Bxe7 33. Rb3 Ne8 34. Rb7 Nc7 35. Nc4 Bg5 36. Rcb1 Na6 37. R7b6 Nc7 38. Rb8
+Rg8 39. Nxe5 h6 40. Rxg8+ Kxg8 41. Rb8+ Kh7 42. Rb7 Bd8 43. Nf7 d3 44. Nxd8 d2
+45. Rb1 Nd5 46. exd5 1-0
+

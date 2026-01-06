@@ -1,0 +1,55 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2012.10.27"]
+[Round "1"]
+[White "Kunin, Vitaly"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2516"]
+[BlackElo "1906"]
+[PlyCount "45"]
+[EventDate "2012.10.28"]
+[SourceDate "2012.10.28"]
+
+1. e4 c5 2. Nc3 d6 3. f4 {Der Grand-Prix-Angriff ist eine heimtückische Waffe
+gegen die sizilianische Verteidigung} Nc6 {Ftacnik bevorzugt direkt das
+Königsfianchetto, empfiehlt aber ansonsten einen ähnlichen Aufbau} 4. Nf3 {
+Weiß versucht nicht über Umwege in den Offenen Sizilianer zu gelangen} Nf6 {Im
+geschlossenen Sizilianer spielt Schwarz auch oft den Aufbau mit e7-e6 und
+Sg8-e7} 5. Bb5 {Beliebter ist die Läuferentwicklung nach c4} g6 {Zu langsam
+gespielt. Der Zug ist eigentlich obligatorisch} 6. O-O {Die kurze weiße
+Rochade ist eigentlich auch klar. Gedacht ist an einen Vormarsch des f-Bauern,
+um dann die Turmlinie zu öffnen} Bg7 7. d3 O-O {[%csl Yf5][%cal Gf4f5] Weiß
+steht etwas freier, aber Schwarz hat noch keine richtigen Schwächen. Also muss
+etwas getan werden} 8. Bxc6 bxc6 {Schwarz hat einen Doppelbauern, aber auch
+das Läuferpaar und die halboffene b-Linie als Kompensation} 9. Qe1 {[%csl Rh4]
+[%cal Ge1h4] Auch dieser Zug gehört zum Konzept. Weiß will die Dame nach h4
+bringen, von wo aus sie nicht gut vertrieben werden kann} Rb8 {Schwarz besetzt
+sofort die halb-offene b-Linie - ohne etwas Konkretes zu drohen.} 10. Qh4 {
+Hier strahlt die Dame unangenehm auf den gegnerischen König. Eine direkte
+Gefahr geht noch nicht aus} Qc7 {Immer noch sinnvoll, denn so wird das Feld e5
+ein weiteres Mal überdeckt und das Zentrum im Auge behalten} 11. Rb1 {Ganz
+prophylaktisch gespielt. Der Läufer wird beweglich gemacht und der Turm aus
+der gefährlichen Diagonale a1-h8 gebracht} a5 {Dieser Zug ist zwar noch kein
+direkter Fehler, verfolgt aber auch keinen richtigen Plan. Er suggeriert
+Pseudo-Aktivität auf dem Damenflügel} ({Die Engine empfiehlt} 11... Bg4 12. Bd2
+Bxf3 {Das Läuferpaar wird wieder aufgegeben, damit die Stellung befreit werden
+kann} 13. Rxf3 Nh5 {Mit einigen Manövern kann Schwarz seine Figurenstellung
+verbessern} 14. Rff1 Bd4+) 12. f5 {Der Zug ist zwar nur ein Schuß ins Blaue,
+reicht aber aus, um einen katastrophalen Fehler zu provozieren} d5 $4 {Gedacht
+als Reaktion im Zentrum verliert dieser Zug sofort Material} ({Nach} 12... c4
+13. fxg6 fxg6 14. dxc4 {hat Schwarz eigentlich noch ganz gute Aussichten}) 13.
+Bf4 {Weiß gewinnt die Qualität und Schwarz hat im Grunde keine Kompensation}
+Qa7 14. Bxb8 Qxb8 15. e5 {Jetzt ist Weiß am Drücker. Die schwarzen Figuren
+waren ohnehin schon schlecht platziert und werden jetzt auf noch schlechtere
+Felder geworfen} Nd7 (15... Bxf5 {hätte das Ende einige Züge länger
+hinausgezögert, aber das Spiel mit Minusturm ist im Grunde sinnlos}) 16. fxg6 {
+Sehr gut abgewickelt. Die schwarze Königsstellung fällt jetzt in sich zusammen}
+fxg6 17. Qxe7 {Weiß hat einen gesunden Mehrbauern, die Qualität und den
+Angriff. Schwarz verliert weiteres Material oder wird mattgesetzt} Rf7 {
+Beschleunigt das Ende, aber es ist auch keine Rettung mehr zu sehen} 18. Qe8+
+Rf8 19. Qe6+ Kh8 20. Ng5 {mit furchtbaren Drohungen auf f7. Hier wurde
+aufgegeben. Man hätte noch spielen können} Nxe5 21. Rxf8+ Bxf8 22. Qxe5+ Qxe5
+23. Nf7+ {und Weiß gewinnt ganz leicht mit einem Turm mehr} 1-0
+

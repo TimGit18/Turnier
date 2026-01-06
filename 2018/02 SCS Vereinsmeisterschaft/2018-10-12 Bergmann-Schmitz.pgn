@@ -1,0 +1,47 @@
+[Event "SCS Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2018.10.12"]
+[Round "?"]
+[White "Bergmann, Thomas"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1719"]
+[BlackElo "1739"]
+[Annotator "schmi"]
+[PlyCount "52"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.10.13"]
+
+1. Nf3 Nf6 2. Nc3 {Weiß wählt eine unkonventionelle Eröffnung ohne großen
+theoretischen Hintergrund} d5 {Der Zug liegt auf der Hand. Schwarz möchte
+eigentlich das Königsfianchetto spielen, aber keinen Pirc-Aufbau} 3. d4 {
+Jetzt entwickelt sich die Partie zu einem Damenbauernspiel mit einem Londoner
+Ansatz.} g6 4. h3 Bg7 5. Bf4 O-O {Die Partie gerät in ruhiges Fahrwasser.
+Eine Schwäche, auf die man immer aufpassen muss, ist der neuralgische Punkt
+auf c7} ({So ist nach} 5... Nc6 6. Nb5 {dieser Punkt nicht mehr zu verteidigen.
+Nach der Rochade kann aber auch der Springer von f6 nach e8 gebracht werden
+und von dort aus den Punkt verteidigen.}) 6. e3 c5 {Dieser Zug verfolgt zwei
+Absichten. Erstens soll das stabile weiße Zentrum auf d4 unter Druck gesetzt
+werden. Zweitens wird die Wirkung des schwarzen Läufers auf g7 erhöht. Der
+Nachteil von dem Zug ist die Schwächung des Bauern auf d5, der später unter
+Druck gesetzt werden kann.} 7. dxc5 $6 {Der Zug ist ein Zugeständnis. Er gibt
+das Zentrum auf und erleichtert den schwarzen Figuren das Zusammenspiel. Vor
+allem der Läufer auf g7 hat jetzt beste Aussichten. Natürlich hat Weiß
+jetzt Druck auf d5, aber er muss auch seine Entwicklung beenden und seinen
+König in Sicherheit bringen.} Qa5 {[%csl Yb2,Yc3,Yc5,Ye4][%cal Ga5c5,Ga5c3,
+Gg7c3,Rf6e4] Schwarz bringt die Dame auf ein aktives Feld und holt sich den
+Bauern zurück. Wenn der weiße Damenläufer schon auf dem Königsflügel
+gelandet ist, kann die Dame auf a5 nicht mehr angegriffen werden und der
+Springer auf c3 sowie der Bauer auf b2 sind schon etwas gefährdet. Da der
+Springer auf c3 gefesselt ist, droht auch jederzeit der thematische Zug Sf6-e4
+mit sehr unangenehmer Stellung für Weiß.} ({Stockfish bevorzugt} 7... Nbd7 {
+, aber er kritisiert auch den Partiezug nicht}) 8. Qd2 {Der richtige Zug.
+Weiß verteidigt den Springer auf c3 und hebt die Fesselung des Springers auf.
+Außerdem plant er den Druck auf d5 zu erhöhen, indem er den Damenturm nach
+d1 bringt.} Qxc5 9. Bd3 Nc6 10. a3 Re8 11. b4 Qb6 (11... Ne4 $1) 12. Ne5 Be6
+13. Na4 Qd8 14. Nc5 Qc8 $6 (14... Nxe5 15. Bxe5 Ne4) 15. Rd1 Ne4 16. Bxe4 dxe4
+17. Nxc6 Qxc6 18. O-O Bc4 19. Rfe1 b6 20. Nd7 $2 (20. Nb3) 20... Qe6 21. a4
+Rac8 22. Kh2 Red8 23. Rg1 h6 24. g4 Qc6 25. Nb8 Qe8 (25... Rxd2 26. Nxc6 Rxf2+
+27. Rg2 Rxg2+ 28. Kxg2 Rxc6 $19) 26. Nd7 Be6 0-1
+

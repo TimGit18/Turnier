@@ -1,0 +1,128 @@
+[Event "Baden-Baden Faschingsopen"]
+[Site "?"]
+[Date "2017.02.27"]
+[Round "5"]
+[White "Müller, Rudolf"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B38"]
+[WhiteElo "2019"]
+[BlackElo "1808"]
+[Annotator "tim"]
+[PlyCount "92"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.02.27"]
+
+1. e4 c5 2. Nf3 d6 3. c4 {Das ist eine zunehmend zu sehende Strategie von
+Weiß. Bevor er mit d2-d4 das Zentrum öffnet, will er eine Art
+Maroczy-Struktur errichten, um den Gegner einzuschnüren} Nf6 4. Nc3 Nc6 {
+Schwarz kann den Maroczy-Aufbau ohnehin nicht verhindern. Daher verzichtet er
+auf eine Najdorf-Verteidigung und wählt eine Drachen-Struktur} 5. d4 cxd4 6.
+Nxd4 g6 {Das ist die logische Fortsetzung. Schwarz bereitet das
+Königsfianchetto und die kurze Rochade vor} 7. Nxc6 $6 {Dieser Abtausch
+scheint zumindest fraglich. Weiß verliert einen starken Springer im Zentrum
+und verbessert die schwarze Bauernstruktur, indem er auf c6 einen schwarzen
+Bauern zuläßt, der das Feld d5 kontrolliert} bxc6 8. Be2 Bg7 9. O-O O-O {
+Das ist die Ausgangsstellung der Maroczy-Struktur mit dem eingeschobenen
+Zwischentausch auf c6. Jetzt kann Weiß einen ruhigen, positionellen Aufbau
+wählen oder eine aggressivere Variante} 10. f4 {Weiß entscheidet sich für
+das aggressive Vorgehen. Er möchte gerne e4-e5 spielen und die f-Linie für
+den Turm öffnen} Qb6+ {Das ist eine folgerichtige Antwort. Schwarz entwickelt
+seine Dame unter Tempogewinn auf ein aktives Feld} 11. Kh1 Rd8 {Die Frage ist,
+wie man e4-e5 verhindern kann. Dieser Zug tut es für den Moment. Außerdem
+aktiviert er den Turm und strahlt gegen die weiße Dame} 12. Qe1 {[%csl Yh4]
+[%cal Re1h4] Die Dame entzieht sich folgerichtig dem schwarzen Druck und soll
+auf h4 eingesetzt werden, um den weißen Angriff zu unterstützen} d5 $5 {
+Dieser Zug hat etwas Ansprechendes an sich. Schwarz ist bereit einen Bauern
+aufzugeben, um freies Spiel und gute Entwicklung seiner Figuren zu erhalten}
+13. e5 {Weiß entscheidet sich für ein Spiel auf Raumvorteil} ({Die
+Alternative ist die Annahme des Bauernopfers auf d5 mit} 13. cxd5 cxd5 14. exd5
+Bb7 ({Und nicht} 14... Nxd5 15. Nxd5 Rxd5 16. Bf3 {mit Qualitätsverlust}) 15.
+Bf3 Nxd5 16. Nxd5 Bxd5 17. Bxd5 Rxd5 18. Qxe7 Bf6 19. Qe2 {Für den Preis
+eines Bauern sind alle schwarzen Figuren sehr gut platziert, während Weiß in
+der Entwicklung zurück hängt und den schwachen Bauern auf b2 verteidigen muss
+}) 13... Ne4 {Natürlich muss der Springer im Zentrum platziert werden, auch
+wenn Schwarz einen Doppelbauern erhält, der allerdings nicht so schlecht ist}
+14. Nxe4 dxe4 15. Qg3 {Dieser Zug ist sehr giftig. Es sieht so aus als wolle
+Weiß mit Dg3-e3 den schwarzen Bauern angreifen oder einen Damentausch
+erzwingen. Tatsächlich plant er das viel schlimmere und gefährlichere f4-f5}
+Be6 $4 {Dies ist ein völlig blinder Zug, gespielt im Stile eines Autopiloten
+und ohne Nachdenken} ({Etwas mehr Sinn gemacht hätte} 15... Bf5 {, obwohl
+Weiß nach} 16. Bg4 Bxg4 17. Qxg4 f5 18. exf6 exf6 19. Qe6+ {das bessere Spiel
+mit zwei Mehrbauern behält}) 16. f5 $1 {Natürlich. Weiß öffnet die g-Linie
+mit letalen Drohungen gegen den schwarzen König} Bc8 {Es gibt kein besseres
+Feld. Der Rückzug sieht zwar furchtbar aus und ist es auch, aber alle
+Alternativen bedeuten noch mehr Unheil} ({Zum sofortigen Untergang führt} 
+16... Bxf5 17. Rxf5 gxf5 18. Bh6) 17. f6 exf6 18. exf6 Bf8 {Weiß hat in
+wenigen Zügen Diagonalen und Linien für seine Figuren geöffnet. Schwarz hat
+eine geschwächte Königsstellung und zwei sehr schwache Bauern (auf e4 und c6)
+. Dagegen ist gerade kein Matt zu sehen, und es sieht auch nicht gut aus in
+weniger als 20 Zügen aufzugeben} 19. Qh4 {[%csl Ye4,Yh6][%cal Rc1h6,Rh4e4,
+Rh4h6] Weiß bedroht den Bauern auf e4 (der sowieso nicht gehalten werden kann)
+und visiert auch einmal das Feld h6 an} Be6 {Was sonst? Dieser Zuf entwickelt
+zumindest eine Figur. Außerdem verbindet er die beiden Türme} 20. a3 $6 {
+Der erste Zug in einer Reihe von seltsamen und unentschlossen wirkenden Zügen}
+({Nach} 20. Qxe4 Rd4 21. Qc2 {hat Weiß einen gesunden Mehrbauern und droht
+mit Lc1-e3}) 20... e3 $1 {Schwarz nimmt die angebotene Chance wahr und rettet
+seinen Bauern. Außerdem schnürt der Bauer die weißen Figuren im Moment ein.
+Er ist zwar noch weiterhin schwach, aber zäher als es zuerst aussah} 21. Rf3 {
+Weiß will den ärgerlichen Bauern beseitigen. Aber jetzt hat Schwarz einen
+guten Zwischenzug} Rd4 {[%csl Yc4,Yh4][%cal Rd4h4,Rd4c4] Der Turm geht auf ein
+aktives Feld und bedroht sowohl die Dame als auch den c-Bauern. Außerdem
+räumt der Turm das Feld d8 für den nächsten Turm} 22. Qe1 {Dieser Rückzug
+ist bereits eine sehr ernsthafte Konzession. Andererseits hatte die Dame kein
+anderes gutes Feld mehr} Bg4 {Eine weitere Aktivierung des Läufers, obwohl
+der Turm hiernach ja einfach den Bauern e3 nehmen kann. Die Idee ist es,
+diesen relativ schlechten schwarzen Läufer abzutauschen und zu verhindern,
+dass der Bauer auf e3 mit dem Läufer genommen wird} 23. Rxe3 {Der Bauer ist
+zwar weg, aber jetzt kann Schwarz den schlechten Läufer abtauschen. Außerdem
+steht der weiße Turm dem eigenen Läufer im Weg.} Rad8 {Den Abtausch der
+weißfeldrigen Läufer kann Weiß sowieso nicht verhindern. Also bringt
+Schwarz seine letzte Figur in das Spiel auf ein möglichst aktives Feld} 24.
+Bxg4 Rxg4 25. b3 $2 {Auch dieser Zug sieht sehr überhastet und wenig
+durchdacht aus. Weiß will den c-Bauern decken und den in der Entwicklung
+zurückgebliebenen Damenläufer auf der langen Diagonale platzieren,
+übersieht aber die entscheidende Antwort von Schwarz} ({Stärker ist die
+Variante} 25. h3 Rxc4 26. Re8 {und Weiß hat nicht nur ein Luftloch für
+seinen König geschaffen, sondern auch starke Drohungen gegen den gegnerischen
+König}) 25... Qd4 {[%csl Ya1,Yf6][%cal Rd4a1,Rd4f6] Eine starke
+zentralisierte Dame. Jetzt kann Weiß den ärgerlichen Bauern auf f6 nicht
+mehr verteidigen} 26. Ra2 Qxf6 27. Rf2 {Weiß hat jetzt auch seine Figuren
+einigermaßen aktiviert, aber Schwarz dürfte in dieser Stellung schon
+völligen Ausgleich erreicht haben. Das ist nach der fehlgeschlagenen
+Eröffnung sehr erfreulich.} Qd6 {Das ist ein sicheres Rückzugsfeld für die
+schwarze Dame} ({Es verliert} 27... Qd4 28. Rd2 Qb6 29. Rxd8 Qxd8 30. Re8 Qd6
+31. Bh6) 28. Bb2 {Ein logischer Entwicklungszug. Der Läufer kontrolliert d4} (
+{Im Unterschied zur vorhergehenden Variante geht jetzt} 28. Rd2 Rd4) 28... Qd1
+{Die Gefahren auf der Grundreihe in Verbindung mit dem noch schlechten Läufer
+auf f8 machen diesen Tausch wünschenswert} 29. Rf1 {[%csl Yb2,Yd2][%cal Rd8d2,
+Rd2b2] Natürlich kann Weiß nicht direkt auf d1 nehmen, aber jetzt geraten
+seine Figuren wieder in eine etwas passive Situation. Auch der Läufer auf b2
+sieht ohne Turmschutz auf der zweiten Reihe sehr angreifbar aus} Qxe1 30. Rexe1
+{Dieser Zug erfreut Schwarz. Er kann eine sofortige Doppeldrohung aufstellen} (
+{Sicherer sieht} 30. Rfxe1 Rd2 31. R3e2 {aus, auch wenn Schwarz hier noch
+relativ aktiv steht}) 30... Rd2 {Mit diesem Zug wurde ein Remisangebot
+verbunden, auch wenn Schwarz schon im Vorteil sein sollte. Deswegen erstaunte
+die Ablehnung von Weiß umso mehr} 31. Be5 $4 {Ein krasser Fehler und
+pseudoaktiver Zug. Jetzt kann Schwarz eine tödliche Turmbatterie auf der
+zweiten Reihe aufbauen, die Weiß niemals loswird} ({Auch nicht schön ist} 31.
+Bc1 Rdxg2 {, aber immer noch viel besser}) 31... Rgxg2 {Im Grunde ist Weiß
+paralysiert, denn der Läufer ist an die Verteidigung des Bauern h2 gebunden.
+Besser wäre es aber gewesen, um jeden Preis einen Turm zu tauschen} 32. b4 {
+[%csl Ye5,Yh2][%cal Re5h2]} f5 {Der Zug schafft ein Luftloch für den König
+und droht in manchen Varianten mit dem Bauernvormarsch, um den Läufer vom
+Bauern h2 abzuschneiden} 33. Bf4 {Der Zug ist in Ordnung, denn er greift den
+Turm an und öffnet die e-Linie für den eigenen Turm} Rc2 34. Re8 Kf7 35. Ra8
+{Die letzten Züge wurden unter schrecklichem Zeitdruck gespielt. Bauern sind
+aber hier nicht so wichtig} g5 {Der Läufer ist verloren. Weiß muss dringend
+ein Gegenspiel organisieren} 36. Rxa7+ Kg6 37. Re1 $6 {Was sonst? Früher oder
+später fällt die weiße Königsstellung zusammen} ({Ein Beispiel ist} 37. Bb8
+f4 38. Re1 Rxh2+ 39. Kg1 Rcg2+ 40. Kf1 Kf5 41. Rf7+ Kg4 42. Rxf8 Kf3 {und es
+wird Matt}) 37... gxf4 {Weiß hat nichts für die verlorene Figur} 38. Re6+ Kg5
+39. Rxh7 f3 {Ein entscheidender Zug in höchster Zeitnot. Es droht matt in Eins
+} 40. Re1 Kf4 {Mit dem Eindringen des Königs in die weiße Stellung ist die
+Partie gelaufen} 41. c5 {Dies rettet den Bauern, mehr aber auch nicht} Bg7 {
+Schwarz aktiviert den ungünstigen Läufer kontrolliert jetzt alle Felder im
+Zentrum} 42. Rf1 Ke3 43. Rh3 Rgf2 44. Re1+ Rce2 45. Rb1 {Weiß macht noch ein
+paar Alibizüge} Kd2 46. Rh7 Be5 0-1
+

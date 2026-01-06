@@ -1,0 +1,83 @@
+[Event "MMM 2018/2019"]
+[Site "?"]
+[Date "2018.11.16"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Fang, Baktasch"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1781"]
+[BlackElo "1689"]
+[Annotator "Tim Schmitz"]
+[PlyCount "51"]
+[SourceVersionDate "2018.11.17"]
+[WhiteTeam "SC Sendling 3"]
+[BlackTeam "FC Bayern München 8"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 {Das ist die Ausgangsstellung der Klassischen
+Antwort auf den Alapin-Aufbau.} 4. d4 cxd4 {Dieses Schlagen kommt eigentlich
+zu früh. Weil das Feld c3 jetzt schon unnötig für den Springer freigestellt
+wird.} 5. cxd4 Nc6 6. Nf3 Nf6 {Schwarz vermeidet Komplikationen, muss aber
+positionelle Konzessionen machen.} ({Die scharfe Variante lautet eigentlich} 
+6... Bg4 7. Nc3 Bxf3 8. gxf3 Qxd4 9. Qxd4 Nxd4 10. Nb5) 7. Nc3 Qd8 8. d5 $1 {
+Der Bauer marschiert nach vorne und erobert Raum.} Nb8 {Der Rückzug sieht
+zwar schlecht aus, ist aber der einzige Zug, um Materialverlust zu vermeiden.}
+9. Bc4 $6 {Weiß will sich schnell entiwckeln und den potentiell schwachen
+d-Bauern decken. Aber der Zug ist wahrscheinlich nicht der beste.} ({In
+Betracht kam auch} 9. Bb5+ $1 Bd7 10. O-O {mit einigem Entwicklungsvorsprung.
+Das ist wohl besser als die Partie-Fortsetzung. Schwarz kann den Bauern auf d5
+nicht gewinnen.} Bxb5 11. Nxb5 Nxd5 12. Qxd5 Qxd5 13. Nc7+ {mit Figurengewinn
+für Weiß.}) 9... g6 {Das ist eine gute Idee. Schwarz entwickelt erst einmal
+den Läufer auf eine aktive Diagonale und spielt um den störenden Bauern auf
+d5 herum.} 10. O-O Bg7 11. Be3 O-O 12. Qd2 $6 {[%csl Ya1,Yd5,Yf1,Yh6][%cal
+Ga1c1,Gf1d1,Ge3h6,Gd2d5] Bis hierhin ist die Stellung noch sehr angenehm.
+Jetzt gehen aber Weiß die Ideen aus. Immerhin verbindet der Damenzug die
+beiden Türme, deckt den schwachen Bauern und droht in manchen Momenten mit
+Le3-h6.} ({Nach} 12. Qe2 {ist} Bg4 {[%csl Yd7,Ye5][%cal Rb8d7,Rd7e5,Re5c4,
+Re5f3] etwas unangenehm wegen} 13. h3 Bh5 14. g4 Nxg4 15. hxg4 Bxg4) 12... Nbd7
+13. Rfd1 $2 {Das ist ein schlaffer Zug. Später sieht der Turm ganz nützlich
+auf der d-Linie aus, aber im Moment stört er bloß.} ({Stellungsgemäßer ist
+} 13. Bb3 {, wohin der Läufer auch eigentlich hingehört. Denn jetzt kommt
+der Springer nicht mit Tempo nach b6 und der d-Bauer bleibt gedeckt.}) 13...
+Nb6 {Das war nicht schwer vorherzusehen. Der Springer steht zwar auf einem
+schlechten Feld, aber er greift Bauer und Läufer an und öffnet die Diagonale
+für den Damenläufer. Später kann er mit Unterstützung einer Schwerfigur
+auf der c-Linie auf das Idealfeld c4 gebracht werden.} 14. Be2 {Mit
+Remisangebot, was zurecht auch abgelehnt wurde. Mir gefiel die Stellung schon
+nicht mehr, da der sichtbare Eröffnungsvorteil verspielt war und nur die
+bereits vorhandene Entwicklung den Isolierten Damenbauern kompensiert.} ({
+Das Problem an} 14. Bb3 {ist die prompte Erwiderung} Bg4 {Auf einmal hat
+Schwarz gutes Spiel. Der Springer auf f3 ist gefesselt und kann auch nicht gut
+gedeckt werden.}) 14... Bf5 {Schwarz entwickelt seine letzte Leichtfigur auf
+ein hervorragendes Feld und droht mit Sf6-e4, wonach die Läufer von Schwarz
+ein tolles Spiel haben und die weißen Bauernschwächen auf d5 und b2
+angreifen können.} 15. Bh6 {Weiß zieht gewissermaßen die Notbremse und
+nimmt Konfliktpotential aus der Stellung. Dafür verflacht das Spiel zusehends.
+} Be4 {Das ist eine interessante Idee, um die Spannung aufrecht zu erhalten.} (
+{Was halt nicht geht ist} 15... Ne4 16. Nxe4 Bxe4 17. Bxg7 Kxg7 18. Qd4+ {
+und Weiß gewinnt eine Figur. Das Motiv in der Partie ist ganz ähnlich - nur
+ohne Materialgewinn.}) 16. Bxg7 Kxg7 17. Nxe4 Nxe4 18. Qd4+ Nf6 {Nach diesen
+forcierten Zügen mit schöner Zentralisierung der Dame war ich wieder etwas
+zuversichtlicher. Die so guten schwarzen Läufer stehen nicht mehr auf dem
+Brett. Der Bauer ist immer noch schwach, aber kann nur unter Schwierigkeiten
+genommen werden. Mein Plan war es, den Bauern auf d6 abzutauschen und dann die
+Figuren aktivieren.} 19. Qe5 {Zunächst werden eine potentielle und eine reale
+Fesselung aufgebaut.} Qb8 {Ein ordentlicher Abwartezug, natürlich kann der
+Bauer auf e7 nicht genommern werden wegen des Spießes auf der e-Linie.} 20. d6
+{Ziel erreicht, aber im nächsten Zug irren sich beide Spieler.} exd6 {Das ist
+nicht gut. Und wird nur nicht bestraft, weil Weiß ohnehin nur auf Remis aus
+war und den Vorteil in der Stellung nicht erkennt.} 21. Qxd6 $2 {Zu schnell
+und überhastet gespielt mit dem Ziel, die Damen vom Brett zu nehmen.} ({
+Richtig ist} 21. Rxd6 $1 Nbd7 {, denn der Springer ist zweimal angeriffen und
+gewsselt. Jetzt ist am stärksten} 22. Qd4 {und Weiß hat eine starke
+Initiative. Es droht das Nehmen auf d7 und die Fesselung des Springers läßt
+sich nicht abschütteln.}) 21... Qxd6 {Natürlich tauscht Schwarz die Damen -
+auch wenn das die Remisbreite erhöht. Aber sein schlechter König ist nicht
+mehr gefährdet.} 22. Rxd6 Rad8 {Hier muss Weiß noch etwas aufpassen.} 23.
+Rxd8 {Das ist am sichersten.} ({Etwas schlechter ist} 23. Rad1 Rxd6 24. Rxd6
+Rc8 {und der gegnerische Turm kann auf c2 einsteigen.}) 23... Rxd8 24. Rc1 {
+Weiß überdeckt alle Einbruchsfelder. Hier war ich mir schon sehr sicher.} Rc8
+25. Rxc8 Nxc8 26. Nd2 {Weiß überdeckt e4 und bereitet die Überführung des
+Läufers vom schlechten Feld e2 auf das starke Feld f3 vor. Jetzt wurde das
+Remisangebot auch angenommen.} 1/2-1/2
+

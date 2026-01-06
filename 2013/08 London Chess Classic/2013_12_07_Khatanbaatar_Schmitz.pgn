@@ -1,0 +1,32 @@
+[Event "London Chess Classic 2013 "]
+[Site "?"]
+[Date "2013.12.07"]
+[Round "?"]
+[White "GM Khatanbaatar, Bazar"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2329"]
+[BlackElo "1909"]
+[PlyCount "127"]
+[EventDate "2013.12.08"]
+[SourceDate "2013.12.08"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. Re1 e6 8.
+d3 Be7 9. Nbd2 O-O 10. Nf1 Rac8 11. Ng3 b5 12. a3 Rfd8 13. h3 Ne5 14. Bf4 Ng6
+15. Be3 Qb7 16. Nd2 d5 17. Qe2 dxe4 18. dxe4 c4 19. Reb1 Bc5 20. Bg5 Qb6 21.
+Ndf1 Ne5 22. Rd1 Nd3 23. Be3 Bxe3 24. Nxe3 Qb7 {Hier steht Schwarz noch gut,
+allerdings nur noch mit wenigen Minuten auf der Uhr} 25. Nef1 Qe7 $6 {Die
+groben Ungenauigkeiten beginnen. Was soll die Dame auf e7?} ({Viel besser ist} 
+25... h5 $1 {, was nicht nur ein Luftloch für den König schafft, sondern auch
+den weißen Springer auf g3 bedrängt}) 26. b4 Rd7 27. a4 a6 28. axb5 axb5 29.
+Qe3 Rcd8 30. Ra5 Rb7 31. Nh2 h6 32. Nf3 Qc7 33. Rda1 Qf4 34. Qxf4 Nxf4 35. Nd4
+Rdb8 36. Ra8 N6h5 37. Nxh5 Nxh5 38. Rxb8+ Rxb8 39. Ra5 Nf4 40. Rxb5 Rc8 41. h4
+Rc7 42. g3 Nd3 43. f4 Rd7 44. Kf1 Kh7 (44... Rxd4 {funktioniert leider nicht}
+45. cxd4 c3 46. Rb8+ Kh7 47. Rc8) 45. Ke2 Nc1+ 46. Kd2 Nb3+ 47. Ke3 Kg6 (47...
+Rxd4 {geht wieder nicht} 48. cxd4 c3 49. Rc5 (49. Kd3 $4 c2 50. Kxc2 Nxd4+))
+48. h5+ Kh7 (48... Kf6 $4 49. e5+ Ke7 50. Nc6+ Ke8 51. Rb8+ Rd8 52. Rxd8#) 49.
+Rb8 Nxd4 50. cxd4 Rc7 51. Kd2 c3+ 52. Kc2 Rc4 53. d5 exd5 54. exd5 Rd4 55. Rb5
+Rc4 56. d6 Rd4 57. Rb6 Kg8 58. Kxc3 Rd1 59. Kc4 f6 60. Kc5 Rc1+ 61. Kd5 Rd1+
+62. Ke6 Re1+ 63. Kf5 Rd1 64. Kg6 1-0
+

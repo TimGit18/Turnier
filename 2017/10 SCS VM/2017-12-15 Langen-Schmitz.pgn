@@ -1,0 +1,67 @@
+[Event "SC Sendling VM"]
+[Site "?"]
+[Date "2017.12.15"]
+[Round "4"]
+[White "Langen, Bernd"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1842"]
+[BlackElo "1776"]
+[Annotator "Tim Schmitz"]
+[PlyCount "48"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. d3 Nf6 7. O-O O-O 8. Qe1
+Nd4 {Das ist die Ausgangstellung dieser Variante im Grand-Prix-Angriff, die
+bereits mehrmals auf dem Brett stand. Daher konnte ich die folgenden Züge
+schnell spielen} 9. Nxd4 cxd4 {So spielte nicht nur Bernd Langen ein Jahr
+zuvor gegen mich, sondern auch vor einigen Wochen von Nikolaus Konik gegen
+mich in Bad Wiessee gespielt wurde} 10. Ne2 {Das sieht logisch aus und greift
+auch den Bauern auf d4 an} ({Die Hauptvariante lautet nach Ftacnik} 10. Nd5
+Nxd5 11. Bxd5 e6 12. Bb3 a5) 10... d5 {Das ist das stellungsgemäße Gegenspiel
+} 11. exd5 Nxd5 12. Ng3 {[%csl Ye4,Ye7][%cal Rg3e4,Ge1e7] Der Springer räumt
+die e-Linie für die Dame und strebt nach dem Idealfeld e4. Es droht schon
+jetzt der Bauerngewinn auf e7} ({In der Vorgängerpartie spielte der Gegner} 
+12. Qg3 {mit der Drohung f4-f5, wonach später} e6 {dies verhindert}) 12... e6
+{Das ist der richtige Zug. Schwarz verteidigt den Springer auf d5 und schützt
+auch gleichzeitig den e-Bauern. Nachteil ist das Einsperren des eigenen
+Damenläufers, aber der hat auf dem Königsflügel auch keine großen
+Aussichten} 13. Ne4 {[%csl Yc5,Yd6,Yf6][%cal Re4f6,Re4d6,Re4c5] Der Springer
+besetzt das schöne Zentralfeld e4 und kontrolliert einige schwarze Felder im
+schwarzen Lager} Bd7 {Die Entwicklung des Damenläufers auf der Diagonalen
+a8-h1 ginge auch über ein Fianchetto. Schwarz möchte aber die Felder nicht
+schwächen} 14. Rf3 {[%csl Yc6,Yg5,Yh3,Yh4][%cal Rf3h3,Ge1h4,Ge4g5,Gd7c6] Der
+Turmzug bereitet Kopfzerbrechen. Obwohl Schwarz eine gute Stellung hat, kann
+Weiß einen gefährlichen Angriff aufbauen} Bc6 15. Rh3 Ne3 $5 {Das ist eine
+zweischneidige Entscheidung. Schwarz muss und möchte Gegenspiel entwickeln} ({
+Eine andere Variante, die ich berechnet hatte war} 15... Nf6 16. Ng5 h6 17. Qh4
+hxg5 18. fxg5 Nh5 19. g4 {und Schwarz muss die Figur wieder hergeben}) 16. Bxe3
+dxe3 {Weiß kann den Bauern wegen der Fesselung auf d4 nicht direkt nehmen.
+Aber er wird ihn einkreisen und dann einkassieren. Trotzdem hat Schwarz
+Diagonalen für seine Läufer geöffnet und genügend Gegenspiel entwickelt}
+17. c3 {[%csl Yd3,Yd4] Weiß überdeckt zwar mit diesem Zug das Fesselungsfeld
+d4, schwächt aber auch den Bauern d3, dessen Deckungsfigur angegriffen werden
+kann} b5 18. Bb3 Qxd3 $6 {Schwarz stellt das materielle Gleichgewicht wieder
+her, da Weiß den Bauern auf e3 abholt} 19. Rxe3 {Weiß wählt die sichere
+Variante} (19. Ng5 {Die riskante, angriffsträchtige Fortsetzung lautet} h6 20.
+Qh4 Qd2 {und wegen des drohenden Matts auf g2 wird Weiß Material verlieren})
+19... Qd8 20. Ng5 {Weiß nimmt den Angriff wieder auf. Er hat allerdings
+weniger Schwung als vorher, da der weiße Damenläufer schon abgetauscht wurde}
+Qb6 {[%csl Ye3][%cal Rb6e3,Re3g1] Ein guter Zug, der den Turm fesselt} 21. Kh1
+{Entfesselt den Turm, verlangsamt den Angriff aber noch mehr} Qb7 {[%csl Yg2]
+[%cal Rc6g2,Rb7c6] Das ist ein guter und wichtiger Zug. Mit der Batterie auf
+der langen Diagonalen baut Schwarz genügend Druck auf. Weiß kann jetzt die
+schwarzen Drohungen einfach nicht mehr ignorieren} 22. Qg3 {Weiß bringt die
+Dame auf den Königsflügel und verteidigt den Bauern auf g2. Schön ist, dass
+der Turm auf e3 jetzt einigermaßen wirkungslos bleibt} Rad8 {[%csl Yb7,Yc6,
+Yd2,Yg2][%cal Gd8d2,Rd2g2,Rc6g2] Schwarz bringt seine letzte unentwickelte
+Figur in das Spiel und droht damit auf d2 einzusteigen, um den Druck auf g2
+noch weiter zu erhöhen} 23. Qh3 {[%csl Yb3,Ye3,Ye6,Yg5,Yh3,Yh7][%cal Rh3h7,
+Rg5h7,Gh3e6,Gg5e6,Ge3e6,Gb3e6] Weiß stellt eine letzte Drohung gegen den
+schwarzen König auf, die allerdings leicht pariert werden kann} h6 24. Nf3 {
+Der Rückzug ist die seriöse Option} ({Zu einem spekulativen Opfer} 24. Nxe6
+fxe6 25. Bxe6+ Kh7 26. f5 g5 {wollte Weiß sich nicht hinreißen lassen.
+Schwarz hat immer noch Gegenspiel gegen g2 und auf der d-Linie und sein König
+steht verhältnismäßig sicher}) 24... Bxf3 {Schwarz reduziert das
+Angriffsmaterial und bietet Remis an, dass auch angenommen wurde} 1/2-1/2
+

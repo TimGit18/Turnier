@@ -1,0 +1,58 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "Munich"]
+[Date "2008.11.28"]
+[Round "5"]
+[White "Gizunterman, Yuriy"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1631"]
+[BlackElo "1807"]
+[Annotator "Tim Schmitz"]
+[PlyCount "170"]
+[EventDate "2008.??.??"]
+
+{D02: Damenbauernspiele} 1. d4 d5 2. Nf3 Nf6 (2... e6 {[%emt 0:00:00]}) 3. Bf4
+c5 4. c3 Qb6 5. Qb3 c4 ({Better} 5... Nc6 6. dxc5 Qxc5) 6. Qc2 Nc6 7. h3 (7.
+Nbd2 Bg4 (7... g6 8. e4 dxe4 9. Nxc4 Qd8 10. Nfe5 Bg7 11. Nd2 O-O 12. Nxe4 Nd5
+13. Nxc6 bxc6 14. Bd2 f5 15. Ng5 Qd6 16. Be2 e5 17. dxe5 Qxe5 18. Nf3 Qe6 19.
+c4 Nf6 20. Nd4 Qd6 21. Bc3 Ne4 22. Rd1 {Djeno,S (1953)-Sargac,R (2184)/Sibenik
+2006/CBM 114 ext/0-1 (41)}) 8. e4 e6 9. Be2 Be7 10. Ng1 O-O 11. Bxg4 Nxg4 12.
+Ngf3 Nf6 13. e5 Nd7 14. Bg5 Qd8 15. Bxe7 Qxe7 16. O-O b5 17. Rfe1 Rfb8 18. Nf1
+b4 19. Ng3 Rb6 20. Qd2 Rab8 21. Qf4 bxc3 {Ramos,D (2330)-Tischbierek,R (2495)/
+Germany 1990/GER-chT/0-1 (47)}) 7... Bf5 $146 (7... g6 8. e3 Bg7 9. Nbd2 Bf5
+10. Qc1 O-O 11. Be2 Qa5 12. O-O Rac8 13. Re1 b5 14. a3 Qb6 15. Bf1 h6 16. g4
+Be6 17. Bg2 Na5 18. Ne5 Rcd8 19. Qc2 h5 20. Qd1 Nc6 21. Nxc6 Qxc6 22. f3 {
+Hareux,H (2199)-Bujisho,B (2289)/Bescanon 1999/EXT 2000/0-1 (50)}) 8. Qc1 e6 ({
+The recommended} 8... Nh5 {does not work here because of the escape hatch on h2
+}) 9. Nbd2 h6 $6 {Prevents the nice bishop of exchange} 10. e3 Be7 11. Be2 O-O
+12. Bd1 {White prepares to take out the light-squared bishop. I don't see the
+right continuation.} Rfd8 13. Bc2 Bxc2 14. Qxc2 Bd6 15. Bxd6 Rxd6 16. O-O Qc7
+17. e4 dxe4 18. Nxe4 Nxe4 19. Qxe4 Rd5 {The first critical position. The
+c4-pawn is weak, but constrains the white queenside pawns. I must start an
+attack on the queenside, whereas Yuriy seeks his chances in the center.} 20.
+Rfe1 Rad8 21. Qe2 b5 22. Rad1 Qa5 23. a3 Qa4 $2 {This looks very dubious,
+because the queen has not enough space.} 24. Rc1 Qa5 25. Qc2 Qc7 26. Rcd1 a5
+27. Qe2 Qd6 28. a4 $1 {A strong counter-attack} Qb8 $1 29. axb5 Qxb5 30. Qc2
+Rb8 31. Rb1 Rb7 $2 ({In time pressure the wrong move. A good position gives
+the exchange} 31... e5 32. dxe5 Nxe5 33. Nxe5 Rxe5 34. Rxe5 Qxe5 $15) 32. Re2
+a4 33. Ra1 Ra7 34. g3 Rf5 35. Qe4 Qd5 36. Nd2 Kf8 37. f3 Rg5 38. Kf2 Rh5 39.
+Qxd5 exd5 40. Kg2 Rf5 {The time control is passed at the cost of a slightly
+worse position.} 41. f4 g5 42. fxg5 hxg5 43. Nf3 g4 44. hxg4 Rf6 45. Ne5 Nxe5
+46. Rxe5 Rb6 {An ideal setup for White. His rooks are more active and he has
+attacking chances on the kingside.} 47. Ra2 Rb5 48. Kf3 Kg7 49. g5 Kh7 50. Kg4
+Kg6 {White's winning plan makes progress. But the position is not easy to
+manage.} 51. Rf5 Ra6 52. Kf4 Kg7 53. Re5 Kg6 54. Kg4 Ra7 55. Re8 Ra6 56. Rh8
+Kg7 57. Rh2 Rab6 58. Kf5 Ra6 59. Ra1 Rab6 60. Ra2 Ra6 {White does not find the
+death blow} 61. Kf4 Rab6 62. Rh6 Rxb2 63. Rxb6 Rxb6 $2 ({Missing a fine
+position with} 63... Rxa2 $17) 64. Rxa4 Rb3 65. Ra5 Rxc3 66. Rxd5 Rd3 67. g4 c3
+68. Ke4 c2 69. Rc5 Rd2 70. Rc6 Rg2 71. Kf3 Rd2 72. Ke3 Rg2 73. Kd3 Rxg4 {
+Black is struggling for draw and in final time pressure again.} 74. Rxc2 Rxg5
+75. Kc4 Rg4 76. Ra2 $1 {I suppose the position is strategically won for White.
+His rook becomes active and the passed pawn is very dangerous.} Kf6 77. Ra6+
+Kg5 78. Kc5 Re4 79. d5 $1 {Now White has decisive advantage} f5 80. Re6 Kf4 81.
+d6 $1 {The winning move if not happens any disaster} Rxe6 82. d7 Re5+ 83. Kc6
+Re6+ 84. Kd5 $4 ({Final mistake. Probably winning is} 84. Kc5 Re5+ 85. Kc4 Re4+
+{, and on c2 there is no final check anymore.}) 84... Re1 85. d8=Q Rd1+ {
+White resigns} 0-1
+

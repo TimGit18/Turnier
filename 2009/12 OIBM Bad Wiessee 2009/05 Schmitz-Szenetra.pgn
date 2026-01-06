@@ -1,0 +1,44 @@
+[Event "OIBM Bad Wiessee 2009"]
+[Site "?"]
+[Date "2009.11.04"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Szenetra, Werner"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1860"]
+[BlackElo "2255"]
+[Annotator "Tim Schmitz"]
+[PlyCount "86"]
+[EventDate "2009.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 {Die modernste Behandlung der Modernen
+Verteidigung. Ich wähle eine aggressive Variante, aber keine natürliche} 5. Qd2
+Nd7 6. f3 b5 7. h4 Bb7 8. h5 $6 ({Normal ist} 8. O-O-O h5 9. Nh3 Ngf6 10. Kb1
+Rc8 11. Ng5 {und Entwicklung des Läufers f1 nach h3}) 8... c5 9. h6 Bf8 10. g4
+{Konsequent gespielt, aber ich verstehe die Stellungsbilder nicht. Daher hätte
+ich besser die weniger aggressive Option gewählt} cxd4 11. Bxd4 e5 12. Be3 Ne7
+{Schwarz baut sich trickreich auf, es droht bereits b4 nebst d5. Ich habe die
+Dynamik der schwarzen Stellung vollständig unterschätzt} 13. Bh3 $2 {Ein
+schlechter Zug, positionell und taktisch. Natürlich war der Bauer d6 tabu,
+aber das Feld c4 wird schwach (nach Sd7-b6). Veritable Alternativen waren
+a2-a3 (ungeprüft verworfen) oder 0-0-0} b4 14. Nd5 {Ich will d5 nicht zulassen}
+Nxd5 15. exd5 Qa5 16. g5 Nb6 (16... Bxd5 {erlaubt} 17. a3 {mit Gegenspiel}) 17.
+Bxb6 Qxb6 18. Ne2 {[%csl Ye2,Ye4,Yg3][%cal Re2g3,Rg3e4] Das Ziel ist e4} Be7 {
+Nimmt den zweiten der schwachen Bauern aufs Korn} 19. Ng3 $2 {Wieder ein
+ungenauer Zug, Schwarz hat eine gute Replik} Qd4 20. Qxd4 exd4 21. f4 $6 (21.
+Ne4 Bxd5 22. Rg1 {war die passive Alternative}) 21... Bxd5 22. Rh2 f5 $5 {
+Ich hatte Angst vor f7-f6, aber der Zug legt die Bauernstruktur endgültig fest.
+} 23. Bg2 Bxg2 24. Rxg2 {Ich wollte den starken schwarzen Läufer abtauschen,
+aber das Ergebnis ist...."guter" Läufer gegen "schlechter" Springer} d5 25.
+O-O-O {Eine Entscheidung, getrieben von der Gier den Bauern zurück zu gewinnen}
+Kd7 26. Rxd4 Kc6 27. Re2 Rhe8 28. Kd1 Bc5 {Schwarz spielt das Endspiel jetzt
+sehr genau} 29. Rd3 Rxe2 30. Kxe2 Re8+ 31. Kf1 $2 {Verliert sofort} (31. Kd2
+Bd6 32. Ne2 Re4 33. Rf3 {ist schwierig zu halten, verliert aber noch nicht
+direkt}) 31... Be3 32. Rxe3 {Das Qualitätsopfer aus Verzweifelung funktioniert
+nicht, aber es gab keine wirklichen Alternativen} (32. Ne2 Re4 {geht auch in
+die Binsen}) 32... Rxe3 33. Kf2 d4 $1 34. Nf1 {Der Rest ist Agonie} Re7 35. Nd2
+Kd5 36. Nf3 Re4 37. Kg3 Re3 38. Kg2 Ke4 39. Ne5 Kxf4 40. Nd3+ (40. Nxg6+ hxg6
+41. h7 Re8 {funktioniert leider nicht}) 40... Rxd3 41. cxd3 Ke3 42. Kg3 f4+ 43.
+Kg2 Ke2 0-1
+

@@ -1,0 +1,43 @@
+[Event "Baden-Baden Fasching"]
+[Site "?"]
+[Date "2016.02.06"]
+[Round "?"]
+[White "Weidauer, Sigurd"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2049"]
+[BlackElo "1777"]
+[PlyCount "57"]
+[EventDate "2016.??.??"]
+
+1. e4 c5 2. a3 $5 {Das gilt als Verbesserung des Sizilianischen Flügelgambits}
+Nc6 $6 {Es ist eigentlich die falsche Entscheidung das Gambit anzunehmen und
+damit versuchen, zu widerlegen} ({Viel besser ist die von sehr guten Spielern
+angewandte Variante mit dem Königsflügelfianchetto} 2... g6 {Die Idee dieses
+Zugs ist es gegen die schwarzen Felder im Zentrum und auf dem Damenflügel zu
+spielen. Gleichzeitig wird das Zentrum auf c5 gehalten.} 3. b4 {Wie im
+Sizilianischen Flügelgambit wird der b-Bauer als Waffe benutzt} Bg7 4. Nc3 d6
+{Schwarz hat das Zentrum gehalten und seinen Läufer - anders als in der
+Partie - ideal entwickelt}) 3. b4 cxb4 4. axb4 Nxb4 5. d4 {Auf Kosten eines
+Bauern hat Weiß ein starkes Bauernzentrum errichtet. Schlimmer scheinen
+allerdings die gefährlichen offenen Linien auf dem Damenflügel, die das
+Spiel für Weiß begünstigen} Qc7 {[%csl Yc2][%cal Gc7c2] Die Idee dieses
+Zuges ist die Dame auf ein aktives Feld zu stellen und gleichzeitig den Bauern
+auf c2 anzugreifen. Aber der Zeitverlust ist schon mehr als man sich erlauben
+kann. Schwarz sollte besser um das Zentrum kämpfen} ({Die zentrale
+Alternative, die auch nicht schwer zu sehen war, lautet} 5... d5 6. c3 Nc6 7.
+exd5 Qxd5 8. Na3 {Der Springer ist zwar komisch auf a3 platziert, will aber
+nach b5, was nicht verhindert werden kann} Bf5 {Dieser Zug rettet die schwarze
+Spielidee} 9. Nb5 Rc8 {Jetzt kann Weiß auf a7 den Bauern zurückgewinnen,
+aber Schwarz ist aus dem Gröbsten heraus}) 6. c3 {Dieser Bauernzug ist der
+Beginn einer raumgreifenden Bauernsturms im Zentrum. Ziel ist der schwarze
+Springer, der keine guten Felder findet} Nc6 7. d5 Ne5 8. f4 Ng6 9. Nf3 {
+[%csl Yc6,Yd4,Yd5,Ye4,Ye5,Ye6,Yf4,Yf5,Yg5] Weiß beherrscht das komplette
+Zentrum und Teile der beiden Flügel. Spätestens hier muss Schwarz
+Gewaltmaßnahmen ergreifen, um nicht überrant zu werden} d6 $2 (9... e6 10.
+Na3) 10. Be3 a6 11. h4 h5 12. Bd3 Nf6 13. Qb3 Nd7 (13... e5) 14. Bb5 Qb8 15.
+Qa4 Kd8 $2 16. Ng5 Ke8 17. g3 Qc7 18. Qb4 a5 19. Qa4 b6 20. Bd4 Rh6 21. Na3 Ba6
+22. Rb1 Nh8 23. O-O e6 24. Rfe1 Ke7 25. Bxa6 Rxa6 26. Nb5 Qc8 27. e5 Nc5 28.
+exd6+ Kd8 29. Qa2 1-0
+

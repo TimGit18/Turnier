@@ -1,0 +1,16 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2025.11.01"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Kyparissopoulos, Nikolaos"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteElo "1844"]
+[BlackElo "1493"]
+[Annotator "Tim Schmitz"]
+[PlyCount "89"]
+[SourceVersionDate "2025.11.01"]
+
+{[%evp 0,10,19,31,34,19,13,4,41,44,35,28,34]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O a6 5. Ba4 g6 6. d4 $6 b5 7. Bb3 exd4 8. c3 Bg7 9. cxd4 O-O 10. Nc3 Na5 11. Bc2 d5 12. exd5 Nxd5 13. Bg5 Nxc3 14. bxc3 Qd5 15. Re1 Qd6 $4 16. Be7 Qf4 17. Bxf8 Kxf8 18. Qc1 Qd6 19. a4 Nc4 20. Qg5 Bf6 21. Qg3 Qb6 22. Be4 Rb8 23. axb5 a5 24. Bc6 Bf5 25. Ng5 Kg7 26. Ne4 Be7 27. Qf4 Ba3 28. Nd2 Bd6 29. Nxc4 Bxf4 30. Nxb6 cxb6 31. Re8 Rxe8 32. Bxe8 Bd3 33. g3 Bd6 34. f3 Kf6 35. Kf2 Bc4 36. Bc6 Kg7 37. Ke3 Kf6 38. Kd2 Kg7 39. Kc2 h5 40. Ra4 Bf1 41. c4 Bb4 42. Rxb4 axb4 43. c5 bxc5 44. dxc5 Kf8 45. b6 1-0
+

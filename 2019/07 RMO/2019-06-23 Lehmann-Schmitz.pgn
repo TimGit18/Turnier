@@ -1,0 +1,38 @@
+[Event "Rhein-Main-Open (Gruppe A)"]
+[Site "?"]
+[Date "2019.06.23"]
+[Round "7"]
+[White "Lehmann, Tim"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "1984"]
+[BlackElo "1835"]
+[Annotator "Tim Schmitz"]
+[PlyCount "34"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.06.23"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. h4 {Der New Barry-Attack hat in den
+letzten Jahren stark an Beliebtheit zugewonnen. Das weiße Konzept ist einfach:
+Vormarsch des h-Bauern nach h5, verbunden mit solider Entwicklung und langer
+Rochade.} h5 {Schwarz stoppt mechanisch den h-Bauern wie Carlsen gegen
+Naiditsch.} 6. Nb5 {[%csl Yc7][%cal Gb5c7,Gf4c7] Das ist die zweite Idee von
+Weiß. Er möchte Druck auf den Punkt c7 ausüben, um damit die Aufstellung
+der schwarzen Figuren zu erschweren.} ({Die Hauptfortsetzung lautet} 6. Nf3 {
+mit normaler Entwicklung.}) 6... Na6 7. Be2 c6 8. Nc3 {Diese Züge wurden alle
+recht schnell gespielt, da sie sich von selber ergeben. Schwarz sollte nun den
+Springer rezentralisieren oder rochieren.} c5 $6 {Ein zweifelhafter Zug,
+vielleicht sogar ein Fehler. Weiß kann mit einem Schlag die schwarze
+Bauernstruktur zerstören. Hier gab es zwei bessere Züge.} ({(a)} 8... Nc7 9.
+Qd2 O-O 10. Nf3 Bf5 {mit normalem Spiel}) ({(b)} 8... O-O 9. Bxa6 bxa6 10. Nge2
+Nd7 11. O-O e5 {und Schwarz kann sich befreien.}) 9. Bxa6 bxa6 10. dxc5 {
+Weiß steht etwas besser. Schwarz hat für den Minusbauern das Läuferpaar und
+für dieses Kompensation.} O-O 11. Nf3 Qa5 12. Qd4 $6 {Weiß revanchiert sich,
+indem er die Dame in den Abzug stellt. Zwar kann Schwarz kein Material
+gewinnen, aber die Stellung vereinfachen.} Ne4 $6 {Der falsche Abzug.} (12...
+Nd7 {hält e5 und c5 im Blick} 13. Ne5 Nxe5 14. Bxe5 Bxe5 15. Qxe5 Be6) 13. Be5
+Bxe5 14. Nxe5 Nxc3 15. Qxc3 Qxc3+ 16. bxc3 Bf5 17. Kd2 Rfc8 {Die Stellung ist
+ausgeglichen. Aufgrund der Turniersituation wurde hier Remis vereinbart.}
+1/2-1/2
+

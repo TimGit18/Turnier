@@ -1,0 +1,72 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2019.11.02"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Hillebrand, Carsten"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1858"]
+[BlackElo "2003"]
+[Annotator "Tim Schmitz"]
+[PlyCount "66"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.11.03"]
+
+1. e4 c5 2. c3 $6 {Eine ungerechtfertigte Reminiszenz an unsere Begegnung von
+acht Jahren im Sparkassen-Open Dortmund 2011. Weiß gewann eine
+Zeitnotschlacht nach einer Partie mit beiderseitig vielen Fehlern. Trotzdem
+ist die Vermeidung des Offenen Sizilianers (Kalashnikov-System) eher
+zweifelhaft und wenig mutig.} d5 3. exd5 Qxd5 4. d4 g6 {Das Fianchetto gegen
+den Alapin-Aufbau ist eine eher seltene, aber grundsolide Aufstellung.} 5. Nf3
+Bg7 6. Na3 cxd4 7. Bc4 Qd8 ({Weiß hofft auf die schlichte Fortsetzung} 7...
+Qe4+ 8. Be3 dxe3 9. Bxf7+ {mit Damengewinn.}) 8. O-O $6 {Dieser biedere Zug
+gilt als recht schlaff und scoret auch nicht wirklich. Natürlich kann Schwarz
+den Bauern c3 nicht nehmen und will es auch nicht. Sein Ziel ist es, die
+Figuren frei zu entwickeln und ein Druckspiel gegen den auftauchenden
+Isolani-Bauern d4 aufzubauen.} ({Von Sveshnikov stammt der viel schärfere Zug
+} 8. Qb3 {, was viel aggressiver wirkt. Schwarz muss seine Verteidigung
+organisieren und sich hinten hineinstellen.} e6 9. Bg5 {und schon brennt das
+Brett.}) 8... Nh6 $5 {Ein interessantes Feld für den Springer, der nach f5
+entwickelt werden soll.} 9. cxd4 O-O 10. Be3 Nf5 11. Qe2 Nc6 12. Rfd1 {Das
+Spiel geht jetzt endgültig in positionelle Bahnen über. Weiß steht etwas
+freier und ist besser entwickelt. Dafür hat Schwarz die bessere
+Bauernstellung und seine Figuren sind gut koordiniert. Wenn er ohne Probleme
+das Endspiel erreicht, dann hat er sehr gute Aussichten.} Nd6 {[%csl Yc4,Ye4,
+Yf5,Yg4][%cal Rd6e4,Rd6c4,Gc8f5,Gf5g4] Das ist auch ein recht gewitzter Zug.
+Schwarz befragt die beste Figur von Weiß, den Läufer auf c4. Gleichzeitig
+wird die Diagonale für den eigenen Damenläufer geöffnet, der nach f5 oder
+g4 entwickelt wird.} 13. Bb3 Na5 14. Bc2 Nc6 15. Bb3 {Die Schaukel deutet ein
+Remiseinverständnis an, aber Schwarz hat gar keinen Grund hier in ein
+Unentschieden einzuwilligen.} Bf5 $1 {Schwarz hat mit diesem Zug bereits
+locker ausgeglichen und steht schon perspektivisch besser. Die Figuren sind -
+wie in der Alekhine-Verteidigung - sehr gut aufgestellt, während das weiße
+Zentrum einen eher schutzbedürftigen Eindruck macht. Leider macht sich der
+ungünstig platzierte Springer auf a3 negativ bemerkmar.} 16. Rac1 Rc8 17. Nb1
+$2 {Dieser Zug, obgleich plausibel, erweist sich als Zeitverlust. Die Idee ist
+es, den Springer nach c3 zu entwickeln (und dabei Umwege über b5 zu vermeiden)
+. Nur den Luxus hat Weiß eigentlich nicht mehr.} ({Giftiger ist} 17. Nc4 {
+, damit der Springer nach e5 kommt oder günstig auf c4 abgetauscht wird.})
+17... Na5 $1 {Schwarz nutzt die Gelegenheit, einen günstigen Figurenabtausch
+herbeizuführen.} 18. Bc2 Rxc2 19. Rxc2 Bxc2 20. Qxc2 Nac4 21. Nc3 Nxe3 22.
+fxe3 {Weiß hat die Stellung stabilisiert. So war jedenfalls der Eindruck in
+der Partie. Natürlich steht Schwarz gesünder wegen der weißen Bauerninseln.
+Aber er muss schon einige Anstrengungen aufwänden.} Nf5 {Erster Angriffspunkt
+ist der Bauer auf e3 und möglicher Qualitätsgewinn.} 23. Qe2 e6 24. Qd3 $6 {
+Das ist bereits eine schwere Konzession, da ein Zug verschwendet wurde.} Qb6 $1
+{[%csl Yb2,Yd4][%cal Rb6b2,Rb6d4] Ein weiterer guter Zug, der die beiden
+weißen Schwächen auf das Korn nimmt.} 25. e4 $2 {Das ist ein Konzept zur
+Selbstvernichtung. Was wie ein aktiver Zug und Raumgewinn aussieht, ist in
+Wirklichkeit ein schwerer Fehler, der von Schwarz sofort ausgenutzt werden
+kann.} Ne7 $6 {Schwarz verpasst den sofortigen Knockout, aber er hält die
+Spannung im Zentrum aufrecht.} ({Zu einem sofortigen Gewinn führte} 25... Nxd4
+$1 26. Nxd4 Rd8 27. Nce2 e5 {und der Bauer auf b2 hängt auch noch.}) 26. Kh1
+Rd8 27. Qc4 $6 {Klar stand die Dame nicht gut auf d3, aber auf c4 ist sie noch
+schlechter.} Rc8 28. Qd3 $4 {Weiß stellt einzügig die Partie ein, da er die
+Bedrohung gegen den Springer auf c3 völlig übersieht.} ({Die einzige
+Alternative war} 28. Qb3 Qxb3 29. axb3 {und Schwarz steht besser, aber noch
+nicht klar auf Gewinn.}) 28... Qxb2 29. Nb5 $2 {Das verliert sofort, aber die
+passive Verteidigung war auch keine Option.} a6 30. Nd6 Rc1 31. h3 Qa1 {
+Materialverlust ist unvermeidbar, daher Aufgabe, zum Beispiel} 32. Rxc1 Qxc1+
+33. Kh2 Qf4+ 0-1
+

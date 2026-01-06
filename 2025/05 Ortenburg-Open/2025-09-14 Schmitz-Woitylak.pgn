@@ -1,0 +1,17 @@
+[Event "Ortenburg-Open (B)"]
+[Site "?"]
+[Date "2025.09.14"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Woitylak, Steffen"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1840"]
+[BlackElo "1970"]
+[Annotator "Tim Schmitz"]
+[PlyCount "49"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2025.09.14"]
+
+{[%evp 0,47,27,45,58,3,2,-22,-22,-15,18,30,48,22,63,69,77,66,67,83,109,86,92,108,145,112,127,144,170,147,147,156,150,135,152,145,152,153,168,152,175,152,156,132,159,134,138,129,127,115]} 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 {Hier begann ich mich schon zu freuen, denn die Variante kann in das Abtauschsystem übergleiten, in dem Weiß ausgezeichnete Chancen auf Vorteil besitzt. Doch soviel Glück ist eher selten in einem Open-Turnier.} 5. cxd4 Nc6 6. Nf3 e6 7. Nc3 Bb4 {Die Variante war mir nicht bekannt, sieht aber spielbar aus.} 8. Bd3 Nf6 9. O-O Bxc3 $6 {Den Zug habe ich zunächst nicht ganz verstanden. Weiß erhält das Läuferpaar und der bislang isolierte Damenbauer wird aufgewertet. Tatsächlich ist dies der häufigste Zug in der Stellung. Allerdings scoret Weiß hier auch sehr gut.} 10. bxc3 O-O 11. Re1 Qh5 {Der Machine gefällt der Zug überhaupt nicht. Die Dame stand doch gut auf d5.} 12. Qc2 Re8 13. Ne5 $1 {Das gefiel mir richtig gut. Schwarz darf diesen Springer im Zentrum nicht schlagen, weil sonst die eingeklemmte Dame früher oder später gefangen wird. Was sollte er tun?} Nd5 $5 {Wahrscheinlich ist dies die beste Verteidigung. Schwarz verhindert das drohende Te1-e3 und öffnet eine Rückzugsdiagonale für die schwarze Dame.} ({Denn der Konter funktioniert nicht} 13... Ng4 $2 14. Nxg4 Qxg4 15. Bxh7+) ({Nach} 13... Nxe5 $4 14. Rxe5 Qh4 15. Bg5 {hat die Dame kein Feld mehr.}) 14. Nxc6 bxc6 {Der Abtausch schien mir logisch. Ich entwerte die schwarze Bauernstruktur und bringe mit Tempo den Turm in das Zentrum.} 15. Re5 f5 $1 {Das ist ein starker Defensivzug. Er entwertet zwar die schwarze Bauernstellung noch mehr (insbesondere den Bauern e6), schränkt aber auch gleichzeitig die Wirksamkeit des weißen Königsläufers ein.} 16. Bd2 {Auch dieser Zug ist noch sehr gut. Weiß entwickelt seine letzte Leichtfigur und nimmt das Feld b4 unter Kontrolle, so dass beizeiten auch einmal c3-c4 gespielt werden kann, um den starken Springer auf d5 zu vertreiben.} Nf6 {Dieser Rückzug enthält mit Sf6-g4 und Doppelangriff auf e5 und h2 eine versteckte Drohung.} 17. Be2 {Ich begegne der Drohung und will gleichzeitig den Läufer auf eine bessere Diagonale (h1-a8) bringen.} Qf7 18. Bf3 Bb7 {Auch Schwarz beendet seine Entwicklung, jedoch mit einem schlecht platzierten Läufer.} 19. Rb1 {Auch dies ist noch ein guter Zug. Die Entwicklung wird beendet und der Läufer b7 ins Visier genommen.} Rac8 {Prophylaktisch deckt Schwarz den schwachen c-Bauern und entwickelt seine letzte Figur, entblößt aber den Bauern auf a7.} 20. Ra5 {Immer noch versuche ich den Druck hochzuhalten. Schwarz muss irgendwie den a-Bauern decken.} Ba8 {Schwarz deckt den Bauern a7 mit der Dame, jedoch steht der Läufer jetzt ganz passiv.} 21. Qa4 {[%csl Ya7,Yc6][%cal Ga5a7,Ga4c6] Weiß erhöht den Druck auf a7 und presst gleichzeitig gegen den Bauern c6.} Re7 22. Bg5 {Auch dieser Zug ist noch nachvollziehbar. Der weiße Damenläufer ist keine gute Figur und möchte sich vielleicht abtauschen. Der Springer wird gefesselt und kann nicht ziehen.} h6 23. Bxf6 gxf6 24. Re1 {Hier bot ich aus unerfindlichen Gründen Remis (Zeitnot?), obwohl man hier nur auf zwei Ergebnisse spielen kann. Weiß steht deutlich besser und sah Gespenster. Ein mögliche Fortsetzung wäre} Kh7 25. Ra6 $18 1/2-1/2
+

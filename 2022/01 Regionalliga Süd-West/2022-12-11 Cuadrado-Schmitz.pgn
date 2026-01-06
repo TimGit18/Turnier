@@ -1,0 +1,108 @@
+[Event "Regionalliga Südwest"]
+[Site "?"]
+[Date "2022.12.11"]
+[Round "?"]
+[White "Cuadrado, Guillermo"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2114"]
+[BlackElo "1850"]
+[Annotator "Tim Schmitz"]
+[PlyCount "81"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.12.11"]
+[WhiteTeam "Roter Turm Altstadt 1"]
+[BlackTeam "SC Sendling"]
+
+1. d4 Nf6 2. Bf4 {Dieser Zug leitet das sogenannte Rapport-Jobava-System ein.
+Weiß vermeidet ausgetretene theoretische Pfade und hält sich gleichzeitig
+noch die Option offen, in das Klassische Londoner System (mit Sg1-f3, e2-e3,
+Sb1-d2, Lf1-d3 und c2-c3) überzuleiten. Oder er geht in das Barry-System, das
+statt des Vorstoßes h2-h4 durch die Entwicklung Sg1-f3 gekennzeichnet ist.} g6
+{Schwarz lädt Weiß ein, in einen Klassischen Königsinder überzugehen.} 3.
+Nc3 {Weiß bleibt bei seiner Wahl. Mehr noch: er droht jetzt bereits e2-e4, so
+dass Schwarz es vermeiden muss oder will, in eine Pirc-Verteidigung
+überzugehen.} d5 {Dieser Zug ist sozusagen erzwungen.} 4. e3 Bg7 5. h4 {
+Hiermit legt sich Weiß fest. Früher wurde diese Spielweise noch "The New
+Barry Attack" genannt (im Gegensatz zum Klassischen Barry-Angriff). Allerdings
+hat der Zug mittlerweile eine solche eigenständige Bedeutung, dass er seit
+2013 zum Rapport-Jobava-Komplex gezählt werden kann.} h5 {Das ist die
+häufigste Antwort von Schwarz. Und eine gute. Statistisch holt er fast 50%
+aus den entstehenden Partien.} 6. Nf3 Bg4 $6 {Dieser Zug ist zu verpflichtend.
+Sicherlich entwickelt Schwarz eine seiner Leichtfiguren. Aber er stellt sie
+auf ein Feld, auf dem sie - nach Aufhebung der Fesselung - mit Sf3-e5
+angegriffen werden wird, ein Zug, den Weiß sowieso machen will. Daher stellt
+sich der Zug in Wahrheit als ein Tempoverlust heraus.} ({Nichts spricht gegen
+das natürliche} 6... O-O {Die Hauptvariante lautet nun} 7. Ne5 c5 8. Qd2 Nc6
+9. O-O-O cxd4 10. exd4 Bf5 {mit guter Entwicklung für Schwarz und Gegenspiel
+auf dem Damenflügel insbesondere auf der c-Linie.}) 7. Qd2 {Das ist die
+weiße Idee: Vorbereitung der langen Rochade, Entfesselung des eigenen
+Springers und Fernwirkung nach h6.} O-O $6 {Wahrscheinlich hätte man hier
+konsequent auf f3 tauschen sollen, um den oben angesprochenen Tempoverlust zu
+verhindern. Allerdings gefiel mit die Stellung mit dem weißen Läuferpaar und
+der offenen g-Linie nicht allzu sehr. Weiß kann nach langer Rochade immer
+versuchen, die Stellung mit e3-e4 aufzubrechen und seine Läufer zur Geltung
+bringen.} 8. Ne5 Be6 {[%csl Yf3,Yg4][%cal Gf2f3,Gg2g4] Der Läufer steht hier
+etwas komisch, aber auf f5 lädt er geradezu zum Hebel f2-f3 und g2-g4 ein.
+Noch einen Tempoverlust wollte ich auf jeden Fall vermeiden.} 9. f3 {An dieser
+Stelle merkte ich, dass sich etwas zusammenbraut. Die weißen Züge wirkten
+sehr einfach und natürlich. Der Gegner hatte auch kaum Zeit verbraucht, ich
+dagegen schon.} c5 {Es muss jetzt irgendein Gegenspiel organisiert werden. Auf
+das Schlagen auf c5 erfolgt Dd8-a5 nebst Sb8-c6.} 10. O-O-O {Klugerweise
+bringt Weiß seinen König in Sicherheit und verstärkt das Zentrum.} Nc6 {
+Mir schien das Schlagen auf d4 noch zu früh. Daher wollte ich erst einmal die
+Entwicklung beenden.} 11. Be2 Rc8 {Beide Seiten haben sich entwickelt und
+können zum Angriff übergehen.} 12. g4 $1 {Der logische Zug. Der Bauer darf
+nicht geschlagen werden und greift die schwarze Barriere auf h5 an.} Qa5 $6 {
+Das ist viel zu langsam. Zumal die Dame hier auch (nach Wegzug des Königs und
+Tausch des Springers auf c6) diversen Abzügen mit Sc3xd5 ausgesetzt ist, ein
+bekannter taktischer Trick in diesen Stellungen. Außerdem droht die Dame hier
+nichts.} ({Eine valide Alternative, die ich übersah oder unterschätzte,
+bildet} 12... a6 $1 {Nun muss Weiß selber etwas aufpassen nach} 13. gxh5 Nxh5
+{Weiß muss eine kurze Pause in seinem Angriff einlegen und er darf auch nicht
+seinen Damenflügel ignorieren.} 14. Bh2 b5 15. f4 $2 b4 $1 {verhindert das
+Schlagen auf h5 (wegen des Angriffs auf weiße Dame). Und der Springer kommt
+auf ein ganz schlechtes Feld (a4 oder b1), wonach Dd8-a5 einen guten Eindruck
+macht.}) 13. Kb1 {Jetzt droht Weiß bereits mit der Taktik. Schwarz muss
+deshalb handeln.} cxd4 14. exd4 Rfd8 {Optisch sieht die Stellung immer noch
+brauchbar für Schwarz aus. Eigentlich. Allerdings greife ich in den nächsten
+zwei Zügen - bereits in eklatanter Zeitnot - richtig daneben.} 15. Rhg1 {
+Ein vorbereitender Zug, der mit der Halb-Öffnung der g-Linie droht.} Nb4 $2 {
+Ein ordentlicher Fehlgriff und schlichter Tempoverlust. Möglicherweise
+halluzinierte ich von einem Qualitätsopfer auf c3 und übersehe die einfache
+Widerlegung.} ({Direkt verliert} 15... Nxe5 $2 16. dxe5 Nd7 17. gxh5 gxh5 $4
+18. Bh6) 16. a3 Na6 $4 {Ein kläglicher Rückzug. Der Springer kommt nie mehr
+richtig in das Spiel. Für die Öffnung der c-Linie wurde ein zu hoher Preis
+gezahlt. Wenn, dann wäre c6 das bessere Rückzugsfeld gewesen.} ({Jetzt
+scheitert} 16... Rxc3 $2 17. Qxc3 Rc8 $4 {einfach an} 18. Qxb4 {, was
+eigentlich gar nicht so schwer zu sehen war.}) 17. gxh5 Nxh5 18. Bh6 {Hier hat
+Weiß "gefühlt", dass er am Gewinnen war. So ganz klar ist es für die Engine
+nicht, aber in der praktischen Partie (ich hatte nur noch 2 Minuten für 22
+Züge) ist der Druck einfach zu groß und die Stellung nicht mehr haltbar.}
+Rxc3 $6 {Schwarz verhindert das Matt, aber er wickelt in ein quasi verlorenes
+Endspiel ab.} 19. Bxg7 Rxa3 20. bxa3 Qxd2 (20... Qxa3 $4 {stürzt sich leider
+in das eigene Schwert} 21. Qh6 Nxg7 22. Nxg6 {und Schwarz hat leider kein
+Dauerschach} Qb4+ 23. Kc1 Qa3+ 24. Kd2 Qb4+ 25. Ke3 Qc3+ 26. Kf2 {mit
+undeckbarem Matt auf g7}) 21. Rxd2 Kxg7 22. Ka2 $6 {Nicht der zwingendste Zug,
+aber er stellt die unangenehme Drohung Tg1-b1 auf.} Nf4 $2 {Das ist nur ein
+wilder Versuch aktiv zu spielen, wo zähe Verteidigung angebracht wäre.} (
+22... Nc7 $1 {bringt den Springer wieder zurück in das Spiel, auch wenn nach}
+23. Rb1 Bc8 {[%csl Yd4,Ye2,Ye6,Yf4][%cal Gh5f4,Gc7e6,Rf4e2,Re6d4] die schwarze
+Stellung passiv und gedrückt bleibt. Immerhin ist seine Bauernstruktur noch
+intakt und er kann die Springer auf e6 und f4 reaktivieren, dies wäre allemal
+besser gewesen als die Partiefortsetzung.}) 23. Rb1 Nxe2 $2 {tauscht die beste
+schwarze Figur gegen eine passive weiße ab, aber dies geschah in schlimmster
+Zeitnot.} 24. Rxe2 b6 25. h5 $6 {Weiß versucht die Stellung über das Knie zu
+brechen (vielleicht auch die Zeitnot auszunutzen). Eine Vorbereitung mit
+Te2-h2 oder ein ruhiges Manövrieren wären angebrachter.} Bf5 $2 {Erst dies
+verliert sang- und klanglos.} (25... gxh5 {war die viel bessere Wahl. Der
+schwarze König kommt nicht so einfach in ein Mattnetz, und Weiß wird ein
+paar Züge brauchen, um den h-Bauern zurückzugewinnen.}) 26. hxg6 fxg6 27. Rg1
+Rc8 28. Kb2 b5 29. c3 {Weiß geht auf Nummer sicher. Der g-Bauer läuft nicht
+davon.} Nc7 30. Nxg6 Bxg6 31. Reg2 Ne6 32. Rxg6+ Kf7 33. Rh6 a5 34. Rh5 b4 35.
+Rf5+ $1 {Statt sich noch einen Bauern auf d5 zu holen, wählt Weiß die
+klarste Abwicklung zum Gewinn.} Ke8 36. Rg8+ Kd7 37. Rxc8 {Normalerweise
+hätte ich auch hier aufgegeben, aber es ist Mannschaftskampf.} Kxc8 38. Rxd5
+bxa3+ 39. Kxa3 Kc7 40. Rxa5 Kb6 41. Re5 1-0
+

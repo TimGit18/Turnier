@@ -1,0 +1,49 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.10.18"]
+[Round "5"]
+[White "Buchinger, Alexis"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B86"]
+[WhiteElo "1774"]
+[BlackElo "1820"]
+[Annotator "Tim Schmitz"]
+[PlyCount "74"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.10.18"]
+
+1. e4 c5 2. Nf3 {Der elfjährige Gegner gilt als großes Talent und bevorzugt
+laut Datenbank sehr aggressive Eröffnungen. Ich rechnete daher mit dem
+Fischer-Angriff im Offenen Sizilianer und bereitete die Partie mit Daniel
+King's Powerplay 18 vor.} d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3
+Nbd7 8. f4 {Auch das ist noch Teil der Vorbereitung und erlangte Beliebtheit
+nach dem WM-Kampf Kasparov-Short als Teil des Repertoires von Short.} Nc5 9. e5
+Nfd7 {Kasparov nahm auf e5, öffnet aber Weiß die f-Linie.} 10. exd6 Nf6 $1 {
+Das ist die Idee. Der Springer zieht zurück und Schwarz nimmt mit dem Läufer
+auf d6.} 11. Be3 Bxd6 12. Qf3 Qc7 13. O-O-O O-O {Beide Seiten haben
+vernünftige Entwicklungszüge gemacht. Weiß, der bis dahin alle Züge a
+tempo spielte, will um jeden Preis angreifen.} 14. g4 $2 {Das ist sehr riskant
+gespielt. Ich erinnerte mich noch an das Pseudo-Turmopfer aus der DVD. Die
+Diagonale a8-h1 ist außerdem sehr schwach für Weiß.} b5 $1 15. g5 $6 ({
+Wenn Weiß das Opfer annimmt, dann verliert er entweder die Dame oder Schwarz
+erhält Kompensation.} 15. Qxa8 Bb7 16. Ndxb5 {Das musste noch berechnet
+werden.} axb5 17. Nxb5 Rxa8 18. Nxc7 Nxb3+ 19. axb3 Bxc7 {Schwarz steht mit
+dem Läuferpaar und dem Angriff deutlich besser.}) 15... Bb7 16. Qh3 Nfe4 17.
+Nxe4 Bxe4 18. Rhf1 Rac8 {[%csl Yb3,Yc2,Yf4][%cal Re4c2,Rc5b3,Rd6f4,Rc7c2,Rc8c7]
+Die letzten Züge waren alle plausibel und wurden sehr schnell gespielt.
+Schwarz steht super. Alle seine Figuren sind aktiv platziert, insbesondere der
+Läufer auf e4 ist eine Bombe. Die weißen Läufer sind ineffektiv, der König
+ist potentiell gefährdet und die Dame richtet auf der h-Linie alleine nichts
+aus.} 19. Rd2 {Im Grunde endet hier erst die Vorbereitung - mit einer
+gewonnenen Stellung.} ({Die Partie aus der King-DVD lief folgendermaßen weiter
+} 19. Rf2 a5 20. Nxb5 Nxb3+ 21. axb3 Qxc2+ 22. Rxc2 Rxc2+ {0-1 (22) Mikita,J 
+(2210)-Solodovnichenko,Y (2350) Presov 1997}) 19... Nxb3+ 20. axb3 Bb4 21. Rdf2
+Rfd8 {Alle schwarzen Figuren attackieren. Der Druck gegen c2 ist sehr stark.}
+22. Nxe6 $2 {Ein taktischer Fehler in schlechter Stellung} Qxc2+ 23. Rxc2 Rxc2+
+24. Kb1 Rxh2+ 25. Ka1 Rxh3 26. Nxd8 Rxe3 {Schwarz hat Mehrfigur und Mehrbauer.
+Schlimmer noch: der König ist in der Ecke so gut wie matt und der Springer
+ist gefangen.} 27. f5 Re1+ 28. Ka2 {Weiß versucht auf Patt zu spielen.} Rxf1
+29. Nxf7 Rxf5 {Um das Patt aufzuheben.} 30. g6 Rxf7 31. gxf7+ Kxf7 32. Ka1 g5
+33. Ka2 g4 34. Ka1 g3 35. Ka2 g2 36. Ka1 g1=Q+ 37. Ka2 Qb1# 0-1
+

@@ -1,0 +1,20 @@
+[Event "DSAM Aalen 2008"]
+[Site "?"]
+[Date "2008.12.21"]
+[Round "5"]
+[White "Kurz, Thomas"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1709"]
+[BlackElo "1807"]
+[Annotator "Tim Schmitz"]
+[PlyCount "22"]
+[EventDate "2008.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. Qa4 {Seltsames
+Eröffnungsexperiment} Bd7 7. Bc4 Qe4+ 8. Kd1 O-O-O {Schwarz steht schon sehr
+gut} 9. Bxf7 $4 {Das verliert} Nb4 10. Qb3 (10. Qxa7 Qc2+ 11. Ke1 Nd3+ 12. Kf1
+Qxf2#) 10... dxc3 11. Qxc3 Ba4# 0-1
+

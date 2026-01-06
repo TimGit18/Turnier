@@ -1,0 +1,64 @@
+[Event "MMM 2017"]
+[Site "?"]
+[Date "2017.03.10"]
+[Round "1"]
+[White "Rispler, Matthias"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "1869"]
+[BlackElo "1808"]
+[PlyCount "25"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.03.11"]
+[WhiteTeam "SF Deisenhofen I"]
+[BlackTeam "SCS II"]
+
+1. e4 c5 2. b4 {Das Sizilianische Flügelgambit ist eine unangenehme
+Überraschung in der ersten Runde der Münchner Mannschaftsmeisterschaft} cxb4 3.
+Nf3 {Das ist eine sehr seltene Fortsetzung. Drei andere Optionen sind
+verbreiteter} ({(a)} 3. d4 Nf6 4. Bd3 Nc6 5. Ne2 d6 6. O-O g6 7. Nd2 Bg7) ({(b)
+} 3. Bb2 Nf6 4. e5 Nd5 5. Nf3 Nc6 6. a3 e6) (3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6.
+axb4) 3... Nc6 {Das ist kein schlechter Zug, aber vielleicht etwas
+verpflichtend} ({Als vielversprechend gilt} 3... d5 4. exd5 Nf6 5. a3 Nxd5 6.
+axb4 Nxb4 {Weiß hat nicht viel für den Bauern}) 4. a3 {Weiß möchte schnell die
+a-Linie öffnen und Schwarz provozieren, auf a3 zu schlagen} ({Schärfer ist} 4.
+d4 d5 5. exd5 Qxd5 6. c4 bxc3 7. Nxc3 Qa5 {mit einer ähnlichen Stellung wie im
+Alapin-Sizilianer}) 4... e5 {Dieser Zug sieht ganz gut aus. Schwarz öffnet
+eine Läuferdiagonale und kontrolliert d4. Allerdings ähnelt die Stellung jetzt
+mehr und mehr einem Evans-Gambit} 5. Bb5 {Dieser spanische Zug sieht in dieser
+Stellung etwas deplatziert aus. Der Läufer gehört eigentlich nach c4} ({
+Eigentlich rechnete ich mit der Fortsetzung} 5. axb4 Bxb4 6. c3 Ba5 7. Bc4 Nf6
+8. Qb3 O-O {und wir sind im richtigen Evans-Gambit gelandet}) 5... Qb6 {
+Der Zug gefällt gut, weil er gleichzeitig den Läufer auf b5 angreift und den
+Bauern auf e5 verteidigt} 6. Bxc6 {Eigentlich möchte Weiß den Läufer nicht so
+gerne hergeben. Allerdings kann er auch nicht gut gedeckt werden} ({Der Zug} 6.
+Qe2 {ist nicht gut wegen} Nd4 7. Nxd4 Qxd4 8. c3 bxc3 9. Nxc3 Nf6 {und der
+Läufer auf b5 sieht etwas fehl am Platze aus}) 6... dxc6 7. axb4 {Eigentlich
+kann Schwarz mit dem Verlauf der Eröffnung ganz zufrieden sein. Er hat
+Einfluss auf das Zentrum und die Entwicklung von Weiß ist nicht besonders gut.
+Er muss nur seinen König in Sicherheit bringen und die übrigen Leichtfiguren
+entwickeln} ({Der gierige Zug} 7. Nxe5 {scheitert an} Qd4) 7... Nf6 {Da Weiß
+ohnehin nicht auf e5 nehmen kann, entwickelt Schwarz zuerst einmal eine Figur}
+8. d3 {Weiß verteidigt den Bauern auf e4. Allerdings läßt er das Schlagen auf
+e4 mit Tempo zu} Bxb4+ {Dieser Zug - obwohl sehr lange berechnet - ist
+eigentlich der einzige logische Zug. Schwarz bereitet die kurze Rochade vor} 9.
+Nbd2 {Weiß entwickelt eine Figur, unterbindet das Schach und droht mit Ta1-b1.
+Trotzdem ist dieser Zug nicht besonderes gefährlich, da er keine Drohung
+aufstellt} ({Plausibler ist} 9. c3 Bc5 10. O-O Bg4 11. Nbd2 O-O 12. Rb1 Qc7 13.
+Bb2 Rad8 {Schwarz versucht Druck auf der d-Linie aufzubauen, um den Vormarsch
+d3-d4 zu verhindern} 14. Qc2) 9... Bc3 {Der Zug sieht auch recht ordentlich
+aus. Weiß erhält nicht die Zeit, um sich um den schwachen e-Bauern zu kümmern}
+({Nach einem Zug wie} 9... O-O 10. Rb1 Bxd2+ 11. Bxd2 {ist der Turm auf b1
+gedeckt}) 10. Ra3 {Weiß beantwortet die Drohung mit einer Gegendrohung} ({
+Nach dem schwächeren} 10. Rb1 {steht die Dame auf c5 ganz gut} Qc5 {Sie deckt
+e5 und den Läufer auf c3 und kann sich auf der Diagonalen zurückziehen, da sie
+nicht von dem Läufer auf a3 bedroht werden kann}) 10... Bb4 {In dieser
+Stellung ist es am sichersten, den Läufer wieder zurückzuziehen} ({Das freche} 
+10... Bb2 {verliert direkt nach} 11. Rb3) ({Vielleicht ist} 10... Qc5 {besser}
+11. Rb3 Be6 12. Ba3 Qa5 {[%csl Ya3,Yb3][%cal Re6b3,Ra5a3] und Weiß verliert
+die Qualität}) 11. Ra1 {Diese Fortsetzung führt zu einer Zugwiederholung} ({
+Nach} 11. Rb3 Be6 12. c4 Qc5 {steht Weiß eingezwängt}) 11... Bc3 12. Ra3 Bb4
+13. Ra1 {Beide Seiten hatten anscheinend keine besondere Motivation, das Spiel
+fortzuführen} 1/2-1/2
+

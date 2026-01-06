@@ -1,0 +1,18 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2019.10.27"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Orchiedt, Anke"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "1837"]
+[BlackElo "1600"]
+[Annotator "Administrator"]
+[PlyCount "26"]
+[SourceVersionDate "2019.10.28"]
+
+1. e4 g6 2. d4 c6 3. Nc3 d5 4. e5 h5 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 e6 8. Bd3
+Nd7 9. Be3 c5 10. dxc5 $6 (10. Nxd5 $1) 10... Nxc5 11. Bb5+ Nd7 12. Bd4 $2 (12.
+Nxd5 exd5 13. Qxd5) 12... a6 13. Bd3 Bg7 1/2-1/2
+

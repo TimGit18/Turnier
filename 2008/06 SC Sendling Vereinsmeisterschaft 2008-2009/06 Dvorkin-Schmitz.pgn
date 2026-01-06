@@ -1,0 +1,35 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2009.01.09"]
+[Round "6"]
+[White "Dvorkin, Eduard"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "1964"]
+[BlackElo "1807"]
+[Annotator "Tim Schmitz"]
+[PlyCount "105"]
+[EventDate "2009.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 c6 6. cxd5 exd5 7. e3 Be7 8.
+Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 {Der klassische Set-Up in der Abtauschvariante}
+11. Bxf6 Bxf6 12. b4 Bg4 13. Nd2 Qd6 {zielt auf b4 und h2 und räumt die Linie
+für den Turm} 14. Rab1 g6 15. h3 Bd7 16. Rfe1 Ne6 17. Nf3 Bg7 (17... Ng5 18.
+Ne5 $1) 18. Qb3 f5 19. g3 {Leichter Vorteil für Schwarz} Rf8 20. Ne2 g5 $6 {
+Verpflichtet} 21. Qb2 f4 $2 {Leider ein Fehlgriff, Weiß kann seine
+Verteidigung organisieren} (21... g4 $1 22. Nh4 Ng5) 22. exf4 gxf4 23. g4 h6
+24. Kg2 Ng5 {Hier nicht mehr so stark} 25. Neg1 $1 {Sehr präzise gespielt} Rae8
+26. Nxg5 hxg5 27. Nf3 Bf6 28. Qd2 Kg7 29. Bc2 Bd8 30. Qd3 Qh6 31. Ne5 f3+ $2 ({
+Übersieht} 31... Rxe5 $1 32. dxe5 f3+ 33. Kg1 Rf4 $1 {mit starkem Angriff für
+Schwarz. Weiß muss wohl eine Figur geben} 34. Qh7+ Qxh7 35. Bxh7 Kxh7 36. e6
+Be8 37. e7 Bb6) 32. Nxf3 Bc7 33. Ne5 Bxe5 34. Rxe5 Rxe5 35. dxe5 {Jetzt hat
+Weiß die bessere Stellung} Rf4 36. Qe2 Be6 37. a3 d4 38. Bb3 Kf7 39. Bxe6+ Qxe6
+40. f3 Qd5 41. Rd1 Ke6 42. Qd3 {In wenigen Zügen ist der weiße Vorteil dahin}
+Qxe5 43. Rd2 Kd5 $6 {Zu riskant} (43... Kd6 44. Re2 Qd5 45. Kg3 Qf7) 44. Re2
+Qf6 45. Qb3+ Kd6 46. Qd3 b6 47. Re8 Kd5 48. Rg8 c5 49. bxc5 bxc5 {Auf einmal
+ist Weiß wieder am Drücker} 50. Rg6 Qe7 51. Qb3+ Ke5 52. Qb8+ (52. h4 $1 gxh4
+53. Qb8+ Kd5 54. Qxf4 {mit Gewinn}) 52... Kd5 53. Qb3+ {Remis in heikler
+Stellung} 1/2-1/2
+

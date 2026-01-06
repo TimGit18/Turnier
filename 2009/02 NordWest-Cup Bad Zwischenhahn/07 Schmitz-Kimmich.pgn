@@ -1,0 +1,42 @@
+[Event "NW-Cup Bad Zwischenahn 2009"]
+[Site "?"]
+[Date "2009.02.15"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Kimmich, Paul"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1844"]
+[BlackElo "1923"]
+[Annotator "Tim Schmitz"]
+[PlyCount "150"]
+[EventDate "2009.??.??"]
+[TimeControl "240+2"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6
+5. Bd2 {Das Resultat von Eröffnung und Partie lassen mich an dieser Variante
+zweifeln} Nf6 6. Bc4 Bf5 7. Nf3 e6 8. O-O Nbd7 9. Bb3 $6 {Ich will d5 spielen,
+aber ohne Dc5 zuzulassen} Qc7 10. Qe2 O-O-O {Zu spät} 11. a4 Bd6 {Die
+schwarzen Figuren stehen schon besser} 12. Rfe1 h6 13. Ne5 $4 {verliert aus
+Müdigkeit ohne Kompensation einen Zentralbauern} Nxe5 14. dxe5 Bxe5 15. Qxe5
+Qxe5 16. Rxe5 Rxd2 17. Re2 $2 {Auch nicht gut} Rhd8 (17... Rxe2 18. Nxe2 {
+ist besser für Schwarz}) 18. Rxd2 Rxd2 19. Rd1 Rxd1+ 20. Nxd1 Ne4 21. Ne3 Bg6
+22. c3 Nc5 23. Bd1 Bd3 {Schwarz spielt das Endspiel ziemlich planlos, aber mit
+Geduld} 24. f3 f5 25. b4 Na6 26. Bb3 Kd7 27. Kf2 b5 28. f4 g5 29. g3 g4 30.
+axb5 cxb5 31. Nd1 {Ich versuche eine Remisschaukel aufzubauen, was beinahe
+geklappt hätte} Kd6 32. Ke3 Bf1 33. Kf2 Bd3 34. Ke3 Bb1 35. Kd4 Nb8 36. Ke3 (
+36. Ne3 $4 Nc6#) 36... Nc6 37. Nf2 a5 38. bxa5 Nxa5 39. Bd1 Kd5 40. Be2 Kc5 {
+Schwarz kann - obgleich ohne Strategie - gefahrlos auf Gewinn spielen} 41. Kd2
+Nc6 42. Ke3 Ne7 43. Kd2 h5 44. Nd1 Ng6 45. Ke3 h4 46. Nf2 h3 47. Kd2 Ne7 48.
+Ke3 Nc8 49. Nxg4 $2 {Fehleinschätzung oder Panik? Jedenfalls nicht notwendig}
+fxg4 50. Bxg4 Bf5 51. Be2 Nd6 52. g4 Be4 53. g5 Bg2 54. Bg4 Nf5+ 55. Kd2 {
+Jetzt hat Schwarz einen klaren Gewinnweg: Durchmarsch über e4 nach f4 und
+später Eroberung des Bauern h2} Bf1 56. Ke1 Bg2 57. Kd2 Ng7 58. Ke3 Kd5 59. g6
+Be4 60. Bxh3 Bxg6 61. Bf1 Nf5+ 62. Kd2 Nd6 63. Bg2+ Kc4 64. Bf1+ Kb3 $1 {
+sieht wie der entscheidende Durchburch aus. Es droht Se4+} 65. Be2 Ne4+ 66. Ke3
+Nxc3 67. Bg4 Nd5+ 68. Kd4 Nxf4 69. Ke5 Kc4 $2 {Auch Schwarz macht noch Fehler}
+70. Kxf4 Kd5 71. Kg5 {Extreme Zeitnot, einfacher ist Ld1} Bd3 72. Kf6 Bf5 73.
+Bd1 Bh3 $1 {Stoppt die Schwindelversuche} 74. Bb3+ Ke4 75. Bc2+ Kf3 {Der Rest
+ist nicht mehr protokolliert, aber ich verliere in remisiger Stellung auf Zeit}
+0-1
+

@@ -1,0 +1,30 @@
+[Event "Dortmund Sparkassen op-A"]
+[Site "Dortmund"]
+[Date "2011.07.26"]
+[Round "4"]
+[White "Meyer, Michael"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2083"]
+[BlackElo "1934"]
+[Annotator "Tim Schmitz"]
+[PlyCount "69"]
+[EventDate "2011.07.23"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[SourceTitle "CBM 143 Extra"]
+[Source "ChessBase"]
+[SourceDate "2011.08.29"]
+[SourceVersion "1"]
+[SourceVersionDate "2011.08.29"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bf4 O-O 5. Nf3 d6 6. Rc1 Nbd7 7. e4 c6 8. Bd3
+Re8 9. d5 Nc5 10. b4 Nxd3+ 11. Qxd3 Nh5 12. Be3 a5 13. b5 c5 14. h3 f5 15. exf5
+Bxf5 16. Ne4 Nf6 17. Nfd2 e6 18. g4 Bxe4 19. Nxe4 Nxe4 20. Qxe4 e5 21. Rc3 Rf8
+22. h4 Qe8 23. Rh3 b6 24. Bc1 Rf4 25. Bxf4 exf4 26. Qxe8+ Rxe8+ 27. Kd2 Bxc3+
+28. Kxc3 Re2 29. Rf3 Re4 30. a4 Kg7 31. g5 Kf7 32. Kd3 Rd4+ 33. Kc3 Re4 34. Rd3
+Kg7 35. Rf3 1/2-1/2
+

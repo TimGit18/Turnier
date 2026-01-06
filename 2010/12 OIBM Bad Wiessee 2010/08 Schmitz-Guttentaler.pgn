@@ -1,0 +1,49 @@
+[Event "OIBM Bad Wiessee 2010"]
+[Site "?"]
+[Date "2011.11.06"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Guttenthaler, Franz"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "1934"]
+[BlackElo "2136"]
+[Annotator "Tim Schmitz"]
+[PlyCount "80"]
+[EventDate "2009.??.??"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 {Mit diesem Abtausch
+strebt Schwarz eine symmetrische Bauernstruktur an. Diese Variante ist solider
+als der Voronezh-Aufbau, gibt allerdings Schwarz weniger Möglichkeiten zum
+Gegenspiel} 6. Nc3 Be7 {Dieser Zug ist mehr oder weniger erzwungen, denn das
+Fianchetto ist nicht gut} 7. Bd3 O-O 8. Nge2 {Der Emms-Davies-Aufbau: Weiß
+vermeidet die Fesselung und spielt gegen den schwarzfeldrigen Läufer} Nc6 9.
+O-O Bf6 (9... Nb4 10. Bb1 Nxc4 {scheitert an} 11. a3 Nc6 12. Qd3) 10. Be3 $6 {
+Ich übersehe, dass jetzt der Springerangriff auf den Läufer möglich ist} (10.
+b3 Bg4 11. Be3 Re8 12. Qd2 Nb4 13. Bb1 {ist eine "aktive" Variante für Schwarz,
+in der Weiß immer noch das Zentrum kontrolliert.}) 10... Nb4 11. b3 Nxd3 12.
+Qxd3 Re8 13. Ng3 {Obwohl ich das Läuferpaar verloren habe, finden meine
+Figuren noch gute Felder. Es gelingt mir die Stellung zu schließen} g6 14. Rac1
+{Damit wird d5 auf Dauer unterbunden} h5 {Schwarz plant aktives Spiel am
+Königsflügel. Leider ist das für ihn ziemlich risikolos} 15. Nge4 {Meine
+weißen Felder sind schwach, also versuche ich auf den schwarzen
+entgegenzuhalten} Be7 16. d5 {Damit schließe ich das Zentrum. In dieser
+Stellung bot ich Remis, was Schwarz ablehnte, da er eine IM-Norm erhofft} f5 {
+Schwarz muss natürlich aggressiv antworten} 17. Nd2 Nd7 {[%csl Re5] Er visiert
+e5 an, wo er ziemlich bombig steht} 18. f4 Bf6 19. Rce1 Nc5 $6 {Wie man sieht,
+nicht der beste schwarze Zug} 20. Bxc5 dxc5 21. Nf3 {Hier war ich sehr
+zufrieden. Die schwarzen Läufer haben keine richtigen Ziele, insbesondere der
+Läufer c8 ist schwach} a6 {Er verbaut b5 für den Springer} 22. Ne5 $2 {Zwar
+naheliegend, aber nicht gut} (22. Rxe8+ Qxe8 23. Re1 Qf8 24. Ne5 Qg7 {ist viel
+besser, denn es fehlt Schwarz an Gegenspiel und Entwicklung}) 22... g5 $1 {
+Auf einmal hat Schwarz in der Stellung wieder Initiative} 23. g3 $6 (23. Nf3 {
+hätte das Schlimmste verhindert}) 23... Qd6 {Nun droht Bauernverlust} 24. Qe3 {
+Aber die Fesselung ist auch sehr unangenehm und ich gerate wieder in schlimme
+Zeitnot} Bd7 25. Rf2 Re7 26. Rfe2 Rae8 27. Nd1 {Der Springer soll nach d3,
+aber es ist wohl schon zu spät} g4 28. Nb2 b6 29. Nbd3 c6 $1 {Das Öffnen der
+Stellung ist gut für Schwarz - insbesondere auf den weißen Feldern} 30. dxc6
+Bxc6 31. Rd2 Qc7 32. Qf2 Be4 {Schwarz gewinnt jetzt einen Bauern} 33. Red1 Bxd3
+34. Rxd3 Bxe5 35. fxe5 Rxe5 36. Qd2 Qe7 37. Rd6 $2 {Das pseudoaktive Spiel
+führt in die Niederlage} Re2 38. Qh6 $4 {Ein taktischer Fehler in Zeitnot} Re1+
+{mit Matt nach} 39. Rxe1 Qxe1+ 40. Kg2 Re2# 0-1
+

@@ -1,0 +1,226 @@
+[Event "Heusenstamm Open (A)"]
+[Site "?"]
+[Date "2017.11.23"]
+[Round "1"]
+[White "Meiser, Markus"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E84"]
+[WhiteElo "2117"]
+[BlackElo "1750"]
+[PlyCount "149"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.11.24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Qd2 a6 8. Rc1 Bd7 9. Nge2 Rb8 10. Nd1 {
+[%csl Yc5,Yd3,Yf2][%cal Rc4c5,Gd1f2,Gf2d3] Das ist die Modevariante des
+Sämisch-Systems. Weiß rochiert nicht lang, sondern bringt seine Figuren in
+das Zentrum und manövriert seine Figuren auf bessere Felder. Er möchte gerne
+auf dem Damenflügel operieren und den Durchbruch c4-c5 vorbereiten} e5 {
+Das ist ein guter Zug gegen das weiße Zentrum, der berücksichtigt, dass mit
+dem weißen Springer ein Angriffsobjekt des b-Bauern verschwunden ist} ({
+Die theoretische Fortsetzung in dieser Modevariante lautet allerdings} 10... b5
+11. c5 e6 12. Nf2 b4 13. g3 Ne7 14. Bg2 Bb5 15. O-O Nd7 16. cxd6 cxd6 {mit
+schönem Gegenspiel am Damenflügel}) 11. d5 {Konsequenterweise verschließt
+Weiß das Zentrum, um freie Hand auf dem Damenflügel zu haben. Er geht davon
+aus, dass der schwarze Angriff auf dem Königsflügel nicht so einfach
+vorankommt, da Weiß mit f2-f3 bereits einen wichtigen Stützungszug getätigt
+hat} Ne7 {Der Springer muss nach e7 ziehen, denn auf a5 würde er gefangen und
+auf d4 einfach einen Bauern verlieren} 12. Nec3 {Der Springer auf e2 wird in
+das Spiel integriert, der andere soll über f2 nach d3 gebracht werden} Nh5 {
+[%csl Yf4,Yf5][%cal Rf7f5,Rh5f4] Das ist auch ein logischer Zug. Der Springer
+macht den Weg frei für den f-Bauern und droht nach f4 zu kommen} 13. Bd3 {
+Weiß entwickelt seine Leichtfiguren und verstärkt den Griff im Zentrum} Nf4 {
+[%csl Yd3,Yg2][%cal Rf4g2,Rf4d3] Das ist ein Bauernopfer, aber es ist
+gerechtfertigt. Würde Weiß den Bauern nehmen, so erhält Schwarz
+Kompensation. Andererseits stellt Schwarz mit dem Springerzug eine
+Doppeldrohung auf} 14. O-O {Weiß bringt den König in Sicherheit und deckt
+den Bauern g2} ({Nach der plausiblen Folge} 14. Bxf4 exf4 15. Qxf4 f5 16. O-O
+fxe4 17. Qxe4 Bf5 18. Qe2 Re8 {hat Schwarz offene Diagonalen und Linien sowie
+gute Felder für seine Figuren gefunden}) 14... f5 {Der Zug sieht auch gut aus.
+Schwarz setzt das weiße Zentrum unter Druck} 15. Bb1 {Weiß rettet seinen
+Läufer ohne selber weiter die Initiative zu ergreifen. Der Zug hält die
+Spannung im Zentrum aufrecht ohne allzu drastische Maßnahmen zu ergreifen} Kh8
+{Momentan ist für Schwarz auch kein konstruktiver Plan zu sehen. Also bringt
+er den König auf ein sicheres Feld und macht Platz für den Springer auf g8.}
+16. b4 {Endlich ergreift Weiß die Initiative und forciert die Lage auf dem
+Damenflügel. Er will c4-c5 spielen und Schwarz auf d6 eine Schwäche verpassen
+} Ng8 17. Nb2 {Beide Seiten gruppieren ihre Figuren um und verbessern jeweils
+die Lage ihrer schlechtesten Figur} Nf6 18. c5 {[%csl Yd6,Ye4][%cal Rf6e4,
+Rf5e4,Rc5d6,Gb2c4,Rc4d6] Die Angriffspläne beider Seiten konzentrieren sich
+auf den jeweiligen Bauernstützpunkt des Gegners, um diesen zu schwächen} fxe4
+{Dieser Zug öffnet die f-Linie und die Diagonale des Läufers auf d7 nach h3.
+Allerdings öffnet er auch die Diagonale des weißen Königsläufers in die
+schwarze Stellung} 19. Bxe4 {Das ist vermutlich die beste Art des
+Wiedernehmens, denn wenn er mit dem Springer schlüge, dann fällt der Bauer d5
+} ({Wenn Weiß mit} 19. fxe4 {zurückschlägt, dann kann Schwarz} Ng4 {[%csl
+Ye3,Yf2,Yh2,Yh4][%cal Rd8h4,Rh4h2,Rg4h2,Rg4e3] spielen und den weißen König
+angreifen}) 19... Bf5 {Schwarz möchte weiterhin Druck auf e4 ausüben. Aber
+ärgerlicherweise ist der Läufer auf e4 eine sehr stabile und starke Figur,
+die sich nicht so einfach angreifen läßt} ({Eine mögliche Alternative lautet
+} 19... g5 {, was g5-g4 in das Spiel bringt. Allerdings wird der weiße
+Läufer auf e4 dann noch viel mächtiger}) 20. Nc4 {[%csl Yd6][%cal Rc4d6] Das
+ist das ideale Feld für den Königsspringer in der Königsindischen
+Verteidigung. Er ist geschützt hinter seinen Damenflügel-Bauern und übt
+Druck gegen d6 aus} Bxe4 {Schon ein gewisses Zugeständnis: Schwarz tauscht
+seinen "guten" Läufer gegen den "schlechten" von Weiß, nur um eine einzige
+Idee auszuüben} 21. fxe4 Ng4 {Das ist die bereits eben skizzierte Idee von
+Schwarz mit einem Angriffspiel gegen den weißen König} 22. g3 $1 {Dieser
+starke Zug verhindert nicht nur den Damenausfall nach h4, sondern treibt auch
+den gut postierten Springer von f4 auf das ganze schlechte Feld h5} Nxe3 {
+Der Abtausch sieht logisch aus. Schwarz verstärkt die Kontrolle über die
+schwarzen Felder auf dem Königsflügel, aber er nutzt sie nicht} 23. Qxe3 Nh5
+$6 {Das Feld sieht schlecht aus. Schwarz hat nur eine Möglichkeit seinen
+Springer wieder in das Spiel zu bringen} ({Eine Alternative, die während der
+Partie nicht in Betracht kam, lautet} 23... Nh3+ 24. Kg2 Ng5 25. Rxf8+ Bxf8 {
+mit der Drohung} 26. -- Nf7 {nebst} 27. -- Bh6 {Er muss allerdings auf die
+f-Linie und den schwachen d-Bauern aufpassen}) 24. Rxf8+ Qxf8 25. Rf1 Qe7 26.
+Na5 {[%csl Ya7,Rb7,Yc6,Yd6,Re5,Rf4,Yf7][%cal Yg7e5,Yb8b7,Yh5f4,Rc5d6,Ga5c6,
+Re3a7,Rf1f7] Die Stellung hat sich vereinfacht und ist in ein spätes
+Mittelspiel übergegangen. Weiß hat den Vorteil der besseren
+Figurenkoordination, der besseren Figurenstellung und die Kontrolle der
+einzigen offenen Linie. Daneben hat er auch konkrete Angriffspläne auf dem
+Damenflügel gegen den Bauern auf d6 und den Bauern auf b7. Dagegen sind fast
+alle Figuren von Schwarz schlecht platziert. Der Springer auf h5 steht
+schlecht und inaktiv, der Läufer auf g7 ist eingesperrt und der Turm auf b8
+muss den schwachen Bauern auf b7 bewachen, der wegen der Springergabel auf c6
+auch nicht vorrücken kann} Bf6 {Was macht man in einer schlechten Stellung?
+Erst einmal sollten die schlecht stehenden Figuren verbessert werden, was
+allerdings einige Zeit dauert (und vielleicht auch nicht funktioniert)} 27. Kg2
+{Weiß spielt das Spiel sehr geduldig weiter. Er verbessert zuerst einmal die
+Stellung des Königs und wartet auf eine weitere Schwächung der schwarzen
+Stellung} Bg5 {Gut, der Läufer auf g5 steht besser als auf g7, aber richtige
+Angriffsziele hat er auf der Diagonalen h6-c1 auch nicht} 28. Qf2 {[%csl Yf7]
+[%cal Gf2f7] Weiß droht nun mit dem Eindringen der weißen Figuren auf f7} Kg8
+$6 {Schwarz beschützt mechanisch das Feld f7. Besser wäre allerdings der
+Königszug nach g7 gewesen - allein um das Feld f6 noch ein weiteres Mal zu
+überdecken} 29. Nc4 {[%csl Yd2,Yd6][%cal Gc4d2,Rc4d6] Nachdem Weiß die
+schwarze Stellung einigermaßen lahmgelegt hat, kehrt der Springer wieder
+zurück. Einerseits deckt er das Feld d2, damit der Läufer es nach einem
+Abtausch nicht betreten kann, andererseits bindet er die schwarze Dame auch
+wieder an d6} Bh6 {Im Nachhinein ist der Sinn dieses Zugs nicht mehr ganz klar.
+Schwarz will sicher noch einmal f8 überdecken, um vielleicht einen
+Generalabtausch auf diesem Feld durchführen} ({Was nämlich nicht
+funktioniert ist der Zug} 29... Rf8 30. Qxf8+ Qxf8 31. Rxf8+ Kxf8 32. cxd6 cxd6
+33. Nxd6 {und Weiß hat eine praktisch gewonnene Stellung mit dem gedeckten
+Freibauern auf d5}) 30. Qg1 {Der Damenrückzug ist präventiv gegen den
+Abtausch auf f8 gerichtet. Dabei verbleibt die Dame auf der wichtigen
+Diagonalen g1-a7} Nf6 {Die Abtauschidee funktioniert natürlich jetzt nicht
+mehr. Schwarz muss also die Stellung der anderen Figuren verbessern,
+angefangen mit dem Springer} 31. a3 {Ein Abwartezug, um zu demonstrieren, dass
+Schwarz sowieso keine guten Züge hat} Ng4 {[%csl Ye3][%cal Rg4e3] Ein
+schlichter Zug, der nur eine einzige Idee hat: auf e3 einzusteigen} 32. Rf3 $1
+{[%csl Ye3,Yg1][%cal Gf3e3,Gc4e3,Gg1e3] Das ist auch eine gute Idee von Weiß:
+der Turm bleibt nicht nur auf der f-Linie, sondern überdeckt auch das Feld e3,
+so dass Schwarz dieses Feld nicht mehr betreten kann} Bg5 {Diese
+Läufermanöver wirken etwas ziellos. Jetzt soll er das Feld f6 überdecken,
+damit der Springer ein Rückzugsfeld hat, was ohnehin schon gedeckt war} 33. h3
+{Weiß vertreibt mit einem simplen Bauernzug den störenden Springer aus
+seinen Gefilden} Nf6 34. cxd6 {Das ist der erste Zug seit längerer Zeit, der
+den Charakter der Stellung ändert. Weiß merkt, dass durch bloßes
+Manövrieren kein richtiger Fortschritt gemacht werden kann und öffnet die
+Stellung auf dem Damenflügel} cxd6 35. Qb6 {[%csl Yb7,Yd6][%cal Rc4d6,Rb6d6,
+Gc4a5,Ra5b7,Rb6b7] Weiß nimmt die zwei schwarzen Schwächen in sein Auge: 1.
+Der schwarze Bauer auf d6 2. Der schwarze Bauer auf b7. Langfristig wird eine
+Schwäche Material kosten} Ne8 {Kein schöner Zug. Der Bauer auf d6 muss
+gedeckt werden} ({Die Alternative lautet} 35... Rd8 36. Na5 Rd7 {Jetzt stehen
+die schwarzen Figuren nicht viel besser, aber eingeklemmt}) 36. Na5 {Schwarz
+bedroht die zweite Schwäche} Qd8 {Eine Konzession, um die schwarze Dame
+loszuwerden und den Damenflügel zu entwirren} 37. Qf2 Qe7 38. Qa7 Qc7 39. Qf2
+Qe7 {Beide Seiten wiederholen einige Züge, da die Zeitkontrolle naht und das
+vorhergehende Manövrieren schon sehr viel Zeit gekostet hat} 40. h4 {Weiß
+eröffnet einen Angriff am zweiten Flügel und treibt die schwarzen Figuren
+ein weiteres Mal zurück. Wieder kommen alle Figuren auf schlechte Felder oder
+auf wirkungslose} Bh6 {Ein schlechtes Feld für den Läufer, aber immer noch
+besser als f6} 41. Qb6 {Weiß zieht wieder - nach einigem Lavrieren - die
+Daumenschrauben wieder an. Er zeigt damit, dass Schwarz noch immer über
+keinen konstruktiven Plan verfügt} Qc7 {Phantasielos, aber nach wie vor die
+einzige Möglichkeit die schwarze Dame loszuwerden} 42. Qxc7 {Weiß tauscht
+die Damen, weil er weiß, dass er im Endspiel über die viel besseren Figuren
+verfügt. Außerdem reduziert er das Schwindelpotential von Schwarz} Nxc7 43.
+Nc4 {[%csl Ya4,Yb6,Yd6][%cal Gc4b6,Gc3a4,Ga4b6,Rc4d6] Weiß zieht den Springer
+zurück aus zwei Gründen: Erstens greift er den schwachen Bauern auf d6 an,
+der allerdings leicht gedeckt werden kann. Zweitens soll der Springer
+langfristig auf b6 geparkt werden und jegliches schwarzes Gegenspiel ersticken}
+Ne8 {Wieder das alte Motiv und wieder steht der Springer schlecht} 44. Nb6 {
+[%csl Yc8,Yd7][%cal Rb6d7,Rb6c8] Die Stärke dieses Zugs zeigt sich in der
+Kontrolle über die Felder d7 und c8. Dahinter stecken auch unangenehme
+Springer-Gabeln} Rd8 {Schwarz deckt zumindest eins der Felder ab. Allerdings
+hätte Schwarz den Zug auch früher spielen können} ({So geht zum Beispiel} 
+44... Bf8 {überhaupt nicht, denn nach} 45. Rxf8+ Kxf8 46. Nd7+ {gewinnt Weiß
+Material}) 45. Nd1 {[%csl Yc3,Ye3][%cal Rf3c3,Gd1e3] Der Springer räumt das
+Feld c3 für den Turm und überdeckt gleichzeitig ein weiteres Mal das Feld e3,
+so dass der Läufer nie wieder aktiv werden kann (das ist ein sehr
+vorsichtiger Ansatz)} Kg7 {[%csl Yf6,Yg4][%cal Ge8f6,Gf6g4] Der König kommt
+jetzt endlich auf das Feld, auf das er schon zuvor hätte gehen sollen. Er
+will damit auch dem Springer auf e8 ermöglichen über f6 wieder in das Spiel
+zurückzukehren} 46. Rc3 {[%csl Yb7,Yc7][%cal Rc3c7,Rc7b7,Ge8c7] Jetzt steht
+der Turm auf der offenen c-Linie und droht damit, in die schwarze Stellung
+einzusickern. Das ist jetzt viel gefährlicher als auf der f-Linie, denn auf
+der c-Linie kann Schwarz nicht einfach alle Einbruchsfelder mit dem König
+abdecken. Würde Schwarz jetzt den Springer ziehen, dann könnte der weiße
+Turm auf c7 Schach geben und einfach den schwarzen Damenflügel abräumen} Kf7
+{[%csl Yc7,Yc8,Yd7,Ye6][%cal Gc3c7,Gd5e6,Gb6d7,Gb6c8] Der schwarze König
+macht sich auf den Weg zum Damenflügel, um die Einbruchsfelder abzudecken.
+Aber der Plan geht nicht auf, da Weiß vor allem die weißen Felder
+kontrolliert} 47. Kf3 {Auch Weiß verbessert die Stellung seines Königs. Er
+weiß ja, dass Schwarz ohnehin nichts machen kann} Ke7 {Bis hierhin kommt der
+König und nicht mehr weiter} 48. Nb2 {Die Rückkehr des Springers auf den
+Damenflügel wird vorbereitet} Kf6 {Ein seltsames Dreiecksmanöver, um einen
+Zug zu verlieren. Das kann und soll man in manchen Bauernendspielen spielen,
+aber hier wirkt das Manöver deplatziert} 49. N2c4 Ke7 {Schwarz wähnt sich im
+Zugzwang} ({Auch Züge wie} 49... g5 50. h5 Ng7 51. g4 {ändern an der Misere
+nichts. Der Königsflügel ist vollkommen lahmgelegt und der Damenflügel wird
+früher oder später zusammenfallen}) 50. Na5 {Die zweite Schwäche wird
+wieder auf das Korn genommen} Bd2 $2 {Das wirkt wie ein hilfloser und
+aktionistischer Versuch, den lahmen Läufer zu aktivieren} ({Besser ist
+vielleicht} 50... Rb8 {Dann sind aber alle Figuren hilflos und passiv}) 51. Rc2
+Bh6 {Dieser Rückzug musste leider sein} ({Eigentlich wollte der Läufer in
+der Freiheit bleiben, aber nach} 51... Be1 52. Na4 Kd7 ({Es hilft auch nicht} 
+52... b5 53. Nc6+ Kd7 54. Nxd8 bxa4 55. Nc6 {und Weiß wird leicht gewinnen})
+53. Re2 {ist er peinlicherweise gefangen und kommt nicht mehr heraus}) 52. Ke2
+{Langsamer Fortschritt und wieder eine Postitionsverbesserung} ({Auf den
+billigen Einsteller} 52. Nxb7 $4 Rb8 {konnte man nicht wirklich hoffen}) 52...
+Rb8 53. Kd3 Kd8 54. Rf2 Ke7 {Viel geändert hat sich an der Stellung
+eigentlich nicht. Beide Seiten haben etwas herummanövriert. Weiß beschließt,
+dass es an der Zeit zu handeln} 55. g4 {Weiß offenbart zwar jetzt Schwarz ein
+weiteres Feld auf f4, aber er gewinnt auch mit h4-h5 eine weitere
+Handlungsoption} Bf4 {Erst einmal das Feld f4 sichern und dem Vorstoß g4-g5
+zuvorkommen} 56. Rc2 Kd8 {Noch mal das Feld c8 überdecken, damit keine weiße
+Figur hineinfährt} 57. a4 Nf6 {[%csl Yg4][%cal Rf6g4] Endlich wird auch
+einmal eine zweite Figur aktiv} 58. Rg2 {Weiß macht dies jetzt sehr gut. Um
+etwas Dynamik in die Stellung zu bringen, hat er jetzt zwei Bauernzüge
+gebracht. Die Statik der Stellung ist damit aufgebrochen} Kc7 {Schwarz macht
+weiter auf aktiv, er fühlt sich offenbar auf einmal befreit} 59. Nac4 {
+Kluge Überdeckung des Springers mit Option den Damenflügel lahm zu legen} Rf8
+$2 {Das ist aber ein schwacher Zug. Es ist gar nicht klar, was der Turm hier
+soll} 60. a5 {Das ist der finale Zug, der den Damenflügel endgültig begräbt}
+h6 {Der hätte schon viel eher kommen sollen, ist aber jetzt auch nicht mehr
+gut. Es dauert zwar ein paar Züge bis Weiß auf die richtige Idee kommt, aber
+Schwarz erkennt sie gar nicht} 61. Ne3 {Weiß verpasst die richtige
+Gelegenheit, aber die läuft gar nicht weg} ({Der richtige Zug lautet} 61. Rc2
+{Der König kann nicht ziehen, weil der Bauer auf d6 fällt} Nxg4 {verliert
+sofort wegen} 62. Nxe5+ Kd8 63. Rc8+ Ke7 64. Nxg6+) 61... Kb8 {Im Prinzip ist
+das Spiel gelaufen. Die nächsten Züge sind dazu da, Zeit zu gewinnen 
+(Fischer-Modus), müssen aber nicht groß begründet werden} 62. Nd1 Rg8 {
+Der Zug an sich ist nicht falsch, aber die Idee, die dahintersteckt} 63. Nf2 h5
+$2 {Schwarz rennt in das Messer und verliert einen Bauern} ({Er hätte besser
+weiter manövriert} 63... Rg7) 64. g5 {Jetzt ist der Läufer gefangen und wird
+aus dem Spiel genommen} Ne8 $2 {Nach einem Fehler kommt schon der nächste} ({
+Nach} 64... Ng4 65. Nxg4 hxg4 66. Rxg4 {ist die Stellung gerade noch spielbar,
+obwohl schwer zu halten}) 65. Nh3 {Weiß kann ohne Probleme den Bauern
+einsacken} Kc7 $4 {Die Stellung war zwar ohnehin hinüber, aber hier hilft
+Schwarz aktiv an seinem Untergang mit} 66. Rc2+ {Endlich erkennt Weiß den
+korrekten Plan, eigentlich kann man hier schon aufgeben} Kd8 67. Rc8+ Ke7 68.
+Nxf4 exf4 69. Ke2 {Schwarz macht hier noch ein paar Alibizüge} f3+ 70. Kxf3
+Rf8+ 71. Ke3 Rf1 72. Rb8 Rh1 73. Rxb7+ Kf8 74. b5 {Der entsehende Freibauer
+auf der a-Linie entscheidet das Spiel und ist nicht aufzuhalten} Rh3+ 75. Kd4
+1-0
+

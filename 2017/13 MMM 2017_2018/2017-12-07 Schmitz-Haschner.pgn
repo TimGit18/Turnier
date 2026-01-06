@@ -1,0 +1,46 @@
+[Event "MMM 2017/18"]
+[Site "?"]
+[Date "2017.12.07"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Haschner, Antonius"]
+[Result "1/2-1/2"]
+[ECO "C62"]
+[WhiteElo "1781"]
+[BlackElo "1786"]
+[PlyCount "32"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.12.08"]
+[WhiteTeam "SC Sendling 3"]
+[BlackTeam "SF Dachau 2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 {Das ist die sehr defensive
+Steinitz-Verteidigung, in der Schwarz einfach nur den Bauern auf e5 stützt.
+Weiß kann seine Figuren frei entwickeln, muss aber im entschedenden
+Augenblick aggressiv fortsetzen} 4. d4 exd4 ({Normalerweise schaltet Schwarz
+hier noch} 4... Bd7 5. Nc3 exd4 {ein}) 5. Nxd4 Bd7 {Das ist der logische Zug
+in dieser Verteidigung, der den Springer auf c6 stützt und letztlich den
+Bauern auf e4 einmal angreift} 6. Nc3 $6 {Das ist zwar ein gesunder und guter
+Entwicklungszug, aber hier wird gerade eine Gelegenheit verpasst, die Struktur
+der Stellung entscheidend zu verändern} ({Nach} 6. Nxc6 bxc6 7. Bc4 {hat
+Weiß immer noch das Läuferpaar, aber Schwarz hat bereits einen Doppelbauern 
+(und dafür die halb-offene b-Linie)} Nf6 8. O-O) 6... Nge7 {Wieder eine
+überraschende Zugwahl von Schwarz. Er zementiert die Struktur seiner Stellung
+auf Kosten seines Freiraums} 7. Be3 {Vernüftige Vorbereitung der langen
+Rochade, bloß jetzt kann Schwarz mit einem Massenabtausch die Spannung aus
+der Stellung nehmen} Nxd4 8. Qxd4 Bxb5 9. Nxb5 Qd7 {Auch Schwarz bereitet die
+lange Rochade vor} 10. Qc4 {[%csl Yc7][%cal Rb5c7,Rc4c7] Die Dame müsste
+sowieso wegziehen, aber es ist sehr naiv, den Bauern auf c7 bedrohen} ({
+Ein peinlicher Fehler wäre} 10. Nxa7 c5 {und Schwarz hat eine Figur verloren})
+10... Nc6 {Schwarz sichert zunächst den eigenen König} 11. O-O-O a6 12. Nc3 {
+Dieser Rückzug sieht am gesündesten aus} ({Nach} 12. Nd4 Ne5 13. Qe2 b5 {
+hat Schwarz eine schöne Stellung mit Angriffsmotiven auf dem Damenflügel
+aufgebaut}) 12... O-O-O 13. f4 $6 {Der Zug hält zwar den schwarzen Springer
+von e5 fern, schwächt aber den Bauern e4. Gegen diesen richtet sich fortan
+das schwarze Gegenspiel} Qe6 14. Qd5 {Hier wurde Remis von Weiß geboten und
+auch vereinbart. Der Damentausch läßt sich nicht richtig vermeiden. Die
+Partie könnte folgendermaßen weitergehen} ({Nach} 14. Qe2 Re8 15. Qf3 f5 {
+ist der e-Bauer kaum noch zu verteidigen}) 14... Re8 15. Rhe1 g6 16. Qd2 Bg7 {
+Schwarz hat genügend Figurendruck gegen das weiße Zentrum mobilisiert}
+1/2-1/2
+

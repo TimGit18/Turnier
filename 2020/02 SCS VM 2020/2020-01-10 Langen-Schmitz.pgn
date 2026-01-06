@@ -1,0 +1,35 @@
+[Event "SCS VM 2019/2020"]
+[Site "?"]
+[Date "2020.01.10"]
+[Round "5"]
+[White "Langen, Bernd"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1819"]
+[BlackElo "1863"]
+[Annotator "Tim Schmitz"]
+[PlyCount "25"]
+[EventDate "2016.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. d3 Nf6 7. O-O O-O 8. Qe1 {
+Das ist die Hauptvariante in dieser Verteidigung des Grand-Prix-Angriffs.} Nd4
+{[%csl Yc2][%cal Rd4c2] Schwarz nutzt den Seitenschritt der weißen Dame aus
+und bedroht den Bauern auf c2. Das ist gute, aktive Verteidigung} 9. Nxd4 {
+Das ist die einzige aktzeptable Fortsetzung} cxd4 10. Ne2 {Weiß greift den
+Bauern auf d4 an und bereitet den Transfer des Springers auf den Königsflügel
+vor} ({Die heute beliebtere und aktivere Fortsetzung lautet} 10. Nd5 Nxd5 11.
+Bxd5 e6 12. Bb3 a5 13. a4 Qb6) 10... d5 {Das ist die logische Folge. Der Bauer
+muss geschlagen werden,, weil sonst der Bauer auf e4 verloren geht. Danach ist
+aber auch der Bauer auf d4 durch den Läufer auf g7 gedeckt} 11. exd5 Nxd5 {
+[%csl Yd4,Ye3][%cal Rg7d4] Der Springer steht in Zentrum sehr aktiv und
+kontrolliert einige Felder} 12. Qg3 {Dieser Zug sieht harmlos aus, stellt aber
+eine tückische Falle. Aktiver war vielleicht De1-h4 oder Se2-g3} e6 {Der Zug
+überdeckt den Springer auf d5 und das Feld f5, so dass ein Durchbruch
+verhindert wird. Möglicherweise ist Lc8-f5 aktiver, aber er verhindert nicht
+den Bauernvormarsch f4-f5} ({Nach einem Nullzug wie} 12... a6 {folgt} 13. f5 {
+Der Zug öffnet eine Linie und eine Diagonale. Der Bauer darf nicht geschlagen
+werden denn nach} Bxf5 {folgt} 14. Rxf5 gxf5 15. Bh6 {[%csl Yg7][%cal Rg3g7]
+mit Matt auf g7}) 13. Bd2 {Mit Ausnahme des letzten Zuges folgt die Partie
+genau derselben wie im Jahr 2016, nur hier mit Remis} 1/2-1/2
+

@@ -1,0 +1,21 @@
+[Event "Baden-Baden 2014"]
+[Site "?"]
+[Date "2014.03.03"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Klemens, Peter"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "1763"]
+[BlackElo "1518"]
+[PlyCount "69"]
+[SourceDate "2014.03.03"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O O-O-O 13. Ne4 e6 14. g3
+Nxe4 15. Qxe4 Nf6 16. Qe2 Rd5 17. Ne5 (17. Bf4 Qa5 18. c4) 17... Rxd4 18. Bf4
+Rxd1+ (18... Re4 19. Qd3 Bc5 20. Ng6) 19. Rxd1 Nd5 20. Rxd5 cxd5 21. Ng6 Qa5 $2
+(21... Bd6 22. Nxh8 Bxf4+ 23. gxf4 Qxf4+ 24. Qe3 Qf6) 22. Nxh8 Qxa2 23. Qb5 Kd8
+24. Nxf7+ Ke7 25. Ne5 Qa1+ 26. Kd2 Kf6 27. Nd7+ Ke7 28. Nxf8 Kxf8 29. Bd6+ Kg8
+30. Qe8+ Kh7 31. Qg6+ Kg8 32. Qxe6+ Kh7 33. Qg6+ Kh8 34. Be5 Qa5+ 35. c3 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rottach Egern Seniors Cup 9th"]
+[Site "Rottach Egern"]
+[Date "2021.10.28"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Freundorfer, Josef"]
+[Result "0-1"]
+[ECO "C64"]
+[WhiteElo "1839"]
+[BlackElo "2125"]
+[Annotator "test"]
+[PlyCount "62"]
+[EventDate "2021.10.22"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "GER"]
+[SourceTitle "CBM 204 Extra"]
+[Source "ChessBase"]
+[SourceDate "2022.09.12"]
+[SourceVersion "1"]
+[SourceVersionDate "2022.09.12"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5 8.
+exd5 Nxd5 9. Re1+ Be6 10. Bg5 Qd6 11. Nc3 $6 (11. Nbd2) 11... h6 12. Bh4 (12.
+Ne4 $1 Qb4 13. Bxc6+ bxc6 14. Qc2 O-O (14... hxg5 15. Qxc6+ Ke7 16. a3 Qxb2 17.
+Nexg5 Nf4 18. Rad1) 15. a3 Qa5 16. Bd2 Qa6 17. a4 $18) 12... O-O 13. Ne4 Qb4
+14. Bxc6 bxc6 15. a3 $2 Qxb2 16. Re2 Qb5 17. a4 Qa5 18. Rc2 $4 Bf5 19. Rc5 Bxc5
+20. Nxc5 Rfe8 21. Bg3 f6 22. h3 Rab8 23. Nh4 Bh7 24. Kh2 Re7 25. Qg4 Qc3 26.
+Ra2 Rbe8 27. Nf3 Qc1 28. Rd2 Qb1 29. Nh4 g5 30. f4 Ne3 31. Qh5 Nf1+ 0-1
+

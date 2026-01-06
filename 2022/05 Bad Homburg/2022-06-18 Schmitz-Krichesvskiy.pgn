@@ -1,0 +1,21 @@
+[Event "RMO B-Turnier"]
+[Site "?"]
+[Date "2022.06.18"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Krychevskiy, Dmytro"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "1798"]
+[BlackElo "1979"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[SourceVersionDate "2022.06.18"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. c3 dxe4 6. Nxe4 cxd4 7. cxd4 Bb4+ 8.
+Nc3 Nf6 9. Bd3 O-O 10. O-O Kh8 11. Be3 e5 12. dxe5 Bxc3 13. bxc3 Ng4 14. Bd4
+Re8 15. Re1 Be6 16. Qd2 (16. h3 $1) 16... Bd5 17. Qf4 Bxf3 18. gxf3 Ngxe5 19.
+Bxh7 Nxd4 20. cxd4 Qxd4 21. Be4 Re6 22. Rad1 Rg6+ 23. Kh1 Qxf2 24. Bxg6 Nxg6
+25. Qxf7 Qc2 26. Rd5 Nf8 27. Rg1 Qc3 28. Rh5+ Nh7 29. Qf5 g6 30. Rxh7+ Kxh7 31.
+Qxg6+ Kh8 32. Qh6# 1-0
+

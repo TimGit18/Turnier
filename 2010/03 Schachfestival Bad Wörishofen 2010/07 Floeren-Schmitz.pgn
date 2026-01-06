@@ -1,0 +1,20 @@
+[Event "Schachfestival Bad Wörishofen 2010"]
+[Site "?"]
+[Date "2010.03.12"]
+[Round "7"]
+[White "Floeren, Ernst"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "1541"]
+[BlackElo "1870"]
+[Annotator "Tim Schmitz"]
+[PlyCount "24"]
+[EventDate "2010.??.??"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. exd5 cxd5 6. Bb3 Nc6 7. h3 Bc5 8. c3
+O-O 9. O-O Qd6 $6 {Erlaubt die folgende Zugwahl} 10. Bg5 {[%csl Yd5,Rf6][%cal
+Gg5f6,Gb3d5] Jetzt gerät d5 unter Beschuß} Nd7 11. Bh4 e4 $6 {Überzieht, aber
+Weiß geht in die Falle} 12. Bg3 $4 (12. dxe4 dxe4 13. Qxd6 Bxd6 14. Rd1 Bf4)
+12... Qxg3 0-1
+

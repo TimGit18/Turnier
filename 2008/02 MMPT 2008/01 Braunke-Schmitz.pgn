@@ -1,0 +1,25 @@
+[Event "MMPT 2008"]
+[Site "?"]
+[Date "2008.03.11"]
+[Round "?"]
+[White "Braunke, Bastian"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C80"]
+[WhiteElo "1663"]
+[BlackElo "1795"]
+[Annotator "Tim Schmitz"]
+[PlyCount "54"]
+[EventDate "2009.??.??"]
+[WhiteTeam "SC Ismaning 1"]
+[BlackTeam "SC Sendling 1"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5
+{Ein ungewöhnlicher Tausch} Nxe5 9. dxe5 Be6 10. f4 $2 Bc5+ 11. Kh1 Qh4 12. Rf3
+Nf2+ $2 (12... Bg4 {ist viel stärker}) 13. Rxf2 Qxf2 14. Nc3 c6 (14... Bg4 {
+verliert hier bloß einen Bauern} 15. Be3 Bxd1 16. Bxf2 Bxf2 17. Nxd1 Bb6 18.
+Bxd5) 15. Bd2 O-O 16. h3 f6 $2 17. Ne4 $1 Qd4 18. Nxc5 Qxc5 19. Bc3 fxe5 20.
+Bxe5 Rae8 21. c3 Qe3 22. Qh5 Bf5 23. Bd6 Rf6 24. Bc5 Qe6 25. Qf3 Be4 26. Qf2
+Qxh3+ 27. Kg1 Rg6 {nebst Matt} 0-1
+

@@ -1,0 +1,106 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.10.08"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Hohlfeld, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1820"]
+[BlackElo "2067"]
+[Annotator "Tim Schmitz"]
+[PlyCount "59"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Qxd5 {[%csl Yd3,Yd4,Yd5,Ye4,Yf3,Yg2][%cal Rd5g2,Rd5d2] Dieser Zug ist ganz
+im Sinne des schwarzen Plans. Schwarz platziert die Dame auf einem zentralen
+Feld, auf dem sie eine maximale Kontrolle über die weißen Felder im Zentrum
+ausübt. Außerdem kann die schwarze Dame im Moment nicht vertrieben werden
+und übt einen gewissen Druck auf den zu erwartenden Bauernvorstoß d2-d4 aus.
+Schwarz hat jetzt hier die drei grundsätzlichen Pläne zur Auswahl: (1) Er
+setzt wie oben beschrieben das weiße Zentrum mit seinen Figuren unter Druck. 
+(2) Er versucht, dass weiße Zentrum mit dem thematischen Gegenstoß e7-e5
+aufzulösen, was allerdings sehr präzises Spiel erfordert. (3) Er versucht
+das weiße Zentrum direkt aufzulösen und nimmt dabei einen forcierten
+Figurenabtausch in Kauf.} 4. d4 {Weiß besetzt sofort das Zentrum mit seinem
+Damenbauern. Er hat keine Angst vor der Isolierung dieses Bauern, weil sie
+seinen Figuren (den Läufern und dem Damenspringer) gute Felder für die
+beschleunigte Entwicklung gibt.} Nf6 {Dieser Zug ist die gebräuchlichste
+Fortsetzung in dieser Stellung, denn er ist sehr flexibel und kann zu vielen
+verschiedenen Systemen führen. Anders als in den Stellungen, in denen Schwarz
+zunächst Sb8-c6 zieht, greift Schwarz nicht direkt den d-Bauern an.
+Andererseits hat Schwarz auch schon einen Schritt weiter zur kurzen Rochade
+gemacht. Und ohne den Springer auf c6 hat Schwarz weniger Bedenken über den
+weißen Vorstoß c3-c4 und d4-d5. Das ist ein wichtiger Punkt, wie man sehen
+wird.} 5. Nf3 {Gelegentlich versucht Weiß den Springerzug und die
+nachfolgende Fesselung zu vermeiden, aber das führt zu keinem Erfolg. Schwarz
+kann meistens ausgleichen.} Bg4 {Das ist die logische Fortsetzung. Schwarz
+verbindet eine schnelle Entwicklung mit Einschränkungen der gegnerischen
+Kräfte und einen gewissen Druck auf den d-Bauern.} 6. Be2 {Dieser Zug ist die
+häufigste Fortsetzung. Zu ganz anderen Stellungsbildern führt das Schlagen
+des c-Bauern, wonach sich Schwarz entscheiden muss, ob er auf c5 oder d1 nimmt.
+} e6 7. h3 {In der Regel zwingt Weiß den schwarzen Läufer zum Rückzug.} Bh5
+8. O-O {Im Vergleich zum Benjamin-Gambit muss hier Schwarz nicht sofort auf d4
+nehmen, denn der Vorstoß c3-c4 nebst d4-d5 ist nicht zu fürchten.} Nc6 {
+Wiederum besteht kein Druck für Schwarz, die Bauern auf d4 zu tauschen, aber
+es ist auch nichts Falsches daran.} 9. Be3 {Weiß stützt den d-Bauern und
+droht mit dem Schlagen auf c5. Normalerweise möchte Schwarz dies nicht
+zulassen und schlägt selber auf d4.} cxd4 {Das ist die logische Fortsetzung.
+Schwarz verschafft Weiß einen isolierten Damenbauern auf d4.} 10. cxd4 {
+Das Schlagen mit dem Springer würde die Struktur der Stellung verändern.} Be7
+{Hier sind noch zwei andere Läuferzüge in Betrachtung.} 11. Nc3 Qd6 $1 12.
+Qb3 $1 {Das Feld b3 ist das natürlichste Feld für die weiße Dame.
+Alternativen sind hier nichts so stark.} O-O $1 {Hiernach erreicht man die
+Ausgangsstellung des Klassischen IDB-Systems. Beide Parteien sind dazu bereit,
+ihre Türme in das Spiel zu bringen, am besten auf der d- und c-Linie. Weiß
+wird immer nach einer Möglichkeit suchen, um den Vorstoß d4-d5 zu spielen.
+Schwarz muss diese Möglichkeit immer in Betracht ziehen ebenso wie das
+Schlagen auf b7.} 13. Rfd1 {Dieser Zug gibt Schwarz die meisten Möglichkeiten
+fehlzutreten. Den Bauern auf b7 zu schlagen ist ganz schlecht, da der schwarze
+Turm aktiviert wird.} Nb4 {[%csl Yd5][%cal Gb4d5,Gf6d5] Der erste neue Zug,
+den ich nicht kannte. Aber er macht Sinn. Schwarz möchte einen Springer auf
+d5 zementieren.} ({Die Hauptvariante lautet} 13... Rfd8) 14. Nb5 {Weiß muss
+aktiv spielen, denn sonst landet er mit dem Isolierten Damenbauer in einem
+schlechteren Endspiel.} Qb8 {Die Dame behält das Zentrum im Auge, klemmt aber
+den Damenturm ein. Hier punktet Weiß ganz gut mit} 15. Rac1 {bringt die
+letzte unentwickelte Figur in das Spiel und besetzt eine offene Linie.} Nbd5 {
+Schwarz hat sein Zwischenziel erreicht. Der Springer auf d5 ist unvertreibbar.}
+16. g4 {Weiß setzt die Politik der kontrollierten Aggression fort. Im
+Klassischen IDB-System wird häufig g2-g4 gespielt, um die Figuren besser zu
+stellen und um Komplikationen zu schaffen.} Bg6 17. Ne5 {[%csl Yc6,Yd7,Yf7,Yg6]
+[%cal Ge5g6] Hier steht der Springer eigentlich ziemlich gut.} Rd8 {Schwarz
+aktiviert den Turm.} 18. Bf3 {Der Läufer auf e2 hatte keine richtige Aufgabe,
+also kann er auch rezentralisiert werden.} Be4 $1 {Ein interessanter Zug, der
+Figurentausch und Aktivierung beabsichtigt.} 19. Bg5 {Die Deckungsfigur des
+Läufers e4 soll unterminiert werden. Jetzt stehen alle weißen Figuren aktiv.}
+Bxf3 20. Qxf3 a6 21. Nc3 Nxc3 $6 {Schwarz tauscht ein weiteres Figurenpaar,
+jedoch aktiviert er die weißen Figuren und erlaubt die Verdopplung auf der
+c-Linie.} 22. Rxc3 ({Eine interessante (und vielleicht bessere) Alternative
+wäre hier} 22. bxc3 $1 {Weiß hat ein dynamisches Bauernzentrum, was er -
+unterstützt von den Türmen - vormarschieren lassen kann.}) 22... Rd5 {
+Schwarz hält mit Figurendruck im Zentrum dagegen.} 23. Rdc1 {Es droht unter
+Umständen Tc3-c8+.} Qe8 $1 {[%csl Ya4,Yb5][%cal Ge8b5,Gb5a4] Ein guter Zug,
+der die Dame aktiviert.} 24. Rc7 Rb8 {Weiß übt zweifellos Druck aus. Die
+schwarze Stellung ist aber gesund und ohne Schwächen.} 25. Qb3 {Eine weitere
+Bedrohung des b-Bauern, die aber leicht abwehrt werden kann.} Rb5 26. Qc2 {
+Das war das eigentliche Ziel des Manövers: die Vertripelung auf der c-Linie.}
+h6 $1 {Erstaunlicherweise löst dieser Zug die ganze Spannung der Stellung auf.
+} 27. Bxf6 gxf6 (27... Bxf6 $2 28. Nxf7) 28. Nf3 Rd8 {Der Turm ist nicht mehr
+an die Verteidigung des b-Bauern gebunden und kann aktiviert werden.} 29. b3 {
+Weiß möchte seine Dame mobilisieren, die noch an der Deckung des Bauern b2
+klebt.} Bd6 {Auch der Läufer steht hier aktiver als zuvor.} 30. Rc8 {An
+dieser Stelle bot ich Remis an, was angenommen wurde. Die Stellung ist
+vollkommen gleich. Der schwache weiße Damenbauer wird durch die schlechte
+schwarze Bauernstruktur auf dem Königsflügel kompensiert.} 1/2-1/2
+

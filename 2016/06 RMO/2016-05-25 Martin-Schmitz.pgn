@@ -1,0 +1,56 @@
+[Event "RMO 2016, B-Turnier"]
+[Site "?"]
+[Date "2016.05.25"]
+[Round "1"]
+[White "Martin, Lukas"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1449"]
+[BlackElo "1817"]
+[PlyCount "31"]
+[EventDate "2011.06.04"]
+[SourceDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 {Das Smyslov-System ist ein
+ruhiges System, aber es enthält etwas Gift. Falls Schwarz diese Variante
+nicht ernst nimmt, so kann er leicht in einer Stellung ohne Gegenspiel landen.}
+c5 {In dieser Stellung hat Weiß die Wahl zwischen zwei verschiedenen
+Stellungstypen. In beiden Fällen wird Schwarz mit h7-h6, g6-g5 und Sf6-h5.
+Schwarz wird im allgemeinen das Läuferpaar behalten, aber er muss sorgfältig
+handeln, um nicht auf den weißen Feldern angreifbar zu sein.} ({Hier muss man
+schon auf die genaue Zugfolge achten. Nach} 5... d6 6. Qd2 c5 7. d5 {kann
+Schwarz nicht mehr h7-h6 spielen. Daher ist das sofortige c7-c5 genauer, mit
+dem Druck auf die weiße Stellung ausgeübt wird.}) {Die andere Fortsetzung ist
+} 6. e3 {Weiß bevorzugt es, die Benoni-Struktur zu vermeiden und spielt eine
+Klassische Variante} Qa5 {[%csl Yc3,Yg5][%cal Ga5c3,Ga5g5] Die schwarze Dame
+erfüllt hier zwei Funktionen. Sie fesselt den Springer auf c3 und greift
+verdeckt den Läufer auf g5 an, der allerdings noch von dem Springer auf f3
+gedeckt wird} ({Genauer ist wohl nach der gängigen Theorie} 6... d6 7. Be2 h6
+8. Bh4 g5 {Schwarz spielt die direkteste Art, um den weißen Läufer zu jagen.}
+9. Bg3 Nh5) 7. Be2 {Dieser Zug gefällt nicht. Schwarz kann nun auf d4
+tauschen und die Drohungen der Dame zur Geltung bringen} cxd4 8. Nxd4 $4 {
+Ein schrecklicher Fehlzug, der die komplette Figur einstellt} ({(a) Nach} 8.
+exd4 {folgt} Ne4 9. Bd2 ({Die schnelle Reaktion} 9. Bxe7 {führt zu einer sehr
+kritischen Stellung für Weiß} Nxc3 10. bxc3 Qxc3+ 11. Kf1 Re8) 9... Nxd2 10.
+Qxd2 Nc6 {Schwarz hat das Läuferpaar und eine gute Entwicklung}) ({(b) Auch
+nicht gut ist die Fortsetzung} 8. Qxd4 Nc6 9. Qd2 d6 {Schwarz steht sehr
+bequem, wohingegen die weißen Figuren etwas unkoordiniert sind}) 8... Qxg5 {
+Schwarz hat eine Figur gewonnen und droht dem weißen Königsflügel. Das
+Problem für Schwarz ist lediglich die Damenstellung und der
+Entwicklungsrückstand} 9. O-O {Weiß schützt den Königsflügel und bringt
+den König in relative Sicherheit. Allerdings kann er auch hier von den
+schwarzen Figuren später attackiert werden} Nc6 {Der Springer auf d4 wird
+befragt und die schwarze Entwicklung fortgesetzt} 10. a3 {Weiß versucht auf
+dem Damenflügel aktiv zu werden. Er gewinnt zwar Raum, aber der Versuch ist
+viel zu langsam} d6 {Schwarz öffnet die Diagonale für den Damenläufer und
+droht bereits mit Lc8-h3} 11. b4 $2 {Der Zug ignoriert die schwarzen Drohungen}
+({Besser ist die aggressive Fortsetzung} 11. f4 $1 Qa5 12. b4 Qd8 {Weiß hat
+etwas Kompensation für die Figur, aber nicht viel}) 11... Bh3 {Schwarz droht
+einzügig matt auf g2} 12. g3 $2 {Weiß versucht eine Falle zu stellen, die
+aber nicht aufgeht} ({Nach} 12. Bf3 {folgt stark} Ne5) 12... Bxf1 {Schwarz
+gewinnt mindestens die Qualität} 13. f4 {Wenn die schwarze Dame jetzt nach h6
+zurückmüsste, dann stünde sie nicht gut} Bxe2 {Weiß verliert in jeder
+Variante Material, zum Beispiel} 14. fxg5 Bxd1 15. gxf6 Bxf6 16. Rxd1 {und
+Schwarz hat einen Mehrturm und einen Mehrbauern} 0-1
+

@@ -1,0 +1,20 @@
+[Event "Ortenburg-Open"]
+[Site "?"]
+[Date "2021.09.10"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Hoffmann, André "]
+[Result "*"]
+[ECO "B22"]
+[WhiteElo "1811"]
+[BlackElo "1972"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[SourceVersionDate "2023.03.21"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 e6 8. exd6
+Bxd6 9. Nc3 Nxc3 10. bxc3 O-O 11. O-O b6 12. Bd3 Bb7 13. Ng5 h6 14. Qh5 Be7 15.
+h4 e5 16. Bh7+ Kh8 17. Bc2 Bxg5 $2 18. hxg5 exd4 19. Rd1 Qd5 20. Bb3 $6 (20.
+Qh2) 20... Qf5 21. Ba3 dxc3 22. Bxf8 Rxf8 23. Rac1 Ne5 24. Rxc3 Ng6 25. Bc2 Qa5
+26. Re3 Nf4 27. Qg4 (27. Qxf7 $1) 27... hxg5 28. Rh3+ *
+

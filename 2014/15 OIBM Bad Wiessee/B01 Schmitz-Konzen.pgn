@@ -1,0 +1,79 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2014.10.28"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Konzen, Horst"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1738"]
+[BlackElo "1916"]
+[Annotator "Tim Schmitz"]
+[PlyCount "33"]
+[EventDate "2010.11.21"]
+[SourceDate "2010.11.21"]
+
+1. e4 d5 2. exd5 Qxd5 {Der Grund für die vorschnelle Entwicklung der Dame
+liegt in der Verhinderung des weißen Idealzentrums e4 und d4. Außerdem kann
+der "skandinavische" Läufer auf c8 sehr gut entwickelt werden} 3. Nc3 {Das
+ist der beste weiße Zug, denn er entwickelt eine Figur unter Tempogewinn} Qa5
+{Das ist das aktivste Feld für die Dame. Hier kontrolliert sie das Zentrum
+und kann nicht so einfach angegriffen werden.} 4. d4 {Weiß besetzt das
+Zentrum und kontrolliert e5} Nf6 {Dies gilt als der beste schwarze Zug.
+Schwarz kann auch mit c7-c6 den Einfluss auf d5 vergrößern, aber in manchen
+Varianten soll der Damenspringer nach c6 entwickelt werden.} 5. Nf3 {[%csl Re5]
+[%cal Gf3e5] Dieser Zug sieht unbedeutend aus, ist er aber nicht. Zunächst
+legt er die weiße Figurenaufstellung fest. Außerdem droht er in vielen
+aggressiven Varianten mit dem Einstieg nach e5, gefolgt von einem Bauernsturm
+auf dem Königsflügel.} c6 {Schwarz schafft ein Rückzugsfeld für die Dame
+und kontrolliert das Feld d5} 6. Bc4 {Weiß kämpft weiter um das Feld d5,
+entwickelt den Läufer und ermöglicht die kurze Rochade. In der Regel
+rochiert Weiß im Skandinavier aber lang} Bf5 {[%csl Yc2,Ye4][%cal Rf5e4,Re4c2]
+Das Feld f5 ist das Idealfeld für den Damenläufer} ({Nach} 6... Ne4 7. Bd2
+Nxd2 8. Qxd2 {hat Schwarz zwar das Läuferpaar erhalten, aber Weiß hat einen
+riesigen Entwicklungsvorsprung. Die schwarzen Läufer haben keine richtigen
+Ziele. Weiß kann lang rochieren und schnell im Zentrum durchbrechen}) 7. Bd2 {
+Der Läufer entfesselt den Springer und "droht" mit Abzug gegen die Dame} e6 {
+[%csl Yb5,Yc4,Yd5][%cal Gd4d5,Rb7b5] Schwarz will seinen Königsläufer
+entwickeln, kurz rochieren und auf dem Damenflügel aktiv werden. Ein
+Schlüsselmanöver in diesem Konzept ist b7-b5 und Sb8-d7-b6 mit Kontrolle der
+weißen Felder auf dem Damenflügel. Weiß dagegen muss versuchen, im Zentrum
+mit d4-d5 durchzubrechen, was Schwarz unter keinen Umständen zulassen sollte.
+Falls dieser Durchbruch nicht gelingt, wird das Spiel sich auf die Flügel
+verlagern, wobei Weiß eher auf dem Königsflügel aktiv sein wird} 8. Nd5 {
+Seit Alexei Shirov diesen Zug 1997 gegen Valeri Salov angewendet hatte, wurde
+er die beliebteste Fortsetzung gegen die Klassische Skandinavische
+Verteidigung und galt bereits fast als deren Widerlegung} Qd8 {Schwarz hat
+kein anderes Rückzugsfeld für die Dame} 9. Nxf6+ {Schwarz hat nun die Wahl,
+ob er seine Bauernstruktur zerstört oder Zeit verliert, in dem er seine Dame
+aus dem Zentrum entfernt} Qxf6 {[%csl Yd5][%cal Rd4d5] Schwarz will die
+Zerstörung der Bauernstruktur nicht zulassen und vertraut in die
+Geschlossenheit seiner Stellung. Er hofft, dass die strukturelle Solidität
+den Zeitverlust rechtfertigt. Es ist klar, dass Weiß seinen
+Entwicklungsvorsprung benutzen muss, um die Stellung zu öffnen. Dazu muss er
+mit dem Bauerndurchbruch zuschlagen: d4-d5.} 10. Qe2 $1 {Dieser Zug bereitet
+d4-d5 vor} Nd7 {Die Idee hinter diesem Zug ist es, den Einfluss von d4-d5 zu
+vermindern oder den Zug zu verhindern} 11. O-O-O {Das prinzipielle d4-d5 ist
+zu hastig hier und erreicht nichts für Weiß. Daher ist die ruhige Rochade
+vorzuziehen Nicht der beste Zug} Be7 $6 {In dieser Stellung hat Weiß eine
+forcierte Möglichkeit, während Schwarz nicht soviele Optionen besitzt} ({(a)
+Besser ist der Übergang in die Hauptvariante mit} 11... Bg4 12. d5 Bxf3 13.
+gxf3 cxd5 14. Bxd5) ({(b)} 11... Nb6 $2 {Das war die ursprüngliche Idee
+hinter Sb8-d7, aber der Zug ist praktisch widerlegt} 12. Bg5 {Das ist ein sehr
+mächtiger Zwischenzug, der Schwarz völlig zerstört} Qg6 13. d5 {Der
+Skandinavisch-Experte Eric Prie sieht diesen Zug als extrem gefährlich an}
+Nxc4 {Schwarz ist schon in einigen Problemen} 14. Qxc4 exd5 15. Rhe1+ Be6 16.
+Rxd5 {Jetzt kann Schwarz nicht auf d5 nehmen, denn er würde dann auf b5
+mattgesetzt} Be7) 12. Bg5 {Weiß steht freier, denn Schwarz ist mit der
+Stellung unzufrieden. So nimmt er das Remis-Angebot an. Es könnte folgen} Qg6
+{Das ist bereits das einzige Feld für die Dame.} 13. Bxe7 {Weiß lockt den
+König in die Mitte und zerstört auch noch die schwarze Rochade} Kxe7 {
+Schwarz hat keine Wahl. Der König steht zwar "relativ" sicher, aber wohl
+fühlt er sich auf den schwarzen Feldern nicht} 14. Qd2 {[%csl Yb4][%cal Rd2b4,
+Gb4e7,Gb4b7] Das ist wahrscheinlich der beste Zug für Weiß. Er droht bereits
+mit Dd2-b4 mit Doppelangriff auf den schwarzen König und den Bauern b7} a5 {
+Schwarz muss die schwarzen Felder unter seiner Kontrolle behalten} 15. Nh4 {
+Weiß kann jetzt vorteilhaft den Springer gegen gegen den Läufer tauschen} Qf6
+16. Nxf5+ Qxf5 17. Rhe1 {Die weißen Figuren sind jetzt optimal platziert. Es
+droht bereits d4-d5} 1/2-1/2
+

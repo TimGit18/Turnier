@@ -1,0 +1,26 @@
+[Event "RMO B-Turnier"]
+[Site "?"]
+[Date "2022.06.15"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Papadopoulos, Leon"]
+[Result "*"]
+[ECO "C78"]
+[WhiteElo "1700"]
+[BlackElo "1400"]
+[Annotator "Tim Schmitz"]
+[PlyCount "115"]
+[SourceVersionDate "2022.06.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d6 $2 5. O-O $6 (5. d4 exd4 6. cxd4 Bb4+
+7. Nc3) 5... a6 6. Ba4 b5 7. Bb3 Nf6 8. d4 Bb6 9. h3 exd4 10. cxd4 Ne7 11. Re1
+O-O 12. Bg5 Ng6 13. Nc3 h6 14. Be3 (14. Bxf6 Qxf6 15. Nd5 Qd8 16. Nxb6 cxb6)
+14... b4 15. Nd5 Nxe4 $2 16. Nxb6 cxb6 17. Bd5 Bf5 18. Bxh6 $6 (18. g4 $1)
+18... gxh6 19. Bxe4 Bxe4 20. Rxe4 d5 21. Rg4 Kh7 22. Ne5 Nxe5 23. dxe5 f5 24.
+exf6 Qxf6 25. Qd3+ Kh8 26. Qd4 a5 27. Qxf6+ Rxf6 28. Rd1 Rd8 29. f3 Kh7 30. Kf2
+Rg6 31. Rgd4 Rgd6 32. f4 Kg6 33. Kf3 h5 34. g4 b5 35. Kg3 Kf6 36. Re1 Re6 37.
+Rxe6+ Kxe6 38. Rd2 d4 39. f5+ Ke5 40. Re2+ Kf6 41. Kf4 d3 42. g5+ Kg7 43. Rd2
+Rd4+ 44. Ke5 Rd8 45. Ke4 Rc8 46. Rxd3 a4 47. Rd7+ Kg8 48. Ke5 Rc2 49. Kf6 Rc6+
+50. Ke7 Rc2 51. f6 Re2+ 52. Kd6 Rxb2 53. g6 Rd2+ 54. Kc6 Rxd7 55. Kxd7 Kf8 56.
+g7+ Kf7 57. g8=Q+ Kxg8 58. Ke7 *
+

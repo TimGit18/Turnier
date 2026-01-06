@@ -1,0 +1,18 @@
+[Event "Bamberg-Open (B-Turnier)"]
+[Site "?"]
+[Date "2021.07.31"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Depner, Vadim"]
+[Result "*"]
+[ECO "B22"]
+[WhiteElo "1849"]
+[BlackElo "1603"]
+[PlyCount "41"]
+[SourceVersionDate "2021.07.31"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 Nc6 7. Bc4 Nb6 8. Bb3
+d6 9. exd6 Bxd6 10. O-O O-O 11. Nc3 Bd7 12. a3 Rc8 13. Qd3 Ne7 14. Bg5 Qc7 15.
+Rac1 Bc6 16. Nb5 Bxb5 17. Qxb5 Qd7 18. Qe2 h6 19. Be3 Rfd8 20. Ne5 Bxe5 21.
+dxe5 *
+

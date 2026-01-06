@@ -1,0 +1,67 @@
+[Event "Salzkammergut-Open (B-Turnier)"]
+[Site "?"]
+[Date "2014.06.08"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Langbauer, Johann"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1170"]
+[BlackElo "1772"]
+[PlyCount "71"]
+[EventDate "2011.07.11"]
+[SourceDate "2011.07.11"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 {Weiß muss sich sofort
+entscheiden, wo sein Springer hingehen soll} 6. Ndb5 {[%csl Yd5] Damit
+unternimmt Weiß den Versuch, die Schwäche des Feldes d6 sofort auszunutzen.
+Außerdem verhindert der aktive Springerzug den Befreiungszug d7-d5. So beginnt
+die Schlacht um das entscheidende Feld d5. Schwarz erhält als Kompensation für
+sein schwaches Feld jedenfalls aktives Figurenspiel, während Weiß versuchen
+wird, die Kontrolle über die geschwächte Stellung zu erhalten} d6 {Das ist der
+Hauptzug. Schwarz verhindert, dass der weiße Springer auf d6 mit Schach
+einsteigt. Allerdings zementiert er auch seine Bauernstruktur} 7. Bg5 {[%csl
+Yd5][%cal Rc3d5] Ein logischer Zug, der die Hauptvariante darstellt und als
+einzige ernsthafte Fortsetzung betrachtet wird. Weiß fesselt den starken
+Springer f6 und droht sofort mit Sc3-d5 die endgültige Kontrolle über das Feld
+d5 zu erlangen.} a6 {Schwarz muss sofort reagieren. Dieser Zug vertreibt den
+lästigen Springer von dem Feld b5 und leitet eine Gegenaktion auf dem
+Damenflügel ein. Dabei achtet Schwarz darauf, dass er zumindest hier die
+weißen Felder unter seine Kontrolle bekommt. Zudem wird der zweite weiße
+Springer auf ein schlechtes Feld gestellt und ein Angriffsziel} 8. Na3 {Dies
+ist das einzige Feld für den angegriffenen Springer. Käme er unverzüglich
+wieder auf ein gutes Feld wie c4, so hätte Schwarz große Probleme. Daher muss
+er versuchen, den Spielraum weiter einzuschränken und seinen eigenen Einfluss
+vergrößern} b5 {Der Textzug ist pointiert. Sofort droht b5-b4 und die
+schlechte Stellung der weißen Springer wird offensichtlich. Dafür hat Schwarz
+eine zunehmend anrüchige Bauernstruktur, denn der Textzug schwächt natürlich
+auch schwarze Felder auf dem Damenflügel} 9. Bxf6 {Weiß muss eine Entscheidung
+treffen. Mit diesem Zug erringt er die Kontrolle über das Feld d5. Außerdem
+zerstört er damit die schwarze Bauernstruktur auf dem Königsflügel und
+schwächt die Felder rund um den König. Dagegen kann Schwarz mit seinem Läufer
+auf g7 den Schutz der geschwächten Felder übernehmen.} gxf6 {Der Doppelbauer
+auf der f-Linie ist nicht so schwach wie er aussieht. Der Bauer wird sofort
+dazu eingesetzt, das weiße Zentrum mit dem Bauern e4 anzugreifen. Das schwarze
+Läuferpaar kann eine große Dynamik entfalten} 10. Nd5 {Der Springer hat einen
+schönen Stützpunkt und verhindert b5-b4. Der einzige andere Zug, der die Gabel
+verhindert, ist der Rückzug eines Springers auf die Grundreihe} f5 {Das ist
+der schwarze Hauptzug. Schwarz beginnt den Kampf um die Rückeroberung des
+Zentrums. Der aggressive Zug des f-Bauern trifft den weißen Bauern e4, der
+Weiß die langfristige Kontrolle über d5 erlaubt} 11. Bd3 {Weiß aktiviert
+sofort seinen Königsläufer und greift den Bauern f5 an} Be6 {Schwarz greift im
+Gegensatz den im Zentrum dominanten Springer an, so dass Weiß überhaupt nicht
+auf f5 nehmen kann} 12. O-O {Dieser natürliche Zug kann als die
+Hauptfortsetzung betrachtet werden. Weiß setzt konsequent seine Entwicklung
+fort und bringt den König aus dem Zentrum. Er muss bloß aufpassen, dass
+Schwarz ihn nicht im Zentrum überrollt und dann auf der g-Linie angreift.
+Außerdem hält er sich die Option offen, die Dame nach h5 zu bringen und
+unangenehm auf die schwarzen Bauernschwächen zu drücken} f4 13. Nxb5 $2 (13. c4
+b4 14. Nc2 a5 15. b3 Rg8 16. Kh1 Rg6 17. g3 Rh6 18. Rg1 Rc8 19. Qf3 fxg3 20.
+fxg3 Qg5 21. Rgf1) 13... axb5 14. Bxb5 Bd7 15. Qh5 Bg7 16. Rfd1 Rb8 17. a4 O-O
+18. Ra3 Ne7 19. Bxd7 Nxd5 (19... Qxd7 20. Rh3 h6 21. Nf6+ Bxf6 22. Qxh6 Rfc8
+23. Qxf6 Ng6) 20. Bf5 Nf6 21. Qh4 Rxb2 22. Rh3 h6 23. g4 Nh7 24. Bxh7+ Kxh7 25.
+g5 Rxc2 26. Rb1 Rc4 27. Qh5 Qc8 28. Rb6 Rd4 29. Kg2 Qa8 30. Qf3 Rd8 31. a5 Rxe4
+32. a6 Ra4 33. Rb7 Rxa6 34. gxh6 Kg8 $2 35. hxg7 Ra3 $4 36. Qd5 (36. Rh8+ Kxg7
+37. Qg4+ Kxh8 38. Qh5+ Kg7 39. Qxf7+ Kh6 40. Qh7+ Kg5 41. h4+ Kg4 42. f3+ Rxf3
+43. Rg7#) 0-1
+

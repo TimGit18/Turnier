@@ -1,0 +1,25 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2014.10.25"]
+[Round "?"]
+[White "Seisenberger, Georg"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E77"]
+[WhiteElo "2106"]
+[BlackElo "1713"]
+[PlyCount "85"]
+[EventDate "2014.??.??"]
+[SourceDate "2014.10.26"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Bg4 10. O-O Re8 (10... Nbd7 11. h3 Bxf3 12. Bxf3 Re8 13. g4 h6 14. h4
+h5 15. g5 Ng4) 11. h3 Bxf3 12. Bxf3 Nbd7 13. g4 Nb6 14. a4 a6 15. Qc2 Qc7 16.
+g5 Nfd7 17. Be3 Nc4 18. Bf2 Rab8 19. b3 Na5 20. Bg4 c4 21. b4 Nb3 22. Rad1 b6 (
+22... b5 23. a5 Nf8 24. e5 dxe5 25. d6 Qb7 26. Bb6 Nd4) 23. e5 dxe5 24. d6 Qb7
+25. Nd5 Nd4 26. Qxc4 Rbc8 $2 (26... b5 27. Qa2 bxa4 28. Ne7+ Kf8 29. Bxd4 exd4
+30. f5) 27. Nc7 Nf3+ 28. Bxf3 Qxf3 29. Rd3 Qb7 30. Qd5 Qxd5 31. Rxd5 Red8 32.
+Bg3 e4 33. Re1 f5 34. gxf6 Nxf6 35. Rdd1 Nh5 36. Bh4 Rd7 $2 (36... Bf6) 37. Nd5
+Rc2 $4 (37... Rb8 38. Rxe4 Bf8 39. Be7) 38. Nxb6 Nxf4 39. Nxd7 Nxh3+ 40. Kf1 g5
+41. Bg3 h5 42. Rxe4 h4 43. Be5 1-0
+

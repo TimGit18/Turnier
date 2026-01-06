@@ -1,0 +1,89 @@
+[Event "Forchheim-Open"]
+[Site "?"]
+[Date "2017.10.01"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Kaltschmit, Andreas"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "1781"]
+[BlackElo "1543"]
+[PlyCount "36"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 {Das ist die
+Ausgangsstellung des Nimzowitsch-Systems in der Russischen Verteidigung. Weiß
+erhält einen Doppelbauern, aber auch freie Linien für seine Läufer.} Nd7 {
+Schwarz entwickelt den Damenspringer auf das stellungsgerechte Feld} ({Die
+theoretische Hauptfortsetzung lautet} 6... Be7 {, aber sie führt meistens zu
+Zugumstellung}) 7. Bf4 {[%csl Ye5][%cal Rf4e5,Gd7e5] Dieser Zug ist angeblich
+der beliebteste Zug in der Stellung. Weiß unterbindet direkt den
+zentralisierenden Zug Sd7-e5.} ({Aber es ist auch} 7. Be3 {[%csl Ya7,Yc5,Yd4,
+Ye7,Yf6][%cal Gf8e7,Ge7f6,Yf3d4,Re3d4,Rd4a7,Rf6d4,Gd7c5,Rd4c5] möglich,
+wonach der Läufer etwas geschützter steht. In manchen Varianten verhindert
+der Läufer auf e3 die lange Rochade, weil der Bauer auf a7 hängt. Außerdem
+kommt oft der Springer auf d4 in das Zentrum, von wo aus er von dem Läufer
+auf f6 geschlagen werden kann. Dann kann der Läufer auf d4 zurücknehmen und
+Druck auf beiden Flügeln ausüben. Manchmal schlägt er auch einen
+auftauchenden Springer auf c5}) 7... Nf6 {Schwarz wählt keine der
+theoretischen Hauptfortsetzungen, sondern macht einen natürlichen
+Entwicklungszug. Der Tempoverlust ist hier zu verschmerzen} 8. Qd2 {[%csl Yc1,
+Yd1][%cal Re1c1,Ra1d1] Weiß setzt mit dem logischen Plan fort. Er möchte
+lange rochieren und dann auf dem Königsflügel und im Zentrum angreifen} Be7 {
+Schwarz vervollständigt die Entwicklung des Königsflügels und behält sich
+vor, kurz zu rochieren} 9. O-O-O {Weiß bringt den König in Sicherheit und
+den Damenturm in das Zentrum. Ein Problem wird noch einmal der Bauer auf a2
+darstellen, da dieser jetzt ohne Schutz ist} Be6 {[%csl Ya2,Ye6][%cal Re6a2]
+Schwarz verbindet Entwicklung mit Angriff. Der Damenläufer kommt auf das
+Idealfeld und visiert den Bauern auf a2} 10. Kb1 $6 {Das ist ein
+prophylaktischer Zug, der aber vielleicht überhaupt nicht notwendig war.
+Schwarz kann den Bauern ja nicht gut schlagen} ({(a) So ist etwa nach} 10. Bd3
+Bxa2 11. b3 a5 12. Kb2 a4 13. Kxa2 axb3+ 14. Kxb3 {der weiße König etwas
+luftig, aber Schwarz hat nur einen Bauern für die Figur bekommen und der
+weiße König hat genügend Begleiter in seiner Gesellschaft}) ({(b) Eine Idee
+von Peter Leko in einer olympischen Partie gegen Wang Hao lautet} 10. b3 {
+[%csl Yb2][%cal Rc1b2] Der dichte Bauernwall schützt den weißen König und
+er kann ein Fluchtfeld auf b2 ideal besetzen. Eine weitere Idee ist es, der
+schwarzen Dame das Feld a4 zu nehmen, das sie zu unangenehmen Angriffen
+verwenden kann}) 10... Qd7 {Dieser Zug stellt die Weichen für Schwarz. Er
+will überhaupt nicht kurz rochieren, sondern bereitet die kurze Rochade vor.
+So gesehen hätte der Läuferzug nach e3 schon seine Berechtigung gehabt,
+scheint also flexibler} 11. Bd3 $6 {Das ist ein normaler und gesunder
+Entwicklungszug, man fragt sich aber doch, was der Läufer hier leistet?
+Schwarz will ja nicht auf den Königsflügel rochieren, und auf den
+Damenflügel übt der Läufer gar keinen Druck aus} ({Die bessere Idee, die
+von Caruana in einer bekannten Partie gegen Ponomariov gefunden wurde, lautet} 
+11. h3 {mit nachfolgendem} -- 12. g4 {und} -- 13. Bg2 {[%csl Yb7,Yc6,Yd5,Ye4,
+Yf3,Yg2][%cal Gg2b7] Der Königsläufer strahlt schön auf den gegnerischen
+Damenflügel und stünde der Damenläufer auf e3, dann wäre das Setup sehr
+harmonisch}) 11... O-O-O {Schwarz vervollständigt seine Entwicklung und
+bringt den König auf den sicheren Flügel} 12. h3 $2 {Dieser Zug ist im
+Nachhinein vielleicht mehr als ungenau. Die Caruana-Idee ist ja nicht mehr
+möglich. Trotzdem soll noch g2-g4 vorbereitet werden, aber der Plan ist
+einfach zu langsam. Ein weiteres Motiv bestand darin, nach Sf3-d4 den
+Zwischenzug Lc8-g4 zu verhindern} ({Eine andere Möglichkeit ist} 12. h4 {
+, um dem Läufer ein Fluchtfeld auf h2 zu geben und den Springerausfall nach
+g5 vorzubereiten oder einfach direkt Sf3-d4 zu spielen}) 12... Nd5 $5 {Schwarz
+startet ein originelles Manöver, um die Stellung zu vereinfachen. Dabei
+verzichtet er auf komplizierte Züge, sondern gleicht simpel aus} 13. Bh2 {
+Der Läufer hat zwar die maximale Distanz erreicht, steht aber hier auch
+gefährdet, wenn sich einmal die h-Linie öffnet} Nb6 {[%csl Yc4][%cal Gb6c4,
+Ge6c4] Das Manöver mutet zwar etwas künstlich an, aber hier steht der
+Springer sehr fest und beobachtet das Feld c4} 14. Rhe1 {[%csl Ye7][%cal Ge1e7]
+Weiß entwickelt seine letzte Figur und visiert gegen die Läuferbatterie auf
+der e-Linie} Bf6 {[%csl Yd4][%cal Gf6d4] Das ist auch ein logischer Zug.
+Schwarz bringt den Läufer aus der Schusslinie und erhöht die Kontrolle im
+Zentrum. Schwarz hat sich graduell befreit, ohne überhaupt etwas
+Kompliziertes zu machen} 15. Nd4 $2 {Zunächst sieht dieser Zug einmal sehr
+überzeugend aus (so dass auf die taktische Rechtfertigung leichtsinnigerweise
+verzichtet wurde). Weiß zentralisiert den Springer und greift den Läufer auf
+e6 an. Dieser kann schlecht in das Zentrum gehen wegen der Replik Ld3-f5. Und
+ein Vertreiben mit c7-c5 ist auch schwer möglich, da der Bauer auf d6 sehr
+schwach wird} Bxd4 {Logisch entfernt Schwarz den starken Springer auf d4, auch
+um den Preis, den weißen c-Bauern (kurz) zu entdoppeln} 16. cxd4 Qa4 $1 {
+[%csl Ya2,Yd4][%cal Ra4a2,Ra4d4] Uups, der Doppelangriff auf a2 und d4 kostet
+Weiß einen Bauern. Natürlich gibt es eine gewisse Kompensation durch das
+Läuferpaar und die beiden Türme. Aber eine direkte Drohung läßt sich nicht
+aufstellen} 17. a3 {Hier wurde von Weiß Remis angeboten, was direkt
+angenommen wurde.} Qxd4 18. Re4 Qc5 {Die Stellung ist ausgeglichen} 1/2-1/2
+

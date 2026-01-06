@@ -1,0 +1,20 @@
+[Event "Staufer-Open B-Turnier"]
+[Site "?"]
+[Date "2016.01.06"]
+[Round "9"]
+[White "Staufenberger, Philipp"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1744"]
+[BlackElo "1830"]
+[PlyCount "45"]
+[SourceDate "2016.01.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. Qd2 c5 6. dxc5 Qa5 7. Rd1 Qxc5 $2 (
+7... Nc6) 8. e4 O-O 9. exd5 Bg4 10. Be2 Na6 11. O-O Rfd8 12. h3 Bf5 13. Nd4 $6
+Ne4 $2 (13... Nxd5 $1 14. Nxf5 Nxf4 15. Qxd8+ Rxd8 16. Rxd8+ Bf8) (13... Be4 $2
+14. Bxa6 bxa6 15. Nc6) 14. Nxe4 Bxe4 15. c4 e5 16. Nb3 Qe7 17. Bh6 Rac8 18.
+Bxg7 Kxg7 19. Qe3 Bf5 (19... Bc2 20. Rc1 Bxb3 21. axb3) 20. f4 e4 21. c5 Qf6 $2
+(21... Nxc5 22. d6 Rxd6) 22. g4 Bd7 23. c6 1-0
+

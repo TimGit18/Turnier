@@ -1,0 +1,32 @@
+[Event "NW-Cup Bad Zwischenahn 2009"]
+[Site "?"]
+[Date "2009.02.13"]
+[Round "2"]
+[White "Jugelt, Tobias"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2396"]
+[BlackElo "1844"]
+[Annotator "schmi"]
+[PlyCount "85"]
+[EventDate "2009.??.??"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. a3 {Ein sehr verhaltener Aufbau von
+Weiß} Bd6 6. d4 Nbd7 {Halbslawisch} 7. Bd2 O-O 8. Qc2 dxc4 9. Bxc4 e5 {Die
+Theorie empfiehlt auch b5} 10. O-O exd4 11. exd4 {Die Grundaufgabe lautet:
+Weiß hat freieres Spiel, aber den Isolani auf d4. Schwarz benötigt ein
+Entwicklungsfeld für den Lc8} Nb6 12. Ba2 {Hier hatte ich Angst vor Ld2-g5xf6
+und La2-b1 nebst matt} Nbd5 ({Jugelt empfiehlt} 12... Bg4 13. Ne5 c5 {aber
+dann ist Lg5 doch gut}) 13. Rfe1 Bd7 14. Bg5 Qc7 15. Ne5 {Weiß steht aktiver,
+ich hatte bereits eine Menge Zeit verbraucht} Be6 16. Bxf6 Nxf6 17. Bxe6 fxe6
+18. Nf3 Rae8 19. Re2 {Etwas schematisch} e5 {Ich will den schwachen Bauern auf
+e6 loswerden, schaffe aber eine neue Angriffsdiagonale b3-f7} 20. Ng5 Kh8 $2 {
+Das ist ein schwacher Zug} ({Besser ist} 20... exd4 $1 {Hier hatte ich Angst
+vor} 21. Rxe8 Rxe8 22. Qb3+ Kf8 {was aber geht}) 21. Nce4 Nxe4 $2 22. Rxe4 Rf5
+23. Rh4 g6 (23... e4 {ist ein Computerzug, den ich nicht sah}) 24. Rxh7+ {
+Jetzt gewinnt Weiß} Qxh7 25. Nxh7 Kxh7 26. Re1 Ref8 27. dxe5 Bxe5 28. g4 Bxh2+
+29. Kg2 Rxf2+ 30. Qxf2 Rxf2+ 31. Kxf2 Bd6 {Das Endspiel ist glatt verloren} 32.
+Rd1 Bc5+ 33. Kf3 b5 34. b4 Bb6 35. Rc1 Bd4 36. Rxc6 Bb6 37. Rc5 Kg7 38. Rxb5
+Kf6 39. Rxb6+ axb6 40. a4 Ke6 41. Kf4 Kd5 42. Kg5 Kc4 43. a5 1-0
+

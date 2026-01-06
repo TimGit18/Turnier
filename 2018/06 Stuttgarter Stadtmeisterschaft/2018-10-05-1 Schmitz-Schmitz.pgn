@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "?"]
+[Date "2018.05.10"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Schmitz, Harald"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "1799"]
+[BlackElo "1675"]
+[PlyCount "41"]
+[SourceDate "2018.05.10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8. Bd3
+cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Qxe5 12. Bf4 Qg7 13. Qxg7 Rxg7 14. Be5
+Rxg2 15. Ng3 Nbc6 16. Bxc3 e5 17. h3 $6 e4 18. Bf1 Rxg3 19. fxg3 Be6 20. Bg2
+Nf5 21. O-O-O 1/2-1/2
+

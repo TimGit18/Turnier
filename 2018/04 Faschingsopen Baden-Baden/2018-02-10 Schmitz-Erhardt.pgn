@@ -1,0 +1,21 @@
+[Event "Baden-Baden-Faschingsturnier"]
+[Site "?"]
+[Date "2018.02.10"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Erhardt, Kristian"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "1799"]
+[BlackElo "1531"]
+[PlyCount "51"]
+[SourceDate "2018.02.10"]
+[SourceVersionDate "2018.02.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Na5 8. Bc2
+c5 9. d4 exd4 10. cxd4 Be7 11. Nc3 O-O 12. Qd3 (12. e5 dxe5 13. dxe5 Qxd1 14.
+Rxd1 Nd7 15. Nd5) 12... Re8 13. Bg5 c4 14. Qd2 Bg4 15. Qf4 Bxf3 16. Qxf3 Nc6
+17. Rad1 Qb6 18. Be3 Qc7 19. Bb1 Bd8 20. e5 dxe5 21. dxe5 Nxe5 $4 22. Qxa8 Nfg4
+23. g3 (23. Qe4 $4 Nf3+ 24. gxf3 Qxh2#) 23... b4 24. Nd5 Qd6 25. Nxb4 Qh6 $4
+26. Bxh6 1-0
+

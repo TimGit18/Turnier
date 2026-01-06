@@ -1,0 +1,24 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2024.01.02"]
+[Round "1"]
+[White "Cilo, Seyyed"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1482"]
+[BlackElo "1801"]
+[Annotator "Tim Schmitz"]
+[PlyCount "80"]
+[SourceVersionDate "2024.01.02"]
+
+1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. Bg5 d6 5. Bxf6 Bxf6 6. e4 c5 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. O-O O-O 10. Re1 Rd8 11. Na3 Nc6 12. d5 Ne5 13. Nxe5 Bxe5 14. Nc4
+Bg7 15. Qb3 $5 Rab8 16. Rad1 Qc7 17. Na3 $2 b5 18. Qc2 Qa5 19. Qe2 $2 Qa4 $2 (
+19... Bxc3 $1 20. bxc3 Qxa3 $17 21. Rd3 b4 22. c4 b3 23. axb3 Rxb3 24. Rxb3
+Qxb3 $17) 20. Qc2 Qxc2 $6 21. Nxc2 b4 22. cxb4 cxb4 23. b3 Rdc8 24. Ne3 Rc3 25.
+Rc1 Rbc8 26. Nc4 Rxc1 $2 (26... a5) 27. Rxc1 Rc5 $14 28. Rd1 a5 29. f4 $1 a4
+30. e5 axb3 31. axb3 Bf8 $2 32. Kf2 f6 33. exf6 exf6 34. Ke3 f5 35. h3 Kf7 36.
+g4 Ke7 37. gxf5 gxf5 38. Kf3 Kd7 $6 39. Ra1 Ke7 40. Ra5 Rc7 $2 {Fehler in
+Zeitnot und gleichzeitig Zeitüberschreitung} 1-0
+

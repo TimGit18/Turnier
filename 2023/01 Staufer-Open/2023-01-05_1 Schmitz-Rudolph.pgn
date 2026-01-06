@@ -1,0 +1,44 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2023.01.05"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Rudolph, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1840"]
+[BlackElo "1700"]
+[Annotator "Tim Schmitz"]
+[PlyCount "57"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.01.05"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 e6 6. Nf3 d6 {Das ist das
+Anti-Pavasovic-Gambit. Bevor Schwarz das weiße Zentrum angreift, stabilisiert
+er zunächst den Springer auf d5.} 7. Bc4 Nc6 8. O-O Be7 9. exd6 $6 {Hier
+ließ ich mich vom scheinbaren Tempoverlust von Schwarz blenden. Es bestand
+überhaupt keine Notwendigkeit, so schnell auf d6 zu nehmen. Dabei könnte der
+Bauer auf e5 einfach stehen bleiben, da er das schwarze Spiel auf dem
+Königsflügel einengt.} ({Richtig ist in dieser Variante} 9. Qe2 O-O 10. Qe4
+Bd7 11. Re1 Rc8 12. a3 {wie in der Hauptvariante des Anti-Pavasovic-Gambits.})
+9... Bxd6 10. Nc3 O-O 11. a3 {Ein prophylaktischer Zug in Vorbereitung auf das
+Spiel gegen den Isolani auf d4.} Nb6 {Mir gefällt dieser Zug nicht besonders.
+Eine Figur wird aus dem Zentrum entfernt und damit auch vom Königsflügel.
+Darüber hinaus will der weiße Königsläufer sowieso nach d3, um den weißen
+Angriff auf dem Königsflügel zu unterstützen.} (11... Nce7 {sieht viel
+besser aus. Der Punkt auf d5 wird gestützt. Der Königsflügel kann auch
+besser geschützt werden.}) 12. Bd3 h6 {Notwendig, um Sf3-g5 zu verhindern.
+Auch das Greek Gift wird verhindert.} 13. Be3 a6 {Diesen Zug habe ich auch
+nicht völlig verstanden. Offenbar will Schwarz Sc3-b5 nach Dd8-c7 verhindern.}
+14. Bc2 {[%csl Yc1,Yc2,Yd1,Yd3,Yh7][%cal Gd1d3,Rc2d3,Rd3h7,Ga1c1,Gf1d1] Weiß
+bereitet die Dame-Läufer-Batterie vor. Er will danach seine Türme in die
+Mitte bringen.} Qc7 15. Qd3 f5 $5 {Bis zu diesem Zeitpunkt war ich noch sehr
+guten Mutes. Schwarz hat seine Stellung doch offensichtlich geschwächt.
+Insbesondere der Bauer e6 macht einen schlechten Eindruck und die Diagonale
+a2-g8 kann vielleicht für einen Angriff genutzt werden. Dass der Zug auch
+Potential besitzt übersah ich hier.} 16. Rfd1 Ne7 17. Rac1 Ned5 18. Bb3 Qe7
+19. Ne5 {Mit Remisangebot in besserer(!) Stellung. Der 12-jährige Gegner
+lehnt ab.} Qh4 20. g3 Qh3 21. Qf1 Qh5 22. Qe2 Qxe2 23. Nxe2 Nxe3 24. fxe3 Bxe5
+25. dxe5 Re8 {Unsinnigerweise Remis. Weiß steht eigentlich auf Gewinn.} 26.
+Rd6 Nd5 27. Bxd5 exd5 28. Rxd5 Be6 29. Rd6 1/2-1/2
+

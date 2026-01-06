@@ -1,0 +1,18 @@
+[Event "Bad Wörishofen (B-Open)"]
+[Site "?"]
+[Date "2023.03.04"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Apelt, Andreas"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "1841"]
+[BlackElo "1680"]
+[Annotator "Tim Schmitz"]
+[PlyCount "35"]
+[SourceVersionDate "2023.03.04"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 a6 8. O-O
+b5 9. Re1 Be7 10. Nf1 b4 11. Ng3 g6 12. Bh6 Qb6 13. dxc5 Bxc5 14. Be3 $6 Bb7
+15. Rc1 Bxe3 16. Rxe3 O-O 17. cxb4 $2 (17. Qd2) 17... Qxb4 18. Bb1 1/2-1/2
+

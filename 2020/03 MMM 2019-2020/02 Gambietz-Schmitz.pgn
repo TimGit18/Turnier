@@ -1,0 +1,77 @@
+[Event "MMM 2019/20 B-Klasse 1"]
+[Site "?"]
+[Date "2020.03.07"]
+[Round "6"]
+[White "Gambietz, Winfried"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B95"]
+[WhiteElo "1716"]
+[BlackElo "1802"]
+[Annotator "Tim Schmitz"]
+[PlyCount "85"]
+[SourceVersionDate "2020.03.07"]
+[WhiteTeam "SF Deisenhofen 2"]
+[BlackTeam "SC Sendling 3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Be2 $5 {
+Das ist ein sehr ungewöhnlicher Zug im sogenannten Three-Piece-System der
+Najdorf-Verteidigung, aber kein schlechter. Weiß kontrolliert die weißen
+Felder auf dem Königsflügel und bereitet die kurze Rochade vor.} Be7 {
+Schwarz wählt eine sehr konventionellen Aufbau, weil er keinen Grund sieht,
+die Stellung zu verschärfen.} ({Alternativ kann im Stile der Browne-Variante
+wie folgt spielen} 7... h6 {Allerdings kommt die weiße Dame nicht mehr nach
+f3, daher ist die Idee g7-g5 und Sb8-d7 nicht mehr anwendbar.}) 8. O-O h6 {
+Der Zug schafft ein potentielles Luftloch für den schwarzen König und treibt
+den weißen Läufer nach h4, um Ideen mit Sf6xe4 zu drohen.} 9. Bh4 Nbd7 {
+Die normale Entwicklung scheint hier angebracht.} ({Schwarz könnte sofort
+einen Bauern gewinnen mit} 9... Nxe4 10. Bxe7 Nxc3 11. Bxd8 Nxd1 12. Bc7 Nxb2
+13. Bxd6 Na4 {, aber Weiß ist vollständig entwickelt und die schwarzen
+Figuren sind furchtbar unkoordiniert.}) 10. Bc4 {[%csl Ye6][%cal Rc4e6,Rd4e6]
+Eine simple Drohung - und trotzdem scheint dieser Zug einen Tempoverlust zu
+signalisieren. Weiß droht das typische Opfer aus dem Fischer-Angriff auf e6.
+Schwarz muss adäquat reagieren.} Nc5 {[%csl Ye4,Ye6][%cal Rf6e4,Rc5e4,Gc8e6,
+Gc5e6] Schwarz überdeckt den neuralgischen Punkt e6 und greift seinerseits
+den Bauern auf e4 an.} ({Ein grober Fehler ist} 10... Qc7 $4 11. Bxe6 fxe6 12.
+Nxe6 Qb6 13. Nxg7+ Kf7 14. Nf5 {und Weiß wird im Angriff gewinnen.}) 11. Re1 {
+Weiß deckt den Bauern auf e4 und bereitet die Öffnung der e-Linie im
+geeigneten Augenblick vor. Im Moment ähnelt die Stellung wieder eher dem
+Fischer-System mit Lc1-g5 in der Najdorf-Verteidigung als der Hauptvariante.}
+Qc7 {Ein logischer Zug. Die Dame überdeckt e5 und strahlt gegen den Läufer
+c4.} 12. Bf1 {Das sieht passiv aus und ist es auch.} ({Stellungsgemäßer wirkt
+} 12. Bb3 {Wenn Schwarz den Läufer abtauscht, dann öffnet sich die a-Linie
+für Weiß.}) 12... O-O 13. a3 {Das sieht auch nicht besonders aggressiv aus.
+Der schnelle Vorstoß b7-b5-b4 wird zwar verhindert, aber sonst erfüllt der
+Zug eigentlich keinen guten Zweck.} b5 $5 ({Die Alternative war hier wieder} 
+13... Nfxe4 {mit Bauerngewinn nach} 14. Bxe7 ({Unklar schien mir} 14. Nxe4 Bxh4
+15. Qg4 Be7 {mit Figurenspiel für Weiß, obwohl die Stellung objektiv wohl
+viel besser für Schwarz ist.}) 14... Nxc3 15. Bxd6 Qxd6 16. bxc3 {Schwarz
+steht ganz gut, aber Weiß muss ja nicht so spielen.}) 14. Bg3 {Bereitet e4-e5
+vor.} Rd8 15. Qe2 Bb7 16. e5 dxe5 17. Bxe5 Qb6 18. Nf3 Rac8 {Schwarz hat
+mindestens Ausgleich, daher war das Remisangebot vollkommen gerechtfertigt. Zu
+diesem Zeitpunkt führte Sendling bereits 2-0 (Endstand: 3,5-4,5), daher
+lehnte Weiß plausiblerweise ab.} 19. Rad1 b4 $6 {Zu wild. Schwarz versucht
+gewaltsam Linien zu öffnen, erhält aber einen schwachen Bauern auf a6, der
+später auch verloren geht.} 20. axb4 Qxb4 21. Nb1 Nce4 22. c3 Qa4 $6 {Schwarz
+glaubt immer noch, dass er aufgrund seiner aktiven Figuren besser steht. Aber
+die weiße Stellung hat keine Schwächen und er verbessert geduldig seine
+Stellung.} 23. Nbd2 Nxd2 24. Nxd2 Qc2 {Sieht aktiv aus, droht aber nicht
+wirklich etwas.} 25. Nc4 Qg6 $2 {Ein grober Fehler. Schwarz träumt von einem
+Angriff auf den weißen König, der allerdings gut geschützt ist. Hingegen
+ist der schwarze Damenflügel jetzt ziemlich schwach.} ({Zu einem leicht
+schlechteren Endspiel führt} 25... Qxe2 26. Bxe2 Bc6 27. Nb6 Rxd1 28. Rxd1 Rd8
+) 26. Na5 Ba8 27. Qxa6 Bf3 $2 {Die Stellung war zwar nicht mehr besonders gut,
+aber die Beurteilung der Stellung war noch schlechter. Ein Angriff ist weit
+und breit nicht in Sicht.} 28. Rxd8+ Rxd8 29. Nc6 Bxc6 30. Qxc6 Rd2 {Schwarz
+hat einen Bauern weniger und ein verlorenes Endspiel (Weiß hat das
+Läuferpaar und zwei Freibauern auf dem Damenflügel). Nun muss Schwarz im
+Trüben fischen.} 31. b4 Qc2 32. Bg3 Bxb4 $1 {Ein kleiner taktischer Trick,
+der hier funktioniert.} 33. Qa8+ Bf8 34. c4 Nh5 $6 {Pseudoaktive und
+dezentralisierend.} 35. Bc7 Rd1 $4 {Verdirbt die Partie.} (35... Qb2 {hätte
+die Spannung und den Druck gegen f2 aufrechterhalten}) 36. Rxd1 Qxd1 37. g3 $6
+{Ungenau} (37. c5 {gewinnt wahrscheinlich direkt für Weiß}) 37... Qd7 38. Bb6
+Nf6 39. c5 Nd5 40. c6 {Die schwarze Stellung ist bereits sehr kritisch, aber
+vielleicht noch haltbar.} Qd6 41. Ba5 Qa3 $6 (41... Qc5 42. h4 {und der
+weißfeldrige Läufer kann sich befreien, da der König ein Luftloch hat.}) 42.
+Qd8 Qd6 43. c7 {Schwarz muss eine Figur geben, um den Bauern aufzuhalten.} 1-0
+

@@ -1,0 +1,17 @@
+[Event "RMO Open 2019 (A)"]
+[Site "?"]
+[Date "2019.06.19"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Bollmann, Henrik"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1835"]
+[BlackElo "2104"]
+[PlyCount "37"]
+[SourceVersionDate "2019.06.19"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 a6 6. Bd3 Bd6 7. O-O Ne7 8. Re1
+c4 9. Bc2 Bg4 10. Nbd2 Nd7 11. Nf1 h6 12. Ne3 Be6 13. b3 b5 14. a4 O-O 15. h3
+Qc7 16. bxc4 bxc4 17. Ng4 Rfe8 18. Nfe5 Bxg4 19. Nxg4 1/2-1/2
+

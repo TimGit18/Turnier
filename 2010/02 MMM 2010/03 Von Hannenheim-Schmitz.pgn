@@ -1,0 +1,64 @@
+[Event "MMM 2010 A-Klasse 2"]
+[Site "?"]
+[Date "2010.03.26"]
+[Round "4"]
+[White "Von Hannenheim, Werner"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "1768"]
+[BlackElo "1860"]
+[Annotator "Tim Schmitz"]
+[PlyCount "102"]
+[EventDate "2010.03.27"]
+[WhiteTeam "Schach-Union 1"]
+[BlackTeam "SC Sendling 2"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Nc6 $6 {Ich verpasse die Gelegenheit, in den mir
+nicht bekannten Keres-Aufbau zu gehen! Mein Gegner vermeidet nämlich das
+Vierspringerspiel} 4. Bg2 Bb4 5. e3 O-O 6. Nge2 {[%csl Yd3] Jetzt hat Weiß
+schon eine gute Ausgangslage, weil er doch flexibler aufgestellt ist. Ich
+plane mich schnell zu entwickeln und dann auf die weißfeldrigen Schwächen zu
+spielen} d6 7. a3 {Ich glaube, dass der Abtausch fast schon erzwungen ist} Bxc3
+({Nach} 7... Ba5 {kommt direkt} 8. b4 Bb6 9. d4 exd4 10. exd4 a6 {[%csl Rc5]
+und c4-c5 ist nicht mehr zu verhindern. Weiß rochiert kurz und entwickelt den
+schwarzfeldrigen Läufer nach b2}) 8. Nxc3 Bf5 ({Auf} 8... Be6 {gefiel mir} 9.
+Nd5 {nicht. Darauf wollte ich zwar} e4 10. Nxf6+ Qxf6 11. Bxe4 Bxc4 {spielen,
+aber dann kommt} 12. Qc2 {[%csl Yc4,Yh7][%cal Gc2e4,Ge4h7,Gc2c4] mit einer
+Doppeldrohung gegen c4 und h7. Wahrscheinlich ist die Stellung immer noch
+besser für Schwarz, aber sie gefiel mir doch nicht}) 9. d3 Qd7 {Ich verbinde
+die Türme und aktiviere die Dame. Die Idee liegt im Abtausch der weißfeldrigen
+Läufer und im Vormarsch d6-d5. Leider ist dieses Vorgehen etwas bieder.} 10.
+O-O Bh3 11. b4 $1 {Der weiße Plan ist einfach. Angriff auf dem Damenflügel.
+Ich hätte jetzt im Zentrum gegenhalten müssen} Bxg2 12. Kxg2 Rfe8 $2 {Ein
+schlimmer positioneller Fehlgriff. Weiß macht das Zentrum zu. Der Turm bewirkt
+hier gar nichts. Auf f8 unterstützt er wenigstens den Vormarsch f7-f5} ({
+Plausibel und konsequent ist hier natürlich} 12... d5 13. b5 Ne7) 13. b5 Ne7
+14. e4 {Das ist jetzt schlecht gelaufen. Den folgenden weißen Zug habe ich
+komplett unterschätzt} Ng6 15. Bg5 $1 {[%csl Rf6] Jetzt droht eine
+empfindliche Schwächung auf f6. Mir gefiel die Stellung überhaupt nicht mehr.
+Die Nachteile des Turmzugs sind jetzt völlig klar} Qe6 {Passiv, aber es gibt
+keine guten Züge. Mein Gegner spielt ziemlich geradlinig} 16. Bxf6 Qxf6 17. Nd5
+{[%csl Rc7,Rf6]} Qd8 18. a4 c6 19. Ne3 Qd7 {Ich versuche meine Figuren
+umzugruppieren und wieder etwas Koordination in die Stellung zu bringen} 20.
+Rb1 Ne7 {[%csl Yd5,Yf5] Mit der Idee sich auf d5 oder f5 zu befreien. Leider
+hat Weiß auch ein gutes Konzept} 21. Qb3 {Jetzt droht das Eindringen der
+weißen Schwerfiguren in die schwarze Stellung, wonach es schnell vorbei wäre.
+Ich muss wieder die Tür verschließen.} c5 {Aber Weiß hat noch einen Hebel} 22.
+f4 exf4 23. Rxf4 Ng6 24. Rf5 Re5 {Ich will durch Abtausch den Druck aus der
+Stellung nehmen. Leider herrscht schon wieder eine schlimme Zeitnot} 25. Rbf1 {
+[%csl Yf7]} Rxf5 26. Rxf5 Re8 27. Qd1 Re5 28. Qf3 {[%csl Yf7]} f6 29. Nd5 Rxf5
+$2 {Panikzug in Zeitnot. Jetzt findet Weiß einen Weg in die schwarze Stellung}
+30. exf5 $1 {[%csl Ye6][%cal Gd5f4,Gf4e6]} Ne5 31. Qe4 Kf7 32. Nf4 g6 33. Qd5+
+Kg7 34. Ne6+ Kh6 $4 {Schmeißt die Partie weg, denn Weiß kann jetzt auf Matt
+spielen} ({Der alternative Fluchtplan} 34... Kh8 35. a5 gxf5 36. a6 {sieht
+aber auch verloren aus}) 35. fxg6 $2 (35. Qe4 {droht matt} g5 36. g4 Qf7 37. h4
+{und es ist vorbei}) 35... hxg6 36. Nxc5 $4 {Ein völliger Blackout in Zeitnot}
+dxc5 37. Qxc5 Qxd3 38. Qf8+ Kg5 39. h4+ Kf5 ({Besser ist} 39... Kg4 40. Qxf6 (
+40. Qc8+ f5 41. Qxb7 {wird matt nach} Qe2+ 42. Kh1 Nf3) 40... Qxg3+ 41. Kf1
+Qf3+) 40. Qc8+ Qd7 41. Qc5 Qd2+ 42. Kh3 b6 43. Qc8+ Qd7 {Jetzt drohen auch
+noch Abzugsschachs} 44. g4+ Kf4 45. Qxd7 {Der Rest ist nicht interessant,
+gehört aber dazu} Nxd7 46. h5 gxh5 47. gxh5 Kg5 48. Kg3 Ne5 {[%csl Yf3,Yg4]
+[%cal Yh5h6]} 49. h6 Kxh6 50. c5 bxc5 51. a5 Kg5 {Der Springer hält den weißen
+Freibauer.} 0-1
+

@@ -1,0 +1,30 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2014.11.01"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Poghosyan, Tigran"]
+[Result "0-1"]
+[ECO "C60"]
+[WhiteElo "1738"]
+[BlackElo "1895"]
+[Annotator "Tim Schmitz"]
+[PlyCount "176"]
+[SourceDate "2014.11.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O a6 5. Ba4 g6 6. c3 Bg7 7. d4 exd4 8.
+cxd4 b5 9. Bb3 O-O 10. Nc3 d6 11. h3 Bb7 12. Bg5 h6 13. Be3 $6 Na5 14. Bc2 Nc4
+15. Bc1 c5 16. Rb1 cxd4 17. Nxd4 Qb6 18. Nde2 Qc5 19. b4 Qc6 20. a4 Rfd8 21.
+Nd5 Nxd5 22. exd5 Qxd5 23. Qxd5 Bxd5 24. Nf4 Bb7 25. Bb3 d5 (25... Be4) 26. Nd3
+d4 27. Rd1 Be4 28. Bf4 g5 29. Bg3 Rac8 30. axb5 axb5 31. Ra1 Bxd3 32. Rxd3 Rd7
+33. Re1 Nb2 34. Rd2 d3 35. Be5 Bxe5 36. Rxe5 Nc4 37. Bxc4 bxc4 38. Rc5 Rxc5 39.
+bxc5 c3 40. c6 cxd2 41. cxd7 d1=Q+ 42. Kh2 Qe2 43. d8=Q+ Kh7 44. Qf6 Kg8 45.
+Qd8+ Kg7 46. Qd4+ Kh7 47. Qf6 Qe6 48. Qd4 Qf5 49. Kg1 Qb5 50. Qe4+ Kg8 51. Qd4
+Qb3 52. Qd8+ Kg7 53. Qd4+ Kg6 54. Qd6+ Kf5 55. f3 Qd1+ 56. Kh2 Qe2 57. Qd7+ Ke5
+58. Qxf7 Kd4 59. Qa7+ Kc3 60. Qc5+ Kd2 61. Qb4+ Kd1 62. Qb1+ Kd2 63. Qb4+ Kc1
+64. Qc3+ Qc2 65. Qe1+ Kb2 66. Qb4+ Ka2 67. Qa5+ Kb3 68. Qb5+ Kc3 69. Qc5+ Kd2
+70. Qf2+ Kc1 71. Qe1+ Qd1 72. Qc3+ Kb1 73. Qb4+ Kc2 74. Qc5+ Kd2 75. Qb4+ Ke2
+76. Qe4+ Kf1 77. Qe3 d2 78. Qg1+ Ke2 79. Qd4 Qf1 80. Qe4+ Kf2 81. Qd4+ Ke1 82.
+Qe3+ Kd1 83. Qb3+ Ke2 84. Qb2 $4 (84. Qe6+) 84... Qf2 85. Qc2 Kf1 86. Qb1+ Qe1
+87. Qd3+ Qe2 88. Qb1+ d1=Q 0-1
+

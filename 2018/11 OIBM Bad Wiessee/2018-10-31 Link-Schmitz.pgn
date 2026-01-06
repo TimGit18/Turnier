@@ -1,0 +1,122 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2018.10.31"]
+[Round "5"]
+[White "Link, Klaus"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B86"]
+[WhiteElo "1988"]
+[BlackElo "1825"]
+[Annotator "Tim Schmitz"]
+[PlyCount "88"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.10.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8.
+O-O {Diese Variante des Fischer-Angriffs wird durch eine frühe kurze Rochade
+gekennzeichnet. Weiß versucht sich schnell zu entwickeln und erst danach
+einen Angriff aufzubauern. Die schwarze Stelllung ist aber noch sehr fest und
+sehr schwer zu knacken.} Nc5 {Hiermit wird weniger der Abtausch auf b3
+eingeleitet als die zusätzliche Sicherung des Punktes e6. So dass Weiß nicht
+mehr auf e6 opfern kann. Außerdem bedroht Schwarz den Bauern e4 ein zweites
+Mal.} 9. Re1 {Weiß deckt ein weiteres Mal den Bauern e4. Andererseits weiß
+ich nicht, ob ich den Bauern genommen hätte.} Be7 {Schwarz beendet die
+Entwicklung auf dem Königsflügel und bereitet die kurze Rochade vor.} 10. a4
+$5 {Das ist ein plausibler, aber möglicherweise nicht notwendiger Zug. Der
+Zug verhindert den schwarzen Vorstoß b7-b5. Außerdem schafft er eine
+Rückzugsmöglichkeit für den Läufer b3.} (10. Qf3 {oder der Bauernzug nach
+f4 sind thematischere Züge.}) 10... Nxb3 {Natürlich wird der Läufer
+abgetauscht. Jetzt erhält Weiß entweder eine schlechte Bauernstruktur oder
+der aktive Springer wird aus dem Zentrum entfernt.} 11. Nxb3 {Nach dem
+Abtausch hat sich der Charakter der Stellung leicht verändert. Es droht kein
+überfallartiger Angriff im Zentrum, sondern es beginnt ein langwieriger
+Manöverkampf. Dabei hat Weiß zwar mehr Raum, aber Schwarz hat das
+Läuferpaar und keine Schwächen.} O-O 12. a5 {[%csl Ya4,Yb6][%cal Gc3a4,Ga4b6]
+Die weiße Idee besteht darin, Schwarz auf dem Damenflügel einzuschnüren,
+den Läufer auf e3 zu platzieren und den Springer über a4 nach b6 zu bringen.
+Eigentlich kein besonders tiefgehender Plan, aber es hat mir ohne großen
+Grund einen Schreck eingejagt.} b5 $6 {Das ist eine Reaktion auf das weiße
+Vorgehen. Der Hebel b7-b5 ist zwar in manchen Stellungen wie dem Klassischen
+System gerechtfertigt, scheint hier aber sehr verpflichtend.} ({Eine normale
+Fortsetzung wäre} 12... Qc7 13. Be3 Bd7 14. Bb6 Qc8 15. Qd3 Bc6 {mit einer
+ausgeglichenen Stellung.}) 13. axb6 Qxb6 {[%csl Ya6,Rb2,Yd6,Re4] Schwarz hat
+sich zwar einen schwachen Bauern auf a6 eingehandelt (zusätzlich zu seinem
+Schwachpunkt auf d6). Aber die weißen Bauern e4 und b2 sind auch keine
+starken und können angegriffen werden. Im Nachhinein war die aktive
+Entscheidung also richtig.} 14. Be3 Qc7 15. Qd3 Bb7 {Beide Seiten haben die
+Entwicklung beendet und ihre Türme verbunden. Jetzt geht die Phase des
+Mittelspiels los, und man muss sehr flexibel auf die gegnerischen Aktionen
+reagieren.} 16. Na5 {Weiß beginnt als erster mit seinen Manövern. Er will
+das schwarze Läuferpaar einfach halbieren.} Rfd8 {Hier steht der Turm bereits
+sehr schön und strahlt gegen die weiße Dame.} 17. Nxb7 Qxb7 18. Ra5 $6 {
+Weiß hat ein Teilziel erreicht und eine sehr aktive Figur von Schwarz
+getauscht. Gleichzeitig hat er seine schlechteste Figur entsorgt. Jetzt will
+er die Türme auf der a-Linie verdoppeln und lästigen Druck auf den Bauern a6
+ausüben. Schwarz muss einen aktiven Gegenplan finden.} d5 $1 {Mir schien
+dieser Zug so stark und aktiv, dass ich ihn gleich mit einem Remisangebot
+verband. Das ist natürlich noch zu früh. Aber wenn es Schwarz gelingt, in
+der Sizilianischen Verteidigung d6-d5 durchzusetzen, dann hat er schon
+ausgeglichen.} 19. Bc5 {Weiß unterbindet die Aktivierung des schwarzen
+Königsläufers. Der Zug hat aber den Nachteil, dass eine aktive und gute
+weiße Figur gegen eine passive und schlechte schwarze Figur getauscht wird.} (
+{Die Pointe des vorhergehenden Zuges ist} 19. exd5 {und} Bb4 $1 {aktiviert den
+schwarzen Königsläufer mit gutem Spiel wie etwa} 20. Ra4 Bxc3 21. Qxc3 Nxd5 {
+Weiß hat Probleme mit der Grundreihe und mit seinem schwachen b-Bauern.})
+19... dxe4 {Vorübergehend gewinnt Schwarz einen Bauern. Es war mir aber klar,
+dass dieser nicht zu halten ist. Denn der Bauer kann nur von Dame und Springer
+gedeckt werden.} 20. Qe3 Bxc5 $6 {Dieser Tausch war vielleicht nicht unbedingt
+notwendig.} ({Denn die Furcht vor} 20... Rac8 21. Bb6 Rd6 {ist eigentlich
+unbegründet.}) 21. Rxc5 {Mit diesem Zurückschlagen verbessert Weiß noch
+einmal die Stellung seines Turms.} Rac8 {Schwarz geht direkt in den
+Ausgleichsmodus.} ({Nach} 21... Qxb2 22. Rb1 Qa3 {ist die schwarze Dame
+tatsächlich noch nicht gefangen wegen} 23. Rb3 Qa1+ 24. Rb1 {Aber die
+Stellung ist sehr unbequem und undankbar zu spielen. Weiß hat mindestens
+Remis durch Wiederholung.}) 22. Na4 {Weiß deckt gleichzeitig den b-Bauern und
+noch einmal den Turm. Mir gefällt der Zug trotzdem nicht. Der Springer steht
+unnatürlich am Rand und alle schwarzen Figuren stehen ideal.} Qb4 {[%cal
+Rb4e1,Rb4c5,Rb4a4] Die Dame kommt auf ein superaktives Feld, von wo aus gegen
+drei weiße Figuren auf einmal spielt.} 23. Qc3 {Pulling the brake. Wegen der
+Doppeldrohung auf c8 kann Schwarz nicht auf a4 schlagen. Gleichzeitig ist die
+Dame auch angegriffen, so schien der Damentausch das Plausibelste.} Qxc3 {
+Hier hatte ich berechnet, dass meine Figuren eine aktivere Position im
+Endspiel einnehmen.} 24. Rxc3 Rxc3 25. Nxc3 Rd2 {[%csl Yc2,Yf2][%cal Rd2f2,
+Rd2c2] Der Turm steht auf der 7. bzw. 2.Reihe immer am besten, wenn er sich
+halten kann. Er bedroht die übrig gebliebenen Bauern.} 26. Rc1 ({Ich hatte mit
+} 26. Rd1 Rxd1+ 27. Nxd1 Kf8 {gerechnet und hielt das enstandene Endspiel für
+locker Remis, auch wenn Weiß einen entfernten Freibauern bilden kann.}) 26...
+Kf8 27. Kf1 {Hier taucht eine Idee auf. Weiß will den Turm von der 2.Reihe
+verteidigen. Schwarz benutzt den "Mehrbauern" als Rammbock, um die Wirkung des
+Turms zu vergrößern.} e3 $1 28. fxe3 {Weiß hat keine andere Wahl. Er muss
+nehmen.} ({Nach} 28. Nd1 $4 {kommt} e2+) 28... Ke7 $2 {Das ist zu schematisch
+gespielt. Der König kommt zwar in das Zentrum, aber hier gab es einen viel
+besseren Zug.} ({Zu Vorteil führt} 28... Ng4 $1 {[%csl Ye3,Yh2][%cal Rg4e3,
+Rg4h2] aufgrund der Doppeldrohung gegen e3 und h2. Diese Stellung will man mit
+Weiß nicht gerne verteidigen.}) 29. h3 {Weiß atmet auf, die letale Drohung
+ist erst einmal verhindert.} Nd5 {Der Springer hat hier keine richtig guten
+Felder mehr. Also scheint der Tausch folgerichtig.} 30. Nxd5+ exd5 {[%csl Ye4,
+Ye5,Ye6][%cal Ge7e4] Das Zurücknehmen öffnet dem schwarzen König den Weg in
+das Zentrum und beläßt den Turm auf seinem sehr aktiven Feld. Weiß muss
+jetzt erst einmal einige Bauernzüge machen, um seine schwachen Bauern
+wegzubekommen.} 31. b3 h5 $5 {Dieser Bauer soll den weißen g-Bauern unten
+halten.} 32. c4 dxc4 33. Rxc4 {Endlich ist auch der weiße Turm aktiviert.
+Aber Weiß verliert trotzdem einen Bauern.} Rd3 {[%csl Yb3,Ye3][%cal Rd3b3,
+Rd3e3]} 34. Re4+ Kd6 35. Ra4 Rxb3 {Der b-Bauer war viel gefährlicher als es
+der schwache e-Bauer jemals sein wird, da auch der schwarze a-Bauer fällt.}
+36. Rxa6+ Ke5 37. Ra5+ Ke4 {Weiß gewinnt Material zurück, aber seine Schachs
+haben meinen König weit nach vorne getrieben.} 38. Rxh5 Kxe3 {Nun tauchen
+Matt-Motive auf. Auch Dauerschach dürfte nach g2-g4 eine Option werden.} 39.
+Re5+ Kf4 {Es ist wichtig den schwarzen König nah am weißen zu halten und
+nicht etwa in das Zentrum zu gehen.} 40. Re7 {Das ist ein guter Zug,
+vielleicht sogar ein Gewinnversuch. Wenn Schwarz jetzt nicht aktiv
+weiterspielt, dann hat Weiß die bessere Stellung} Rb1+ {Ein zweites
+Remisangebot wurde abgegeben, hier war ich mir schon ziemlich sicher.} 41. Kf2
+Rb2+ 42. Kg1 Kg3 {Das sieht aus wie eine Mattdrohung, ist aber keine. Wenn
+Weiß den Bauern auf f7 schlägt, verliert er aber den Bauern g2 und auch den
+auf h3.} 43. Re3+ Kh4 {Wieder aktiv bleiben.} ({Nach} 43... Kf4 {ist} 44. Rf3+
+{ärgerlich, denn jetzt hat Weiß alle Drohungen pariert und sackt den Bauern
+auf f7 ein}) 44. Re4+ {Das ist noch ein letzter Trick, kann man ja einmal
+probieren.} Kg5 {Die Stellung bleibt ausgeglichen. Schwarz hat den aktiveren
+Turm und König. Weiß kann jetzt keinen Freibauern mehr bilden, daher wurde
+Remis vereinbart.} ({Und nicht} 44... Kg3 $4 45. Rg4#) 1/2-1/2
+

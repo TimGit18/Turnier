@@ -1,0 +1,102 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2018.01.12"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Zunk, Olaf"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "1790"]
+[BlackElo "1377"]
+[PlyCount "57"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.01.13"]
+
+1. e4 b6 2. d4 Bb7 {Das ist die bekannte Owen-Verteidigung. Schwarz verzichtet
+auf die Besetzung des Zentrums und möchte Figurendruck gegen das weiße
+Bauernzentrum aufbauen} 3. Bd3 {[%csl Ye4][%cal Rb7e4,Gd3e4] Diese Art der
+Verteidigung entwickelt die weißen Figuren und verteidigt das weiße
+Bauernzentrum, das im Moment noch ganz gesund aussieht. In Wahrheit ist der
+Bauer e4 der schwache Bauer in der weißen Stellung, da er am ehesten
+angegriffen werden kann} e6 4. Nf3 Nf6 {Schwarz bringt die zweite Figur gegen
+das weiße Zentrum in Stellung und ist bereit, dieses mit d7-d5 zu unterminieren
+} 5. Qe2 {Weiß vermeidet die Verteidigung mit Sb1-c3, da dieser Springer von
+Schwarz mit Lf8-b4 gefesselt werden könnte.} d5 {Das ist der anvisierte
+Gegenschlag im Zentrum. Wenn Weiß jetzt diesen Bauern schlägt, dann nimmt
+Schwarz mit einer Figur, vermutlich der Dame, den Bauern zurück} 6. e5 {
+Weiß läßt das Zentrum geschlossen und versucht in eine Französische Struktur
+zu transponieren. Der Vorteil dieser Struktur ist, dass der schwarze
+Damenläufer voreilig nach b7 entwickelt wurde und der schwarze Damenflügel
+nicht mehr so mobil ist wie in der eigentlichen Steinitz-Variante} Nfd7 7. O-O
+Nc6 $6 {Dieser Zug scheint unvorteilhaft. Der Springer wird zwar entwickelt,
+aber er greift nichts an und hat keine Felder auf dem Damenflügel} ({Logischer
+scheint} 7... c5 8. c3 Nc6 9. a3 Be7 10. Bf4 Qc7 11. Nbd2 O-O {und Schwarz
+steht zwar beengt, aber auch sehr fest}) 8. a3 $5 {Weiß möchte das Feld b4
+überdecken, aber den c-Bauern noch nicht festlegen. Er will aggressiv gegen
+das schwarze Zentrum vorgehen, da die schwarzen Figuren noch nicht gut
+koordiniert sind und eigentlich auch nicht gut stehen} ({Eine schwache
+Alternative ist} 8. c3 Be7 {mit einer ähnlichen Stellung}) 8... h6 $6 {Ein
+prophylaktischer Zug, der auch als Angriffszug (mit dem heute so beliebten
+g7-g5 in Folge) angesehen werden kann.} 9. c4 $1 {[%csl Yd5,Ye6,Yg6][%cal
+Rc4d5,Rd3c4,Rd3g6] Dieser Zug muss jetzt kommen. Wenn Schwarz das Zentrum
+aufgibt, dann gerät er auf e6 unter schweren Druck. Zudem hat er durch den
+überflüssigen Zug h7-h6 auch schon die weißen Felder auf dem Königsflügel wie
+g6 geschwächt} Ne7 {Klugerweise stabilisiert Schwarz das eigene Zentrum und
+verbessert etwas die Stellung seiner eigenen Figuren} 10. Nc3 {Weiß erhöht
+sofort den Druck auf d5 und entwickelt den Damenspringer auf das beste Feld} c6
+{Schwarz zementiert sein Zentrum, aber er verschlechtert ein weiteres Mal
+seine Bauernstruktur und vergräbt den Läufer hinter seinen Bauern. Positionell
+ist Weiß sicher schon stark im Vorteil} 11. Bd2 {Zunächst ist dies erst einmal
+ein Entwicklungszug. Weiß verbindet die Türme und stellt den Läufer auf das
+vermeintlich beste Feld} Qc7 {Es sieht logisch aus, die Dame nach c7 zu
+stellen, um lang zu rochieren. Die Dame steht allerdings nach dem nächsten
+weißen Zug gefährdet} 12. Rac1 $1 {Natürlich kommt der Turm auf die c-Linie,
+da hier die wichtigen Angriffsziele auf c6 und c7 stehen} Ba6 $2 {Das ist ein
+weiterer Fehler, den die schwarze Stellung nicht verkraften kann. Weiß macht
+es allerdings unnötig kompliziert} 13. Nb5 $6 {Dieser Zug sieht zwar optisch
+gut aus, und ist auch nicht so schlecht, da er sehr aktiv ist, aber er wirft
+den großen weißen Vorteil weg} ({Einfacher und effizienter ist} 13. cxd5 $1
+Bxd3 14. Qxd3 Nxd5 15. Nxd5 exd5 16. e6 $1 {und nach der Öffnung der e-Linie
+wird Schwarz schwere Probleme haben, in dieser Stellung zu überleben}) 13...
+Bxb5 {Das ist der einzige Zug. Schwarz gibt zwar das Läuferpaar, aber er nimmt
+auch etwas Druck aus der Stellung} ({Weiß hoffte auf} 13... cxb5 $2 14. cxb5
+Qb8 15. bxa6 {mit deutlichem Stellungsvorteil}) 14. cxb5 c5 {Das ist ein
+intelligenter Zug. Für Schwarz kann es jetzt nur darum gehen, diese Stellung
+geschlossen zu halten, damit das Läuferpaar nicht zur Geltung kommt und der
+schwarze Stellungsnachteil nicht zutage tritt} 15. Bb4 {Weiß merkt an dieser
+Stelle, dass der Plan nicht ganz funktioniert hat. Er möchte eine Figur auf c5
+scheinopfern und sie dann wiederholen} c4 {Schwarz hält die Stellung
+weiterhin geschlossen, aber er öffnet auch eine Diagonale für den weißen
+Damenläufer, der auf einmal wirksam wird} ({So ist die Stellung nach} 15... g6
+16. dxc5 bxc5 17. Bxc5 Nxc5 18. b4 Bg7 19. bxc5 {gut für Weiß}) 16. Qd2 {
+Die weiße Idee besteht weiterhin im Spiel gegen die c-Linie und gegen den
+vorgerückten c-Bauern. Möglicherweise ist dies aber nicht der beste Plan} Qb7
+{Klugerweise entfernt sich die schwarze Dame aus der c-Linie. Auf b7 steht die
+Dame eigentlich gar nicht so schlecht dar. Sie überwacht die siebte Reihe und
+kann beim Angriff auf den Bauern b5 unterstützen} 17. Bc2 $6 {Logischerweise
+zieht sich der Läufer zurück, aber er sollte besser nach b1 gebracht werden.
+Auf c2 träumt Weiß immer noch von b2-b3 und Spiel gegen den Bauern c4} Rc8 {
+Schwarz ahnt den Druck auf der c-Linie und bringt schon mal einen Turm in
+Stellung} 18. b3 {Jedenfalls ist dieser Zug konsequent} a5 $1 {Ein guter
+Gegenzug. Schwarz findet sich nicht mit dem weißen Druckspiel gegen den
+Bauern c4 ab und belästigt den weißen Läufer. Wenn er jetzt en passant
+schlagen würde, dann käme die schwarze Dame in das Spiel} 19. Bd6 {Weiß
+nistet sich mit dem Läufer jetzt tief in der schwarzen Stellung ein} Nf5 $2 {
+Das ist ein Fehler. Schwarz hätte vorher auf b3 schlagen sollen. Jetzt
+erhält Schwarz einen Doppelbauern auf der f-Linie und der schwache schwarze
+König ist auch einen weiteren Verteidiger los} ({Nach} 19... cxb3 20. Bxb3 Nf5
+21. Bxf8 Rxf8 22. Rxc8+ Qxc8 23. Rc1 Qb7 {steht Weiß freier, aber die
+schwarze Stellung ist sehr fest und der weiße Läufer beißt auf Granit}) 20.
+Bxf5 Bxd6 $4 {Das ist der entscheidende Fehler, der meist nach dem ersten,
+leichteren Fehler folgt. Wenn sich die e-Linie öffnet, dann gerät der
+schwarze König in ernsthafte Gefahr} 21. exd6 exf5 22. Qe3+ {Schwarz kann das
+Schach auf e7 nicht vermeiden, wonach die Stellung nicht zu halten ist} Kf8 23.
+Qe7+ Kg8 24. Ne5 {[%csl Yd7,Yf7][%cal Re5f7,Re5d7] Das ist der entscheidende
+Doppelangriff gegen den Bauern f7 und den gefesselten Springer auf d7. Schwarz
+muss jetzt Material aufgeben} Kh7 25. Qxd7 {Weiß kriegt eine Figur umsonst} ({
+Noch stärker ist} 25. Nxd7 {, aber der Textzug ist stark genug zum Gewinn})
+25... Qxd7 26. Nxd7 Rcd8 27. Ne5 {Verteidigt wegen der Gabel auf f7 indirekt
+den Bauern d6} Rhf8 28. bxc4 dxc4 29. Nxc4 {Weiß hat einen echten Mehrbauern,
+der auch noch ein Freibauer ist. Der Springer auf c4 ist eine Macht. Schwarz
+kann noch ein paar Züge weiterspielen, aber ohne Spaß} 1-0
+

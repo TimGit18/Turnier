@@ -1,0 +1,17 @@
+[Event "Senioren-Cup"]
+[Site "?"]
+[Date "2025.04.06"]
+[Round "9"]
+[White "Mattgay, Werner"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "1779"]
+[BlackElo "1867"]
+[Annotator "Tim Schmitz"]
+[PlyCount "22"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2025.04.06"]
+
+{[%evp 0,22,16,28,46,51,91,86,72,31,31,24,83,46,38,42,36,-6,11,4,10,15,14,-11,0] Die letzte Runde im Senioren-Cup wurde sehr schnell gespielt und beendet. Aufgrund der Turniersituation und der sehr anstrengenden Partie in der Runde zuvor war ich auch nicht auf eine lange Partie eingestellt.} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Weiß täuscht einen Englischen Angriff an. Ich hätte mich über diese Wahl gefreut, denn in den letzten Jahren habe ich viele Partien mit dieser Eröffnung auf der schwarzen Seite gespielt.} e5 {Das ist die stellungsgemäße Antwort, denn Schwarz erobert Raum im Zentrum und verdrängt den Springer auf ein schlechtes Feld. Dafür nimmt er die Schwächung des Feldes d5 in Kauf.} 7. Nb3 {Das Problem bei diesem Rückzug (in Verbindung mit dem späteren Aufbau von Weiß) ist es, dass der Springer hier in der Regel schlecht steht, da er keine guten Felder hat. Er müsste eigentlich (wie im Fianchetto-System mit Sb3-d2-c4) zurück in das Spiel gebracht werden.} Be7 $6 {Schwarz entwickelt eine Figur und bereitet die kurze Rochade vor. Allerdings scheint dies nicht der beste Zug zu sein, sondern wurde sehr schematisch gespielt.} ({Stellungsgerechter ist eigentlich} 7... Be6 {, damit Schwarz das Loch auf d5 überdeckt. Wahrscheinlich ändert das nichts am Partieverlauf, wäre aber präziser gewesen.}) 8. g3 $6 {Weiß schwenkt um auf das Fianchetto-System. Das ist hier aber auch nicht stellungsgerecht, sondern eher ein seltsamer Hybrid. Da Schwarz schon e7-e5 gespielt hat, bleibt der Läufer auf g2 geblendet. Das einzige, wofür das Fianchetto gut ist, ist die verstärkte Kontrolle über das Feld d5.} Be6 {[%csl Yd5] Letztlich kämpft Schwarz um die Kontrolle des Zentrums. Es folgen einige einfache Entwicklungszüge.} 9. Bg2 O-O 10. O-O Nbd7 ({Hier war bereits} 10... b5 {möglich, jedoch missfiel mir die Antwort} 11. Nd5 {[%csl Yb6][%cal Ge3b6] , obwohl} Nbd7 {das Feld b6 unter Kontrolle hält.}) 11. Re1 Rc8 {In dieser grundsoliden Stellung bot ich Remis an, was postwendend aktzeptiert wurde. Natürlich kann man hier mit b7-b5-b4 und Sd7-c5 Druck auf den Bauern e4 ausüben. Allerdings stünde der Läufer dafür besser auf b7.} 1/2-1/2
+

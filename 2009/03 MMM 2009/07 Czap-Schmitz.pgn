@@ -1,0 +1,29 @@
+[Event "MMM 2009 - A-Klasse 1"]
+[Site "?"]
+[Date "2009.05.08"]
+[Round "7"]
+[White "Czap, Cedrik"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "D43"]
+[WhiteElo "913"]
+[BlackElo "1778"]
+[Annotator "Tim Schmitz"]
+[PlyCount "32"]
+[EventDate "2009.??.??"]
+[WhiteTeam "SC Unterhaching 2"]
+[BlackTeam "SC Sendling 2"]
+[TimeControl "240+2"]
+
+1. d4 d5 2. c4 e6 3. Nf3 {Die Botwinnik-Variante} Nf6 4. Nc3 c6 {Will in den
+Halbslawen} 5. Bf4 Bd6 6. Bxd6 Qxd6 {Keine sehr oft gespielte Variante (70
+Partien in der Mega 2008), die Statistik spricht mit 59% für Weiß} 7. e3 O-O 8.
+c5 Qe7 {Dc7 war vielleicht vorzuziehen} 9. Bd3 b6 $6 {Nichts sprach gegen Sbd7
+nebst e5} 10. cxb6 {Ein positioneller Fehlgriff} axb6 11. O-O Ba6 12. e4 $2 {
+Das ist aber schon taktisch falsch} dxe4 13. Bxa6 Nxa6 (13... exf3 $1 14. Bc4
+fxg2 15. Re1 Ra5 {ist stärker, aber ich wollte die Situation nicht überreizen})
+14. Ne5 {Versucht noch etwas im Trüben zu fischen} ({Besser als} 14. Ng5 Rfd8
+15. Ngxe4 c5 16. Nxf6+ Qxf6 17. Qb3 cxd4 18. Ne4 Qf5 {mit klarem
+Endspielvorteil plus zwei Bauern für Schwarz}) 14... c5 15. Qa4 Nb4 16. Nc6 $2
+{Der letzte Fehler} Qb7 0-1
+

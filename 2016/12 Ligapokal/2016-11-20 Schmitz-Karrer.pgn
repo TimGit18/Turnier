@@ -1,0 +1,26 @@
+[Event "Münchner Ligapokal"]
+[Site "?"]
+[Date "2016.11.20"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Karrer, Werner"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1807"]
+[BlackElo "1864"]
+[Annotator "Tim Schmitz"]
+[PlyCount "73"]
+[SourceDate "2016.11.20"]
+[WhiteTeam "SC Sendling"]
+[BlackTeam "SC Roter Turm Altstadt"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8.
+O-O O-O-O 9. Be3 $2 (9. d5 $1 Nb4 10. Bf4) (9. Bf4 Qb4 10. a3 Qxb2 11. Qd3 Bxf3
+) 9... e5 10. dxe5 Nxe5 11. Qxd6 Bxd6 12. Nxe5 Bxe5 13. Ne4 Nd5 $1 (13... Nxe4
+14. Bxe4) 14. Nc5 c6 15. Nd3 (15. Rfe1 Nxe3 16. Rxe3 Bd4) 15... Nxe3 16. fxe3
+Bf6 17. Rf4 Be2 18. Bf1 Bh5 (18... Bxd3 19. Bxd3 Bxb2 20. Rb1 Bf6 21. Rfb4 b5
+22. a4 c5) 19. Re1 Rhe8 20. e4 Bg6 21. Bh3+ Kb8 22. Bf5 Bxf5 23. Rxf5 Bd4+ 24.
+Kg2 Rd7 25. e5 Rde7 26. Ref1 f6 27. exf6 Bxf6 28. c3 Rd8 29. R5f3 Red7 30. Nf4
+Re8 31. R3f2 Bg5 32. h4 Bxf4 33. Rxf4 Re2+ 34. R1f2 Rdd2 35. Rxe2 Rxe2+ 36. Rf2
+Re7 37. Kf3 1/2-1/2
+

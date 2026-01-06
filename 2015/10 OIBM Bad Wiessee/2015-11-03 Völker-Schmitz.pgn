@@ -1,0 +1,49 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2015.11.03"]
+[Round "4"]
+[White "Völker, Sebastian"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2003"]
+[BlackElo "1852"]
+[PlyCount "27"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.11.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 {Diese Variante
+transponiert in den Englischen Angriff} ({Weiß möchte die
+"Kasparov-Fortsetzung"} 6. Be3 Ng4 7. Bg5 h6 8. Bh4 g5 9. Bg3 Bg7 {vermeiden})
+6... e5 7. Nb3 Be6 8. Be3 Be7 9. Qd2 O-O 10. Be2 $6 {Dieser Zug überrascht
+mich doch. Es scheint so als wolle Weiß auf einem Umweg in die Klassischen
+Varianten der Najdorf-Verteidigung transponieren} ({Nach dem Standardzug} 10.
+O-O-O {folgt das Nemeth-System mit} a5) 10... d5 {Das ist die prinzipielle
+Antwort von Schwarz. Sie gefällt der Engine nicht besonders. Aber es
+verdeutlicht die Idee, den rückständigen Bauern auf d5 aufzulösen, auch
+wenn durch Massenabtausch auf d5 eine Menge Material reduziert wird} ({Die
+solideste Antwort von Schwarz wäre der Standardzug} 10... Nbd7 {Daraufhin
+kann sich Weiß dafür entscheiden mit der kurzen Rochade das Klassische
+System oder mit der langen Rochade den Englischen Angriff zu wählen}) 11. exd5
+{Weiß muss auf jeden Fall die Gabel auf d4 verhindern} Nxd5 12. Nxd5 Qxd5 {
+Es scheint so, als stünde die Dame auf d5 aktiver als auf d8} ({Nach} 12...
+Bxd5 13. O-O-O Nc6 $4 14. Qe1 {kann Schwarz die Fesselung auf der d-Linie
+nicht mehr abschütteln. Also muss er vorher den Läufer zurückziehen, wonach
+es gleichsam zu einem Massenabtausch auf d8 kommen kann}) 13. Qxd5 Bxd5 {
+Auf den ersten Blick wirkt die Stellung ausgeglichen. Also hat Schwarz sein
+erstes Ziel (Ausgleich) erreicht. Allerdings hat Schwarz noch
+Entwicklungsrückstand und muss noch arbeiten, um einen gesicherten Ausgleich
+zu erreichen} 14. O-O {Nach dieser eher zahmen Fortsetzung bietet Weiß Remis
+an, das sofort angenommen wurde. Dabei reicht die Stellung noch für einige
+gute Pläne} ({Nach der aggressiveren Fortsetzung} 14. O-O-O {muss Schwarz
+schon} Be6 {spielen} ({Nach} 14... Rd8 15. Bb6 Rd7 16. Rd2 Be6 17. Nc5 Bxc5 18.
+Bxc5 Nc6 19. Rhd1 {kontrolliert Weiß die d-Linie und besitzt aufgrund des
+Läuferpaars die bessere Stellung}) ({Auch schlecht ist} 14... Bc6 {wegen} 15.
+Na5) 15. Nc5 {[%csl Yb7,Ye6][%cal Rc5e6,Rc5b7] mit Doppelangriff auf den
+Läufer e6 und den Bauern b7. Daher muss Schwarz das Läuferpaar aufgeben} Bxc5
+16. Bxc5 Re8 17. Rd2 Nc6 18. Rhd1 Rac8 {Weiß hat immer noch genug Spiel, um
+auf zwei Ergebnisse zu spielen. Er besitzt in einer offenen Stellung das
+Läuferpaar und die schwarzen Felder auf dem Damenflügel sind schwach. Dafür
+ist der weiße Bauer auf f3 keine gute Figur. Schwarz wird versuchen mit b7-b5
+und Sc6-a5-c4 ein Gegenspiel zu entfachen}) 1/2-1/2
+

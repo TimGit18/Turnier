@@ -1,0 +1,41 @@
+[Event "London Chess Classic Open"]
+[Site "?"]
+[Date "2010.12.15"]
+[Round "9"]
+[White "Miu, Marel"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "1580"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "116"]
+[EventDate "2009.??.??"]
+
+1. Nf3 d5 2. e3 Nf6 3. b3 Bf5 4. Bb2 {Zukertort} e6 5. Be2 Bd6 6. O-O Nbd7 7.
+d4 h6 {Die erste Ungenauigkeit: der Läufer braucht eigentlich gar kein
+Rückzugsfeld} 8. c4 c6 9. c5 Bc7 10. b4 Qb8 $6 {Hier steht die Dame nur
+anfangs gut} 11. Qb3 e5 $2 {Der entscheidende positionelle Fehler: ich eröffne
+Weiß hervorragende Angriffschancen} 12. dxe5 Nxe5 13. Nbd2 O-O 14. Nd4 Bh7 15.
+f4 Ned7 {Auf einmal stehe ich sehr unter Druck, die schwarzen Figuren sind
+schlecht platziert und die beste wird abgetauscht} 16. Bd3 Bxd3 17. Qxd3 a5 {
+Ich muss versuchen, irgendwie Gegenspiel zu organiseren} 18. a3 Re8 19. Rf3 {
+Sieht zunächst bedrohlich aus, aber ich finde noch eine defensive Ressource}
+axb4 20. axb4 Rxa1+ 21. Bxa1 Qa8 22. Qc3 Qa4 23. Nf5 {Das ist vielleicht schon
+zu ungenau} Qd1+ 24. Nf1 Kh7 (24... Qb1 {ist vielleicht besser, da so die
+beste Figur wegziehen muss}) 25. Rg3 Rg8 {Jetzt stehe ich wieder sicher,
+allerdings kann der Springer immer noch nicht ziehen} 26. Bb2 $2 {Ein Nullzuig}
+g6 27. Nxh6 Kxh6 28. Rh3+ Nh5 {Ungenau, denn der Springer fällt wieder später.}
+(28... Kg7 {und eigentlich passiert nichts, obwohl der König wackelig steht})
+29. Kf2 Bd8 {Ein guter Defensivzug, es droht Lf6} 30. Qd2 (30. e4 {hatte ich
+berechnet mit} dxe4 (30... Ndf6 {ist besser} 31. Ne3 $4 Nxe4#) 31. Ne3 {
+und Weiß ist wieder im Spiel}) 30... Qxd2+ 31. Nxd2 Bf6 {Ein Schnitzer in
+Zeitnot} (31... f5 {sieht besser aus. Und dann eine Figur nach f6 und der
+König kann aus der Fesselung gehen}) 32. Bc1 Bc3 33. g4 Bxb4 34. gxh5 gxh5 35.
+Nf1 Nxc5 36. Kf3 Nd3 37. Bd2 Bxd2 38. Nxd2 b5 39. Nf1 b4 40. Ng3 b3 41. Rxh5+
+Kg7 42. Rg5+ Kf8 43. Rxg8+ Kxg8 44. Ne2 Nb4 45. Nc3 Na2 $2 (45... c5 {nebst b2
+hält alles zusammen}) 46. Na4 Nc1 47. Nc3 b2 48. Kf2 Na2 49. Nb1 Kg7 $4 {
+verliert ein Tempo und den Gewinn} (49... c5 {sieht immer noch recht gut aus})
+50. Ke2 Nb4 51. Kd2 c5 {zu spät} 52. Kc3 Kf6 53. Kxb2 d4 54. exd4 cxd4 55. Kb3
+Nc6 56. Kc4 Kf5 57. Kd5 Ne7+ 58. Kxd4 Kxf4 1/2-1/2
+

@@ -1,0 +1,39 @@
+[Event "London Chess Classic Open"]
+[Site "?"]
+[Date "2010.12.13"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Hadi, Justin"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2090"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "86"]
+[EventDate "2009.??.??"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Be2 {Weiß entwickelt sich
+langsam und vorsichtig.} O-O-O {Die aggressivste Antwort von Schwarz} 6. c4 Qh5
+7. Be3 $1 {Weiß sollte die kurze Rochade vermeiden und lieber das starke
+Zentrum halten} Nf6 8. Nc3 $6 (8. Nbd2 {überdeckt den Springer f3 und hebt die
+Fesselung auf der d-Linie auf}) 8... e5 9. d5 e4 10. Nd2 {ist wohl am besten,
+denn so baue ich Druck auf den Bauern e4 auf} (10. Qa4 {schlug mein Gegner vor}
+exf3 11. dxc6 fxe2 12. cxb7+ Kxb7 13. Qxa7+ {reicht wohl aber nicht} Kc8 14.
+Qa6+ Kd7 15. Qa4+ Ke7) 10... Ne5 {Hier kam ich in höllische Zeitnot, denn
+Schwarz droht unangenehm auf d3 Schach} 11. Bxg4+ (11. Ncxe4 Nd3+ 12. Kf1 Nxb2
+{fand ich nicht so schön}) 11... Nexg4 (11... Nfxg4 {ist aktiver für Schwarz
+trotz der Fesselung} 12. Ncxe4 Nd3+ 13. Kf1 Nxe3+ 14. fxe3 Qg6) 12. Qe2 {
+Sah mir am solidesten aus} Ne5 13. Qxh5 Nxh5 {Hier war ich noch ganz zufrieden}
+14. O-O-O $2 {A Tempo gespielt und positionell nicht gut. Die Figuren stehen
+verkrampft und in der Folge werde ich einfach überspielt} (14. Ncxe4 Nd3+ 15.
+Ke2 Nxb2 16. g4 Nf6 17. Nxf6 gxf6 {sieht am besten aus. Die weißen Figuren
+sind zentral, der König aktiv und die Türme verbunden}) 14... f5 $1 15. g3 Bb4
+16. Kc2 a6 17. a3 Be7 18. h4 Bf6 {Innerhalb weniger Züge hat Schwarz eine
+starke Druckstellung aufgebaut} 19. Ne2 Nd3 20. Rb1 Rhe8 21. Nb3 Ne5 22. Nd2 b5
+{öffnet zur rechten Zeit die Stellung} 23. b3 Nd3 24. Nd4 {Danach verliere ich
+Material} Bxd4 25. Bxd4 Nxf2 26. Bxf2 e3 27. Bxe3 Rxe3 28. g4 (28. Nf1 {
+sieht schon sehr zweifelhaft aus}) 28... fxg4 29. Rbe1 Rde8 30. Rxe3 Rxe3 31.
+Nf1 Re1 32. Kd2 Ra1 33. Kc3 bxc4 34. Kxc4 Nf6 35. Ng3 Rxh1 36. Nxh1 Ne4 37. Kd4
+g3 38. Nxg3 Nxg3 39. Ke5 Kd7 40. b4 Ne2 41. a4 Nc3 42. b5 Nxb5 43. axb5 axb5
+0-1
+

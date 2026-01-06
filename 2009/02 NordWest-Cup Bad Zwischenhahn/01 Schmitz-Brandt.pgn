@@ -1,0 +1,52 @@
+[Event "NW-Cup Bad Zwischenahn 2009"]
+[Site "?"]
+[Date "2009.02.12"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Brandt, Wilhelm"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1844"]
+[BlackElo "2072"]
+[Annotator "Tim Schmitz"]
+[PlyCount "111"]
+[EventDate "2009.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 {Eine ruhige Variante in der
+Russischen} Nxc3 6. dxc3 Be7 7. Bd3 {Um Läufer f5 zu verhindern} O-O 8. Be3 {
+Eigentlich steht der Läufer auf f4 besser, aber ich mag die offene e-Linie
+nicht} Be6 $6 {verhindert die O-O-O} 9. Nd4 {widerspricht dem Prinzip, eine
+Figur zweimal in der Eröffnung zu ziehen, zwingt Schwarz aber zum Nachdenken}
+Bd7 10. Qh5 $6 {Ich wollte a tempo zur großen Rochade kommen. Leider hilft das
+Manöver nur Schwarz, seine Figuren zu koordinieren} g6 11. Qh6 Bf6 12. O-O-O
+Bg7 13. Qf4 {Weiß steht etwas aktiver, aber die schwarze Stellung ist sehr
+fest.} c5 ({Das Remis nach} 13... Be5 14. Qh6 Bg7 15. Qf4 {ist wahrscheinlich})
+14. Nb3 (14. Nb5 Qa5 15. Na3 b5 {sieht in der Partie kritisch aus}) (14. Nf3
+Qa5 15. Kb1 d5 {ist vielleicht die bessere Alternative}) 14... Be6 15. Be4 Be5
+{Jetzt kann Weiß ein schönes (Pseudo-)Qualtitätsopfer machen} 16. Qxe5 dxe5 17.
+Rxd8 Rxd8 18. Bxb7 ({Vorher war mir nicht klar ob} 18. Nxc5 {besser ist} Nc6
+19. Nxe6 fxe6 20. Bg5 Rd6 {Weiß hat zwar das Läuferpaar, aber keinen konkreten
+Vorteil}) 18... Nd7 19. Bxa8 Rxa8 20. Nxc5 Nxc5 21. Bxc5 {Trotz
+ungleichfarbiger Läufer steht Weiß besser. Ich tue mich aber sehr schwer mit
+dem Gewinn} Rc8 22. Bd6 (22. Bxa7 Ra8 23. Bc5 Rxa2 24. Kb1 {sah mir unklar aus.
+Auch der Läufer konnte auf a2 schlagen, kann aber im Gegensatz zum Turm nicht
+gefangen werden}) 22... f6 23. Rd1 Kf7 24. Bb4 {Will den Bauern c3 decken, um
+mit den anderen Bauern zu marschieren} h5 25. Rd6 {Idee: Td6-a6xa7} e4 26. Kd2
+f5 27. Ke3 {Mein König kann jetzt im Zentrum eingreifen} Kf6 28. Ra6 g5 {
+Schwarz droht jetzt auch im Zentrum aktiv zu werden, ich will das verhindern,
+denn der Bauer a7 bleibt eh schwach} 29. Ra5 Rc6 30. Bc5 a6 31. Bd4+ {Hier
+steht der Läufer richtig} Kg6 32. b3 Rd6 33. Be5 Rc6 34. Kd4 {Langsame
+Positionsverbesserung} h4 35. Rc5 Rb6 36. Bc7 Rb7 {Close to winning} 37. Rc6
+Kf7 38. Bd6 {Bauerngewinn oder Turmtausch?} Rb5 $2 {Das sollte verlieren} 39.
+c4 Ra5 40. a4 f4 {Fluchtfeld für den Turm} 41. Rc5 $2 {Wirft den Gewinn in
+noch eingebildeter Zeitnot so gut wie weg} (41. c5 $1 {gewinnt einfach} Bd7 42.
+Rc7 Ke6 43. Kxe4 {und Schwarz kann eigentlich nichts mehr machen}) 41... Rxc5
+42. Bxc5 Kf6 43. Kxe4 Bf5+ 44. Kd4 Bxc2 45. Kc3 Bd1 {Die Frage ist einfach, ob
+Schwarz eine Blockade auf den weißen Feldern aufbauen kann, dann Remis} 46. a5
+Ke6 47. b4 Ba4 48. Kd4 (48. b5 {bietet sich an} axb5 49. Kb4) 48... Bc6 49. g3
+hxg3 50. hxg3 fxg3 51. fxg3 g4 52. Bf8 {Das Endspiel ist wohl doch nicht
+haltbar.} Kd7 53. Kc5 Kc7 54. b5 Bb7 55. Bd6+ Kc8 $4 {Das verliert direkt} (
+55... Kd7 56. Kb6 Kc8 57. Be5 {Zuggie!}) 56. Kb6 {Schwarz gibt auf: Die drei
+Bauern sind zu stark} 1-0
+

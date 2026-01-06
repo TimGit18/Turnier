@@ -1,0 +1,21 @@
+[Event "SCS VM Hauptturnier"]
+[Site "?"]
+[Date "2015.01.09"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Ballmann, Andreas"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "1743"]
+[BlackElo "1713"]
+[PlyCount "75"]
+[SourceDate "2015.01.11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nc6 5. Nf3 Bb4+ 6. c3 Be7 7. Bd3 Qd5 8.
+O-O Bd7 9. Bd2 (9. b4 $5) 9... f6 10. Qe2 Qh5 11. b4 g5 12. Ng3 Qf7 13. Bc4 Nd8
+14. Rad1 Qg7 15. Bc1 g4 16. Nd2 h5 17. d5 e5 18. Bd3 Nh6 19. Nc4 Qf7 20. Qc2
+Qg8 21. Nf5 $6 (21. Bg6+ Ndf7 22. d6) 21... Nxf5 22. Bxf5 Bxf5 23. Qxf5 Nf7 24.
+f4 b5 25. Na3 (25. fxe5 bxc4 26. d6) 25... Nd6 26. Qc2 e4 27. c4 bxc4 28. Nxc4
+f5 29. Bb2 Rh6 30. Ne5 Nb5 31. a4 Bxb4 32. axb5 Ba5 33. Nc4 Bb4 34. Ne5 Bd6 35.
+Qc6+ Ke7 36. Qd7+ Kf8 37. Qxf5+ Ke8 38. Qxe4 1-0
+

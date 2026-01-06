@@ -1,0 +1,68 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2022.11.13"]
+[Round "9"]
+[White "Kilzer, Silke-Dorothea"]
+[Black "Schmitz, Tim"]
+[Result "*"]
+[ECO "E61"]
+[WhiteElo "1680"]
+[BlackElo "1848"]
+[Annotator "Tim Schmitz"]
+[PlyCount "39"]
+[SourceVersionDate "2022.11.13"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O {In der letzten Runde der OIBM wird
+eine ruhige Eröffnung gewählt, die ein flexibles Spiel verspricht.} 5. e3 $1
+{Das ist ein guter Zug, denn er vermeidet den Klassischen Botvinnik-Aufbau mit
+d2-d3, Sg1-e2 und e2-e4 oder auch die KIassische Englische Eröffnung mit
+Sg1-f3.} e5 $6 {Die Gegnerin erwischt mich auf dem falschen Fuß. Obwohl ich
+Eröffnung kenne und schon einige Partien spielte, antwortete ich unvorsichtig
+und ungenau. Der Zug ist zwar systemgerecht (denn e7-e5 wird in diesen
+Stellungen häufiger gespielt), aber ungenaue, da er die Option c7-c5 aus der
+Stellung nimmt.} ({Viel besser ist die Empfehlung von Yelena Dembo mit} 5... d6
+6. Nge2 e5 7. O-O c6 $1 {Schwarz hat sein Zentrum dynamisch aufgebaut und kann
+auf den Durchbaruch d6-d5 spielen. Um dies zu verhindern hat Weiß praktisch
+nur einen Zug.} 8. d4 Qe7 {Schwarz verfolgt einen ehrgeizigen Plan: Er will
+e5-e4 spielen, um etwas Raum auf dem Königsflügel zu gewinnen und einen
+Königsflügel-Angriff vorzubereiten. Darüberhinaus soll der Bauer auf e4 mit
+Tf8-e8 und Lc8-f5 gestützt werden, bevor er das typische Manöver h7-h5 und
+Sb8-d7-f8-h7-g5 durchführt.}) 6. Nge2 {Das ist der Sinn von e2-e3. Der
+Springer soll entwickelt werden, ohne dem Läufer auf g2 die Sicht zu
+verstellen.} Nc6 {Das ist konsistent entwickelt, funktioniert aber gegen den
+Aufbau mit e2-e3 nicht besonders gut. Besser wäre hier wieder den Übergang
+in den Dembo-Plan.} 7. O-O d6 8. d4 {Weiß verwirklicht tatsächlich ihren
+angestrebten Plan. Das Zentrum wird besetzt und Raum erobert. Für Schwarz
+stellt sich die Frage, wie er auf diesen Plan reagieren soll. Leider ist meine
+Antwort nicht besonders stellungsgerecht.} Bg4 $6 {Die Partiefortsetzung
+erschien im Nachhinein alles andere als optimal. Es wird zwar die letzte
+Leichtfigur entwickelt, aber der Zug spielt dem weißen Plan in die Hände.} ({
+Eine veritable Alternative wäre gewesen} 8... exd4 9. exd4 Bf5 $1 10. a3 a5 {
+mit guter Entwicklung nebst Dd8-d7, Tf8-e8 und Ta8-d8.}) 9. d5 Ne7 10. h3 $1 {
+Weiß verwicklicht den besten Plan. Sie dominiert auf den weißen Feldern und
+verlockt Schwarz dazu, den Damenläufer abzutauschen.} Bxe2 $6 {Das ist eine
+zweifelhafte Entscheidung. Der Verlust des Läuferpaares ist nicht allzu
+schlimm, aber die Schwäche auf den weißen Feldern im schwarzen Lager macht
+sich bald bemerkbar.} ({Konsistenter ist} 10... Bd7 11. e4 Ne8 12. Be3 f5 {
+und das Spiel entwickelt sich in "orthodoxen" Königsindischen Bahnen.}) 11.
+Qxe2 Nd7 {Besonders viele Pläne hat Schwarz nicht. Aber f7-f5 ist ohne den
+Damenläufer weniger wirkungsvoll.} 12. e4 f5 {[%csl Ye4,Ye6,Yg5][%cal Gc3e4,
+Ge4g5,Rg5e6] Schwarz hat seine Stellung etwas befreien können. Leider kann er
+nicht auf e4 schlagen wegen der Schwäche seines jetzt entstandenen Lochs auf
+e6.} {Ein sehr aggressiver Zug, der die weißen Absichten offenbart:
+Linienöffnung und Angriff auf das schwarze Zentrum.} 13. f4 $5 exf4 14. Bxf4
+Ne5 {[%csl Yb2,Yc3,Yc4,Yd3,Yf3,Yg7][%cal Rg7c3,Ge5f3,Ge5d3,Ge5c4] Schwarz hat
+einen Teil seines Bauernzentrums aufgegeben und den weißen Damenläufer
+freiwillig entwickelt. Dafür wird sein Königsläufer befreit und dem
+Springer auf e5 ein schöner Platz gesichert. Allerdings ist die Spannung im
+Zentrum noch vorhanden und die Stellung von Weiß immer noch besser. Vor allem
+der Springer auf e7 steht katastrophal.} 15. Rac1 {[%csl Ya1,Yc1,Yc3][%cal
+Gc1c3] Weiß entfernt den Turm von der langen Diagonalen und deckt zur
+Sicherheit den Springer.} Qd7 16. b3 $6 {Ein solider, aber etwas
+überflüssiger Zug. Verderben tut er nichts.} Rae8 {In dieser Stellung sind
+alle schwarzen Figuren entwickelt und auf dem Königsflügel oder im Zentrum
+versammelt. Hier bot ich Remis an, was nach einiger Zeit angenommern wurde,
+denn hier steht nur Weiß besser. Es könnte folgen} 17. Qd2 Kh8 18. Bh6 Ng8
+19. Bxg7+ Qxg7 20. Ne2 {[%csl Yd4,Ye6][%cal Ge2d4,Rd4e6] Und Weiß hat klare
+Ziele, Schwarz nicht.} *
+

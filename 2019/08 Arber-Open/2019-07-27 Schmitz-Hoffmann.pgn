@@ -1,0 +1,21 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2019.07.27"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Hoffmann, Michael"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "1849"]
+[BlackElo "2450"]
+[Annotator "Tim Schmitz"]
+[PlyCount "50"]
+[SourceVersionDate "2019.07.27"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 8.
+Qd2 $6 (8. O-O Bd6 (8... h5 9. h3) 9. f4 (9. h3) 9... Bc5 10. Nf5) 8... Ng4 9.
+Nxc6 Nxe3 10. Qxe3 bxc6 11. O-O Be7 12. e5 d6 13. Qg3 O-O 14. f4 Rb8 15. Ne4
+dxe5 16. fxe5 f5 17. Nd6 Rxb2 18. Nc4 $2 (18. Bc4 Rxc2 19. Kh1) 18... Rb5 19.
+Rab1 Rd8 20. Rb3 a5 21. Rfb1 a4 22. R3b2 Ba6 23. h3 Rxb2 24. Rxb2 Qa7+ 25. Kh1
+Bxc4 0-1
+

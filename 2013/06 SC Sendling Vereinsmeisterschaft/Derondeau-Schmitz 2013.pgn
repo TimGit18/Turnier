@@ -1,0 +1,90 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2013.10.04"]
+[Round "?"]
+[White "Derondeau, Rudolf"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "1539"]
+[BlackElo "1757"]
+[PlyCount "36"]
+[EventDate "2013.10.04"]
+[SourceDate "2013.10.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 {Im Gegensatz zu
+den aggressiven Varianten, in denen Weiß seine Läufer offensiv aufstellt,
+soll hiermit die kurze Rochade vorbereitet werden und die Entwicklung
+fortgesetzt werden.} e5 {Dieser Zug setzt das Konzept von Najdorf in Reinform
+um. Schwarz geht aggressiv im Zentrum vor und vertreibt den weißen Springer
+aus seiner dominanten Position. Der Springer kann ja jetzt nicht nach b5,
+sondern muss sich zurückziehen. Anschließend werden die Figuren schnell
+entwickelt und der Einfluss auf das Zentrum verstärkt. Der Nachteil des Zuges
+ist allerdings das schwache Feld d5. Schwarz möchte eine weiße Figur auf
+diesem Feld so schlagen, dass Weiß mit dem e-Bauern zurückschlagen muss.
+Dann kann er nämlich den f-Bauern mobilisieren und der eigene Damenbauer
+stellt keine Schwäche mehr dar} 7. Nb3 {Der bei weitem beliebteste Rückzug,
+obwohl der Springer etwas Zeit braucht, um wieder in das Spiel zu kommen.
+Andererseits unterstützt er auf b3 einen eventuellen Vormarsch der a- und
+c-Bauern und verhindert vorerst den aktiven Entwicklungszug Sd7-c5.} Be7 {
+Schwarz macht erst einmal in Symmetrie zu Weiß einen ruhigen Entwicklungszug.
+Der Zug ermöglicht die sofortige kurze Rochade.} 8. O-O {Weiß bringt den
+König in Sicherheit und würde gerne den f-Bauern mobilisieren, um die Linie
+für den Turm zu öffnen. Die Alternative besteht darin, den Damenläufer nach
+e3 oder g5 zu entwickeln.} O-O {Auch Schwarz sollte erst einmal seinen König
+in Sicherheit bringen. Vorher sollte er nicht an die Öffnung des Zentrums
+denken.} 9. Be3 {In den ruhigen Varianten des Najdorf-Systems und im
+englischen Angriff ist dieses Feld das korrekte für den Damenläufer. Das
+Problem von Weiß sind die schwarzen Felder im Zentrum, die er überdecken
+muss.} Be6 {Schwarz sollte hier das Entwicklungsschema von Weiß kopieren. Er
+muss hier auf die weißen Felder im Zentrum, insbesondere auf das Feld d5,
+achten.} 10. Nd2 {[%csl Yc4][%cal Gd2c4,Ge2c4] Das ist ein sehr
+ungewöhnlicher Zug von Weiß, der aber nicht unbedingt schlecht sein muss.
+Ziel des weißen Plans ist es, die Kontrolle über das Feld c4 zu erlangen.
+Der entscheidende Nachteil ist aber, dass die Kontrolle über das Feld d5
+verloren geht, da die weiße Dame jetzt in ihrer Wirkung unterbrochen wurde.}
+d5 $2 {Dieser Zug ist vordergründig anscheinend sehr logisch. Schwarz wird
+seinen schwachen Bauern auf d6 endlich los und kann seine Stellung befreien.
+Weiß hat quasi keine Alternative zum Tausch, denn es droht bereits d5-d4. Der
+große Nachteil dieses Zuges ist aber, dass die Stellung durch Täusche sehr
+vereinfacht werden kann und Weiß immer ein Remis erreicht.} ({Schwarz hätte
+noch einen anderen Bauernhebel zur Verfügung, nämlich} 10... b5 {Jetzt ist
+das Feld c4 unter der schwarzen Kontrolle und es droht bereits b5-b4, wonach
+der weiße Springer auf c3 keine guten Felder mehr hat. Dann wird der
+Durchbruch d6-d5 zur wirklichen Bedrohung} 11. a4 b4 12. Na2 d5) 11. exd5 {
+Weiß muss schlagen wegen der oben skizzierten Drohung. Allerdings hat dann
+auch Schwarz vollkommen ausgeglichen.} Nxd5 {Es ist schon richtig, mit dem
+Springer zu schlagen. Weiß kann es sich nicht erlauben, den Springer auf d5
+zu belassen, denn er bedroht den Läufer e3 und ist viel zu stark.} 12. Nxd5
+Bxd5 $2 {Auch diese Art des Zurückschlagens ist ein Problem.} ({Ich hätte
+mit der Dame zurückschlagen sollen} 12... Qxd5 13. Nc4 Qxd1 14. Rfxd1 Nc6 {
+und bei Schwarz ist tatsächlich alles soweit in Ordnung. Weiß kann noch so
+etwas wie eine Mini-Initiative entwickeln} 15. Nb6 Rad8 {, aber mehr als ein
+Remis kann er eigentlich nicht erhoffen.}) 13. Nc4 $1 {[%csl Rb6,Re5][%cal
+Gc4e5,Gc4b6] Diesen starken Zug habe ich völlig unterschätzt. Weiß hat eine
+Doppeldrohung auf den Feldern e5 und b6.} Bxc4 {Nach längerem Nachdenken
+entschied ich mich dazu, den Springer zu nehmen. Es kostet allerdings das
+Läuferpaar. Es gibt aber keine Alternative, solange man auch in die Stellung
+hineinguckt.} ({(a) Der Zug} 13... Nd7 {würde zwar beide Felder decken,
+verliert aber eine Figur. da der Läufer auf d5 nicht mehr gedeckt ist.}) ({(b)
+Auch der Zug} 13... Nc6 {verliert nach} 14. Nb6 {mindestens die Qualität}) 14.
+Qxd8 {Weiß vereinfacht erfolgreich die Stellung. In diesem Fall ist das
+Endspiel keine so schlechte Option für Weiß, denn er hat das Läuferpaar und
+die Bauernmehrheit auf dem Damenflügel.} Rxd8 15. Bxc4 {Zu allem kommt noch
+der Entwicklungsrückstand der schwarzen Stellung dazu.} Nc6 {Beide Seiten
+haben jetzt ihre Entwicklung abgeschlossen. Aber ich habe keine besondere
+Perspektive mehr für diese Stellung gesehen.} 16. Rfd1 {Natürlich besetzt
+Weiß weiterhin die offene d-Linie. Jeder Abtausch kommt ihm entgegen.} b5 {
+Die ungefähren Hoffnungen liegen darin, noch etwas Gegenspiel auf der c-Linie
+zu entwickeln. Vielleicht kann ich einmal Sc6-b4 spielen und die weißen
+Bauern auf dem Damenflügel zu bedrohen} 17. Bd5 $1 {Ein weiterer guter Zug
+von Weiß. Er zentralisiert den  weißen Läufer und fesselt den schwarzen
+Springer.} Rac8 {Praktisch der einzige Zug. Der Springer wird entfesselt und
+der zweite schwarze Turm auf eine offene Linie gebracht, in der vagen Hoffnung,
+etwas auf c2 zu bedrohen. Man "droht" jetzt praktisch mit Sc6-b4} 18. Be4 {Das
+ist sehr vorsichtig und eigentlich auch nicht notwendig. Aber der Läufer
+macht auch den Weg frei für den Turm und befindet sich immer noch im Zentrum.}
+Rxd1+ {In dieser Stellung steht Weiß sogar schon etwas besser.} ({Eine
+sinnvolle und gehaltvollere Alternative wäre gewesen} 18... g6 {, um
+vielleicht einmal f7-f5 folgen zu lassen.}) 1/2-1/2
+

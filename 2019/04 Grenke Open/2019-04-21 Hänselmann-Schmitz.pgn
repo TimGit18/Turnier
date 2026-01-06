@@ -1,0 +1,125 @@
+[Event "Grenke B-Open"]
+[Site "?"]
+[Date "2019.04.21"]
+[Round "?"]
+[White "Hänselmann, Hendrik"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "1697"]
+[BlackElo "1793"]
+[Annotator "Tim Schmitz"]
+[PlyCount "137"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 {Das ist eine
+harmlos wirkende Variante der Sizilianischen Najdorf-Verteidigung. Wie man
+später sehen wird, räumt diese Spielweise dem Weißen durchaus gute Chancen
+ein, wenn man ihm Gelegenheit gibt.} e5 7. Nf3 Be7 8. Bc4 Be6 9. Qe2 {Soweit
+folgen beide Seiten einer Analyse von Zaven Andriasyan. Jetzt folgt eine
+Ungenauigkeit von Schwarz.} Bxc4 $6 {Das ist noch kein Fehler, aber bereits
+eine schwere Konzession. Hier habe ich einfach zu schnell gespielt, quasi im
+Auto-Piloten.} ({Richtig ist hier das thematische} 9... Qc7 10. Bb3 Nc6 11. O-O
+O-O {mit einer normalen Entwicklung auf beiden Seiten.}) 10. Qxc4 {Die weiße
+Dame gelangt in das Zentrum und besitzt eine exzellente Kontrolle über die
+weißen Felder im Zentrum, speziell über das Feld d5.} Nbd7 11. O-O O-O 12.
+Bg5 Rc8 {Beide Seiten haben natürliche Entwicklungszüge gemacht. Die weiße
+Dame wird aus dem Zentrum zurückgetrieben.} 13. Qe2 {Wie soll Schwarz hier
+fortsetzen?} Qb6 $6 {Das ist bestimmt keine gute Fortsetzung. Die Dame wird
+zwar aktiviert und greift den Bauern b2 an, aber dieser kann leicht verteidigt
+werden.} ({Zweckmäßiger ist} 13... Qa5 {[%csl Yc3,Yd5][%cal Ga5c3,Ga5d5] Die
+Dame beobachtet d5 und visiert den Punkt c3 an.}) 14. Rab1 {Weiß verteidigt
+den angegriffenen b-Bauern. Damit ist das Ziel des Damenzuges schon erledigt.}
+Rfe8 {Schwarz entwickelt den zweiten Turm und verteidigt damit den eigenen
+Läufer auf e7, was in einigen Varianten der Najdorf-Verteidigung sinnvoll
+sein kann.} 15. Rfd1 {Weiß besetzt konsequent die halb-offene d-Linie, um
+gegen den schwachen Bauern d6 und das schwache Feld d5 zu arbeiten.} Qc6 {
+Schwarz verfolgt hier eine neue Idee, nämlich den Druck auf den Bauern e4 zu
+erhöhen. Leider erweist sich diese als nicht wirkungsvoll genug.} 16. Rbc1 {
+[%csl Yc2,Yd5][%cal Yc3d5,Gc1c2,Ge2c2] Zunächst sichert Weiß den c-Bauern,
+der zum Angriffsobjekt werden kann, sobald Weiß den eigenen Springer bewegt.
+Er mobilisiert also auch seine Leichtfiguren.} Nc5 $2 {Dieser Zug ist jetzt
+allerdings leichtsinnig. Schwarz gibt leichtfertig die Kontrolle über den
+Punkt d5 auf, indem er die Deckungsfigur des Springers f6 wegzieht.} ({
+Möglicherweise ist} 16... h6 {hier genauer, um den Läufer zu einer
+Erklärung zu zwingen.}) 17. Bxf6 $1 {Weiß tauscht den Läufer zum richtigen
+Zeitpunkt, denn jetzt kann er mit seinen Figuren den Punkt d5 zu besetzen.}
+Bxf6 18. b3 $1 {Bevor Weiß irgendwelche Aktionen im Zentrum startet, sichert
+er zunächst einmal den potentiell schwachen Bauern a4 (und zieht ihn nicht
+nach a5 vor).} Ne6 {Der Springer hat keine Zukunft auf c5 und will eher nach
+f4 oder d4 manövrieren. Zudem wird nun der Springer auf c3 angegriffen.} 19.
+Nd5 {Hier steht der Springer wie die Spinne im Netz.} Bd8 20. g3 {Weiß
+verwehrt dem Springer das Feld f4 und schafft ein Luftloch für seinen König.}
+Nc7 {Schwarz hofft darauf, dass Weiß das Angebot zum Abtausch annimmt. Dann
+könnte darauf hoffen, etwas Gegenspiel am Damenflügel zu entwickeln und den
+schwachen Bauern mit dem schwachen Läufer zu verteidigen. Die Idee wirkt
+allerdings nicht besonders überzeugend, weshalb Schwarz auch bald von ihr
+ablässt.} 21. Ne1 {Weiß möchte gerne den Springer nach b4 transferieren, um
+den starken Springer auf d5 zu zementieren.} Ne6 {Ein Abtausch auf d5 hätte
+nur einen Turm auf das Feld d5 gebracht. Besser ist es, den Springer im Spiel
+zu halten und den Läufer nach b6 zu ziehen, um zumindest das Feld d4 zu
+sichern.} 22. Nf3 {Weiß schiebt den Springer schnell zurück, um das Feld d4
+zu kontrollieren.} g6 {Der Zug ist zumindest ein Wartezug. Er kontrolliert f5,
+schafft ein Luftloch für den König und der Läufer auf d8 überdeckt
+zumindest die geschwächten schwarzen Felder.} 23. Qe3 Kg7 24. Rd3 b5 {
+Wenigstens signalisiert Schwarz mit diesem Zug Gegenspiel am Damenflügel,
+während Weiß seine eigene Figuren im Zentrum massiert.} 25. Rc3 Qb7 {Die
+schwarzen Figuren werden zurückgedrängt. Weiß steht weiterhin klar besser -
+dank seiner Springer.} 26. axb5 axb5 27. Ra1 {Der letzte Turm wird aktiviert
+und auf eine offene Linie gebracht.} Rxc3 28. Nxc3 Bb6 {Schwarz bemüht sich
+um Figurentausch und bringt danach wieder seinen Läufer in eine aktive
+Stellung.} 29. Qd3 {[%csl Yb5,Yd6][%cal Gd3b5,Gd3d6] Weiß entfernt die Dame
+aus der Bedrohungszone und greift gleichzeitig die Bauern d6 und b5 an.} Bd4 {
+Dieser aktive Läuferzug verhindert den Bauernverlust. Der Läufer steht hier
+sehr gut und droht beizeiten mit b5-b4.} 30. Rd1 {Weiß entfesselt den
+Springer und schiebt den Turm zurück. Eigentlich könnte Schwarz hier ganz
+zufrieden sein.} Bxc3 $2 {Der Verlustzug, ein grober Fehler. Hier war eine
+besser Variante denkbar.} (30... Rc8 $4 {funktioniert nicht wegen} 31. Nxb5 {
+und es droht Bauernverlust auf d6 und d4.}) (30... Nc5 $1 {sollte aber
+gewinnen, denn nach} 31. Qd2 ({Auf} 31. Qxb5 {folgt} Bxc3) 31... Bxc3 32. Qxc3
+Nxe4 33. Qe3 f5 {hat Schwarz einen gesunden Mehrbauern und ein kraftvolles
+Zentrum.}) 31. Qxc3 Qxe4 32. Rxd6 {Schwarz hat einfach übersehen, dass der
+Figurentausch auf c3 und die Instabilität von e5 ihm einen Bauern kostet. Der
+Bauer auf b5 ist auch nicht gerade eine starke Figur.} b4 {Der schwache
+b-Bauer wird nach vorne geschleudert, da er ohnehin nicht mehr viel schwächer
+werden kann. Aber vielleicht konnte man den Bauern e5 retten?} (32... f6 {
+sieht gruselig aus} 33. Rd7+ {Vielleicht ist die Stellung danach aber noch
+haltbar.}) (32... Nf8 {deckt den Bauern auf e5, aber nach} 33. Rb6 {ist der
+b-Bauer ja wohl weg.}) 33. Qxe5+ Qxe5 34. Nxe5 Nc5 35. Nd3 {Weiß steuert
+konsequent auf ein Turmendspiel mit einem (entfernten) Freibauern hin.
+Eigentlich sollte dieses gewonnen sein.} Nxd3 {Sonst ist der b-Bauer (wieder
+einmal) weg.} 36. cxd3 $6 {Das ist eine interessante Art des Wiedernehmens.} (
+36. Rxd3 {erlaubt} Rc8 37. Rd2 Rc3) 36... Rc8 37. Rd4 Rc3 38. Rxb4 Rxd3 {
+Es entsteht ein zähes Turmendspiel. Weiß spielt auf zwei Ergebnisse. Schwarz
+kann zwar das Vorrücken des Bauern zwar nicht verhindern, aber etwas
+Gegenspiel im Zentrum und auf dem Königsflügel aufbauen.} 39. Kf1 Rd1+ 40.
+Ke2 Rb1 {Der Turm gehört halt hinter die Freibauern.} 41. h4 Rb2+ 42. Ke3 Kf6
+43. Rf4+ Ke6 44. b4 f5 {Obwohl die Stellung immer noch nicht besonders, kommen
+die letzten Züge leichter von der Hand. Der Bauernzug schränkt erst einmal
+die Beweglichkeit des weißen Turms ein.} 45. Kd3 h6 46. Kc3 Rb1 47. Kc2 Rf1
+48. Kd3 g5 49. hxg5 hxg5 50. Rf3 {Weiß hat bislang keine richtigen
+Fortschritte gemacht. Der Bauer ist nicht nach vorne gegangen, der weiße Turm
+steht schlechter als vorher und der schwarze Turm ist aggressiv.} Rc1 51. Kd4
+Rc2 52. Kd3 Rb2 {Besser kann der schwarze Turm gar nicht stehen. Er greift den
+Bauern b4 und den Bauern f2 zugleich an. Weiß kann nicht mehr lavrieren,
+sondern muss sich für irgendeinen aktiven Plan entscheiden.} 53. Kc3 Rb1 54.
+Re3+ Kd5 55. Re2 Rc1+ 56. Kb2 Rc4 57. Kb3 Rd4 {Obwohl der Turm von seiner
+guten Stellung hinter dem Freibauern vertrieben wurde, hat er im Zentrum einen
+guten Platz gefunden. Er schützt den eigenen König und ist weiterhin sehr
+aktiv.} 58. Rc2 Rd3+ 59. Ka4 Rd1 60. Kb5 Rb1 61. Rd2+ Ke4 {[%csl Yb6,Yb7,Yb8,
+Yc2,Yc8,Yf2,Yf3][%cal Gb5b6,Gb6b7,Gb7c8,Rb4b5,Rb5b8,Gd2c2,Ge4f3,Gf3f2] Beide
+Seiten haben sich jetzt für einen aktiven Plan entschieden. Weiß möchte -
+mithilfe seines Königs - den eigenen Freibauern zum Umwandlungsfeld bringen.
+Schwarz dringt mit dem eigenen König in das weiße Lager ein und bildet einen
+eigenen Freibauern!} 62. Kc5 Rc1+ 63. Kb6 f4 64. gxf4 gxf4 65. b5 {Plötzlich
+taucht eine Rettungsidee auf. Der Bauer auf f3 wird auf einmal zur Gefahr für
+Weiß.} f3 {Weiß steht laut Stockfish immer noch auf Gewinn.} 66. Ka7 $4 {
+Der Zug verdirbt den Gewinn. Es ist nicht so klar, warum Weiß die schützende
+b-Linie verläßt, da er nach dem folgenden Schach eh wieder dorthin muß.} ({
+Nach dem gewinnbringenden} 66. Rb2 Re1 67. Kc7 Re2 68. Rb4+ Kd5 69. b6 Rxf2 70.
+b7 {kommt Weiß zuerst zur Dame.}) 66... Ra1+ 67. Kb7 Re1 68. b6 Re2 69. Rd8 {
+Das Remis ist etwas glücklich, da am Ende Weiß den Sieg aus der Hand gegeben
+hat. Trotzdem muss man anerkennen, dass Weiß fast die gesamte Partie genauer
+und besser gespielt hat.} 1/2-1/2
+

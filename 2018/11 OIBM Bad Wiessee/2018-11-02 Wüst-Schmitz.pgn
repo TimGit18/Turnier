@@ -1,0 +1,81 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2018.11.02"]
+[Round "7"]
+[White "Wüst, Klaus"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2006"]
+[BlackElo "1825"]
+[Annotator "Tim Schmitz"]
+[PlyCount "133"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.11.02"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 {Das ist die Ausgangsstellung des
+Moskauer Systems.Vielleicht ist es die solideste Antwort auf das
+Rossolimo-System. Aber nicht die aggressivste.Weiß tauscht nur zu gerne die
+weißfeldrigen Läufer. Er will eine Art Maroczy-Aufbau gegen das Zentrum
+spielen.} 5. c4 g6 ({Regulär wäre die Erwiderung} 5... Nc6 6. d4 cxd4 7. Nxd4
+g6 8. Nc3 Bg7 9. Nde2 Nf6 10. f3 O-O 11. O-O a6 12. a4 {In der Partie werden
+später ähnliche Züge erfolgen - allerdings mit anderem Gegenspiel am
+Damenflügel.}) 6. Nc3 Bg7 7. d4 cxd4 8. Nxd4 Nf6 9. O-O O-O 10. f3 Nc6 {
+So weit, so gut. Jetzt stellt sich langsam die Frage, wie Schwarz sein
+Gegenspiel organisieren soll.} 11. Nde2 Rac8 12. Be3 Na5 $6 {Ein sehr naiver
+Ansatz, der auf die Schwäche des weißen c-Bauern spekuliert. Allerdings ist
+dieser Bauer gar nicht schwach.} ({Logisch wäre} 12... a6 {, mit dem Versuch
+den Damenflügel zu öffnen.}) 13. b3 {Weiß deckt den Bauern mit einem
+logischen Zug. Obwohl die lange Diagonale geöffnet wird, kann Schwarz diese
+Öffnung nicht ausnutzen. Klugerweise lehnt er auch das Remisangebot ab, da er
+ohne Risiko auf Gewinn spielen kann.} ({Schwach ist} 13. Bxa7 Nxc4 {und
+Schwarz hat sein Ziel erreicht.}) 13... b6 $6 {Der Zug sieht schon etwas
+merkwürdig aus. Besser wäre es mit dem a-Bauer vorzuziehen.} 14. Qd2 Rfd8 15.
+Rad1 Qb7 {Beide Seiten haben logische Züge gemacht. Aber Schwarz fehlt
+irgendwie der Plan.Soll er mit a6-a5 und b7-b5 nach vorne gehen?} 16. Nf4 {
+Weiß verstärkt den Zugriff auf d5.} Nc6 {Der Springer hat auf a5 gar nichts
+bewirkt. Er kehrt reumütig in das Zentrum zurück.} 17. Nfd5 e6 $6 {Das ist
+mit einer weiteren Schwächung des Bauern d6 verbunden. Allerdings war der
+Springer auf d5 auch schon ziemlich stark.} 18. Nxf6+ Bxf6 19. Bg5 {Das ist
+eine subtile Idee von Weiß. Er versucht, die aktiven Figuren von Schwarz
+abzutauschen.} Qe7 $2 {Der erste wirklich schlampige Zug von Schwarz. Die Dame
+wird auf die f-Linie gelockt, welche dann geöffnet wird. Das war auch nicht
+schwer vorherzusehen. Weiß steht besser.} 20. Bxf6 Qxf6 21. f4 {Das ist der
+stellungsgemäße Plan. Die f-Linie wird geöffnet.} Qe7 22. f5 d5 $2 {Ein
+weiterer ungenauer Zug, der die Stellung überfordert. Normalerweise öffnet
+Schwarz gern die Stellung mit d5 in der Sizilianischen Verteidigung. Die
+Grundidee ist auch nicht verkehrt. Hier ist die Bauernstruktur allerdings
+schon arg geschwächt.} ({Besser ist es, die Spannung im Zentrum aufrecht zu
+erhalten mit} 22... Ne5 23. h3) 23. exd5 exf5 {Das war die Idee. Schwarz
+festigt seine Königsflügel-Bauernstruktur. Allerdings auf Kosten eines
+gedeckten Freibauerns auf der d-Linie und eines enorm starken Zentrums von
+Weiß.} 24. Rfe1 Qc5+ 25. Qf2 Qxf2+ 26. Kxf2 {Nach dem Damentausch folgt der
+technische Teil der Partie, in der Weiß einfach weniger Fehler macht als
+Schwarz.} Nb8 27. Re7 Rd7 28. Rde1 {Weiß kontrolliert die e-Linie.} Kg7 $2 {
+Der König tut hier nichts zur Sache.} (28... Kf8 {macht dem weißen Turm
+wenigstens die e-Linie streitig. Natürlich wird Weiß den Turm zurückziehen.
+Sonst wird die Verteidigung für Schwarz zu einfach.} 29. R7e2 Na6 {Der
+Springer muss irgendwie in das Spiel gebracht werden.}) 29. Nb5 a6 $6 {
+Vertreibt vorgeblich den Springer, aber in Wirklichkeit kommt der Springer auf
+ein noch besseres Feld und schnürt Schwarz ein.} 30. Rxd7 Nxd7 31. Na7 Rc7 32.
+Nc6 {Jetzt steht Weiß problemlos besser und kann ohne Risiko auf Gewinn
+spielen.} Nf6 {Ein Versuch aktiv zu spielen. Der Springer soll wieder in das
+Spiel eingreifen.} 33. Rd1 Ne4+ 34. Ke3 Kf6 35. Nb8 a5 $4 {Das wirft die
+Partie einzügig weg. Der a-Bauer ist hier nicht wirklich wichtig.} ({Hier
+half nur} 35... Re7 36. Kf3 Nd6) 36. d6 {Jetzt marschiert der Freibauer.
+Schwarz muss eine Qualität geben. Weiß steht klar auf Gewinn.} Rc8 37. d7
+Rxb8 38. d8=Q+ Rxd8 39. Rxd8 {Weiß hat zwar jetzt einen Bauern weniger, aber
+der Mehrbauer ist ein Doppelbauer und der schwarze Bauer auf b6 ist sehr
+schwach und wird fallen.} Ke5 40. Re8+ Kd6 41. Kd4 Nc5 42. Rb8 Ne6+ 43. Kc3 Kc7
+44. Rh8 h5 {Weiß fehlt in dieser Phase der Partie etwas der Plan. Schwarz
+kann seine schwachen Punkte (momentan) noch decken, wenn auch nicht für lange.
+} 45. g3 Kd6 46. a3 f4 47. gxf4 Nxf4 48. Rf8 f5 {Sonst geht der Bauer auf b6
+verloren.} 49. Rf6+ Ne6 {Gibt den Bauern auf g6, aber das zerstört den Rest
+der Struktur.} 50. Rxg6 Ke5 51. Rh6 h4 52. Kd2 f4 53. Ke1 Nd4 54. Rxb6 {
+Weiß gibt seinen Königsflügel preis, weil er weiß, dass seine verbundenen
+Freibauern auf dem Damenflügel die Partie entscheiden werden.} Nf3+ 55. Kf2
+Nxh2 56. Rb8 Ng4+ 57. Kf3 Nh2+ 58. Kg2 Ng4 59. Re8+ Kf5 60. Rh8 Ke4 61. Rxh4 {
+Der Rest ist nicht besonders schwer für Weiß.} Ne3+ 62. Kf2 Nd1+ 63. Ke1 Ne3
+64. Ke2 Nc2 65. c5 Nd4+ 66. Kf2 Nf5 67. c6 {Schwarz kann den Bauern nur noch
+unter Figurenverlust aufhalten.} 1-0
+

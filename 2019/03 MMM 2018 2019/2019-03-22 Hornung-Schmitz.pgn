@@ -1,0 +1,107 @@
+[Event "MMM 2018/19"]
+[Site "?"]
+[Date "2019.03.22"]
+[Round "?"]
+[White "Hornung, Richard"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "1508"]
+[BlackElo "1793"]
+[Annotator "Tim Schmitz"]
+[PlyCount "94"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.03.23"]
+[WhiteTeam "SG Schwabing 3"]
+[BlackTeam "SC Sendling 3"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d3 {Weiß wählt einen
+Botvinnik-Aufbau mit einer ungewöhnlichen Zugfolge. Normalerweise überlegt
+er sich später, den Königsspringer entweder nach e2 oder nach f3 zu
+entwickeln.} O-O 6. Qc2 {Auch dieser Zug ist ungewöhnlich und wirkt verfrüht.
+} Nc6 7. a3 a5 {Die letzten Züge sind typische Standardreaktionen. Weiß
+verhindert den Springerzug nach b4 und bereitet selber b2-b4 vor. Der Zug mit
+dem a-Bauern richtet sich gegen den drohenden weißen Vorstoß auf dem
+Damenflügel.} 8. Be2 {Das überrascht dann doch. Normalerweise entwickelt
+Weiß den Läufer in typisch Englischer Manier dann doch eher nach g2.
+Vielleicht war er der Meinung, dass dieser dort nicht viel ausrichtet. Auf e2
+steht er aber auch nicht viel aktiver.} e5 {Das ist eine prinzipielle
+Entscheidung. Der Botvinnik-Aufbau ist das einzige System, das ich gut kenne.
+Zumindest legt der Zug die Struktur im Zentrum fest.} 9. Bg5 {Der Zug
+entspricht einer Empfehlung von Tony Kosten. Er will auf dem Königsflügel
+eine Schwäche provozieren.} h6 10. Bd2 Kh7 {[%csl Yf5][%cal Gf7f5] Der
+prophylaktische Deckungszug ist hier noch gar nicht notwendig. Aber es fühlt
+sich richtig an, den König an den Rand zu stellen, damit f7-f5 durchgeführt
+werden kann und keine unangenehmen Abzugsschachs auf der langen Diagonalen
+a2-g8 kommen. Der Nachteil ist, dass Schwarz jetzt immer mit dem Schach auf g5
+rechnen muss und dieses übersieht.} 11. O-O Nh5 {Das Königsindische Programm
+wird eingeleitet.} 12. Nd5 {Natürlich steht der Springer hier sehr stark,
+aber nehmen will man ihn auch nicht und für Weiß die c-Linie aufmachen.} f5
+13. b4 {Weiß reagiert adäquat. Er erobert Raum auf dem komplementären
+Flügel.} Nf4 {[%csl Ye2][%cal Rf4e2] Der Springer kommt auf ein aktives Feld
+und greift sofort den Läufer auf e2 an. Auf f4 kann nicht gut zweimal
+geschlagen werden. Zum einen hängt der Turm auf a1 in der Läuferdiagonalen,
+zum anderen hinge nach einem weiteren Schlagen auf e4 die Figur auf f4.} ({
+Vielleicht war sofortiges} 13... fxe4 14. dxe4 {genauer. Es öffnet die
+f-Linie auf jeden Fall.}) 14. Bc3 $6 {Der Sinn dieses Zugs erschließt sich
+nicht. Der Läufer steht hier recht wirkungslos, da er auf den Bauern auf e5
+beißt. Und die Stellung mit d3-d4 zu öffnen, funktioniert nach dem nächsten
+Zug auch nicht.} ({Am besten war jetzt} 14. Nxf4 exf4 15. Bc3 {Jetzt steht der
+Läufer auf c3 sehr gut.}) 14... fxe4 15. dxe4 Bg4 {Schwarz entwickelt seine
+letzte Figur und übt unangenehmen Druck auf f3 und e2 aus.} ({Noch präziser
+ist vielleicht} 15... Nxe2+ 16. Qxe2 Bg4 {Jetzt erhält Weiß auf jeden Fall
+einen Doppelbauern. Allerdings kann die offene g-Linie gegen den schwachen
+Bauern auf g6 auch ein Vorteil sein.}) 16. Nxf4 Rxf4 {Um den Preis seiner
+starken Figur hat Weiß den Druck abgemildert.} 17. Rad1 Qe7 {Die Dame geht
+dem Vis-a-Vis mit dem weißen Turm nach c4-c5 aus dem Wege. Sie nimmt dem
+Springer das Rückzugsfeld e7, auf dem er sowieso nicht gut stehen würde.} 18.
+b5 Nd8 {Der Springer soll nämlich über e6 nach g5, e6 oder d4 gebracht
+werden - je nach Bedarf.} 19. Bd2 $5 {Ein trickreicher Zug, der eine Falle
+stellt.} Rf7 $2 {Schwarz ist hineingetappt, obwohl diese Falle gar nicht so
+schwer zu sehen war. Der natürliche Rückzug ist ein Fehler, da Weiß jetzt
+ein Zwischenschach hat.} ({Richtig ist allein} 19... Bxf3 20. Bxf3 ({Nach} 20.
+Bxf4 Bxe2 21. Qxe2 exf4 {hat Schwarz zwei (sehr gute) Leichtfiguren für den
+Turm und großen Vorteil.}) 20... Rf7 {und es ergibt sich eine Stellung wie in
+der Partie, in der das Läuferpaar nicht viel wert ist.}) 20. Be3 $6 {Auch
+Weiß übersieht die einfache Taktik.} ({Stark ist} 20. Ng5+ $1 {, denn die
+Dame kann den Springer nicht schlagen.} hxg5 21. Bxg4 {Jetzt hat Weiß die
+viel bessere Struktur und kann gegen den Schwachpunkt g5 spielen.}) 20... Bxf3
+{Bloß schnell den Springer abtauschen bevor noch etwas passiert.} 21. Bxf3 b6
+{Schnell gespielt, um jedes Gegenspiel aus der Stellung zu nehmen.
+Wahrscheinlich ist die Stellung ausgeglichen. Schwarz hat schwache weiße
+Felder, aber Weiß kann diese nicht ausnutzen.} 22. Bg4 {Weiß würde gerne
+diesen schwachen Läufer loswerden. Der Abtausch gegen den Springer ist aber
+auch für Schwarz gut, weil er die weißen Fleder besser kontrolliert.} Ne6 {
+Bietet den nominell guten Springer an, nur um die Stellung noch mehr zu
+vereinfachen.} ({Eine Alternative ist} 22... h5 23. Bh3 g5 24. g3 Bh6 {, um
+die Stellung der Figuren zu verbessern. Aber nach} 25. Qd2 {hat Weiß Druck
+und die schwarze Stellung weniger Stabilität.}) 23. Bxe6 Qxe6 24. f4 $2 {
+Dieser Zug ist ein positioneller Fehlgriff. Weiß will mit aller Gewalt die
+Stellung öffnen, obwohl er keine Rechtfertigung in der Stellung hat. Da der
+Damenflügel lahmgelegt ist, greift er zum letzten Hebel.} exf4 25. Rxf4 Rxf4
+26. Bxf4 Rf8 {[%csl Ya3,Yc4,Rc6,Rd5,Ye4][%cal Gg7e5,Ge6c4,Gf8f4,Ge6e4,Yd1d5]
+Wie ist die Stellung einzuschätzen? Weiß hat zwei, drei schwache Bauern, von
+denen der e4 auch noch isoliert ist. Schwarz hat schwache weiße Felder auf
+dem Damenflügel, aber die Bauernstruktur ist gesund. Außerdem sind der
+Läufer auf g7 und der Turm auf f8 Aktivposten genauso wie die Dame auf e6.
+Die weißen Figuren stehen schlechter und werden nun in die Defensive
+gedrängt.} 27. Bg3 Re8 {[%csl Yc4,Ye4] Diese Stellung kann man sehr lange
+kneten.} 28. Re1 Bd4+ {Ein Zwischenschach, um den König zu deaktivieren.} 29.
+Kh1 Be5 30. Bxe5 Qxe5 {Besser ist die Stellung für Weiß nicht geworden.
+Allerdings auch noch nicht verloren.} 31. Qd3 Kg7 32. h3 {Es geht jetzt darum,
+langsam die Stellung aller Figuren zu verbessern.} Re7 {Dieser Zug bereitet
+die Überführung auf die f-Linie vor.} ({Sofortiges} 32... Rf8 {erlaubt} 33.
+Qd5 {mit Gegenspiel.}) 33. Kg1 Qc5+ {Der König soll zurück.} 34. Kh2 (34. Kf1
+Rf7+ 35. Ke2 Rf2+ 36. Kd1 Qe5 {ist suizidal.}) 34... Qe5+ 35. g3 {Schwächt
+die zweite Reihe} Rf7 36. Kg2 g5 {Das ist provokativ, aber man muss etwas tun.}
+37. a4 Qf6 {Plötzlich taucht ein Motiv auf.} 38. Rf1 $6 {Darauf habe ich
+gehofft.} Qb2+ 39. Kg1 Rxf1+ 40. Qxf1 {Das verliert einen Bauern.} (40. Kxf1
+Qh2 41. Qd4+ Kg6 {ist unklar, aber wohl besser für Schwarz.}) 40... Qd4+ 41.
+Qf2 Qxe4 42. Qb2+ Kg6 43. Qc3 {Weiß deckt den schwachen Bauern c4 und die
+dritte Reihe sowie das Schachfeld e1.} Kf5 $6 {Zweischneidig, aber aktiv} ({
+Vielleicht ist} 43... Qe5 {besser, aber die Stellung nach} 44. Qxe5 dxe5 45.
+Kf2 Kf5 46. Ke3 h5 {habe ich irrtümlich als schlecht für Schwarz
+eingeschätzt, da hier doch kein Zugzwang vorliegt.}) 44. Kf2 Qe5 45. Qf3+ Ke6
+46. Qh5 $6 {Die Dame steht hier im Abseits.} Qd4+ {Hofft auf ein Schlagen des
+Bauern c4 mit Schach.} 47. Kf3 $4 {Ganz schlimmer Spieß} Qd1+ 0-1
+

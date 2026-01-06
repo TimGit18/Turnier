@@ -1,0 +1,50 @@
+[Event "Ortenburg-Open"]
+[Site "?"]
+[Date "2017.09.10"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Sonnenbichler, Oliver"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "1755"]
+[BlackElo "1650"]
+[PlyCount "31"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.09.10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+{Das ist die Moderne Steinitz-Verteidigung. Schwarz öffnet etwas die Stellung,
+entledigt sich aber auch seiner Zentrumsprobleme} Nxd4 9. Bxd4 {Diese Stellung
+kam schon öfters vor, aber Weiß hat durch die Abtäusche einfaches Spiel} Bb4
+{Das ist ein überflüssiger Zug, der auch nichts bringt} ({Häufiger wurde
+gespielt} 9... Nb8 10. Bd3 Nc6 11. Bf2 g6 12. a3 Bd7 13. O-O b6 14. Nb5 a6 15.
+Nd6+ Bxd6 16. exd6 Qb8 17. c4 {mit starkem Spiel}) 10. a3 {Weiß befragt
+sofort den Läufer, denn er hat den Springer auf c3 bereits gedeckt} Be7 {
+Logischerweise tauscht Schwarz den Läufer nicht gegen den Springer und
+behält seinerseits das Läuferpaar} 11. Qg4 $6 {Das ist ein verführerischer
+Zug. Weiß muss die Zentrumsspannung nicht mehr aushalten und kann sich um die
+schwachen Punkte und Bauern des Schwarzen kümmern. Aber vielleicht ist das
+nicht der beste Zug} ({Eine andere plausible Fortsetzung ist} 11. Bd3 Nc5 12.
+O-O O-O {Weiß hat mehr Raum. Schwarz kann zwar das Läuferpaar gewinnen, aber
+er verbleibt mit seinem schlechten Läufer auf c8.}) 11... g6 $6 {Das ist
+keine gute Antwort. Schwarz schwächt die Bauernstruktur und legt langsam alle
+Bauern auf eine Farbe} 12. h4 $2 {Aber dass ist bereits ein grober Fehler. Aus
+den beiden Schwarzniederlagen, in denen ebenfalls g7-g6 mit h2-h4 gekontert
+wurde, war ich übermotiviert. Der Zug ist einfach schlecht.} ({Mein Gegner
+fürchtete wohl} 12. Nb5 {, aber nach} O-O {sind die meisten schwarzen
+Probleme beseitigt}) 12... h5 {Das ist die einzige richtige Antwort. Schwarz
+hat es geschafft, die Struktur von Weiß ebenfalls festzulegen. Der Bauer auf
+h4 ist einfach eine bleibende Schwäche} 13. Qh3 {Die andere Möglichkeit des
+Rückzug nach g3 sieht auch nicht gerade besser aus} a6 {Schwarz bereitet mit
+diesem Zug den Angriff auf dem Damenflügel vor und die Entwicklung des
+Läufers nach b7 vor} 14. Bd3 {Das sieht auch nicht wie eine gute Idee aus.
+Besser wäre es gewesen, den Läufer gleich nach e2 zu stellen} ({Der
+eigentliche Plan war} 14. g4 {, aber dann verliert Weiß einfach nur den
+h-Bauern} hxg4 15. Qxg4 Rxh4 16. Rxh4 Bxh4+) 14... Nc5 {Jetzt kommt der
+Springer mit Tempo auf das Feld} 15. Be2 {Diese Aktion hätte man sich auch
+schenken können (ähnlich wie das Läufermanöver von Schwarz zu Anfang).
+Angewidert von der schlechten Spielweise bot ich hier Remis, was sofort
+angenommen wurde} ({Der alternative Plan} 15. O-O-O Nxd3+ 16. Rxd3 {gefiel mir
+überhaupt nicht mehr. Weiß bleibt auf seinem schlechten Läufer sitzen})
+15... b5 16. Be3 1/2-1/2
+

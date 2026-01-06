@@ -1,0 +1,21 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2019.08.01"]
+[Round "6"]
+[White "Schwenkreis, Thomas"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "2071"]
+[BlackElo "1849"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[SourceVersionDate "2019.08.01"]
+
+1. e4 c5 2. f4 d5 3. Nc3 d4 4. Nce2 Nc6 5. d3 Nf6 6. h3 Qc7 7. Nf3 e5 8. g3 Bd6
+9. Bg2 Bd7 10. O-O O-O-O $2 (10... O-O 11. f5 b5 12. Bg5 Be7) 11. c3 dxc3 12.
+Nxc3 a6 13. f5 c4 $2 (13... Nd4) 14. Bg5 Bc5+ $2 (14... cxd3) 15. Kh2 Nb4 $2 (
+15... cxd3) 16. Bxf6 gxf6 17. dxc4 Bxf5 18. Qe2 Be6 19. Nd5 Nxd5 20. cxd5 Bd7
+21. Rfc1 Bb5 22. Qe1 f5 23. b4 b6 24. bxc5 bxc5 25. Qg1 c4 26. Nd2 f4 27. Nxc4
+fxg3+ 28. Kh1 1-0
+

@@ -1,0 +1,24 @@
+[Event "Senioren-Cup Tegernsee"]
+[Site "?"]
+[Date "2023.04.17"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Polster, Wolfgang"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1860"]
+[BlackElo "2228"]
+[Annotator "Tim Schmitz"]
+[PlyCount "88"]
+[SourceVersionDate "2023.04.17"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. Bb3
+d5 9. Nh4 e6 10. Nf3 Be7 11. O-O Bd7 12. Nc3 a5 13. Qe2 $2 a4 14. Bc2 Nb4 15.
+Bb1 Nc4 $1 16. a3 Na6 17. Bd3 Rc8 18. Be3 $6 b5 19. Rfc1 O-O 20. h3 b4 21. axb4
+Nxb4 22. Bb1 Na5 23. Nd2 Qb6 24. Qh5 g6 25. Qg4 Nb3 26. Nxb3 axb3 27. Bh6 Rfe8
+28. h4 Rc4 29. Be3 Rec8 30. h5 Be8 31. hxg6 hxg6 32. Qd1 $6 Nc2 $6 33. Bxc2
+bxc2 34. Qxc2 Rb4 35. Rcb1 $6 Rb3 36. Nxd5 $1 Rxc2 37. Nxb6 Bc6 38. Na4 $2 (38.
+Rc1 $1 Rxc1+ 39. Rxc1 Rxb6 40. d5 $1) 38... Rxe3 $3 39. fxe3 Rxg2+ 40. Kf1 Bh4
+41. Nc3 $4 (41. e4 $1 Bxe4 42. Re1) 41... Rf2+ 42. Kg1 Rg2+ 43. Kf1 $4 Bf3 44.
+b4 Rh2 0-1
+

@@ -1,0 +1,135 @@
+[Event "Senioren-Cup Tegernsee"]
+[Site "?"]
+[Date "2023.04.22"]
+[Round "8"]
+[White "Larem, Ewald"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2042"]
+[BlackElo "1860"]
+[Annotator "Tim Schmitz"]
+[PlyCount "116"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.04.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 {Das Smyslov-System ist keine
+besonders gefährliche Fortsetzung für Schwarz, aber gut spielbar.} c5 {
+Das ist die richtige und empfohlene Fortsetzung für Schwarz. Die weißen
+Felder auf dem Damenflügel sind geschwächt, und das Zentrum auf d4 wird
+unter Beschuss genommen.} 6. d5 {Auch dies ist die logische Antwort. Weiß
+bewahrt sein Zentrum und erhält Raumvorteil. Dafür hat Schwarz die lange
+Diagonale von h8 nach c3 geöffnet und übt Druck auf die weiße Stellung aus.}
+Qa5 $6 {[%csl Gc3][%cal Ra5c3] Dieser Zug entspricht nicht der aktuellen
+Theorie. Der Zug sieht zwar aktiv aus, leistet aber nichts für die Kontrolle
+des Zentrums - die Dame entfernt sich von diesem. Zumindest steht sie hier auf
+einem aktiven Feld und übt eine (leicht abzuwehrende) Drohung gegen den
+Springer auf c3 aus.} ({Gebräuchlicher ist die Fortsetzung} 6... h6 7. Bh4 d6
+8. e3 g5 {mit aktivem schwarzen Gegenspiel auf dem Königsflügel und im
+Zentrum. Es entsteht eine Benoni-Struktur mit gleichen Chancen.}) 7. Qd2 {
+Das ist ein ziemlich einfacher Zug, um die schwarze Idee schlicht in das Leere
+laufen zu lassen. Die Fesselung des Springers auf c3 wird aufgehoben, die Dame
+wird entwickelt und ermöglicht die lange Rochade. Zudem wird auch der
+Befreiungszug h7-h6 auf längere Zeit verhindert.} d6 {Schwarz möchte gerne
+das weiße Zentrum mit e7-e6 befragen - ohne den Bauern nach d6 kommen zu
+lassen.} 8. e3 {Interessanterweise ist dieser Zug üblich im Smyslov-System,
+denn e2-e4 würde in die Benoni-Verteidigung führen.} e6 $6 {Konsequent, aber
+wahrscheinlich nicht allzu gut.} ({Stellungsgemäß wäre hier wieder die
+Befragung} 8... h6 9. Bh4 a6 10. Be2 Bd7 {mit einer typischen Benoni-Struktur.}
+) 9. dxe6 Bxe6 {[%csl Yd6][%cal Rd2d6] Schwarz bietet allzu gerne den Bauern
+auf d6 an. Würde Weiß diesen schlagen, so erhielte Schwarz die offene
+d-Linie freihaus für seinen Turm und daher genug Kompensation.} 10. Rc1 {
+Weiß lehnt das Bauernopfer ab. Allerdings wirkt der Zug etwas langsam.} Nc6
+11. Be2 {Beide Seiten haben nun einige gute Entwicklungszüge gemacht. Nun
+möchte Schwarz sehr gerne seine Türme auf die Mittellinien bringen. Störend
+wirkt allerdings der fesselnde Läufer auf g5. Dieser soll zunächst
+vertrieben werden.} h6 12. Bh4 Rfe8 13. O-O g5 14. Bg3 Rad8 {Schwarz hat seine
+Idee durchgesetzt und seinen schwachen Bauern auf d6 nun hinreichend gut
+beschützt. Dafür hat er seinen Königsflügel etwas geschwächt, was in
+dieser Stellung keine besondere Gefahr darstellt. Im Grunde hätte er das
+Vertreibungsmanöver auch in der der frühen Eröffnung durchführen können.
+Nebenher war dies die Gelegenheit zu einem (etwas verfrühten) Remisangebot.}
+15. Rfd1 d5 $5 {Dies ist die kritische Stellung mit einer kritischen
+Fortsetzung. Schwarz befreit mit einem Zug seine Stellung, löst den schwachen
+Bauern auf d6 auf und verschafft seinen Figuren neue Wirkungslinien. Der
+Nachteil ist, dass der Zug einen Bauern kostet - allerdings erhält Schwarz
+Kompensation und kann mit Figurendruck den Bauern zurückerorbern.} 16. Nxd5 $1
+{Das ist eine saubere Kombination, die einen Bauern gewinnt.} Qxd2 {Zu dem
+direkten Damentausch gibt es keine Alternative.} (16... Nxd5 {wäre nachteilig
+für Schwarz wegen} 17. Qxa5 Nxa5 18. cxd5 Rxd5 (18... Bxd5 {verliert wegen}
+19. Bc7) 19. Rxd5 Bxd5 20. Rxc5 Bxf3 21. Bxf3 b6 22. Rc7 {Weiß hat einen
+gesunden Mehrbauern und wird einen zweiten gewinnen. Der schwarze Springer hat
+keine guten Felder, und Weiß hat das Läuferpaar.}) 17. Nxf6+ Bxf6 18. Nxd2 {
+Weiß hat einen gesunden Mehrbauern, aber die schwarzen Figuren (insbesondere
+der Springer und der weißfeldrige Läufer) stehen einen Tick aktiver.} Bf5 19.
+Nb3 $5 {Weiß gibt den Bauern zurück und hofft auf ein verbessertes
+Figurenspiel.} Bxb2 20. Rxd8 Rxd8 21. Rd1 Rxd1+ 22. Bxd1 {Die Abtäusche waren
+nicht zum Vorteil von Weiß. Der a-Bauer und der c-Bauer sind schwach und
+können leicht angegriffen werden. An dieser Stelle war ich mit der Partie
+schon wieder sehr zufrieden.} b6 {Der angegriffene c-Bauer kann leicht
+verteidigt werden. Es ist jetzt Weiß, der sich fragen lassen muss, wie er
+seine Figuren wieder besser koordiniert.} 23. Bf3 {Weiß greift den schwarzen
+Springer an.} Ne5 $6 {Der Zug in die Zentrumsmitte scheint zwar logisch, ist
+aber nicht am besten.} (23... Nb4 $1 {sieht entscheidend aus.} 24. a4 Bc2 $1
+25. Nd2 Bxa4 26. Bb8 Bc1 27. Ne4 (27. Nf1 {ist sehr passiv.}) 27... Nc6 {
+Schwarz hat einen entscheidenden Bauern erobert und hat eine Mehrheit am
+Damenflügel.}) 24. Bd5 {Weiß rettet den angegriffenen Läufer und verteidigt
+gleichzeitig den Bauern c4. Obwohl das Spiel zu einem Leichtfiguren-Endspiel
+vereinfacht wurde, verbrauchten beide Seiten sehr viel Zeit, da jeder Fehler
+entscheidend sein kann.} Bd3 $6 {Wieder aktiv gespielt und einen Bauern
+angreifend, aber auch hier scheint ein anderer Zug besser.} (24... Bb1 $1 25.
+a4 Bc2 26. Nd2 Bxa4 {wieder mit entscheidendem Bauerngewinn auf dem
+Damenflügel.}) 25. Nd2 {Weiß verteidigt hartnäckig den Bauern c4,
+allerdings sind jetzt seine Figuren in der Defensive angekommen.} Bc3 26. Ne4 {
+Weiß gibt einen Bauern, um sich das Läuferpaar zu sichern - aus praktischer
+Sicht eine gute und nachvollziehbare Entscheidung.} Bxe4 27. Bxe4 Nxc4 28. Bb8
+$5 {Weiß möchte sofort den Minusbauern ausgleichen, darauf hatte ich gehofft.
+} Be5 $1 {Ein starkes Angebot: entweder tauscht Weiß die Läufer in ein klar
+verlorenes Endspiel ab oder sein eigener Läufer wird eingeklemmt.} 29. Bxa7
+Bc7 {Hier war ich sehr guter Dinge. Der Läufer a7 spielt nicht mehr mit, und
+Weiß muss Zeit darauf verwenden, seine Stellung zu entwirren. Das schafft er
+allerdings!} 30. Bd3 Nd6 $5 {Es droht sofort Sd6-c8, daher muss Weiß ziehen} (
+{Es ginge auch} 30... Na5 $1 31. Bb5 Kf8 {[%csl Yc6,Yd6,Ye7][%cal Gf8e7,Ge7d6,
+Ga5c6,Rc6a7,Rc6b8] mit der (unstoppbaren) Drohung Ke7-d6 und Sa5-c6. Außerdem
+ist der Befreiungsversuch mit dem a-Bauern gestoppt.}) 31. Ba6 Kf8 32. Kf1 {
+Der König muss dringend in das Quadrat des c-Bauern ziehen, auf alle Fälle.}
+Ke7 {Jetzt, das Weiß merkt, dass er in schwerer Verlustgefahr ist, versucht
+er seine eingeschlossenen Läufer zu befreien.} 33. a4 $1 c4 {Mir war bange
+vor a4-a5 und ich wollte die Option b6-b5 offenhalten, obwohl diese Stellung
+nicht so klar ist.} 34. f3 $2 {Der Zug leistet nichts für das weiße Spiel,
+sondern schwächt eher noch die eigenen schwarzen Felder. Mein Gegner hatte
+Angst vor Sf6-e4, was aber wohl keine Drohung darstellte.} Kd7 35. a5 bxa5 $2 {
+Etwas knapp an Zeit und in leichter Panik befreie ich die Läufer wieder.} (
+35... b5 $1 {war der Gewinnzug} 36. Bb6 {Sonst schlägt Schwarz den Bauern a5.}
+Kc6 37. Bxc7 Kxc7 {und Weiß kann eigentlich aufgeben.} 38. Ke1 Kb8 39. Kd2 Ka7
+) 36. Ke2 Kc6 37. Bd4 {Der tote Läufer atmet wieder. Schwarz hat trotzdem
+noch Gewinnpotential.} a4 38. g4 a3 {Aus dem Verlegenheitsbauern ist ein
+Freibauernriese geworden. Beide zusammen sollten eigentlich das Spiel
+entscheiden.} 39. Kd2 Nb5 {führt den Springer näher heran und klemmt den
+weißfeldrigen Läufer ein.} 40. Bg7 Bxh2 {Einen weiteren Bauern mitzunehmen
+kann nicht schaden.} 41. Kc2 Bg1 42. e4 {Nun hat Schwarz wieder sehr gute
+Gewinnaussichten (2 freie Mehrbauern und gute Figurenstellung). Leider war die
+Zeit immer knapper.} Be3 {Den Läufer hatte ich schon in die Hand genommen.} ({
+Hier wollte ich schon} 42... Bd4 $4 {spielen, um nach Läufertausch locker das
+Endspiel zu gewinnen, bloß} 43. Bxb5+ $1) 43. Kb1 Kb6 44. Bc8 Bd4 {Das war
+die große Idee.} 45. Bxh6 f6 $1 {Nun ist der weiße Damenläufer wieder(!)
+eingeklemmt und der schwarze Kollege beherrscht das Feld. Allerdings nehmen
+jetzt - nach fast fünf Stunden Spieldauer - die Fehler dramatisch zu.} 46. Be6
+Nc3+ {Dieses Schach kann man noch geben, in der Hoffnung, dass sich der König
+von a1 entfernt.} (46... Nd6 47. Bf8 Be5 48. Bxd6 Bxd6 49. Bxc4 {sollte auch
+Remis werden.}) 47. Ka1 Nd1+ $5 {Gespielt in der vagen Hoffnung auf einen
+Fehler.} ({Eine remisliche Alternative ist} 47... Nxe4+ 48. Ka2 Nd2 49. Kxa3
+Nxf3 50. Bxc4 Ne5 51. Be6) 48. Ka2 Bb2 $6 {Deckt den a-Bauern, verliert aber
+den c-Bauern.} (48... Ne3 $1 {rettet den c-Bauern und damit Gewinnaussichten.}
+49. Kxa3 c3 $1 50. Bb3 c2 51. Bxc2 Nxc2+ 52. Kb3 Ne1 53. Kc4 Be5 {mit
+vermutlich gewonnenem Endspiel.}) 49. Bxc4 Nc3+ 50. Kb3 $1 {Sehr aktiv
+gespielt. Der a-Bauer kann sich nicht bewegen.} Nb1 $2 {Schon leicht in Panik.}
+51. Kc2 Kc5 52. Bb3 Nc3 {Mit Erleichterung bemerkte ich, dass der Läufer ja
+noch nicht auf g7 stand, so dass diese Befreiung gerade noch geht.} 53. Bf8+
+Kd4 54. Be7 Ke5 55. Bb4 Ne2 56. Bd5 Nd4+ $1 {Der Springer spielt hier seine
+ganze Klasse aus.} 57. Kd3 Nxf3 58. Ba5 Kd6 $2 {Ein übervorsichtiger Zug, der
+das Matt vermeidet. Hiernach vereinbarten beide Seiten erschöpft Remis,
+obwohl die Stellung für Schwarz leicht gewonnen ist.} ({Leicht zu sehen ist} 
+58... Kf4 59. Bc7+ Kxg4 60. Be6+ Kh4 {und der g-Bauer wird Material kosten.}) (
+{Eine ironische Wendung ist} 58... Nd4 $4 59. Bc7#) 1/2-1/2
+

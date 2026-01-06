@@ -1,0 +1,29 @@
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2013.12.15"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Maduekwe, Chiedu"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1909"]
+[BlackElo "2130"]
+[PlyCount "68"]
+[EventDate "2013.12.15"]
+[SourceDate "2013.12.15"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. O-O-O $6 {Zumindest ungenau, denn Schwarz kann jetzt das Zentrum
+abschlieﬂen} c4 10. f5 b5 11. f6 gxf6 12. Bh6 b4 {Es ist eine sehr
+zweischneidige Stellung entstanden, in der ich die Qualit‰t wohl nicht
+ungestraft nehmen kann} 13. Qf4 (13. Bxf8 {verliert nach} bxc3 14. Qxc3) 13...
+Kh8 14. Ne2 Rg8 {Schwarz hat einen Mehrbauern und Angriff} 15. h4 Rb8 16. exf6
+Bxf6 17. Ng5 Qe7 18. Ng3 {Es ist wichtig, die Stellung der schlechten Figuren
+zu verbessern. Das Problem ist aber der L‰ufer auf h6} Bb7 (18... Rg6 19. Nf3
+e5) 19. Be2 {Weiﬂ hat jetzt ein wenig Kompensation} e5 20. dxe5 Ncxe5 21. Qf5
+$2 {Ein taktischer Fehlgriff in Zeitnot. Weiﬂ verliert entscheidend Material} (
+{Analysiert wurde} 21. Nf5 Qc5 22. Bh5 {mit sehr scharfer Stellung}) 21... Rg6
+22. Nxf7+ Nxf7 23. Bf4 Rbg8 24. Bh5 Rxg3 25. Bxg3 Rxg3 26. Rhe1 Re3 27. Rxe3
+Qxe3+ 28. Kb1 Qe5 29. Qxe5 Nfxe5 30. g3 Nc5 31. Rf1 Ne4 32. Kc1 Kg7 33. Bf3
+Nxg3 34. Rg1 Bxh4 0-1
+

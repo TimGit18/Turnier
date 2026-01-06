@@ -1,0 +1,66 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.09.20"]
+[Round "1"]
+[White "Klein, Stefan"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "1940"]
+[BlackElo "1845"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[EventDate "2019.??.??"]
+[SourceDate "2019.09.21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 {Das ist die Grundstellung der
+Modernen Italienischen Partie} a6 {Der Zug gilt im allgemeinen als etwas
+flexibler als d7-d6} 6. Bb3 d6 ({Die bevorzugte (und flexibleste) Fortsetzung
+lautet} 6... Ba7 7. h3 d6 8. Nbd2 O-O {Jetzt geht die Rochade, da die
+Fesselung Lc1-g5 verhindert ist.} 9. Nf1 d5 10. Qe2 dxe4 11. dxe4 Qe7 12. Ng3
+h6 {Das ist die Tiviakov-Grundstellung in der Modernen Italienischen Partie.})
+7. Nbd2 O-O {Hier gilt dasselbe wie in der Hauptvariante: Schwarz kann
+rochieren, da die ärgerliche Fesselung Lc1-g5 verhindert ist.} 8. Nf1 h6 {
+Etwas übervorsichtig, schaltet aber die mögliche Fesselung aus.} 9. Ng3 {
+Weiß setzt den Standardplan fort. Schwarz sollte jetzt etwas unternehmen.} Be6
+10. Bc2 {Diese Allerweltsstellung kam bis 2019 erst fünfmal auf das Brett.
+Der nachfolgende Zug immerhin noch zweimal.} d5 {Man sagt ja, dass der Zug
+nach d5 die schwarze Stellung im Prinzip befreit. Allerdings wird auch der
+Bauer e5 geschwächt.} 11. Qe2 Qd6 {Dieser Zug gefällt nicht, da die
+schwarzen Figuren etwas verkrampft stehen. Er ist auch nicht notwendig, denn
+der Bauer e5 ist überhaupt nicht gefährdet solange der weiße König in der
+Mitte steht.} ({Wenn Schwarz die Spannung löst, dann entsteht wieder eine
+Standardstellung mit leicht besserer Koordination für Weiß:} 11... dxe4 12.
+dxe4 Qe7) 12. h3 {Auch dieser Zug ist etwas passiv, aber Weiß möchte gerne
+die Fesselung verhindern oder den Springer-Ausfall oder den eigenen
+Springer-Rückzug vorbereiten.} ({Die Engine empfiehlt} 12. d4 Ba7 (12... exd4
+$2 13. e5) {Wenn Weiß das Zentrum auflöst, dann ist es gut für Schwarz} 13.
+dxe5 Nxe5 14. exd5 Nxf3+ 15. Qxf3 Bxd5 {Schwarz steht ganz prima.}) 12... b5 {
+Schwarz ergreift Raum am Damenflügel und bereitet den Spieß auf c4 vor, eine
+Idee, die der Gegner gar nicht auf der Rechnung hatte.} 13. O-O $6 {Das spielt
+allerdings Schwarz in die Hände.} ({Wieder wäre am besten gewesen} 13. d4 $1
+exd4 $2 14. e5) 13... dxe4 {Schwarz führt seine Idee aus.} 14. Nxe4 Nxe4 15.
+Qxe4 {Die letzten Züge waren erzwungen, sonst geht durch den Läuferzug nach
+c4 die Qualität verloren.} f5 $5 {Der Zug sieht ziemlich aggressiv aus und
+erobert auch Raum, schwächt allerdings auch den eigenen König, egal.} ({
+Konservativer ist} 15... Bd5 16. Qf5 Be6 17. Qh5 {Diese Stellung gefiel mir
+nicht.}) 16. Qe2 Rae8 {Gefühlt gehört der Turm hierhin, es war aber auch der
+Zug nach d8 möglich.} 17. Be3 {Weiß möchte seine Entwicklung beenden.} e4 $5
+{Auch wieder eine zweischneidige Fortsetzung, zumindest gewinnt Schwarz ein
+Tempo.} 18. dxe4 {Ich wunderte mich, dass dieses geht.} Bc4 19. Bb3 $1 {
+Eine ganz kaltblütige Fortsetzung mit der Weiß zwar nicht die Oberhand
+gewinnt, aber ausgleicht.} Bxb3 20. axb3 {Der gefährliche weiße Läufer ist
+zwar eliminiert, aber jetzt drückt der Turm gegen a6.} Bxe3 $6 {Viel zu
+schnell gespielt und im Automodus abgetauscht.} ({Interessanter ist die
+Fortsetzung} 20... fxe4 21. Bxc5 Qxc5 22. Nd2 e3 $1 {mit Initiative}) 21. fxe3
+fxe4 22. Nd4 $5 {Ein zentralisierender Zug, der Springer sollte nicht
+getauscht werden.} (22. Nd2 {sieht gefährlicher aus, denn Schwarz muss den
+Springer zurückentwickeln.} Nd8 23. Rxf8+ Kxf8 24. Qf2+ Nf7 {[%csl Ya6,Ye4]
+[%cal Gd6a6,Ge8e4] Schwarz muss einige schwache Bauern verteidigen.}) 22... Ne5
+$1 {Der Gegenpart zu dem weißen Springer ist ein starker schwarzer Springer.}
+23. b4 $1 {Weiß zementiert die beiden Schwächen auf c7 und auf a6.} Qg6 {
+Es drohen zwar keine Schachs auf f3, die Dame steht hier dafür aktiver als
+auf d6.} 24. Rxf8+ {Weiß vereinfacht die Stellung. Die Partie verflacht zum
+Remis.} Rxf8 25. Rf1 Rxf1+ 26. Qxf1 Nd3 27. b3 Qg5 28. Qe2 {Remis auf
+Vorschlag von Weiß} 1/2-1/2
+

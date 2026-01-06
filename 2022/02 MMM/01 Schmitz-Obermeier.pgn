@@ -1,0 +1,43 @@
+[Event "MMM A-Klasse 2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Obermeier, Michael"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "1794"]
+[BlackElo "1742"]
+[Annotator "schmi"]
+[PlyCount "51"]
+[EventDate "2011.10.03"]
+[WhiteTeam "SC Sendling 2"]
+[BlackTeam "SC Garching 1980 6"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nf6 11. Bd2 Nbd7 12. O-O-O Bd6 13. Ne4 Nxe4 14. Qxe4
+Nf6 15. Qe2 Qc7 {Bis hierhin wurde eine bekannte Theoriestellung gespielt.
+Schwarz möchte nun den Läufer auf f4 abtauschen, Weiß möchte dies
+verhindern.} 16. g3 O-O-O 17. c4 c5 18. Bc3 $1 {Hier steht der Läufer sehr
+schön und übt Druck auf das Zentrum aus.} Rhe8 {Schwarz vermeidet den
+Abtausch auf d4. Es scheint ihm zu gefährlich, den Springer nach d4 zu lassen.
+Er muss nämlich dann a7-a6 spielen, und Weiß kann daraufhin den König zur
+Seite ziehen und den Turm auf die c-Linie bringen.} 19. Kb1 Kb8 $6 {Das ist
+ein zweischneidiger Zug. Ich fühlte, dass hier eine taktische Gelegenheit
+"drin" sein müsste.} 20. dxc5 ({Stockfish bevorzugt} 20. Ne5 cxd4 21. Rxd4
+Bxe5 22. Rxd8+ Qxd8 23. Bxe5+ Kc8 {, wonach Weiß sicher besser steht.}) 20...
+Bxc5 21. Be5 Bd6 {Jetzt ist die kritische Stellung erreicht. Leider
+verbrauchte ich an dieser Stelle zuviel Zeit, um die Lösung herauszuarbeiten.}
+22. Rxd6 $1 Rxd6 23. Rd1 $2 {Leider wirft dieser scheinbar so natürliche Zug
+den Großteil des weißen Vorteils wieder weg.} ({(a) Die ursprüngliche Idee
+lautete} 23. c5 {und wäre immer noch besser als die Partiefortsetzung.} Qxc5
+24. Rc1 Qb4 25. Qc2 {Angeblich steht Weiß auf Gewinn, da Schwarz das Manöver
+Sf3-d2-c4 nicht verhindern kann.} ({Ich sah selber nur die Fortsetzung} 25. Rc4
+Qb6 {, die nicht besonders vielversprechend aussah.})) ({(b) Schlichter ist
+der Zug} 23. Rc1 {Dann gewinnt} Nd7 24. c5 Nxc5 25. Qb5 Rc8 26. Rxc5 Qxc5 27.
+Qxc5 Rxc5 28. Bxd6+ {und Weiß behält eine gesunde Mehrfigur.}) 23... Red8 24.
+Rxd6 {Nach diesem Massenabtausch verflacht die Stellung ernorm.} Rxd6 25. Bxd6
+Qxd6 26. Qe5 {Hier bot ich Remis an, denn ich sah keinen Vorteil mehr, das
+schnell angenommen wurde. Allerdings sieht die Engine bereits Schwarz in der
+Vorhand.} 1/2-1/2
+

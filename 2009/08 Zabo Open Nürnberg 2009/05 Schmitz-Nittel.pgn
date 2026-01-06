@@ -1,0 +1,31 @@
+[Event "Zabo Open 2009"]
+[Site "?"]
+[Date "2009.09.20"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Nittel, Christian"]
+[Result "1/2-1/2"]
+[ECO "E57"]
+[WhiteElo "1870"]
+[BlackElo "1780"]
+[Annotator "Tim Schmitz"]
+[PlyCount "42"]
+[EventDate "2009.09.19"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 {Der klassische Panov-Angriff} 5. Nc3
+Nc6 6. Bg5 $5 {Der riskante Botvinnik-Attack} dxc4 7. Nf3 (7. Bxc4 {ist wohl
+besser} Nxd4 8. Nf3 Nxf3+ 9. Qxf3 {mit Kompensation für den Bauern}) 7... e6 (
+7... Bg4 8. Bxc4 Bxf3 9. Qxf3 Nxd4 10. Qxb7 {bevorteilt Weiß trotz des
+Gabelangriffs auf c2}) 8. Bxc4 Be7 9. O-O O-O 10. a3 {Ein an sich nützlicher
+Zug in IDB-Stellungen: ich wollte die Dame nach d3 stellen, und das Manöver
+Sb4-d5 wird auch noch verhindert} b6 11. Qd3 Bb7 12. Bb3 {Die Batterie wird
+aufgebaut} (12. Rad1 {wird am meisten gespielt} Nd5 (12... Rc8 13. Rfe1)) 12...
+Re8 13. Bc2 g6 14. Qd2 {Die Dame muss auf die schwarzen Felder} Nb8 $6 {
+Ein zweifelhafter Rückzug, der nicht bestraft wird} 15. Ne5 Nbd7 16. Rfe1 $2 {
+Verliert den Vorteil in bereits beginnender Zeitnot} (16. Ba4 $1 Nxe5 (16...
+Rf8 17. Bh6 Re8 18. Qf4 {mit schönem Spiel für Weiß})) (16. Qf4 Nxe5 17. Qxe5
+Ng4 {gefiel mir nicht}) (16. Qe2 Nd5 17. Bxe7 Nxc3 18. bxc3 Qxe7 {wäre noch
+annehmbar}) 16... Nxe5 17. dxe5 (17. Rxe5 $2 Ng4 18. Bxe7 Qxe7 19. Re2 Qh4 {
+und der schwarze Angriff rollt}) 17... Qxd2 18. Bxd2 Nd5 19. Ne4 Rac8 20. Bb3
+Red8 21. Rad1 Kg7 {mit Remis} 1/2-1/2
+

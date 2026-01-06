@@ -1,0 +1,18 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2019.07.31"]
+[Round "5"]
+[White "Merkl, Michael"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "1635"]
+[BlackElo "1849"]
+[Annotator "Tim Schmitz"]
+[PlyCount "27"]
+[SourceVersionDate "2019.07.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Nd5 Nd7 11. Qd3 Rc8 12. c3 O-O 13. Rd1 Nc5 (13... Rc6 14.
+Bf3 b5 15. Nb4 Rb6) 14. Qf3 1/2-1/2
+

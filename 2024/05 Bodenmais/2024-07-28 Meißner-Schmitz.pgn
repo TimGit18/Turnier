@@ -1,0 +1,16 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2024.07.28"]
+[Round "2"]
+[White "Meißner, Felix"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "2382"]
+[BlackElo "1866"]
+[Annotator "Tim Schmitz"]
+[PlyCount "75"]
+[SourceVersionDate "2024.07.28"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. h3 Nc6 5. Bd3 g6 6. O-O Bg7 7. Bc2 O-O 8. d4 b5 9. Re1 Bb7 10. dxc5 dxc5 11. Qe2 a6 12. a4 c4 $2 (12... Qb6) 13. Rd1 Qc7 14. Na3 Rad8 $2 (14... Na5) 15. Rxd8 Rxd8 16. axb5 Na5 17. bxa6 Ba8 $2 $18 18. e5 Bxf3 19. Qxf3 Nd5 20. e6 fxe6 21. Qe4 Qe5 22. Qxe5 Bxe5 23. Nb5 Nb3 24. Bxb3 cxb3 25. Bg5 Kf7 26. a7 Nb6 27. Be3 Na8 28. Nd4 Rd7 29. Nxb3 Rb7 30. Nc5 Rb5 31. Nd3 Bc7 32. Kf1 e5 33. f3 Ke6 34. c4 Ra5 35. Rxa5 Bxa5 36. b4 Bc7 37. b5 Kd7 38. c5 1-0
+

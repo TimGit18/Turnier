@@ -1,0 +1,71 @@
+[Event "DSAM Aalen C-Turnier"]
+[Site "?"]
+[Date "2015.12.20"]
+[Round "5"]
+[White "Morio, Estelle"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[WhiteElo "1728"]
+[BlackElo "1853"]
+[PlyCount "37"]
+[EventDate "2015.??.??"]
+
+1. f4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 {Die Ausgangsstellung der Partie ist eine
+Bird-Larsen-Eröffnung. Das Thema ist die Kontrolle der schwarzen Felder im
+Zentrum} O-O 5. e3 d6 {Dieser Zug passt besser zum klassischen
+königsindischen Aufbau} ({Nach} 5... d5 6. Be2 c5 7. O-O Nc6 8. Ne5 {kann
+Weiß sein gewohntes Spiel mit d2-d3 und Sb1-d2-f3 durchführen}) 6. g3 {
+Dieser Zug passt eigentlich nicht besonders gut in das weiße Konzept. Er
+schwächt die weißen Felder auf dem Königsflügel. Außerdem hat der Läufer
+auf g2 keine richtige Angriffsperspektive. Er sollte eher nach e2 entwickelt
+werden} c5 {Dieser Zug soll eine noch größere Kontrolle über die schwarzen
+Felder des Zentrums gewährleisten. Außerdem wird für die schwarze Dame die
+Diagonale zum Damenflügel geöffnet} 7. Bg2 Nc6 8. O-O Qc7 {Die
+offensichtlichen Entwicklungszüge beider Seiten sind abgeschlossen. Es muss
+noch geklärt werden, wohin die verbliebenen Leichtfiguren hin entwickelt
+werden sollen. Bereits jetzt sollte man sich auch Gedanken über konkrete
+Mittelspielpläne machen. Die offensichtlichen Bauernhebel im Zentrum sind
+d2-d4 oder d2-d3 und e3-e4 für Weiß und e7-e5 für Schwarz} 9. d3 {Weiß
+verzichtet auf den Hebel d2-d4 und will stattdessen aktiv im Zentrum und am
+Königsflügel vorgehen. Das offensichtliche Ziel ist die Öffnung der f-Linie}
+e5 $5 {Dieser Zug konzessiert zwar die Öffnung der f-Linie an Weiß, aber er
+meldet auch eigene Ansprüche im Zentrum an. Schwarz stand bereits zuvor
+passabel und kann so seine Stellung einfach befreien.} 10. fxe5 dxe5 11. e4 {
+Dieser Zug ändert die Charakteristik der Stellung. Weiß hat eine schöne
+halboffene f-Linie für den Angriff mit seinen Schwerfiguren. Dagegen ist es
+für Schwarz nicht einfach, auf der d-Linie adäquaten Druck aufzubauen, da
+der Bauer auf d3 diesen abmildert. Andereseits hat Weiß ein großes Loch auf
+d4, wohingegen das vergleichbare Loch von Schwarz auf d5 nicht so leicht
+auszunutzen ist} Rd8 {Die Grundidee von Schwarz ist das Spiel auf der d-Linie
+und insbesondere auf dem Feld d4} 12. Qe1 $6 {Natürlich will Weiß die Dame
+entfesseln. Aber auf e1 steht sie nicht besonders effektiv und offenbart eine
+weitere Schwächung, der Bauer c2 ist ohne Schutz.} ({Stellungsgerechter wäre
+vielleicht ein Zug wie} 12. Nbd2 {gewesen, wonach} a6 {mit Initiative am
+Damenflügel}) 12... Nd4 {[%csl Yc2][%cal Gd4c2] Das logische Follow-Up: der
+Springer greift c2 an und dominiert die anderen Figuren im Zentrum} 13. Na3 {
+Ein bescheidenes Zugeständnis von Weiß: der Springer steht auf a3 nur
+schlecht, obgleich er c2 deckt. Die schwarzen Figuren sind hingegen gut
+koordiniert und harmonieren} a6 {[%csl Yb5,Yc4][%cal Ga6b5,Gb7b5,Gb5c4] Ein
+Abwartezug, um dem weißen Springer das einzige Feld zu nehmen und auch um
+b7-b5 vorzubereiten, was indirekt den schwarzen Einfluß im Zentrum erhöht}
+14. Nxd4 {Diesen Tausch hatte Weiß sicher nicht vor, da er damit völlig die
+Kontrolle des Zentrums verliert. Andererseits war der schwarze Springer auf d4
+auch zu stark und immerhin wird so die f-Linie direkt freigeräumt.} cxd4 {
+Es ist wieder eine neue Signatur der Stellung entstanden. Die c-Linie hat sich
+für Schwarz geöffnet. Weiß erhält einen furchtbar schwachen Bauern auf c2,
+den er auch nicht so schnell los wird.} 15. h3 {Es ist nicht ganz klar, wozu
+dieser Zug dient. Eine Möglichkeit ist, dass Weiß dem schwarzen Damenläufer
+oder dem Königspringer das Feld g4 wegnehmen will, um einen Einstieg auf dem
+schwachen Feld e3 zu verhindern} b5 {Dieser Zug gefällt ganz gut, denn er
+nimmt ein weiteres Feld des schlechten Springers unter Kontrolle. Alle drei
+Leichtfiguren von Weiß stehen schlecht und sein Damenflügel ist dominiert}
+16. Rf3 {Das ist wahrscheinlich die beste weiße Idee. Er will die
+Schwerfiguren auf der f-Linie vertrippeln und danach die Leichtfiguren
+entwirren} Be6 {Auf diesem Feld steht der Läufer nicht besonders aktiv. Aber
+er deckt den wichtigen Bauern auf f7 und strahlt gegen den weißen
+Damenflügel. Letztlich war das angebotene Remis hier zu voreilig, denn
+Schwarz steht schon deutlich aktiver. Die folgenden hypothetischen Züge
+verdeutlichen die Idee} 17. Qf2 Nh5 18. Rf1 Rac8 {Jetzt kann der Springer
+nicht nach b1 zurück, denn es hinge der Bauer auf c2} 19. Bc1 1/2-1/2
+

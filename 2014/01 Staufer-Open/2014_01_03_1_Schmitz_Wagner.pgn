@@ -1,0 +1,25 @@
+[Event "Staufer-Open"]
+[Site "?"]
+[Date "2014.01.03"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Wagner, Florian"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1909"]
+[BlackElo "2189"]
+[PlyCount "104"]
+[EventDate "2014.01.03"]
+[SourceDate "2014.01.03"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be3 cxd4 7. cxd4 e6 8.
+Nc3 Qd6 9. Bd3 Be7 10. O-O O-O 11. a3 Rd8 12. Qd2 $6 ({Normal ist} 12. Qe2)
+12... e5 13. Nb5 (13. dxe5 Qxd3 14. exf6 Bxf6 {gefällt nicht}) (13. Nxe5 Nxe5)
+13... Qb8 14. dxe5 Nxe5 15. Nxe5 Qxe5 16. Bf4 $4 {verliert ohne Kompensation
+Material} Rxd3 17. Qxd3 Qxf4 18. Rfe1 Bf5 19. Qe3 Qxe3 20. Rxe3 Nd5 21. Re5 Be6
+22. Rd1 Rd8 $6 23. Nxa7 Bf6 24. Re2 h5 25. Nb5 h4 26. h3 g5 27. Red2 Rd7 28.
+Nd4 Bxd4 29. Rxd4 b5 30. Kf1 Kf8 31. Rc1 Nb6 32. Rxd7 Nxd7 33. Ke2 Bc4+ 34. Ke3
+Nc5 35. Rd1 Ke7 36. f4 f6 37. fxg5 fxg5 38. Kf3 Nd3 39. Rd2 Kf6 40. Ke3 Nc5 41.
+b4 Ne6 42. Kf3 Ke5 43. g3 hxg3 44. Kxg3 Ke4 45. Kg4 Bd3 46. Ra2 Bc4 47. Ra1 Bb3
+48. Re1+ Kd5 49. Rc1 Ke5 50. Re1+ Kf6 51. h4 gxh4 52. Kxh4 Nd4 0-1
+

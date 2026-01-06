@@ -1,0 +1,53 @@
+[Event "SCS VM Hauptturnier 2014"]
+[Site "?"]
+[Date "2014.10.18"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Wein, Ulii"]
+[Result "1/2-1/2"]
+[ECO "C82"]
+[WhiteElo "1713"]
+[BlackElo "1914"]
+[PlyCount "61"]
+[SourceDate "2014.10.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 {In der offenen Verteidigung besitzt Weiß die Königsflügelmehrheit und
+einen vorgerückten Bauern auf e5. Schwarz hat als Kompensation einen starken
+d-Bauern und die Mehrheit auf dem Damenflügel. Schwarz hat einen starken
+Springer auf e4, der aber mit Sb1-d2 und f2-f3 angegriffen werden kann.
+Außerdem muss er sich noch um die Sicherheit seines Königs kümmern.} 9. Nbd2
+{Der populärste weiße Zug. Weiß übt sofort Druck auf das gegnerische
+Zentrum und den starken Springer e4 aus. Außerdem vermeidet er den
+gefährlichen Dilworth-Angriff} Be7 {Schwarz entwickelt sich und bereitet die
+kurze Rochade vor. Er bietet eine Transposition in die Hauptvariante an} 10. c3
+{Weiß schafft ein Rückzugsfeld für seinen Läufer und überdeckt das
+wichtige Schlüsselfeld d4} O-O {Anders als in der Klassischen Hauptvariante,
+in der Schwarz sofort mit Se4-c5 und Le6-g4 die Initiative ergreift, bringt er
+hier erst einmal seinen König in Sicherheit} ({Die Hauptvariante beginnt mit} 
+10... Nc5 {Der Springer stand auf e4 schon etwas instabil und zieht nach c5,
+um den weißen Königsläufer zu befragen. In der Regel folgt in Kürze die
+Fesselung mit dem schwarzen Damenläufer auf g4, um die weißen Handlungen auf
+dem Köngisflügel zu verlangsamen} 11. Bc2 {Weiß behält natürlich den
+weißen Königsläufer und besetzt die wichtige Diagonale b1-h7} Bg4 {Schwarz
+ergreift sofort Initiative und bedroht den weißen Bauern auf e5} 12. Re1 {
+Weiß deckt den Bauern und räumt f1 für den Damenspringer} Qd7) 11. Bc2 {
+Weiß zentralisiert trotzdem seine Figuren. Er will unbedingt den starken und
+thematischen Springer auf e4 attackieren} Nxd2 ({Gebräuchlich ist} 11... f5 {
+Schwarz kämpft um das Zentrum. Dieser Zug verankert den Springer als starke
+Figur, schwächt allerdings auch die schwarzen Felder rund um den König und
+im Zentrum} 12. Nb3 {Natürlich schlägt Weiß nicht auf e4 und gibt dem
+Gegner ein Traumzentrum und die offene f-Linie. Statt dessen soll der weiße
+Damenspringer nach d4 gebracht werden und die Löcher in der schwarzen
+Stellung ausnutzen} Qd7 {Schwarz überdeckt sicherheitshalber die
+neuralgischen Punkte e6 und c6 und verbindet die Türme} 13. Nbd4 {Eigentlich
+ist es egal, mit welchem Springer man nach d4 geht, aber es ist instruktiver
+mit dem Damenspringer, da der Bauer e5 gedeckt bleibt} Nxd4 {Schwarz möchte
+tauschen, damit seine Damenflügelmehrheit in Bewegung kommt. Dafür gibt er
+auch das Läuferpaar} 14. Nxd4 {Hiernach kann Weiß auch einmal seinen
+f-Bauern in Bewegung setzen} c5 {Natürlich muss Schwarz um das Zentrum
+kämpfen} 15. Nxe6 Qxe6) 12. Qxd2 Qd7 13. Qd3 g6 14. Bh6 Rfd8 15. Rfe1 Bf5 16.
+Qd2 Bxc2 17. Qxc2 Bf8 18. Bg5 Re8 19. Rad1 Nd8 (19... Bg7 $1) 20. Qd2 c6 21.
+Bf6 Bg7 22. Qg5 Ne6 23. Qh4 Qc7 24. Ng5 h6 25. Nf3 Qa5 26. Bxg7 (26. Nd4) 26...
+Kxg7 27. Qf6+ Kg8 28. Qh4 Kg7 29. Qf6+ Kg8 30. Qh4 Kg7 31. Qf6+ 1/2-1/2
+

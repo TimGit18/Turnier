@@ -1,0 +1,27 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2023.11.04"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Janeba, Emil"]
+[Result "*"]
+[ECO "C62"]
+[WhiteElo "1849"]
+[BlackElo "1504"]
+[Annotator "Tim Schmitz"]
+[PlyCount "121"]
+[SourceVersionDate "2023.11.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bg4 $6 5. dxe5 (5. d5 a6 6. Ba4 b5 7. dxc6
+bxa4 8. c4 Nf6 9. Nc3) 5... dxe5 6. O-O Qxd1 7. Rxd1 Bxf3 8. gxf3 Bd6 $6 9.
+Bxc6+ bxc6 10. Be3 Ne7 11. Nd2 O-O 12. Nc4 Rfd8 13. Rd3 f5 14. Rad1 f4 15. Bc5
+$18 Ng6 16. Bxd6 cxd6 17. Rxd6 Rxd6 18. Rxd6 Re8 19. Kf1 Rc8 20. Rd7 a5 21. Ke2
+Ra8 22. Rc7 Ra6 23. Rb7 h5 24. Rb6 Rxb6 25. Nxb6 Kf7 26. Nc4 a4 27. b3 axb3 28.
+cxb3 Ke6 29. a4 Ne7 30. b4 Nc8 31. Kd3 Na7 32. Na3 Kd6 33. Kc4 g5 34. h3 Nc8
+35. a5 Kc7 36. Kc5 Nd6 37. a6 $4 (37. Nc4 $4 Nb7#) (37. b5 Nb7+ 38. Kb4 c5+ 39.
+Ka4 Nd6) 37... Nxe4+ $5 (37... g4 $1) 38. fxe4 g4 39. b5 g3 40. b6+ Kd7 41. a7
+gxf2 42. a8=Q f1=Q 43. Qxc6+ Ke7 44. Qd6+ Kf7 45. Qd5+ Kf6 46. Kd6 Qa1 47. Nc4
+f3 48. b7 Qa6+ 49. Qc6 Qa7 50. Kc7+ Kg5 51. Qb6 Qa2 52. b8=Q Qxc4+ 53. Qc6 Qf7+
+54. Qd7 Qc4+ 55. Kd8 Qxe4 56. Qe7+ Kf4 57. Qf6+ Kg3 58. Qbxe5+ Qxe5 59. Qxe5+
+Kxh3 60. Qxh5+ Kg2 61. Qg4+ *
+

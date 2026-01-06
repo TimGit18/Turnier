@@ -1,0 +1,63 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2018.11.03"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Prüske, Wofgang"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "1825"]
+[BlackElo "1973"]
+[Annotator "Tim Schmitz"]
+[PlyCount "43"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.11.03"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 {Bis zu diesem Zug
+entspricht die Stellung der Hauptvariante in dem Modernen Capablanca-System.
+Beide Seiten haben nur natürliche Züge gemacht. Jetzt begehe ich aber schon
+ein größere Ungenauigkeit.} 13. Ne4 $6 {Die Idee dieses Zugs ist richtig,
+nur die Ausführung ist falsch. Weiß zentralisiert seine Figuren, auch wenn
+ein Abtausch folgt. Er übersieht dabei den 15.schwarzen Zug, auch wenn dieser
+leicht zu sehen war und schon früher gegen mich gespielt wurde.} ({Richtig
+ist hier das vorbereitende} 13. Kb1 {, was den a-Bauern deckt. Wahrscheinlich
+hat Schwarz keinen besseren Zug als die kurze Rochade} O-O {Danach kann Weiß
+das Zentralisierungs-Manöver durchführen.} 14. Ne4 Nxe4 15. Qxe4 Nf6 16. Qe2
+Qd5 {Im Vergleich zur Partie stehen beide Könige etwas sicherer, aber auch
+asymmetrisch bei entgegengesetzten Rochaden.}) 13... Nxe4 14. Qxe4 Nf6 15. Qe2
+{Die letzten Züge waren alle forciert. Deswegen ist das Übersehen des
+nächsten Zuges eigentlich unerklärbar.} Qd5 {[%csl Ya2,Ge4,Yh5][%cal Rd5h5,
+Rd5a2,Gd5e4] Die Dame auf d5 erfüllt mehrere Funktionen. Sie greift die
+Bauern h5 und a2 an und bereitet den Damenabtausch auf e4 vor.} 16. Kb1 {
+Im Vergleich zur Hauptvariante hat sich Schwarz ein Tempo geschenkt und auf
+die Rochade verzichtet. Wenn man diese Stellung mit der Hauptvariante
+vergleicht, dann ist das vielleicht die bessere Wahl, denn Schwarz will die
+Damen abtauschen. Und im Endspiel steht der König im Zentrum besser.} Qb5 {
+Dieser Zug erinnert tatsächlich an die Sykora-Variante. Tatsächlich folgen
+in der Partie auch die theoretisch vorgeschlagenen Züge.} 17. c4 {Weiß
+vermeidet den Damentausch, da er glaubt, dass dieser nur dem Schwarzen in die
+Hände spielt.} ({Nach} 17. Qxb5 cxb5 {[%csl Yc8,Yd5,Yd8][%cal Gh8d8,Ga8c8,
+Gf6d5] hat Schwarz gute Aussichten auf den halboffenen c- und d-Linien. Der
+Springer kann nach d5 gebracht werden, von wo aus er nicht vertrieben werden
+kann und der Läufer geht nach f6. Im Gegensatz dazu sind die weißen Pläne
+eher bescheiden.}) 17... Qf5+ {Bevor Schwarz die Damen tauscht, gibt er erst
+noch einmal ein Schach, um den weißen König in die Ecke zu treiben.} 18. Ka1
+Qe4 {Nun sieht es so aus, als gebe es keine natürliche Möglichkeit mehr, den
+Damentausch zu vermeiden.} 19. Qxe4 $6 ({Die bessere Hauptalternative lautet} 
+19. Be3 {Weiß vermeidet den Damentausch, verbessert die Stellung des
+schwarzfeldrigen Läufers und aktiviert den Turm auf d1.} Ng4 {Der Springer
+greift den Läufer an, der nicht wegziehen kann.} 20. Nd2 Qf5 21. Nf1 {Wenn
+Schwarz jetzt auf e3 tauscht, dann kommt der weiße Springer mit Tempo nach e3.
+Andererseits steht der Springer auf f1 ziemlich schlecht, so dass Schwarz
+vielleicht nicht tauschen sollte.}) 19... Nxe4 20. Be3 {Auch dieser Zug ist
+selbsterkärend. Weiß "rettet" den Läufer vor dem Abtausch und deckt f2.} O-O
+{Schwarz beendet die Entwicklung.} 21. Ne5 {Weiß zentralisiert seinen
+Springer und bereitet unter Umständen auch einmal f2-f3 vor.} Rad8 {Schwarz
+hat leichtes Spiel und einfach ausgeglichen. Er bringt seine Türme in die
+Mitte und versucht Gegenspiel gegen d4 aufzubauen.} 22. g4 {Weiß kontrolliert
+jetzt f5 und kann das unten beschriebene Manöver durchführen. Hier bot ich
+Remis an, wonach der Gegner 40 Minuten nachdachte mit dem Ergebnis, dass ein
+Weiterspielen zu riskant sei.} ({An} 22. f3 {missfällt} Ng3 23. Rh3 Nf5 {
+Also muss erst einmal das Feld f5 kontrolliert werden.}) 1/2-1/2
+

@@ -1,0 +1,86 @@
+[Event "Schachfestival Bad Wörishofen"]
+[Site "?"]
+[Date "2022.03.13"]
+[Round "3"]
+[White "Kampfmeier, Dirk"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1742"]
+[BlackElo "1811"]
+[Annotator "Tim Schmitz"]
+[PlyCount "66"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.03.13"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. h3 c5 {In dieser Partie
+entschied ich mich für die empfohlene Aufstellung gegen das London-System, da
+ich mit der Eröffnung aus der 1.Runde nicht zufrieden war.} 7. c3 Qb6 $6 {
+Aber dieser Damenausfall ist schon verfrüht.} ({Die korrekte Fortsetzung
+lautet} 7... Be6 $1 8. O-O Qb6 9. Qc2 Nc6 10. Nbd2 {und es entsteht eine
+typische Stellung des London-Systems.}) 8. Qc1 $6 {Diese Spielweise ist sehr
+zahm und stellt Schwarz vor keine großen Schwierigkeiten.} ({Interessanter
+ist hier das Damentauschangebot} 8. Qb3 Qxb3 9. axb3 Nc6 {Weiß hat zwar eine
+beschädigte Bauernstruktur, aber auch ein festes Zentrum und Druckspiel auf
+der a-Linie. Die Idee ist es nun, mit Tf8-e8 (ähnlich wie in der Partie)
+einen Gegenstoß im Zentrum vorzubereiten, der dann auch funktioniert.}) 8...
+Nbd7 $6 {Der Zug passt auch nicht richtig in das Bild. Schwarz entwicklet zwar
+den Springer und bereitet e7-e5 vor, aber er versperrt auch den Weg des
+Läufers. Ich war noch in den Denkmustern der 1.Runde verhaftet.} ({Nach} 8...
+Nc6 9. O-O Be6 10. Nbd2 {hat man ganz regulär zur Hauptvariante transponiert
+und eine gute Stellung für Schwarz erreicht.}) 9. Nbd2 Re8 10. Bh2 {Zu
+prophylaktisch und kooperativ.} e5 $6 {Obwohl der Zug Raum gewinnt und die
+letzten Züge von Schwarz rechtfertigt ist er auch sehr verpflichtend. Der
+schwarze e-Bauer wird ein wichtigster Angriffspunkt von Weiß.} 11. Nc4 $1 {
+vertreibt die Dame aus der aktiven Stellung und greift sowohl e5 als auch d6
+an.} Qc7 12. dxe5 dxe5 {Hier merkte ich, dass ich in eine schlechte Stellung
+geraten bin. Die Felderschwächen auf der d-Linie werden Materialverlust mit
+sich bringen.} 13. O-O $6 {Weiß gibt den Vorteil sofort zurück. Ich war sehr
+erleichtert.} ({Einen starken Eindruck macht} 13. Qd2 $1 {[%csl Yd6][%cal
+Gc4d6,Gd2d6] zum Beispiel} b5 $2 14. Nd6 Re6 15. Nxb5 Qb6 {Weiß hat einen
+gesunden Mehrbauern und die schwarzen Figuren sind unkoordiniert.}) 13... b5 $1
+{Jetzt geht dieser Vorstoß und Schwarz erhält Raum zum Atmen.} 14. Na3 $6 (
+14. Ncd2 {wäre besser gewesen, da man den Bauern b5 hier nicht so einfach
+verteidigen kann} Qb6 15. a4 $1) 14... a6 15. Nc2 {Der Springer hat jetzt zwei
+Züge gebraucht, um auf einem schlechten Feld zu landen. Schwarz hat jetzt
+problemloses Spiel und steht schon etwas besser.} Bb7 16. a4 Qb6 17. axb5 axb5
+18. Rxa8 Bxa8 {Die Figurentäusche haben den Charakter der Stellung nicht
+besonders verändert. Momentan ist zwar alles ruhig, aber hinter den Ketten
+schlummert Potential.} 19. Rd1 Bf8 {[%csl Yd6][%cal Gf8d6] Schwarz überdeckt
+das neuralgische Feld d6, das einzige schwache in seinem Camp.} 20. Qd2 Bc6 {
+[%csl Yb5,Yd7][%cal Gc6d7,Gc6b5] Der Läufer wird reaktiviert, deckt den
+Springer d7 ein weiteres Mal und den Bauern auf b5.} ({Und nicht} 20... Ne4 $4
+21. Qxd7) 21. b4 Ne4 22. Qe1 {Die weiße Stellung wirkt jetzt völlig hilflos.
+Alle weißen Figuren bis auf den Turm stehen schlecht und sind eingeklemmt. Es
+ist auch gar kein Gegenspiel-Plan für Weiß zu sehen.} c4 23. Nh4 Be7 24. Nf3
+Bf6 {Langsam werden die schwarzen Figuren verbessert (das Feld d6 wird jetzt
+vom Springer auf e4 überdeckt). Weiß hat noch eine letzte Idee.} 25. Bf1 h5
+$6 {Das ist schon ein Alibi-Zug. Beide Seiten haben bereits Zeitnot und ziehen
+schneller als am Anfang.} ({Eine vernünftige Alternative wäre} 25... Bg7 26.
+Nd2 Ndf6) 26. Nd2 $5 Nxc3 $4 {A tempo gespielt und sofort den Fehler gesehen 
+(die Falle war auch nicht zu tief).} 27. Nxc4 $1 bxc4 28. Qxc3 {Weiß hat mit
+einem Mal seine Stellung befreien können. Er wird den Bauern c4 erobern und
+hat danach gute Aussichten auf den Sieg.} Rc8 {Der einzige Zug, der Weiß noch
+Sorgen machen könnte - auch mit dem Abzug e5-e4 in der Hinterhand. Praktisch
+machte ich mir keine großen Illusionen mehr über die Stellung.} 29. Bxc4 {
+Weiß fürchtet sich nicht vor Gespenstern und schlägt zurecht den Bauern auf
+c4.} Qb7 {[%csl Yd7,Yg2][%cal Rc6g2,Gb7d7,Rb7c6] Wiederum der einzige Zug, der
+Weiß Sorgen machen könnte und daher wiederem a tempo gespielt. Es droht der
+Einschlag auf g2 und der Abzug des Läufers c6. Gleichzeitig wird der Springer
+auf d7 gedeckt. Das Problem von Weiß ist, dass er hier von den 11 Minuten
+ungefähr 8 verbraucht.} {Ein furchtbarer Fehler, der die Partie verliert,
+obwohl der Zug sehr plausibel aussieht. Weiß entfesselt den Läufer, geht dem
+Abzug auf der Diagonalen aus dem Weg und droht mit dem Einschlag auf f7 mit
+Schach.} 30. Qb3 $4 {[%csl Yb3,Yc4,Yf7]} Nb6 $1 {[%csl Ya4,Yc4,Rc8,Yg2][%cal
+Rb6c4,Rc6a4,Rc6g2,Rc8c4] Sofort gespielt. Schwarz deckt f7, droht auf g2 und
+c4 zu nehmen und ein schreckliches Lc6-a4. In knapp drei Minuten ist es hier
+wahnsinnig schwer kühlen Kopf zu bewahren und die richtige Fortsetzung zu
+finden, die es nicht gibt (Stockfish sagt Gewinn für Schwarz). Außerdem
+wurden an den Nachbartischen die Partien beendet und getuschelt.} 31. Bd3 {
+Weiß entfernt den angegriffenen Läufer und deckt den Springer auf c2 (mit
+wenigen Sekunden Restbedenkzeit). Schwarz muss noch etwas vorsichtig agieren.}
+{Am saubersten: der Läufer auf f6 wird demaskiert und die Drohung Lc6-a4
+erneuert.} e4 $1 (31... Bxg2 {erlaubt} 32. Bxg6 {mit Schwindelchancen}) 32. Bc4
+Nxc4 33. Qxc4 Ba4 {Hier fiel bei Weiß die Zeit, aber die Stellung ist
+aussichtslos.} 0-1
+

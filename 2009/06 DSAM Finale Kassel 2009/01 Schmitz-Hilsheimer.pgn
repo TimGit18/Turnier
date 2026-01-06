@@ -1,0 +1,34 @@
+[Event "RAMADA-Cup Finale"]
+[Site "?"]
+[Date "2009.06.11"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Hilsheimer, Karsten"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "1778"]
+[BlackElo "1855"]
+[Annotator "Tim Schmitz"]
+[PlyCount "100"]
+[EventDate "2009.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 ({Besser ist direkt} 
+6. Bg5 {und dann in den Panov-Botwinnik-Angriff}) 6... Nc6 7. Bg5 dxc4 8. Bxc4
+{Hiernach entsteht die übliche IDB-Position} Be7 9. O-O O-O 10. Re1 Nd5 11.
+Bxe7 (11. Bxd5 Bxg5 12. Bxc6 {ist eine beachtenswerte Alternative. Als
+Kompensation für den weißen IDB hat Schwarz die schlechtere Bauernstellung})
+11... Ncxe7 12. Rc1 b6 {Die Position scheint neu zu sein} 13. Ne5 Bb7 14. Ne4 (
+{Der Rechner empfiehlt} 14. Qg4 Nf5 15. Bd3 $1 {Das ist auf jeden Fall
+gehaltvoller als die Partievariante}) 14... Ng6 15. Bb5 Qe7 16. Qb3 $6 (16. Nc6
+Bxc6 17. Bxc6 Rad8 {ist einfacher und zweckmäßiger}) 16... Rfd8 17. a3 {
+Hier fiel mir eigentlich nichts mehr ein} Ndf4 {Gegenangriff} 18. Nc6 Bxc6 19.
+Bxc6 Rac8 20. Qe3 Rc7 21. Bb5 Rdc8 22. Rxc7 Rxc7 23. Nc3 h6 24. Bd3 $2 {Uups?}
+Qg5 $1 {Schwarz übernimmt das Ruder} 25. Be4 Nh4 26. Qg3 Nf5 $2 {Nicht gut
+gelöst} 27. Qxg5 hxg5 28. Bxf5 exf5 29. Rd1 Kf8 30. g3 Ne6 31. d5 Nc5 {Leider
+hatte ich schon schlimme Zeitnot} 32. Kf1 Rd7 33. Ke2 Ke7 34. Ke3 Nb7 35. Kd4
+Kf6 36. Re1 Nd6 37. Re2 g4 38. Nd1 $2 (38. Re3 {nebst f3 ist besser Schwarz
+kann ja wenig machen} Rd8) 38... Rd8 39. Ne3 Rc8 40. b3 $4 {Klassischer
+Einsteller} Nb5+ 41. Kd3 Rc3+ {Nun fällt der ganze Damenflügel} 42. Kd2 Rxb3
+43. Nc4 Nxa3 44. Ne3 Rb2+ 45. Kd3 Rxe2 46. Kxe2 Ke5 47. Kd3 Nb5 48. Kc4 Nd6+
+49. Kd3 b5 50. Ke2 Nc4 0-1
+

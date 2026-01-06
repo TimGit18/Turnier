@@ -1,0 +1,46 @@
+[Event "OIBM Bad Wiessee 2009"]
+[Site "?"]
+[Date "2009.11.02"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Stoffel, Matthias"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1860"]
+[BlackElo "2087"]
+[Annotator "Tim Schmitz"]
+[PlyCount "143"]
+[EventDate "2009.??.??"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 {Gebräuchlicher ist Sc6} 6.
+Bc4 Nb6 7. Bb3 d5 8. exd6 Qxd6 {Aus gutem Grund wird meistens Lxd6 gespielt} 9.
+cxd4 {Weiß hat eine gute IDB-Position} Nd5 10. O-O Bd7 11. Nc3 Bc6 12. Ne5 {
+Weiß hat schon Vorteil} Nxc3 13. bxc3 Be7 14. Qg4 O-O 15. Bf4 {Die schlechte
+Stellung der schwarzen Dame macht sich bemerkbar} Qd8 16. Rfe1 Bf6 {Ich hatte
+eher Sbd7 befürchtet} 17. Re3 Nd7 18. Rh3 $2 {Verliert einzügig den ganzen
+Vorteil} (18. Nxf7 $1 Rxf7 19. Qxe6 Qf8 20. Bd6 {gewinnt}) 18... Be4 {Droht
+mit Lf5, jetzt gehen aber Opfer auf e6 (wieder nicht gesehen)} 19. Re3 Bf5 20.
+Qe2 Rc8 (20... Nxe5 21. Bxe5 Bg5 {scheint für Schwarz vorteilhaft}) 21. Nc4 {
+Weiß hat jetzt nur noch symbolischen Vorteil} Bg5 22. Qf3 Bxf4 23. Qxf4 Nf6 {
+[%csl Yd5,Rd6,Yh5][%cal Gc4d6,Rf6d5,Rf6h5] mit einigen Drohungen. Wegen
+Zeitpanik des Gegners wollte ich die Stellung nicht vereinfachen} 24. Qg3 Ne4
+25. Qe5 {Stellt eine Falle} Nf6 (25... f6 26. Qf4 g5 27. Qf3 Rxc4 28. Bxc4 Nd2
+29. Qxf5 Nxc4 30. Qxe6+ Kh8 31. Qxc4 {gewinnt einen Turm für Weiß}) 26. h3 {
+[%csl Yg4]} Bg6 27. Nd6 {Aber jetzt - ein letzter Gewinnversuch} Rc7 28. c4 b6
+29. Rc1 h6 30. Rec3 {Sofort c5 scheitert an Sd7} Rc6 31. c5 Nd7 32. Qg3 bxc5
+33. Ba4 $2 {Dieser Zug bleibt ein Rätsel, einfach dxc5 hätte zum Ausgleich
+genügt} Ra6 34. Nb7 $2 {Mit der wilden Idee einer Taktik, sollte aber verlieren
+} Qe7 (34... Qa8 35. Bxd7 Qxb7 {und der Läufer ist gefangen}) 35. Bxd7 cxd4 36.
+Rc7 Rxa2 37. Bb5 Qf6 38. Rd7 e5 {Die Stellung ist schwer einzuschätzen. Die
+schwarzen Zentralbauern sind stark. Aber die weißen Figuren bleiben aktiv} 39.
+Bc4 Rb2 40. Nd6 Rb6 41. Nb5 a6 42. Nc7 Rb1 43. Rxb1 Bxb1 44. Nd5 $1 {Die
+schwarze Dame hat nur ein Feld} Qg5 45. Qxg5 hxg5 46. Bxa6 Ba2 47. Bd3 {
+Ich will eine Blockade auf den weißen Feldern aufbauen} g6 48. Nf6+ Kg7 49. Ne4
+Kh6 50. Nf6 Be6 51. Re7 Bf5 $6 {Vereinfacht für Weiß} 52. Bxf5 gxf5 53. Rxe5
+Kg6 54. Re8 Rxe8 55. Nxe8 {Das Endspiel ist jedenfalls nicht mehr zu verlieren}
+g4 56. h4 f4 57. g3 (57. Kf1 {ist besser}) 57... fxg3 58. fxg3 f5 59. Nd6 {
+Mit dem gedeckten Freibauern und dem rezentralisierten Springer sollte das
+Spiel gewonnen sein} f4 60. Kf2 fxg3+ 61. Kxg3 Kh5 62. Ne4 d3 63. Nd2 Kg6 64.
+Kxg4 Kh6 65. h5 Kh7 66. Kg5 Kg7 67. h6+ Kh7 68. Nf3 Kg8 69. Kg6 Kh8 70. h7 {
+und matt in zwei} d2 71. Ng5 d1=Q 72. Nf7# 1-0
+

@@ -1,0 +1,53 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2010.10.14"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Klein, Dr. Stefan"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1917"]
+[BlackElo "1968"]
+[Annotator "Tim Schmitz"]
+[PlyCount "82"]
+[EventDate "2010.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Be7 8. O-O
+{Hier war ich out of book, denn die meisten Franzosen nehmen das Gambit an} Qc7
+9. Re1 b6 {[%cal Gg7g5,Gh7h5,Gh5h4] Ein neuer Zug, der aber in das Konzept
+passt. Schwarz will lang rochieren und dann selber auf dem Königsflügel
+losschlagen} 10. a3 (10. Nf1 {erlaubt} cxd4 11. cxd4 Nb4 12. Bb1 Ba6) 10... c4
+$1 {Ein starker Zug, der den Damenflügel abriegelt und den oben beschriebenen
+Plan ausführt} 11. Bc2 b5 12. Nf1 (12. a4 {erlaubt} b4 {und nur noch Schwarz
+hat etwas vom Spiel und der Öffnung} 13. Nf1 b3) 12... h6 {Dieser Zug
+verhindert die Befreiung mit Lg5 und bereitet g5 vor} 13. N3d2 {Der Zug soll
+mehrere Ziele verfolgen. Die weiße Dame soll auf den Königsflügel versetzt
+werden. Der Vorstoß f2-f4 wird möglich und es sind auch Ideen mit b2-b3 nach
+langer schwarzer Rochade möglich} a5 14. Qg4 Bf8 $6 {Der Zug scheint eine
+Konzession, jetzt habe ich ein eher leichtes Spiel} 15. Nf3 Nb6 16. Ng3 b4 $2 {
+Jetzt kommt Weiß zum Angriff} 17. axb4 $6 (17. Nh5 {wäre am stärksten} g6 18.
+Nf6+) 17... axb4 18. Rxa8 Nxa8 {So weit, so gut. Die schwarze Offensive am
+Damenflügel ist beendet und Weiß kann ohne Störung am Damenflügel vorgehen.
+Leider habe ich nur noch 15-20 Minuten auf der Uhr} 19. Nh5 g6 20. Nf6+ Kd8 21.
+Qh4 $1 {Das ist am stärksten} Qe7 22. Ba4 $2 (22. Bg5 {hätte den Druck gut
+erhöht} bxc3 23. Ng8 {gewinnt die Dame, aber Schwarz hat Kompensation} Rxg8 24.
+Bxe7+ Bxe7 25. Qxh6 cxb2 26. Rb1 c3 27. Qe3 Bb4) 22... Bb7 23. cxb4 Bg7 24. b5
+$6 {Der Zug verstellt bloß die Läuferdiagonale und treibt den Springer auf ein
+gutes Feld} Nb4 25. Bd2 Kc8 {Der König will flüchten} 26. b3 $2 {Ziemlich
+verkehrt, jetzt kann der Läufer nicht einmal mehr zurück} Nb6 27. Ra1 Nd3 28.
+bxc4 Nxc4 {Weiß hat immer noch einen Mehrbauern, muss aber in der kritischen
+Stellung die richtigen Züge ohne Zeit finden} 29. Bc2 Nb4 30. Bb3 Nxd2 31. Nxd2
+Kb8 32. Ba4 $6 {Die Idee besteht in Sb3, aber hier steht der Läufer einfach
+noch schlechter} (32. Bd1 $1 {realisiert die Idee besser und beugt auch einem
+Grundreihenmatt vor} Nd3 33. Qg3) 32... Rc8 33. Nb3 Nc2 34. b6 $6 {Panicking
+in Zeitnot} (34. Rc1 Bxf6 35. exf6 Qb4 36. Qg3+ Ka7 37. Qd3 {hätte noch die
+Stellung gehalten}) (34. Nc5 $1 {ist am besten} Rxc5 (34... Nxa1 $4 35. Nfd7+)
+35. dxc5 Nxa1 36. Qd4 {und Weiß hat eine sehr überlegene Stellung}) 34... g5
+35. Nd7+ $2 {Verliert zwangsläufig eine Figur} (35. Qh5 {opfert den Turm für
+gefährlichen Angriff} Nxa1 36. Nd7+ Ka8 37. Nbc5 Nb3 38. Bxb3 Rd8 39. Ba4 {
+mit Kompensation für die Qualität} Bc8 $4 40. Bc6+ Bb7 41. Bxb7#) 35... Qxd7
+36. Bxd7 gxh4 37. Rc1 $4 {Der folgende Abzug gewinnt. Kein Wunder, dass der
+Fehler wieder so kurz vor der Zeitkontrolle kam} (37. Ra7 Rc4 38. Nc5 Rxc5 39.
+dxc5 {mit etwas Kompensation} Nd4 40. f4) 37... Nxd4 38. Rxc8+ Bxc8 39. Bxc8
+Nxb3 40. Ba6 Bxe5 41. h3 Nc5 0-1
+

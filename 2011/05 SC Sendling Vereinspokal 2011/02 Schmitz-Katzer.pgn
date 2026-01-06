@@ -1,0 +1,40 @@
+[Event "SC Sendling Pokal 2011"]
+[Site "?"]
+[Date "2011.07.15"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Katzer, Joachim"]
+[Result "*"]
+[ECO "B99"]
+[WhiteElo "1905"]
+[BlackElo "1942"]
+[Annotator "Tim Schmitz"]
+[PlyCount "72"]
+[EventDate "2011.07.07"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6 ({Der Rückzug} 11. Bh4 {gefällt nicht
+wegen} g5 12. fxg5 Ne5 13. Qe2 Nfxg4 {und auf} 14. h3 {folgt} hxg5) 11... Bxf6
+{Hier war ich jetzt out of book} 12. h4 b5 13. g5 ({Kritisch ist} 13. Bxb5 axb5
+14. Ndxb5 Qb8 15. Nxd6+ Kf8 16. e5 {und jetzt gewinnt} Be7 17. Nxc8 Qxc8 18.
+Rxd7) 13... Bxd4 14. Rxd4 Bb7 15. Bh3 {Der logische Zug, weil hier der Läufer
+auf e6 drückt} hxg5 16. hxg5 O-O-O 17. Rhd1 {Ich versuche ein Druckspiel gegen
+den schwachen Bauern d6 zu organisieren. Ein Mattangriff ist immer
+unwahrscheinlicher} Nb6 ({Ich erhoffte} 17... Nc5 18. Nd5 Qb8 {aber hiernach
+scheint der Vorteil auch nur optisch}) 18. f5 $6 {Ein ungenauer Zug: der Druck
+auf e6 wird zwar erhöht, aber Schwarz kann sich jetzt befreien} (18. g6 {
+ist die richtige Fortsetzung, die ich verwarf wegen} f5 {aber nach} 19. Qd3 {
+steht Weiß einfach besser}) 18... e5 19. f6+ Kb8 20. R4d3 g6 21. Nd5 $2 {
+Ein grober Fehler: ich wollte weiter Druck machen auf dem Damenflügel, aber
+errreiche nur ein ungünstiges Endspiel} ({Hier wäre vorsichtiges Manövrieren
+angebracht mit} 21. a3) 21... Nxd5 22. exd5 Rh4 $1 {Schwarz übernimmt die
+Initiative} 23. Rc3 Rc4 24. Rxc4 Qxc4 25. b3 Qh4 26. Qg4 $6 (26. Qe3 {ist am
+genauesten}) 26... Rh8 27. Rd3 $4 {Ein furchtbarer Einsteller in Zeitnot} Qe1+
+(27... e4 {ist am einfachsten} 28. Re3 (28. Rc3 b4) 28... Bxd5) 28. Kb2 Bc8 29.
+Qg2 {Das sind auch die einzigen Züge} e4 {Vergibt den Gewinn} ({Nach} 29... b4
+{habe ich kaum vernünftige Züge, zum Beispiel} 30. Bxc8 Rh1) 30. Rc3 Bxh3 31.
+Rxh3 Rc8 32. Qh2 Qb4 33. Rh8 $2 {Und ein weiterer Fehler} Qc3+ ({Mit} 33...
+Qd4+ {holt sich Schwarz den Vorteil wieder zurück} 34. Kb1 Qxd5 35. Rxc8+ Kxc8
+36. Qh8+ Kd7 37. Qh3+ Qf5 {und die Partie ist entschieden}) 34. Kb1 Qe1+ 35.
+Kb2 Qc3+ 36. Kb1 Qe1+ {mit Remis durch Dauerschach} *
+

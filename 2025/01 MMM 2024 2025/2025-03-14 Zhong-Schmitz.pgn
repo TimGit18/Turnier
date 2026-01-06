@@ -1,0 +1,18 @@
+[Event "MMM 2024/2025"]
+[Site "?"]
+[Date "2025.03.14"]
+[Round "7"]
+[White "Zhong, Oscar"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1160"]
+[BlackElo "1798"]
+[Annotator "Tim Schmitz"]
+[PlyCount "116"]
+[SourceVersionDate "2025.03.15"]
+[WhiteTeam "SG Vaterstetten-Grasbrunn 1"]
+[BlackTeam "SC Sendling 2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nf3 Be7 8. Be3 O-O 9. O-O Be6 10. a3 Nbd7 11. Ne2 d5 12. Ng3 d4 13. Bd2 Qc7 $6 14. c3 $2 Nc5 15. Qe2 $2 {Das verliert die Qualität, aber es gibt hier schon keine guten Züge.} (15. Bb1 Nb3 16. Ra2 Nxd2 17. Qxd2 Bxa2 18. Bxa2) 15... Nxd3 16. Qxd3 Bc4 17. Qc2 Bxf1 18. Rxf1 Rfd8 19. Qd3 dxc3 20. Qxc3 Qxc3 21. Bxc3 Rac8 22. Nxe5 Bd6 23. f3 $2 Rxc3 $1 24. bxc3 $2 ({Besser wäre gewesen} 24. Nxf7 Bc5+ 25. Kh1 Kxf7 26. bxc3) 24... Bxe5 25. Rc1 g6 26. Ne2 Rd2 27. Kf1 Bd6 28. Ra1 Bc5 29. Ke1 Rd3 30. a4 b6 31. h3 Kf8 32. Rb1 Ke7 33. Ra1 Kd7 34. Rb1 Kc6 35. c4 Ra3 36. Kd2 Rxa4 37. Nc3 Rxc4 38. Ne2 b5 39. Kd3 Kb6 40. Ra1 Rb4 41. Kc2 a5 42. Nc3 Bd4 43. Ra3 Rc4 44. Kd3 Rxc3+ 45. Rxc3 Bxc3 46. Kxc3 Kc5 47. Kb3 Kd4 48. Kc2 a4 49. Kb2 b4 50. g4 Kd3 51. h4 Nd7 52. Ka2 Kc2 53. f4 b3+ 54. Ka3 b2 55. Kxa4 b1=Q 56. Ka5 Qb6+ 57. Ka4 Nc5+ 58. Ka3 Qb3# 0-1
+

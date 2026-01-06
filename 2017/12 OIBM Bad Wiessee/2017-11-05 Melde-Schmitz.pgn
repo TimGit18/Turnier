@@ -1,0 +1,61 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2017.11.05"]
+[Round "9"]
+[White "Melde, Christian"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2005"]
+[BlackElo "1831"]
+[PlyCount "113"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.11.05"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. Bg5 {Das ist das Smyslov-System.
+Schwarz sollte mehr oder weniger immer denselben Aufbau wählen. Es ist aber
+bezeichnend, dass hier der schwarze Aufbau von Anfang an sehr zweifelhaft ist,
+Zugumstellungen verwechselt werden und die Figuren einfach auf die falschen
+Felder kommen.} h6 $6 {Diesen Zug kann man spielen, allerdings sollte er nur
+nach c7-c5 gespielt werden, um später gegen die Benoni-Struktur oder die
+Klassische Struktur von Weiß vorzugehen. Er ist also kein Fehler, aber
+zumindest eine grobe Ungenauigkeit} 6. Bh4 {Weiß hält den Druck auf den
+Springer f6 aufrecht. Allerdings hat jetzt Schwarz auch die Möglichkeit (die
+er auch wahrnehmen sollte) mit g6-g5 aktiv gegen den lästigen weißen
+Damenläufer vorgehen} c5 {Der Zug ist zwar jetzt immer noch logisch, denn
+Weiß wird nicht auf c5 schlagen. Aber es fehlt ihm jetzt etwas die Wucht, die
+er hat, wenn der weiße Läufer noch auf g5 steht} 7. e3 {Weiß setzt im Sinne
+der Klassischen Variante fort. Er vermeidet alle Risiken, die eine
+Benoni-Struktur nach d4-d5 birgt, und hält stattdessen die Spannung auf d4
+aufrecht} Qa5 $6 {Dieser Zug sieht auf den ersten Blick logisch aus und wurde
+von mir schon 3-mal gespielt! In Wirklichkeit ist er nur pseudo-aktiv, da
+Schwarz erst die lange Diagonale von h8 nach a1 öffnen muss} 8. Be2 {Da
+Schwarz noch keine konkreten Drohungen aufgestellt hat, kann Weiß einfach die
+Entwicklung fortsetzen. Der Läufer kommt auf sein logisches Feld und bereitet
+die kurze Rochade vor} d6 9. O-O {Es ist die erste kritische Stellung erreicht.
+Weiß hat sich normal entwickelt, Schwarz hat mit h7-h6 und Dd8-a5 zumindest
+schon einmal zwei diskutable Züge gemacht} Na6 $2 {Das ist der erste
+handfeste positionelle Fehler. Im Gegensatz zu anderen Varianten der
+Königsindischen Verteidigung hat der Springer keine Zukunft auf c5 (wo ein
+Bauer steht) oder c7 (von wo aus es nicht mehr weitergeht und er der Dame den
+Rückweg versperrt)} ({In Ortenburg spielte ich in einer ähnlichen Stellung 
+(Dd2 statt O-O bei Weiß und kein Intermezzo mit h6 und Lh4)} 9... Nc6 10. d5 {
+und jetzt hätte ich mit dem Springer zurückgehen müssen anstatt ihn auf e5
+zu platzieren und abtauschen zu lassen}) 10. h3 {Ein sehr verhaltener Zug, mit
+dem Weiß die Wirkung des schwarzen Damenläufers beschränkt. Außerdem
+schafft Weiß ein Fluchtfeld für den Läufer und für den König} ({
+Vielleicht noch stärker ist} 10. Bxf6 $1 Bxf6 11. Nd5 {[%cal Rd5f6,Rd5e7]
+Schwarz kann den Läufer jetzt nicht zurückziehen, denn der Bauer auf e7
+hängt, auch eine Folge des Damenausflugs nach a5}) 10... Bd7 {Das ist
+immerhin ein Entwicklungszug, der die schwarze Stellung nicht ordnet} ({
+In jedem Fall ist der Zug} 10... Bf5 {besser, da er aktiver und mehr
+Zentrumskontrolle ausübt}) 11. a3 Rfd8 12. Qd2 g5 13. Bg3 Bf5 14. Rfd1 Rac8
+15. Bd3 Bxd3 16. Qxd3 Rd7 17. Nb5 Qd8 18. Nxa7 Ra8 19. Nb5 Nc7 20. Nc3 Ne6 21.
+b4 cxd4 22. Nxd4 Nxd4 23. exd4 e5 24. Ra2 Nh5 25. dxe5 Nxg3 26. fxg3 Bxe5 27.
+Nd5 Ra6 28. Qf5 Qe8 29. a4 Qe6 30. Qf3 Rc6 31. Rc2 Qg6 32. Rdc1 f5 33. a5 Rf7
+34. b5 Rc5 35. Ra2 g4 36. Nf4 $2 Qf6 (36... gxf3 $1 37. Nxg6 Bxg3) 37. Qf1 gxh3
+38. gxh3 Bd4+ 39. Kh2 Re5 40. a6 bxa6 41. bxa6 Re4 42. c5 Ra7 43. c6 Qf7 44.
+Re2 Be3 45. Rc3 Bc5 46. Rxe4 fxe4 47. Qe2 e3 48. h4 Qe8 49. Qc4+ Qf7 50. Qd3
+Qa2+ 51. Rc2 Qxa6 52. Qg6+ Rg7 53. Qe8+ Kh7 54. h5 Qa4 55. Rb2 Ba7 56. Ng6 Rg8
+57. Rb7+ 1-0
+

@@ -1,0 +1,106 @@
+[Event "Grenke B-Open "]
+[Site "?"]
+[Date "2019.04.22"]
+[Round "8"]
+[White "Maisuradze, Davit"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "1740"]
+[BlackElo "1793"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.04.22"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 {Das ist das Pseudo-Alapin-System. Weiß
+vermeidet die komplizierten Varianten des Offenen Sizilianers und strebt ein
+ruhiges Spiel im Sinne der Spanischen Partie an.} g6 ({Von Ftacnik stammt die
+Empfehlung} 4... Bg4 {, nach der Schwarz seine Stellung befreien kann wie etwa
+nach} 5. h3 {Weiß kann diesen Zug auch verzögern, um mit dem anderen
+Springer auf f3 wiederzunehmen} Bxf3 6. Qxf3 Nc6 7. Bc2 g6 8. O-O Bg7 {Wie
+üblich ist hier das Königfianchetto eine gute Idee. Schwarz kontrolliert die
+zentralen schwarzen Felder, in Kombination mit dem Verschwinden des Springers
+f3 macht dies den Vormarsch d2-d4 sehr schwierig für Weiß.} 9. Qe2) 5. h3 {
+Weiß muss diesen thematischen Zug jetzt spielen, denn sonst folgt die
+Fesselung auf g4.} Bg7 {Schwarz hat - nachdem er die Gelegenheit verpasst hat,
+den Springer auf f3 zu fesseln - nun nichts besseres, als mit der normalen
+Entwicklung fortzufahren. Das ist nicht so schlecht, reduziert aber die
+Freiheitsgrade.} 6. O-O O-O 7. Bc2 {Beide Seiten haben ihren König in
+Sicherheit gebracht und müssen nun ihren Damenflügel entwickeln.} Qc7 {
+Schwarz wird sich eher auf den Damenflügel konzentrieren und dort versuchen,
+die Initiative zu ergreifen.} 8. d4 {Weiß besetzt stellungsgemäß das
+Zentrum.} Nbd7 9. Be3 b6 10. Nbd2 Bb7 {Beide Seiten haben ihre Leichtfiguren
+auf dem Damenflügel auf ordentliche Felder gebracht. Jetzt müssen die
+Mittelspiel-Pläne entwickelt werden.} 11. Rb1 $6 {Der Turm bewegt sich auf
+der falschen Seite. Es ist anscheinend nicht das Ziel von Weiß, auf dem
+Damenflügel aktiv zu werden. Aber er möchte, wie er nach der Partie
+mitteilte, den Turm aus der Läuferdiagonalen entfernt haben.} Rac8 {Schwarz
+entwickelt einen Turm und droht mit der Öffnung der c-Linie, wonach der
+weiße Läufer auf c2 unter Beschuß gerät.} 12. d5 {Ähnlich wie in der
+Pitschka-Partie schließt Weiß das Zentrum ab. Nun darf Schwarz nicht mehr so
+lange zögern, sondern muss direkt handeln.} b5 {Schwarz erobert Raum auf dem
+Damenflügel und droht mit dem weiteren Vormarsch auf dem Damenflügel.} 13. b3
+{Weiß baut eine Auffangwanne für die Damenflügelbauern auf. Aber dieser Zug
+schwächt auch seine Bauernstruktur und macht diese angreifbar.} Qa5 {[%csl
+Ya2,Yc3][%cal Ga5a2,Ga5c3] Die schwarze Dame steht nun recht aktiv. Sie greift
+die Bauern c3 und a2 an. Der Bauer auf a2 ist allerdings tabu, da die Dame auf
+a2 gefangen wird.} 14. c4 {Weiß rettet den schwachen Bauern c3, aber er legt
+erstens die Bauernstruktur langfristig fest und öffnet zweitens die lange
+Diagonale für den Läufer auf g7. Es wäre jetzt ein Fehler direkt auf c4 zu
+schlagen, denn das würde nur die Linie für den Turm auf b1 öffnen.} Ba6 {
+Ein guter Zug, der den ansonsten toten Läufer auf b7 aktiviert und den Bauer
+auf c4 sowie indirekt den Turm auf f1 angreift.} ({Denn nach} 14... bxc4 15.
+bxc4 Ba6 16. Nb3 Qc7 {ist die schwarze Initiativie am Damenflügel erledigt
+und Weiß muss nur die schwarzen Felder auf seinem Damenflügel im Auge haben.}
+) 15. Re1 Rb8 16. cxb5 Bxb5 {Weiß macht eine weitere Konzession, indem er
+selber die b-Linie öffnet. Eigentlich sollte dies zu gutem Spiel für Schwarz
+führen, denn es spielt ihm in die Hände.} 17. a4 Ba6 {Nun bleibt Weiß mit
+einem schwachen b-Bauern zurück, und er ist am Königsflügel immer noch
+nicht weitergekommen.} 18. Nf1 {Das Manöver sind eigentlich auch nicht
+besonders überzeugend aus. Weiß will den Damenläufer nach d2 zurückziehen,
+um die störende Dame von a5 zu vertreiben. Anschließend möchte er den
+Läufer nach c3 spielen, um ein Gegengewicht zu dem Läufer auf g7 zu bilden.}
+c4 $2 {Das ist die falsche Reaktion. Schwarz verhindert zwar die Überführung
+des Läufers nach c3, aber er schwächt unverzeihlich das Feld d4.} ({Besser
+ist vielleicht} 18... Nh5 {, wonach auch das Feld c3 kontrolliert wird.} 19.
+Bd2 Qc7 {Weiß kann den Springer zwar zurücktreiben, aber sein Königsflügel
+wird schwach.} 20. g4 Nhf6 21. Bc3) 19. Bd2 c3 20. Be3 {Die Stellung hat sich
+nicht viel geändert - außer, dass der starke Bauer auf c5 jetzt sehr
+schlecht auf c3 steht.} Nc5 {[%csl Ye4][%cal Gf6e4,Gc5e4] Der positive Aspekt
+der Stellung ist, dass das Feld c5 frei geworden ist und der Springer eine
+aktive Position einnimmt. Das kompensiert zwar nicht die Felderschwäche, ist
+aber wahrscheinlich der aktivste Zug in der Stellung. Zumal der Bauer e4 jetzt
+zweimal angegriffen ist.} 21. Bxc5 $2 {Das ist ein schlechter Zug. Weiß
+tauscht seinen guten schwarzfeldrigen Läufer gegen einen Springer und
+schwächt damit die schwarzen Felder im Zentrum und auf dem Damenflügel.} ({
+Viel besser ist} 21. Nd4 $1 Ncxe4 22. Nc6 Qc7 $16 {Weiß erhält die Qualität
+für den Zentrumsbauern.}) 21... Qxc5 {Nun steht die Dame viel aktiver als
+zuvor und kann auch nicht mehr vertrieben werden.} 22. Nd4 $6 {Das ist eine
+weitere Ungenauigkeit von Weiß, der den folgenden taktischen Schlag von
+Schwarz übersieht. Der Zug, der gerade noch so stark aussah, vermisst hier
+jetzt die Deckung des Läufers auf e3.} Nxd5 $1 {Ein begründeter taktischer
+Schlag von Schwarz, der die mangelhafte Deckung des Springers auf d4 ausnützt.
+Er gewinnt zwar kein Material, doch er führt zu einer überlegenen schwarzen
+Stellung. Zum einen ist der Springer auf d4 durch den Abzug mehrfach
+angegriffen, zum anderen der Einstieg des Springers auf c6 verhindert.} 23. Nf5
+$1 {Das ist wahrscheinlich noch der beste weiße Zug in dieser Stellung. Weiß
+bedroht den Bauern e7 und greift weiter den Springer auf d5 an.} ({Schlechter
+ist} 23. exd5 Bxd4 {mit Druckspiel gegen den Bauern f2.}) 23... Nb4 {Schwarz
+vermeidet den Abtausch im Zentrum und gibt lieber den e-Bauern zurück.} ({
+Eine ganz üble Wendung ist} 23... gxf5 $2 24. exd5 Rb4 25. Qh5 Qxd5 26. Bxf5 {
+und Weiß droht bereits mit Matt.}) 24. Nxe7+ Kh8 25. Nd5 {Weiß hat seinen
+Springer erfolgreich umgruppiert und rezentralisiert. Schwarz könnte hier
+schlagen und in einen Damentausch einwilligen. Da er aber - irrtümlich - ein
+Remis als Ziel annahm, strebte er nach der sichersten Ausgleichsvariante und
+wickelt zunächst in ein Endspiel mit ungleichfarbigen Läufern ab (um zu
+verhindern, dass der andere Springer in das Spiel kommt).} Bxf1 $6 {Unter den
+gemachten Voraussetzungen ist der Zug sehr plausibel, aber nicht der beste in
+dieser Stellung.} ({Stärker und aktiver wäre} 25... Bd4 $1 26. Nfe3 Nxd5 27.
+exd5 $17 {Schwarz hat zwei sehr aggressive Läufer, die in das weiße Zentrum
+ragen.} Rfe8 {Schwarz sollte versuchen, seine Figuren möglichst aktiv zu
+platzieren. Sicher hat Schwarz keinen großen Vorteil, aber seine Figuren
+stehen frei.}) 26. Rxf1 Nxd5 27. Qxd5 Qxd5 28. exd5 {Diese Stellung mit zwei
+ungleichfarbigen Läufern und den jeweils "falschen" Bauern ist sehr remislich.
+} 1/2-1/2
+

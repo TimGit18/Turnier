@@ -1,0 +1,47 @@
+[Event "Salzkammergut-Open (B)"]
+[Site "?"]
+[Date "2019.06.10"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Raeke, Philipp"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[WhiteElo "1835"]
+[BlackElo "1761"]
+[Annotator "Tim Schmitz"]
+[PlyCount "43"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.06.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Bc5 {Das ist die Italienische Variante der Offenen Verteidigung.
+Schwarz spielt die aktivstmögliche Variante gegen die weiße Spanische Partie.
+Der Nachteil dieses Systems, das ich früher selbst mit Schwarz gespielt habe,
+ist die Unmenge an komplizierter Theorie, die man kennen muss, um sich
+zurechtzufinden.} 10. Nxe4 $6 {Es ist sehr verführerisch für Weiß in dieses
+Endspiel zu gehen - aber nicht gut. Am Anfang sieht es so aus als stünde
+Weiß besser, aber dieser Eindruck trügt.} ({Schärfer und komplizierter ist
+die thematische Fortsetzung} 10. Qe2 {mit der der schwarze Springer auf e4
+unter Druck gesetzt werden soll. Außerdem wird der Weg für den Turm nach d1
+freigemacht.} Nxd2 11. Bxd2 O-O 12. Rad1 Bg4 13. Qd3) 10... dxe4 11. Bxe6 ({
+Einige Zeit war} 11. Ng5 {in Mode, was vielleicht noch einen Tacken besser als
+der Textzug ist.} Qxd1 12. Rxd1 Bxb3 13. axb3 O-O {Im Unterschied zur Partie
+steht bereits ein Bauer auf b3 und bewacht das Feld c4, und die a-Linie ist
+bereits für den Turm geöffnet.}) 11... fxe6 12. Ng5 Qxd1 13. Rxd1 O-O 14.
+Nxe4 Bb6 {Laut Glenn Flear hatte diese Stellung in den 1990er Jahren eine
+gewisse Aufmerksamkeit, aber die Erfahrung habe gezeigt, dass Schwarz eine
+ausgeglichene Stellung besitzt. Weiß kann den Mehrbauern nicht halten und
+Schwarz hat genügend Figurenaktivität für die schlechte Bauernstruktur.} 15.
+Be3 $6 {Obwohl dieser Zug auch von sehr starken Großmeistern (Hjartason,
+Wahls) gespielt wurde, wirkt er doch etwas kleinlich. Damit der sehr starke
+Läufer auf b6 aus dem Spiel genommen wird, ruiniert Weiß freiwillig seine
+eigene Bauernstruktur, ein Remis-Versuch.} ({Etwas perspektivischer ist der Zug
+} 15. b3 {mit der folgenden Idee} Nxe5 16. Ba3 {Dieser Zug stoppt die
+Verdopplung der Türme.}) 15... Bxe3 16. fxe3 Nxe5 17. b3 {Der Zug nimmt
+zumindest das Feld c4 auf dem Damenflügel dem Springer.} Ng4 {Hiernach haben
+beide Remis vereinbart. Es gibt eine relevante Partie von zwei starken
+Spielern.} 18. Rd3 Rf5 19. h3 Re5 20. Nd2 Nf6 21. c4 bxc4 22. Nxc4 {Weiß hat
+die schwarze Bauernstruktur verschlechtert in Palac,M (2505)-Kolev,A (2425)
+Toulouse 1990, ½-½. Aber für einen größeren Vorteil reicht es eben nicht.}
+1/2-1/2
+

@@ -1,0 +1,30 @@
+[Event "Vienna Open (B-Turnier)"]
+[Site "?"]
+[Date "2019.08.18"]
+[Round "2"]
+[White "Kaspar, Sebastian"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E63"]
+[WhiteElo "1637"]
+[BlackElo "1870"]
+[Annotator "Administrator"]
+[PlyCount "167"]
+[SourceVersionDate "2019.08.18"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. Nf3 Bg7 5. d4 O-O 6. g3 a6 7. Bg2 Nc6 8. O-O
+Rb8 9. Be3 b5 10. d5 Na5 11. cxb5 axb5 12. Nd4 b4 13. Ncb5 Bd7 14. Qa4 c5 15.
+dxc6 Nxc6 16. Qb3 Nxd4 $6 (16... Na5 17. Qa4 Ng4 $1) 17. Nxd4 Ng4 18. Rac1 Nxe3
+19. fxe3 Qb6 20. Rfd1 Rfc8 (20... e5 21. Nf3 Bh6) 21. Ne2 Be6 22. Qd3 Rxc1 23.
+Rxc1 Rc8 (23... Bxb2) 24. Rxc8+ Bxc8 25. b3 Ba6 26. Qd2 Qc5 27. Kf2 Bxe2 28.
+Qxe2 Qc3 29. h4 Be5 30. g4 Qc1 31. h5 Bh2 $2 32. h6 Bg1+ 33. Kf3 Qc5 34. Qe1
+Bh2 35. Qh4 Qe5 36. g5 f6 $2 37. gxf6 Qxf6+ $2 38. Qxf6 exf6 39. Bh3 Kf7 40.
+Ke2 Be5 41. Kd3 Bc3 $4 42. a3 Ke7 43. a4 Be1 44. a5 Kd8 45. Be6 g5 $2 46. Bf5
+Kc7 47. Bxh7 g4 48. Bf5 g3 49. Bh3 f5 50. exf5 Bc3 51. Kc4 Kb7 52. Kd5 Be5 53.
+f6 Bxf6 54. Kxd6 Ka6 55. Ke6 Bh8 56. Kf5 Kxa5 57. Kf4 Kb6 58. Kxg3 Kc5 59. Be6
+Kd6 60. Bg8 Ke5 61. Kf3 Kf5 62. e4+ Ke5 63. Ke3 Bf6 $2 (63... Kd6) 64. Kd3 Bh8
+65. Bh7 Kf4 66. Bf5 Kg5 67. h7 Kf4 68. Kc4 Bc3 69. Kc5 Kg5 70. Kc4 Kf4 71. Kd5
+Be5 72. Kc4 Bc3 73. h8=Q Bxh8 74. Kxb4 Ke5 75. Kc5 Bf6 76. b4 Be7+ 77. Kb5 Kd4
+78. Ka4 Kc3 79. b5 Bd8 80. e5 Kd4 81. e6 Ke5 $4 (81... Kd5 82. Bg4 Kd6 83. Kb4
+Kd5 $11) 82. b6 $1 Kd6 83. Kb5 Be7 84. Ka6 1-0
+

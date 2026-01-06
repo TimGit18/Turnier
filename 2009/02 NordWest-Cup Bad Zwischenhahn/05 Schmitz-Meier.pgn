@@ -1,0 +1,33 @@
+[Event "NW-Cup Bad Zwischenahn 2009"]
+[Site "?"]
+[Date "2009.02.15"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Meier, Thorsten"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1844"]
+[BlackElo "2042"]
+[Annotator "Tim Schmitz"]
+[PlyCount "60"]
+[EventDate "2009.??.??"]
+[TimeControl "240+2"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 Nf6 5.
+f3 {150-Attack} O-O 6. Qd2 c6 7. Bh6 Nbd7 8. h4 e5 $1 {Eine gute Replik von
+Schwarz} 9. dxe5 dxe5 10. h5 Nb6 11. Bd3 Qe7 12. Bxg7 Kxg7 {Hier stehe ich
+noch ganz gut, dachte ich} 13. hxg6 fxg6 14. Qh6+ Kg8 15. Nh3 $2 (15. O-O-O Be6
+16. Nge2 {hätte die folgenden Schwierigkeiten auf den schwarzen Feldern
+verhindert}) 15... Bxh3 16. Rxh3 Qg7 17. Qe3 Nh5 18. O-O-O Nf4 19. Rh2 Nxd3+
+20. Qxd3 $6 {Das soll Tad8 verhindern, aber Td3 ist wohl besser} Qf6 {Jetzt
+droht schon Df4+} 21. Rdh1 {überläßt Schwarz die d-Linie} Rad8 22. Qe3 Rd7 {
+Schwarz hat schon die besseren Aussichten} 23. Nd1 $2 {Ein echter Fehler, ich
+wollte die Figur auf ein besseres Feld Sf2-g4 stellen, habe aber die Zeit nicht
+} (23. b3 Qd6 24. Kb2) 23... Nc4 24. Qe2 {Es drohte Df4+ nebst Txd1} b5 {
+Klarer Stellungsvorteil für Schwarz} 25. Kb1 Rfd8 26. Nf2 Rd2 {Die schwarzen
+Steine fluten meine Stellung} 27. Qe1 R8d7 28. Nd3 Qd8 $1 {Es ging schon T7xd3
+aber der Zug stellt mich in Zeitnot schon vor schlimmste Probleme} 29. Qg3 $2 {
+verliert direkt. Zwei andere Züge waren besser} (29. Qc1 R7xd3 30. cxd3 Qxd3+
+31. Ka1 Rxb2) (29. Qh4 Qa5 30. Qf6) 29... R7xd3 30. a3 Qd4 {Das Matt ist
+undeckbar} 0-1
+

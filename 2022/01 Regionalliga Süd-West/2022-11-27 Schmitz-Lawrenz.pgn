@@ -1,0 +1,26 @@
+[Event "Bayerische Regionalliga Süd-West"]
+[Site "?"]
+[Date "2022.11.27"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Lawrenz, Denny"]
+[Result "*"]
+[ECO "C07"]
+[WhiteElo "1855"]
+[BlackElo "1951"]
+[Annotator "Tim Schmitz"]
+[PlyCount "58"]
+[SourceVersionDate "2022.11.27"]
+[WhiteTeam "SC Sendling 1"]
+[BlackTeam "FC Bayern München 4"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Bd6 6. Bb5+ Nc6 7. O-O Nge7 8.
+Nbd2 O-O 9. dxc5 Bxc5 10. Nb3 Bb6 11. Re1 a6 12. Bd3 Ng6 13. Be3 Bxe3 14. Rxe3
+Be6 (14... Nf4 15. Bf1 Bg4 16. Qd2) 15. Nbd4 Qf6 16. Qd2 Bd7 $6 17. Rae1 Rfe8
+18. Rxe8+ {mit Remisangebot, da Weiß besser steht.} Rxe8 19. Rxe8+ Bxe8 20.
+Qe3 Nge5 21. Nxe5 Qxe5 22. Qxe5 Nxe5 23. Be2 Kf8 24. f4 Ng6 25. g3 {Hier steht
+Weiß schon sehr bequem.} Ne7 26. Bf3 Bc6 27. Kf2 {Ein weiteres Remisangebot,
+der Gegner war schon deutlich genervt durch die Stellung und den Spielverlauf.}
+Ke8 28. Ke3 g6 {Hier sieht die Engine Weiß schon auf Gewinn, aber ich wollte
+den Springer noch nicht abgeben.} 29. g4 Kd7 {Hier bot Schwarz Remis.} *
+

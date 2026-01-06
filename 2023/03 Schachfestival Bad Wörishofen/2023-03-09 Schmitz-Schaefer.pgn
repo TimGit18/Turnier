@@ -1,0 +1,24 @@
+[Event "Bad Wörishofen (B-Open)"]
+[Site "?"]
+[Date "2023.03.09"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Schaefer, Lutz"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "1841"]
+[BlackElo "1855"]
+[Annotator "Tim Schmitz"]
+[PlyCount "97"]
+[SourceVersionDate "2023.03.09"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 a6 7. Bd3 Qb6 8. O-O
+Bxf3 9. Qxf3 Bxd4 10. Bxd4 Qxd4+ 11. Kh1 Nd7 12. Rad1 Qc5 13. e5 d5 14. Ne2 e6
+15. b4 Qxb4 16. Rb1 Qc5 17. Rxb7 Ne7 18. Rfb1 Kd8 19. h3 h5 20. R1b3 Kc8 21.
+Nc3 Qd4 22. Ne2 Qa4 23. Nc3 Qa5 24. R7b4 $6 Nc5 25. Rb2 Qc7 26. Na4 Nxa4 27.
+Rxa4 a5 28. Qe2 $6 Kd7 29. Qd2 Nf5 30. c4 Ng3+ 31. Kh2 h4 32. cxd5 exd5 33. Qc3
+Ke6 $2 34. Rc2 Rhc8 35. Qc5 g5 $2 36. f5+ $6 Nxf5 37. Bxf5+ Kxf5 38. Rf2+ Kg6
+$4 (38... Kxe5 $5) 39. Rf6+ Kg7 40. Qe3 Rg8 41. Qxg5+ Kf8 42. Qh6+ Ke8 43. Rd6
+$2 (43. Raf4 $1 Qxe5 44. Rxf7 Ra6 45. Kh1 Qe1+ 46. Rf1) 43... Qe7 $1 44. Qf4
+Qb7 $4 45. e6 f5 $2 46. Qxf5 Rd8 47. Qh5+ Ke7 48. Qf7+ Kxd6 49. Qxb7 1-0
+

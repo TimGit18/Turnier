@@ -1,0 +1,52 @@
+[Event "SCS Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2020.02.08"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Nissen, Jens"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "1823"]
+[BlackElo "2054"]
+[Annotator "schmi"]
+[PlyCount "76"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.02.08"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+a6 9. dxc5 Nxc5 10. O-O-O b5 {Diese Stellung ist wohlbekannt und trat auch
+schon in vielen Partien auf.} 11. Kb1 $6 {Das ist zumindest ungenau.
+Normalerweise ein guter Abwartezug, aber in dieser Stellung übersieht Weiß
+das schwarze Motiv.} ({Viel besser ist laut Negi die Fortsetzung} 11. Qf2 Nd7 {
+und erst jetzt} 12. Kb1 {, um die Fortsetzung Dd8-a5 nicht so attraktiv
+erscheinen zu lassen.} ({Oder} 12. Qg3 g6 13. h4 h5 14. Ng5 Nf8 15. Qf2 {
+wie in der Partie Pritchett,C-Kchouk,B Skopje 1972.})) 11... b4 $1 12. Bxc5 {
+Das ist schon fast erzwungen.} (12. Ne2 Ne4 13. Qe1 Qa5 {und es tauchen schon
+Opfermotive wie Se4-c3+ auf. Jedenfalls steht Schwarz gefühlt seher viel
+aktiver.}) 12... Bxc5 13. Ne2 {Schwarz hat das Läuferpaar und kann auf
+Initiative spielen. Dahingegen fällt es Weiß schwer einen konkreten Plan zu
+finden.} Qb6 {Schwarz droht schon mit Bauerngewinn nach Lc5-e3. Also muss
+Weiß die Diagonale verstopfen.} 14. Ned4 Ne7 $1 {Vermeidet Figurenabtausch
+und behält die Spannung im Zentrum.} 15. g4 {Es ist kein sonderlich
+origineller Plan, aber der einzige substantielle, nämlich mit dem Vormarsch
+nach f5 zu drohen. Der schreckliche Läufer auf f1 muss auch irgendwann einmal
+entwickelt werden.} h5 16. Rg1 hxg4 17. Rxg4 g6 {Schwarz steht besser, da
+Weiß zwei Bauernschwächen hat und er das Läuferpaar. Trotzdem musste man
+irgendeinen aktiven Plan versuchen.} 18. Rh4 Rxh4 19. Nxh4 Bd7 20. Nhf3 a5 21.
+f5 $5 {Das ist ein spekulatives Bauernopfer, das Schwarz annehmen muss.
+Immerhin fällt ein schwacher Bauer weg, die Dame hat jetzt einen Weg auf den
+Königsflügel und der h-Bauer könnte zum Freibauer werden.} gxf5 22. Qh6
+O-O-O 23. Qf6 Ng6 {Schwarz steht immer noch gut, gerät aber zunehmend in
+Zeitnot. Er muss jetzt genau spielen, während Weiß einfache Drohungen
+aufstellen kann.} 24. h4 (24. Qxf7 Nxe5 25. Nxe5 Bxd4 {ist sehr gut für
+Schwarz, da sein Zentrum in das Rollen kommt.}) 24... Nh8 {Der Springer steht
+hier zumindest komisch, wendet aber die meisten Drohungen ab.} 25. Be2 {Endlich
+} Rg8 26. h5 {Nimmt das Feld g6 weg} Qd8 27. Qh6 Qf8 28. Nxf5 $2 {Ein
+spekulatives Figurenopfer, das nicht angenommen werden sollte. Weiß gewinnt
+zwar seinen Bauern zurück, übersieht aber, dass der Springer am Rand
+gefangen ist!} ({Viel besser ist} 28. Qd2 {mit der Idee Dd2-d3 oder c2-c4.
+Weiß stünde dann sehr gut.}) 28... Qxh6 29. Nxh6 Rg2 {Schwarz hat das
+nötige Tempo gefunden, um entscheidend Material zu gewinnen.} 30. Bd3 Bf8 31.
+Nxf7 Nxf7 32. Bg6 Ng5 33. Nxg5 Rxg5 34. Rf1 Bg7 35. Kc1 Bb5 36. Rf7 {Es folgt
+ein schönes Matt.} Rg1+ 37. Kd2 Bh6+ 38. Rf4 Bxf4# 0-1
+

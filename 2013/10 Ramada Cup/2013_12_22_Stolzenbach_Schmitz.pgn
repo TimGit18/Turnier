@@ -1,0 +1,45 @@
+[Event "DSAM Aalen C-Turnier"]
+[Site "?"]
+[Date "2013.12.22"]
+[Round "5"]
+[White "Stolzenbach, Karl-Heinz"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1658"]
+[BlackElo "1799"]
+[PlyCount "38"]
+[EventDate "2013.12.20"]
+[SourceDate "2013.12.20"]
+
+1. b4 {Die Sokolski-Eröffnung ist die beliebteste unter den Flankeneröffnungen.
+Weiß will den Damenläufer auf die lange Diagonale entwickeln und gleichzeitig
+Raum auf dem Damenflügel erobern} e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 Nc6 5. Bb2
+O-O {Das ist der Sinn der schwarzen Eröffnung: schnelle Entwicklung unter
+Tempogewinn} 6. Nf3 d5 7. e3 Re8 8. cxd5 Nxd5 9. Be2 Qe7 ({Der häufigste Zug
+ist hier} 9... Bf5) 10. O-O Bf5 11. Re1 Rad8 12. a3 Bd6 13. g3 {Schwarz sollte
+hier einen gesunden positionellen Vorteil haben} Ne5 {Der Zug sieht zwar
+natürlich aus, kostet aber wahnsinnig viel Zeit} 14. d3 Bh3 $2 {Aber das ist
+jetzt ein positioneller Fehler, denn hier steht der Läufer abgehängt. Er
+greift nichts an und wird möglicherweise sogar selber zu einem Angriffsobjekt}
+15. Nbd2 {Weiß spielt den Igelaufbau konsequent weiter} c6 {Die Idee dieses
+Zuges ist es, damit den eigenen Springer auf d5 zu decken und den Bauern auf
+b7 durch die Dame einen seitlichen Schutz zu gewähren} 16. Qc2 {Hier steht die
+Dame gut . Sie kann nicht angegriffen werden und will auf den offenen Linien
+des Damenflügels operieren} Bg4 $4 {Dieser schwere taktische Fehler verliert
+sofort einen Bauern. Das war im Grunde nicht schwer zu sehen, der Zug wurde
+aber in beginnender Zeitnotpanik fast a tempo gespielt} ({Die eigentliche Idee
+ist} 16... Ng4 {, wonach ich Angst vor} 17. Ne4 {bekam. Der Läufer auf h3
+steht jetzt sehr gefährdet. Aber mit dem simplen} h6 {hält man die Stellung
+zusammen}) 17. Nxe5 {Das ist der Gewinnzug} Bxe2 {Es ist nicht sehr gut,
+diesen ehemals aktiven Läufer gegen sein weißes Pendant zu tauschen. Aber
+jeder andere Zug verliert eine Figur} 18. Rxe2 $2 {Weiß schlägt automatisch
+zurück. Er übersieht die simple Taktik} ({Nach} 18. Nxc6 $1 {kann Schwarz
+nicht auf d3 schlagen, denn die schwarze Dame hängt mit Schach} Qc7 19. Rxe2
+bxc6 {Ich sehe überhaupt keine Kompensation für den verlorenen Bauern}) 18...
+Bxe5 {Schwarz ist jetzt aus dem Gröbsten heraus. Das Ziel ist es, den
+Remishafen zu erreichen} 19. Rb1 {Weiß deckt den Läufer und bereitet ein
+Druckspiel gegen den schwarzen Damenflügel vor} Qd7 {[%csl Yd3,Yg4,Yh3][%cal
+Gd7g4,Gd7d3] Auch das ist ein etwas ungenauer Zug, man sollte vorher den
+starken Läufer von Weiß tauschen} 1/2-1/2
+

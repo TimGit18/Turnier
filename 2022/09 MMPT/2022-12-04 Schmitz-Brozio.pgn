@@ -1,0 +1,60 @@
+[Event "MMPT 2022/2023"]
+[Site "?"]
+[Date "2022.12.04"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Brozio, Jason"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "1850"]
+[BlackElo "1994"]
+[Annotator "Tim Schmitz"]
+[PlyCount "54"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.12.04"]
+[WhiteTeam "SC Sendling"]
+[BlackTeam "MSA Zugzwang 82"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 {Ein sehr überraschender Zug, auf den ich
+überhaupt nicht vorbereitet war. Tatsächlich stammt das Gambit von Jobava
+und ist nicht besonders gut für Schwarz - wenn man, denn die Varianten kennt.}
+d5 $5 4. exd5 Qxd5 5. Nf3 $6 {Das ist noch kein schwerer Fehler, aber unnötig
+passiv. Weiß kann hier viel aktiver spielen.} ({Viel besser ist} 5. d4 Nc6 6.
+Nxc6 Qxc6 7. Qe2+ Be7 8. Qb5 {und nach dem Damentausch hat Weiß einen
+gesunden Mehrbauern.}) 5... Nc6 6. Nc3 Qh5 7. Be2 $6 {Das ist auch zu
+vorsichtig. Weiß hätte hier schon viel prinzipieller spielen können.} ({
+So entsteht nach} 7. d4 Bg4 8. Be2 O-O-O 9. Be3 {eine Stellung, die an die
+Nimzowitsch-Verteidigung erinnert oder an Varianten der Skandinavischen
+Verteidigung. Schwarz hat zwar durch sein aktives Figurenspiel etwas
+Kompensation für den Bauern, aber noch nichts konkretes.} Bd6 10. h3 Rhe8 11.
+Qd2 Bb4 12. O-O-O) 7... Bg4 8. d3 $6 {Das ist relativ schwach, denn es
+signalisiert dem Schwarzen Angst vor einer Konfrontation im Zentrum. Schwarz
+spielt jetzt sehr schnell einige natürliche Entwicklungszüge.} Bd6 9. Be3
+O-O-O 10. Qd2 $6 {Auch eine verständliche Idee, aber sehr harmlos und viel zu
+langsam gespielt. Weiß möchte lang rochieren und dann den lästigen
+Figurendruck abschütteln. Dazu kommt es aber nicht mehr.} Rhe8 11. h3 {
+versucht, den Läufer zu befragen, der aber sowieso nicht genommen werden kann.
+} ({Nach} 11. O-O-O {käme sofort} Bb4 {mit bereits schwarzem Vorteil.}) 11...
+Bb4 12. a3 $2 {Der Plan sieht vor, im nächsten Zug zu rochieren. Dazu kommt
+es leider nicht mehr.} Ne4 $1 {Ein furchtbar starker Zug, den ich nicht
+gesehen habe. Objektiv ist die Stellung noch in Ordnung. Aber aufgrund der
+ganzen Drohungen verliere ich die Neven und die Stellung.} 13. dxe4 $4 {
+Dieser Zug stellt einzügig die Partie ein. Der Grundgedanke war, die Dame so
+teuer wie möglich zu verkaufen. Mir entging, dass es hier noch eine
+computerartige Rettung gab.} ({Nach} 13. Nd4 $1 {ist auch die schwarze Dame
+bedroht. Der Zug ist allerdings unmenschlich.} Bxe2 14. Qxe2 Qxe2+ 15. Ndxe2 $1
+{Tatsächlich ist die Stellung noch einigermaßen in Ordnung.} Bxc3+ 16. Nxc3
+Nxc3 17. bxc3 {Weiß hat immer noch seinen Mehrbauern, allerdings eine
+schlechtere Bauernstruktur. Trotzdem hat er ganz gute Aussichten, da sein
+König bereits im Zentrum steht.}) 13... Rxd2 14. Bxd2 (14. Nxd2 {war zäher,
+hilft aber auch nicht viel.} Bxe2 15. Nxe2 Bxd2+ 16. Kxd2 {mit ähnlichem
+Verlauf.}) 14... Bxc3 15. Bxc3 Rxe4 16. O-O-O {erlaubt zwar eine weitere
+Vereinfachung der Stellung, aber der König stand in der Mitte zu gefährdet.}
+Rxe2 17. hxg4 Qg6 $1 {Ein sehr starker Rückzug. Anstatt einfach den Bauern
+auf g4 zu nehmen (der nicht davonrennt), droht Schwarz mit Matt.} 18. Rd2 Rxd2
+19. Kxd2 Qxg4 {Hier kann man noch versuchen etwas im Trüben zu fischen. Ohne
+Mannschaft könnte man guten Gewissens aufgeben.} 20. Rxh7 Qxg2 21. Ke3 f6 22.
+Rh8+ Kd7 23. Rg8 $2 {Ein weiterer Fehler zum Schluß.} Ne7 24. Rh8 Nd5+ 25. Ke2
+Qg4 26. Bd4 Qe4+ 27. Be3 Nf4+ {Der Springer auf f3 geht verloren und das
+Endspiel sowieso.} 0-1
+

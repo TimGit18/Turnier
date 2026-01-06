@@ -1,0 +1,118 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2014.10.27"]
+[Round "3"]
+[White "Scheele, Marcus"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1951"]
+[BlackElo "1738"]
+[Annotator "Tim Schmitz"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nc3 d6 {Manche Spieler sind eher dazu abgeneigt, hier d7-d6 zu
+spielen. Denn es gibt Situationen, in denen Schwarz lieber direkt d7-d5 spielt
+und daher statt d7-d6 gleich den Springerzug Sb8-c6 bevorzugt. Anscheinend ist
+aber der Damenbauerzug d7-d6 auch nicht so schlimm. Der Sinn dieser Variante
+ist es, dass ein Übergang in einen anderen Offenen Sizilianer vermieden wird.}
+3. f4 {Dieser Zug kennzeichnet den Grand-Prix-Angriff. Weiß erobert schnell
+Raum und entwickelt seine Figuren unter Zeitgewinn.} g6 {Warum entwickelt
+Schwarz zunächst seinen Läufer auf die lange Diagonale und erst danach die
+Springer? Würde er zunächst den Damenspringer entwickeln, so könnte Weiß
+diesen plangemäß mit dem Läufer auf b5 abtauschen. Andererseits steht der
+Königsspringer auf f6 etwas unsicher und kann immer mit e4-e5 bedrängt
+werden - solange das Feld e5 nicht unter Kontrolle von Schwarz ist.} 4. Nf3 {
+Weiß entwickelt sich logisch weiter und kontrolliert jetzt auch die schwarzen
+Felder d4 und e5.} Bg7 {Schwarz vermeidet alle Springerzuüge mit Sb8-c6 und
+wartet ab, wohin Weiß seine Figuren entwickelt. In der Regel hat Weiß drei
+Optionen, nämlich d2-d4, Lf1-c4 oder Lf1-b5 Schwarz vermeidet noch alle
+Springerzüge und wartet noch ab, wohin Weiß seine Figuren entwickelt. In der
+Regel hat Weiß drei Optionen, nämlich d2-d4 oder die beiden Läuferzüge
+Lf1-c4 oder Lf1-b5 Das Zwischenschach} 5. Bb5+ {ist etwas trickreicher als es
+aussieht.} Bd7 {Schwarz will natürlich nicht den Springer in die Diagonale
+stellen, denn Weiß möchte ja den Läufer gegen den Springer tauschen. Somit
+bietet er den Läufer an.} 6. Bc4 $1 {Dieser Zug wurde von Gawain Jones
+empfohlen. Weiß erleidet nur scheinbar einen Tempoverlust. In Wirklichkeit
+steht der Läufer auf d7 nicht besonders gut. Dieser Rückzug ist sehr
+gefährlich und muss genau beantwortet werden.} Nc6 {Dieser Zug ist unstrittig
+der beste. Schwarz stellt jetzt endgültig die Kontrolle über die schwarzen
+Zentralfelder her.} 7. O-O {Bevor Weiß irgendwelche Aktionen im Zentrum
+unternimmt, bringt er erst einmal den König in Sicherheit und einen Turm auf
+die potentiell zu öffnende f-Linie.} e6 {Dieser Zug bildet die
+Hauptfortsetzung. Schwarz blockiert den weißen Angriffsläufer bzw. dessen
+Blick nach f7. Im Grunde sieht das am besten aus und punktet auch gut.
+Allerdings wird der Bauer auf d6 auch schwach.} ({Das Problem an} 7... Nf6 {
+ist der Vormarsch des e-Bauern} 8. e5 Ng4 9. Ng5 {und Weiß punktet hier sehr
+gut}) 8. d3 {Das ist der plangemäße Zug. Weiß öffnet die Diagonale für
+den anderen Läufer. Schwarz muss jetzt kühl weiterspielen.} ({Vielleicht ist
+} 8. f5 {verfrüht, aber die prinzipielle Idee} exf5 9. exf5 Bxf5 {Weiß hat
+einen Bauern geopfert, um den schwarzen König in der Mitte festzuhalten.} 10.
+g4 Bxg4 11. Bxf7+ Kd7 {Weiß hat sicher Kompensation für den Bauern, aber
+Schwarz sollte sich halten können.}) 8... Nge7 {Bei dieser
+Bauernkonstellation ist der Springerzug am besten. Der Vormarsch e4-e5 ist
+jetzt wirkungslos wegen des Konters d6-d5. Also muss Weiß den anderen Bauern
+nach vorne drücken.} 9. f5 {Das ist der prinzipielle Durchbruch} ({Mehr im
+traditionellen Sinn des Grand-Prix-Angriffs ist} 9. Qe1 {Hiernach kann Schwarz
+mit dem Klassischen Konter} Nd4 {antworten und den zweiten Springer nach c6
+bringen} 10. Nxd4 cxd4 11. Ne2 d5 $1) {Ein krasser Fehler von mir war zweimal}
+9... Ne5 $2 (9... exf5 $1 {Schwarz muss so nehmen} 10. exf5 {Wenn Weiß mit
+seinem Bauernopfer etwas erreichen will, dann muss er nehmen und die e-Linie
+öffnen} ({Nicht so zwingend ist} 10. Qe1 {, wonach} Ne5 {hier gut ist}) 10...
+Bxf5 {Eigentlich steht der Läufer hier ganz gut. Deswegen muss Weiß
+versuchen, ihn zu unterminieren.} 11. g4 {Weiß opfert einen zweiten Bauern,
+den er aber gleich wieder zurückgewinnt.} Bxg4 12. Bxf7+ Kd7 ({Nicht gut ist
+hier} 12... Kxf7 {wegen der Replik} 13. Ng5+ {und Weiß kommt zu einem guten
+Angriff auf den weißen Feldern})) 10. Bg5 $1 {und Schwarz ist schon in
+gewaltigen Schwierigkeiten. Es droht bereits f5-f6} exf5 {Der Vormarsch nach
+f6 ist zwar jetzt verhindert, aber nun hat Schwarz das Feld d5 entscheidet
+geschwächt} 11. Nd5 {[%csl Ye7,Yf6][%cal Rg5e7,Rd5e7,Rd5f6] Der Springer
+besetzt ein hervorragendes Feld und droht schon die schwarze Stellung zu
+zerstören. Der Springer auf e7 droht zu fallen.} f6 $2 {Dieser Zug führt
+schnell zum Verlust, ungewöhnlich schnell nach 11 Zügen} ({Besser, aber
+nicht viel ist} 11... N5c6 12. exf5 Bxf5 13. Re1 Be6 {und der weiße Druck auf
+die Stellung ist schon sehr hoch}) 12. Nxf6+ {Weiß wickelt jetzt in ein
+überlegenes Mittelspiel ab} Bxf6 13. Bxf6 Rf8 14. Bxe5 dxe5 15. Nxe5 {Weiß
+hat einen gesunden Mehrbauern und Schwarz immer noch eine unsichere
+Königsstellung} Qc7 16. Nxd7 {Weiß kann einfach weiter alles nehmen, was auf
+dem Brett steht, denn Schwarz darf die Stellung nicht einfach öffnen} Qxd7 17.
+exf5 Qd4+ {Ein Versuch, etwas Aktivität zu generieren} 18. Kh1 O-O-O {Der
+König ist zwar "gesichert", aber die Aktion kostet bereits einen zweiten
+Bauern} 19. fxg6 Nxg6 20. Qh5 {[%csl Yh7] Den Bauern auf h7 kann man gerne
+auch noch geben, wenigstens würde er wie in der Vorgängerpartie offene
+Linien gegen den weißen König ermöglichen. Eine andere Option auf
+Weiterspielen gibt es eigentlich sowieso nicht} Kb8 {Erst einmal den König in
+Sicherheit bringen, vielleicht schlägt Weiß doch noch auf h7} 21. c3 {
+Weiß vertreibt erst mal die starke Dame aus dem Zentrum} Qd6 {[%csl Yd6,Yg6,
+Yh2][%cal Gd6g6,Rd6h2] Das ist das beste Feld für die Dame. Sie deckt den
+Springer auf g6 und hat einen Blick für h2} 22. Rae1 {[%csl Yc4,Ye1,Ye6][%cal
+Re1e6] Weiß bringt die letzte Figur in das Spiel und visiert das Feld e6 an
+mit Doppelangriff auf d6 und g6} Rde8 {Notgedrungen tauscht Schwarz die Türme
+ab} 23. Rxe8+ Rxe8 24. Qd5 {[%csl Yd5,Yf7][%cal Gd5f7,Gf1f7] Ein guter Zug
+für die Dame, hier beherrscht sie das Brett} Qf4 {[%csl Ye1,Yf4][%cal Rf1f4,
+Ge8e1] Schwarz versucht noch einen Trick mit dem Grundlinienmatt, aber das
+kann von Weiß leicht pariert werden} 25. d4 Qd2 {Die Dame alleine ist zu wenig
+} 26. Qd6+ {Weiß kann jetzt den König weiter belästigen} Ka8 {Dieser Zug
+besiegelt das Schicksal des schwarzen Königs, aber er hatte keine Wahl} ({Nach
+} 26... Kc8 27. Be6+ Rxe6 28. Qxe6+ Kd8 29. Qg8+ Kd7 30. Rf7+ {dauert es nicht
+mehr lange bis der schwarze König matt wird. Weiß muss nur noch auf die
+einzige Drohung auf der Grundreihe aufpassen}) 27. Qd7 Qe3 {Die schwarze Dame
+kehrt reumütig zurück, denn die weißen Drohungen sind zu stark} 28. Bd5 {
+[%csl Yb7,Yd5,Yd7][%cal Rd7b7,Rd5b7] Ein starker Zug, der einzügig matt droht}
+Rb8 {Das ist ein ganz peinlicher und passiver Zug, aber es gibt nichts anderes}
+(28... Re7 {hilft auch nicht wegen} 29. Bxb7+ Kb8 30. Qc8#) 29. h4 {Die finale
+Phase beginnt, Weiß schafft ein Luftloch für den König und droht damit den
+Springer von g6 zu vertreiben, um mit dem Turm auf die gegnerische Stellung zu
+wirken} Nf4 {Wenigstens versperrt der Springer den Weg des Turms in die
+schwarze Stellung} ({Es hilft auch nicht} 29... Nxh4 30. Rf8 Qe1+ 31. Kh2 {
+und die schwarze Dame hat kein Schach mehr} Nf3+ {Hofft darauf, dass Weiß mit
+dem Läufer schlägt, wonach es eine Remisschaukel gibt} 32. Rxf3 Qh4+ 33. Qh3
+$1 {mit Sieg}) 30. dxc5 {[%csl Yb7,Yc6][%cal Rc5c6,Rc6b7] Es droht einfach der
+Vormarsch des c-Bauern} Qg3 {Sieht ungemütlich aus, droht aber nichts} 31. Bf3
+{[%csl Ye2][%cal Gf3e2] Der Läufer überdeckt das gefährliche Feld e2.
+Sicher ist sicher, bei drei Mehrbauern kann Weiß auch einen zurückgeben. Zur
+Not kann man auch immer Dd7-g4 spielen} Qxh4+ 32. Kg1 {Das war es jetzt aber
+auch schon mit den schwarzen Drohungen} Qg5 {[%csl Yc5] Die Dame soll zurück
+in das Spiel, kann aber den Zusammenbruch der Stellung nicht verhindern} 33. c6
+Qc5+ 34. Qd4 {Schwarz kann weiteren Materialverlust nicht mehr vermeiden} 1-0
+

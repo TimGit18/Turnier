@@ -1,0 +1,32 @@
+[Event "Vienna Open 2009"]
+[Site "?"]
+[Date "2009.08.18"]
+[Round "4"]
+[White "Künzel, Michael"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "1946"]
+[BlackElo "1864"]
+[Annotator "Tim Schmitz"]
+[PlyCount "96"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 {Die moderne Variante des Zweispringerspiels} 10. c3 O-O
+11. Be3 Qe7 12. f3 Ng5 13. Qd2 {Ein überraschender Zug für mich} h6 {Hier
+endet die Referenz Topczweski-Mincelli, 2008} (13... Ne6 14. f4 {gefiel mir
+überhaupt nicht}) 14. Bxg5 Qxg5 15. f4 Qg6 16. Kh1 Bf5 {Ich will endlich den
+schwachen Läufer loswerden} 17. Rf3 $2 {Verliert eine Figur, obwohl der
+Versuch aggressiv aussah} Bxd4 (17... Bxb1 {scheitert an} 18. f5 Bxf5 19. Nxf5
+{mit Spiel für den Bauern}) 18. Rg3 Qh7 19. cxd4 Bxb1 20. Qc1 ({Ich rechnete
+mit} 20. f5 Bxf5 21. Rf1) 20... Be4 21. Qxc6 Rab8 22. b3 Rb6 {Sah am
+einfachsten aus, obwohl ich noch einen Bauern geben muss} 23. Qxc7 Rg6 24. Qc3
+(24. Qxa7 Rxg3 25. hxg3 Qg6 26. Kh2 Qh5+ 27. Kg1 Qe2 {ist lethal}) 24... Rxg3
+25. Qxg3 Rc8 26. a3 Rc2 27. Rg1 {Jetzt sieht alles gut aus} Qg6 28. Qxg6 Bxg6
+29. h3 Be4 30. Kh2 Rc3 31. b4 Rxa3 32. b5 Ra2 33. Kg3 g6 34. h4 h5 35. Kh3 Bf5+
+36. Kg3 Ra5 37. Rd1 Rxb5 38. Rd2 a5 39. Ra2 Bb1 40. Ra3 Bc2 41. Kf2 a4 42. Rc3
+Bf5 {Sicher ist sicher} 43. Rc1 a3 44. Ra1 Rb3 (44... Rb2+ {gewinnt schneller})
+45. Ke2 Rb2+ 46. Kf3 a2 47. g3 Bb1 48. g4 Rb3+ {Ein zweiter Freibauer entsteht}
+0-1
+

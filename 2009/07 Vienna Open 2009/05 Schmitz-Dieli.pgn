@@ -1,0 +1,34 @@
+[Event "Vienna Open 2009"]
+[Site "?"]
+[Date "2009.08.19"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Dieli, Riccardo"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1864"]
+[BlackElo "1907"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[EventDate "2009.??.??"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 g6 6. Nf3 Bg7 {Die Eröffnung
+war mir vollkommen unbekannt, obwohl sie gegen K.Reger gespielt wurde} 7. Bc4
+O-O 8. O-O {Ich machte mir etwas Sorgen über das Scheinopfer Sxe4} Nc6 9. h3 {
+Um Lg4 zu verhindern und den schwachen Punkt d4 zu schützen} a6 10. a3 b5 11.
+Ba2 Bb7 12. Qe2 {Die beiden Referenzen spielen jeweils Te1} Rc8 {Das ist sehr
+sorglos gespielt} 13. e5 dxe5 {Verschlechtert die Stellung laut Fritz deutlich}
+14. dxe5 Nh5 {Opfert den Springer, aber Se8 nebst e6 gefiel nicht} 15. Rd1 Qe8
+16. g4 e6 {Die schwarzen Figuren stehen schlecht} 17. gxh5 gxh5 18. Bb1 {
+Um den bedrohlichen Druck auf der langen Diagonalen abzumildern} Na5 19. Be4 (
+19. Qd3 f5 20. exf6 Qg6+ {den Zug übersah ich in der Analyse} 21. Ng5 Qxd3 22.
+Bxd3 {ist ziemlich verwickelt}) 19... f5 20. Bxb7 Nxb7 21. Bf4 {Ziel:
+Stellungsvereinfachung und Abwicklung im Endspiel nach der Zeitkontrolle} h6
+22. Kh2 Rc4 23. Rd4 Rc7 24. Rg1 Kh7 25. Nh4 $5 {Das wird etwas abenteuerlich}
+Rg8 26. Qd2 (26. Rg6 {ist vielleicht sicherer mit Abtausch nach} Bf8 27. Rxg8
+Kxg8) (26. Ne4 {habe ich übersehen, ist aber der vielleicht stärkste Zug}) (26.
+Ng6 {folgt später}) 26... Qe7 27. Ng6 Qf7 28. Qd1 {holt den Bauern h5 ab, aber
+auf das Abenteuer hätte man auch verzichten können} Nc5 29. Qxh5 Nd7 30. Qe2 {
+Sicher ist sicher, nur noch 7 Minuten} Bf6 $2 {Ein ziemlich krasser Zug} 31.
+exf6 Rxg6 32. Rxg6 {mit Aufgabe} 1-0
+

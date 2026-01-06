@@ -1,0 +1,34 @@
+[Event "SC Forchheim Sparkassen Open"]
+[Site "?"]
+[Date "2009.10.03"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Wohlfahrt, Michael"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1860"]
+[BlackElo "1596"]
+[Annotator "Tim Schmitz"]
+[PlyCount "53"]
+[EventDate "2009.??.??"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 {Ein populäre Variante im Alapin} 4. exd5 Qxd5 5.
+Nf3 Nc6 6. Be2 ({Üblicher ist} 6. Be3) 6... cxd4 7. cxd4 Bb4+ 8. Nc3 Nf6 9. O-O
+Bxc3 $6 {Ich finde das schon etwas ungenau. Weiß erhält das Läuferpaar und ein
+starkes Zentrum} 10. bxc3 O-O 11. c4 {Klar: die Dame muss vertrieben werden}
+Qd7 12. Bb2 {Logisch: der Läufer stützt das Zentrum und schielt nach f6} Rd8
+13. Qb3 {Mit der Idee d5 zu unterstützen. Dc2 oder Dd2 sind aber etwas genauer}
+b6 {Schwarz muss endlich seinen Läufer entwickeln} 14. Rfd1 Bb7 15. d5 {
+Ich finde, es muss zur richtigen Zeit die Stellung geöffnet werden} Na5 16. Qc2
+Qe7 {Schwarz überdeckt den Springer} 17. Ng5 {Droht mit Lxf6 und Dxh7} h6 {
+Eine gute Replik} 18. Ne4 ({Zunächst war geplant} 18. d6 Rxd6 19. Rxd6 Qxd6 20.
+Bxf6 {aber Schwarz spielt einfach} hxg5 21. Bxg5 Qe5 {und gewinnt}) 18... Nxe4
+19. Qxe4 Qf8 $2 {Das ist schlecht, vermutlich ist Schwarz sogar schon verloren}
+(19... Qg5 {hatte mein Gegner geplant, aber dann kommt auch} 20. Bd3) 20. Bd3
+g6 21. Qe5 {Das Spiel ist für Schwarz praktisch verloren. Die beiden Läufer
+sind sehr stark, die schwarzen Leichtfiguren am Damenflügel abgeschnitten} Kh7
+22. dxe6 Re8 23. Qf6 $1 Re7 (23... Rxe6 $2 24. Bxg6+ fxg6 25. Rd7+ Re7 26.
+Rxe7+ Kg8 27. Qh8#) 24. f4 ({Einfacher gewinnt} 24. exf7 Qxf7 25. Bxg6+ Qxg6
+26. Qxe7+ Kg8) 24... Rae8 25. f5 Qg8 {Aus} (25... g5 {Ich rechnete mit} 26. Qc3
+) 26. exf7 {Schwarz gibt auf wegen} Rxf7 27. fxg6+ 1-0
+

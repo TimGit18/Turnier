@@ -1,0 +1,113 @@
+[Event "MMM 2017"]
+[Site "?"]
+[Date "2017.04.06"]
+[Round "5"]
+[White "Sager, Max"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "1839"]
+[BlackElo "1808"]
+[PlyCount "68"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.04.07"]
+[WhiteTeam "Bayern München 5"]
+[BlackTeam "SC Sendling 2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 e5 $6 {Der Zug
+verliert zwar noch nichts, aber er lädt Weiß zur Partiefortsetzung ein} ({
+Sehr viel besser ist die moderne Fortsetzung} 6... Nc6 7. O-O Nh5 {und Schwarz
+organisiert ein Gegenspiel gegen den Bauern d4} 8. Be3 e5 9. d5 Ne7 {[%csl Yf4,
+Yf5][%cal Rf7f5,Rh5f4] mit nachfolgendem f7-f5 und Sh5-f4}) 7. d5 {Weiß hatte
+sowieso nicht vor, den Springer auf c6 in das Spiel kommen zu lassen. Insofern
+ist seine Entscheidung mehr als gerechtfertigt.} Nbd7 $6 {Dieser logische
+Entwicklungszug ist in Wahrheit eine Verlegenheit. Die Stellung wirkt sehr
+hausbacken und im Stile der 1950er gespielt} ({Zeitgemäßer erscheint} 7... a5
+8. O-O Na6 {und der Springer kommt auch in das Zentrum}) 8. Bg5 {Dieser Zug
+ist deshalb schon etwas unangenehm (und für Weiß folgerichtig), weil Schwarz
+die logische Antwort c7-c5 nicht mehr zur Verfügung steht} h6 {Der Läufer
+wird direkt befragt und auf ein schlechteres Feld gezwungen. Aber der Zug
+schwächt auch den Bauern auf h6, der später angegriffen werden kann} 9. Bh4 {
+Ob der Läufer hier wirklich so schlecht steht, ist fraglich. Denn er kann
+auch über f2 wieder in das Spiel gebracht werden} Nc5 {Die Überlegung bei
+diesem Zug ist, dass nach dem logischen b2-b4 Schwarz das Läuferpaar erhält}
+10. f3 {Auch dieser Zug passt noch in das weiße Konzept. Er kontrolliert das
+Feld g4, bereitet den Bauernvorstoß g2-g4 vor und schafft ein Rückzugsfeld
+für den Läufer} ({Nach} 10. b4 Nxd3+ 11. Qxd3 {ist aber Weiß besser
+entwickelt und bereit für die Linienöffnung auf dem Damenflügel}) 10... Bd7
+{Schwarz gehen langsam die Züge aus. Der Läufer steht zwar funktional auf d7,
+denn er könnte den Bauernvorstoß a7-a5-a4 unterstützen, aber auch etwas
+passiv} 11. Bc2 {Nun wird die Drohung b2-b4 real} a5 {Logisch, aber auch sehr
+spät} 12. Bf2 {[%csl Yc5,Ye3,Yh6][%cal Rf2e3,Re3c5,Re3h6] Der Läufer strahlt
+gegen c5, er kann aber auch auf e3 gegen den geschwächten h-Bauern eingesetzt
+werden. Allerdings kann Schwarz jetzt auch Figuren aktivieren} Nh5 {Der
+Springer strebt nach f4 und macht den Weg für den f-Bauern frei. Andererseits
+sind einige Figuren für den Vorstoß f7-f5 ungünstig platziert (der weiße
+Läufer auf c2, der Springer auf c5)} 13. Qd2 {Weiß überdeckt das Feld f4
+und bereitet die lange Rochade vor. Optisch gefällt die weiße Stellung besser
+} Kh7 $6 {Ein Zug, der später nicht gefällt. Er tut nichts für das schwarze
+Angriffsspiel - außer den Bauern auf h6 ein weiteres Mal zu überdecken} ({
+Aggressiver ist} 13... Qf6 14. Be3 Kh7 15. g4 {und es entsteht eine ähnliche
+Stellung wie in der Partie}) 14. g4 {Das ist die weiße Idee: entweder er
+gewinnt einen wichtigen Bauern oder der Springer muss nach f6 zurück, wonach
+Schwarz überhaupt kein richtiges Gegenspiel hat. Man kann auch nicht einfach
+am Damenflügel vorgehen, denn der Springer auf c5 sitzt nicht so fest} Nf4 {
+Schwarz entschließt sich nach kurzer Überlegung zu einem Bauernopfer. Alles
+andere ist freudlos. Immerhin kommt der Läufer g7 aus seinem Gefängnis} 15.
+Nxf4 exf4 16. Qxf4 {Was hat Schwarz für den Bauern? Eigentlich nicht viel. Er
+hat etwas Gegenspiel auf den schwarzen Feldern, denn diese hat Weiß
+geschwächt. Außerdem kann er Druck auf der e-Linie ausüben, aber es wird
+schwer durch die weiße Bauernformation durchzubrechen} Be5 {[%csl Yc3,Yd4,Ye5,
+Yf6,Yg5,Yg7][%cal Rg7e5,Re5c3,Rd8f6] Das Gegenspiel auf den schwarzen Feldern
+wird eingeleitet} 17. Qd2 Qf6 {Schwarz bedroht den Bauern f3 und verbindet die
+Türme. Langsam gefällt die schwarze Stellung wieder} 18. Ke2 {Eine sehr
+verpflichtende Entscheidung. Weiß verzichtet auf die Rochade und behält den
+König in der Mitte. Er deckt den Bauern f3 und hofft, dass seine Figuren und
+das starke Bauernzentrum den König beschützen} Rae8 {Nun, ein Turm musste
+auf die e-Linie. Aber wie sich später herausstellt, wäre der andere Turm
+besser gewesen. Denn in manchen Abspielen ist jetzt der a-Bauern ungeschützt}
+19. Rag1 {Weiß bereitet einen Königsangriff vor. Es droht g4-g5 oder h2-h4.
+Eine passive Verteidigung wie Kh7-g7 und Tf8-h8 ist zwar möglich, sieht aber
+schwierig aus} b5 $5 {Die kritische Stellung und der einzige Hebel, den
+Schwarz noch hat (c7-c6 verliert dagegen das Feld d5 an den Springer oder eine
+Figur)} 20. Bxc5 {Weiß ändert kurzfrisitig seine Strategie. Er geht jetzt
+nicht mehr auf Königsangriff, sondern möchte in ein besseres Endspiel
+einlenken. Die schwarze Bauernstruktur wird ruiniert.} dxc5 21. cxb5 Bxc3 $6 {
+Ob dieser Abtausch notwendig ist bleibt fraglich. Es gab noch zwei
+Alternativen. Schwarz wollte aber einen der zwei Minusbauern zurück haben} ({
+(a)} 21... c4 22. b3 cxb3 23. Bxb3 Qb6 24. a4 Qc5 {mit Gegenspiel auf den
+schwarzen Feldern}) ({(b)} 21... Bd4 22. Rg2 Qb6 23. a4 f5 {und Schwarz kann
+versuchen die Stellung zu öffnen}) 22. Qxc3 Bxb5+ 23. Kf2 {Ab hier nimmt die
+Partie einen seltsamen Verlauf. Eigentlich hatte Schwarz mit dem Rückzug des
+Königs nach d1 gerechnet} ({Was aber nicht geht ist} 23. Bd3 Bxd3+ 24. Qxd3 (
+24. Kxd3 {ist noch schlimmer wegen} Qxf3+) 24... Qxb2+) 23... Qh4+ {Verbunden
+mit einem Remisangebot, was prompt abgelehnt wurde. Schwarz rechnete mit einer
+simplen Zugwiederholung, der Weiß aber einfach ausweicht} 24. Kg2 $2 ({
+So muss nach} 24. Ke3 Qg5+ {der König wieder zurück wegen} 25. f4 Qxd5) 24...
+f5 {Natürlich. Der Bauer auf c5 ist sowieso nicht mehr zu decken, der auf a5
+ist auch egal und für Königsangriff kann man vielleicht auch den Läufer auf
+b5 geben. Das weiße Problem ist die schlechte Königsstellung und die miese
+Koordination seiner Figuren} 25. h3 $4 {Ein Riesenfehler in kritischer
+Stellung. Natürlich nimmt Schwarz jetzt nicht auf g4, sondern auf e4 mit
+riesigen Drohungen} ({Richtig ist natürlich} 25. Qe1 {und Schwarz muss etwas
+im trüben fischen}) 25... fxe4 {Weiß hat jetzt alle Hände voll zu tun. Er
+kann wegen des Matts auf f2 nicht mit dem Bauern schlagen, er kann den Bauern
+aber auch nicht stehen lassen} 26. Bxe4 {Weiß gibt eine Figur} ({Den Zug} 26.
+f4 {plante ich mit} e3 {zu beantworten. Wenn jetzt auf e1 der Damentausch
+angeboten wird, kann die schwarze Dame nach f6 zurück und die Bauern auf f4
+und b2 bedrohen. Schwarz steht riesig}) 26... Rxe4 {Auch der Turm kann nicht
+geschlagen werden. Weiß hat noch einen einzigen Zug} 27. Re1 Rxe1 $4 {Schwarz
+wirft fast den ganzen Vorteil weg. Dieser Zug hatte keine schachlichen Gründe
+(Mehrfigur, daher Abtausch) sondern ist eine Mischung aus emotionaler
+Achterbahn und schlechter Allgemeinform. Es waren auch noch 10 Minuten auf der
+Uhr, also keine Zeitnot} ({Sofort gewinnt} 27... Be2 $1 {Weiß kann den Bauern
+auf f3 nicht verteidigen. Der Turm auf e4 kann immer noch nicht geschlagen
+werden. Eigentlich war dieser Zug nicht schwer zu sehen}) 28. Rxe1 Qf6 $2 {
+Nach einem Fehler folgt meistens ein zweiter. Der Übergang in das Endspiel
+ist vielleicht technisch gewonnen, aber Weiß kommt wieder gut in das Spiel}
+29. Qxf6 Rxf6 30. Re7+ Kg8 31. Rxc7 Be2 {Beide Parteien einigten sich entnervt
+auf Remis. Eine mögliche Fortsetzung ist} 32. Rxc5 Bxf3+ 33. Kg3 a4 34. Ra5
+Bd1 {Weiß hat Schwierigkeiten einen weiteren Freibauern zu bilden und seinen
+König zu aktivieren. Schwarz muss aber noch sehr viel Arbeit hineinstecken,
+um diese Stellung am Ende zu gewinnen} 1/2-1/2
+

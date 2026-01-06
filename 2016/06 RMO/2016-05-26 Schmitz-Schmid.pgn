@@ -1,0 +1,25 @@
+[Event "RMO 2016 B-Open"]
+[Site "?"]
+[Date "2016.05.26"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Schmid, Dr.Herbert"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "1812"]
+[BlackElo "1710"]
+[PlyCount "108"]
+[SourceDate "2016.05.30"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h5 7. Nf3 Nd7 8. Bd3
+Bh7 9. Ng5 $6 (9. Bxh7 $1 Rxh7 10. Qd3 Ngf6 11. Ng5 Rh8) 9... Bxd3 10. Qxd3
+Ngf6 11. Bd2 Qc7 12. O-O-O Ng4 13. Qf3 (13. Qb3 e6 14. Rhe1) 13... Ndf6 14.
+Rhe1 Qd7 15. Kb1 g6 16. Bb4 e6 17. Bxf8 Kxf8 18. N3e4 Kg7 19. Nxf6 $6 (19. Nc5)
+19... Nxf6 20. Ne4 Ng4 21. Qf4 Qe7 22. f3 Nh6 23. Ng5 $2 (23. g4 Qxh4 24. Qe5+
+f6 25. Qc7+) 23... Nf5 24. Qe5+ Kh6 25. Qf4 Kg7 26. Qe5+ Qf6 27. Qf4 Rad8 28.
+c3 Rd5 29. g3 Rhd8 30. Ne4 Qe7 31. Qg5 f6 32. Qc1 Qc7 $2 33. Nc5 Rxc5 34. dxc5
+Rd5 35. Rxd5 $2 (35. Rxe6) 35... exd5 36. Rg1 Qe5 37. b4 $4 (37. Qe1) 37... Qe2
+38. Qd1 Qc4 39. Kb2 d4 40. Qb3 Qe2+ 41. Qc2 dxc3+ 42. Kb1 Qxf3 43. Rd1 Qxg3 44.
+Rd3 Qe1+ 45. Rd1 Qe5 46. Rd7+ Kh6 47. Qc1+ Ne3 48. a4 f5 49. Rxb7 f4 50. Qg1
+Qe4+ 51. Ka1 Ng2 52. Qf2 c2 53. Kb2 Ne3 54. Qd2 Nc4+ 0-1
+

@@ -1,0 +1,47 @@
+[Event "Bad Wörishofen B-Turnier"]
+[Site "?"]
+[Date "2024.03.15"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Martin, Richard"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[WhiteElo "1864"]
+[BlackElo "1861"]
+[Annotator "Tim Schmitz"]
+[PlyCount "33"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2024.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nc3 Nf6 7. O-O Be7 {
+Das ist die Klassische Variante in der ohnehin schon nicht besonders
+Steinitz-Verteidigung.} 8. Bf4 {Das ist unüblich, sieht aber nicht schlecht
+aus. Ein Problem ist, wenn die b-Linie geöffnet wird, dann ist der b-Bauer
+ungedeckt. Und nach Ta8-b8 und b2-b3 stünde der Läufer auf b2 ohnehin besser.
+} ({Die "Theorie" empfiehlt hier eher einen neutralen Zug wie} 8. Re1 {Weiß
+muss sich noch nicht entscheiden, wohin der Läufer hinkommt z.B.} O-O 9. Bxc6
+bxc6 10. Qd3 c5 11. Nf3 Bc6 12. b3 {Wie üblich hat Weiß das Läuferpaar
+aufgegeben und die schwarze Bauernstellung komprottiert. Der Läufer soll nach
+b2 entwickelt werden.}) 8... O-O 9. Bxc6 {Eigentlich tauscht Weiß nicht gerne
+sein Läuferpaar ein, aber wenn er Vorteil nachweisen will, ist dieser Zug
+irgendwann notwendig.} bxc6 {Das ist auch ein logischer Zug. Bisweilen droht
+e4-e5.} 10. Re1 c5 $1 {Das ist ein guter Zug, mit dem Schwarz seine Stellung
+etwas befreien kann.} 11. Nf5 $6 {Auf den ersten Blick schien mir dieser Zug
+sehr plausibel. Der Springer wird auf ein aggressives Feld gebracht. Schwarz
+verliert das kurz zuvor gewonnene Läuferpaar.} ({Vielleicht wäre ein Zug wie
+} 11. Nf3 {besser gewesen, da er die Spannung besser hält.} Bg4 12. h3) {
+Obwohl Schwarz seinen guten Läufer "verliert", nimmt er einiges Potential aus
+der Stellung. Außerdem verpasst er Weiß seinerseits einen Doppelbauern und
+entwertet somit die weiße Struktur.} 11... Bxf5 12. exf5 Rb8 {Das ist ein
+Standardzug in dieser Stellung, denn Schwarz aktiviert den Turm und bedroht
+den weißen Bauern auf b2. Weiß reagiert ebenfalls mit einem Standardzug.} 13.
+b3 {Jetzt wird klar, warum der Läufer vorschnell nach f4 entwickelt wurde.}
+Nd7 $1 {Der Zug ist auch recht pfiffig, da er den schlechten Läufer auf e7
+aktiviert.} 14. Qf3 {Die Dame steht hier besser als auf d3, da sie neben dem
+Springer auf c3 auch den Läufer auf f4 schützt.} Bf6 {Auf einmal ist der
+Läufer eine aktive und starke Figur.} 15. Rad1 {Zunächst musste die
+Fesselung aufgelöst werden.} Re8 {Schwarz strebt weitere Abtäusche an.} 16.
+Nd5 {Hier wurde Remis geboten und akzeptiert. Die Engine bewertet die Stellung
+von Weiß als besser, es ist aber schwer hier Vorteil nachzuweisen. Eine
+mögliche Fortsetzung ist.} Rxe1+ 17. Rxe1 1/2-1/2
+

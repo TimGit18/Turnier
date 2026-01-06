@@ -1,0 +1,146 @@
+[Event "SCS Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2018.11.09"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Krauel, Detlef"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "1781"]
+[BlackElo "1600"]
+[Annotator "Tim Schmitz"]
+[PlyCount "99"]
+[EventDate "2018.??.??"]
+[SourceVersionDate "2018.11.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 {Die Steinitz-Verteidigung ist eine eher passive
+und ungewohnte Verteidigung der Spanischen Partie. Allerdings trifft man sie
+auf Klub-Ebene noch relativ häufig an. Das Hauptziel von Schwarz ist es, ein
+Remis zu erreichen. Weiß verliert hier fast nie, aber er muss sich anstrengen,
+die solide Verteidigung zu durchbrechen.} 4. d4 Bg4 $6 {Dieser Gegenangriff
+von Frank Marshall sieht aktiv aus, ist aber wahrscheinlich nicht gut.} 5. d5 {
+Mit diesem Zug hat schon Reti versucht, den schwarzen Aufbau zu widerlegen.} a6
+6. Ba4 b5 7. dxc6 bxa4 {Diese Züge waren alle erzwungen, wollte Schwarz
+Materialverlust vermeiden. Nun muss er trotzdem einen Bauern geben.} 8. c4 {
+[%csl Ya4,Yd5][%cal Gd1a4,Gc4d5,Ge4d5] Weiß greift sofort den Bauern auf a4
+an und kontrolliert das Feld d5 ein weiteres Mal. Schwarz hat etwas
+Kompensation in der offenen b-Linie und im Flankenangriff f7-f5, aber das ist
+nicht genug.} Nf6 9. Nc3 Rb8 {[%csl Yb2,Ye4][%cal Rb8b2,Rf6e4] Schwarz spielt
+jetzt naheliegende Züge. Er bringt seine Figuren auf aktive Felder und
+versucht die schwachen Bauern von Weiß (b2 und e4) anzugreifen.} 10. Qxa4 {
+[%csl Ya6][%cal Ga4a6] Mir erschien es jetzt ein guter Zeitpunkt den Bauern zu
+nehmen. Die Dame steht hier aktiv und greift den Bauern auf a6 an.} Bxf3 {
+Wenn Schwarz irgendetwas von dieser Stellung haben will, dann muss er jetzt
+handeln. Er gibt zwar das Läuferpaar auf, aber er verhilft auch Weiß zu
+einer kaputten Bauernstruktur. Andererseits deckt der Doppelbauer auf f3 den
+schwachen Bauern e4 und öffnet die g-Linie gegen den schwarzen König.} 11.
+gxf3 Be7 12. Nd5 $6 {Zunächst war ich sehr stolz auf diesen Zug. Der Springer
+dominiert das Brett - und kann auch nicht gut geschlagen werden. Aber Schwarz
+führt dies trotzdem durch, und kann danach mit einem Manöver seine anderen
+Figuren aktivieren.} ({Eine Alternative ist} 12. Qc2 O-O 13. Be3 {mit
+anschließender langer Rochade}) 12... Nxd5 {Schwarz schlägt trotzdem auf d5,
+weil er den Springer für zu stark hält.} 13. cxd5 Bg5 $1 {Das ist ein guter
+Zug von Schwarz. Erstens befreit er den schlechten Läufer aus dem
+Bauerngefängnis und zweitens unterminiert er die Deckung des schwachen Bauern
+b2. Weiß kann den Läufer ja schlecht schlagen, weil sonst die Dame gut in
+das Spiel käme.} 14. Qc2 {Weiß bringt erst einmal die Dame zurück und deckt
+sowohl den Bauern b2 ein weiteres Mal als auch den Läufer auf c1l} O-O {
+Schwarz beendet seine Entwicklung, obwohl der König in die halboffene g-Linie
+rochiert.} 15. b3 $6 {Das ist ein schwacher Zug, vielleicht sogar ein Fehler.
+Der einzige Sinn liegt darin, dass der b-Bauer (der gar nicht direkt
+angegriffen war), nie mehr angegriffen werden kann. Aber in solch halboffenen
+Stellungen ist dies auch ein Tempoverlust.} ({Aktiver ist} 15. Rg1 Bxc1 16.
+Qxc1 {und Weiß kontrolliert die schwarzen Felder, obwohl Schwarz
+dagegenhalten kann} f5 17. Qh6 Qe7 {mit einer ähnlichen Abwicklung wie in der
+Partie}) 15... Rb5 $5 {[%csl Yc2,Yc5][%cal Gb5c5,Gc5c2] Schwarz kann jetzt
+eine weitere Figur aktivieren. Der Turm soll nach c5 gebracht werden und in
+die weiße Stellung eindringen.} 16. Rg1 {Hier ist Gegenspiel gefordert.
+Aktivität steht über allem, sonst kann Schwarz schnell die Initiative
+ergreifen.} Rc5 {Das ist ein naheliegender und guter Zug. Weiß muss sich
+jetzt entscheiden.} 17. Qb2 {Weiß entscheidet sich, die Spannung in der
+Stellung zu halten und keine Figuren zu tauschen.} ({Die alternative
+Abwicklung lautet} 17. Bxg5 Rxc2 18. Bxd8 Rxd8 19. Rg2 Rb8 20. Kd1 Rb2 {
+und man kriegt den schwarzen Turm nie mehr von der 2.Reihe vertrieben. Die
+weißen Türme sind passiv und müssen die eigenen schwachen Bauern
+verteidigen. Der weiße König ist auf der Grundlinie gefangen. Schwarz kann
+mit Tb8-b4-d4 einfach gewinnen.}) 17... Bxc1 {Das ist die logische Fortsetzung.
+Es entsteht aus unbalanciertes und dynamisches spätes Mittelspiel oder
+spätes Endspiel.} ({Weiß hoffte nebenbei auf den Fehlzug} 17... Bf4 $4 18.
+Bxf4 exf4 19. Qxg7#) 18. Rxc1 Rxc1+ 19. Qxc1 {Schwarz hat sein Heil im
+Massenabtausch gesucht. Normalerweise sollte Weiß einfach besser stehen. Aber
+Schwarz kann gutes Gegenspiel entwickeln.} f5 $1 {Schwarz entwickelt
+Gegenspiel gegen den unrochierten weißen König. Er wird die f-Linie öffnen
+und erhält auf jeden Fall etwas Kompensation für den Bauern.} 20. Qh6 {
+Weiß darf jetzt keine Zeit verlieren. Wenn er ungenau spielt, dann holt sich
+Schwarz bei gutem Gegenspiel den Bauern zurück.} ({Eigentlich wollte ich} 20.
+Qg5 {spielen und den Damenabtausch erzwingen, aber nach} Qxg5 21. Rxg5 fxe4 22.
+fxe4 Rf4 {geht entweder der f-Bauer oder der e-Bauer verloren.}) 20... Qe7 {
+Schwarz deckt das Matt auf g7 und vermeidet wohlweislich den Damentausch.} 21.
+Ke2 {Der Zug passt in das Konzept. Jetzt kann der Bauer e4 nach dem Öffnen
+der Turmlinie wieder gedeckt werden.} fxe4 22. fxe4 Qf7 $1 {[%csl Yf2,Yf3]
+[%cal Gf7f3,Gf3f2] Das ist ein guter Zug, der sehr genau beantwortet werden
+muss. Schwarz droht direkt Df7xf2+ mit entscheidendem Angriff oder Df7-f3+ mit
+ebensolcher Durchschlagskraft.} 23. Qe3 {Dieser Zug ist der einzige
+Verteidigungszug, der beide Drohungen abwehrt} Qh5+ {Ein weiterer guter Zug,
+der die schwarze Stellung verbessert.} 24. f3 $5 {Weiß gibt den Bauern
+freiwillig zurück, weil es sowieso keine andere Wahl gibt.} ({(a) Was nicht
+geht ist} 24. Kd3 $4 Rf3 {mit Damenverlust.}) ({(b) Die andere Idee von mir war
+} 24. Ke1 Qxh2 25. Qg3 {und Weiß kann endlich die Damen tauschen.} Qxg3 26.
+Rxg3 Rf4 27. f3 {Hiernach entsteht eine ähnliche Stellung wie in der Partie,
+allerdings mit einem etwas passiven König auf e1.}) 24... Qxh2+ 25. Qf2 Qxf2+
+{Endlich kommen die Damen vom Brett, wenn auch um den Preis eines Bauern.} ({
+Vielleicht hätte Schwarz den Damentausch auch einfach vermeiden können mit} 
+25... Qf4 26. Qg3 Qf6 {Jetzt ist die weiße Dame an die Verteidigung des
+Bauern f3 gebunden und kann sich nicht bewegen. Aber der Turm kann in das
+Spiel eingreifen.} 27. Rh1 {[%csl Yf5,Yh5][%cal Gh1h5,Gh5f5] mit der Idee den
+Turm über die h-Linie zu aktivieren.}) 26. Kxf2 {[%csl Ya4,Yb4,Yb5,Yg5,Yh6]
+[%cal Gh7h6,Gg7g5,Gb3b4,Ga2a4,Gb4b5] Wie ist diese Stellung einzuschätzen?
+Eigentlich sollte sie ausgeglichen sein. Das Material ist ausgeglichen. Gegen
+die weiße Bauernmehrheit auf dem Damenflügel kann Schwarz einen Freibauern
+auf dem Königsflügel bilden. Aber ich rechnete mir trotzdem gute Chancen aus.
+Erstens läßt sich die schwarze Bauernwalze nicht so recht in Bewegung setzen.
+Zweitens ist die weiße Bauernmehrheit weit entfernt, was im reinen
+Bauernendspiel ein entscheidender Vorteil sein kann. Drittens ist der Bauer
+auf c6 ein Pfahl im Fleische von Schwarz und kann die Partie entscheiden.} h5
+$2 {Das ist vielleicht schon der entscheidende Fehler. Der Bauer darf nur ein
+Feld vor, denn der Vormarsch muss behutsam vorbereitet werden.} 27. Rg5 {
+Jetzt kann der Bauer nur noch unter großen Schwierigkeiten gedeckt werden und
+geht wahrscheinlich verloren. Dann ist aber auch das Endspiel verloren.} h4 {
+Sonst ist der Bauer weg} 28. Rg4 Rf4 {Der einzige Zug, der den Bauern hält.
+Aber er sollte verlieren.} 29. Rg5 $2 {Weiß verpasst die Entscheidung, die
+eigentlich gar nicht so schwer zu sehen war. Ich übersah den Durchbruch auf
+e5, und hatte nur Panik vor einem gedeckten Freibauern auf h4 (durch den
+Bauern g5) und wertete das Bauernendspiel grob falsch als verloren.} ({Ganz
+schlicht gewann} 29. Rxf4 exf4 30. e5 {und der Bauerndurchbruch entscheidet
+die Partie, denn der schwarze König ist viel zu weit weg.} dxe5 31. d6 cxd6
+32. c7 {und Weiß gewinnt.}) 29... Kf8 $6 {Das ist auch ein schwacher Zug, der
+König muss natürlich nach f7.} 30. b4 {Weiß erhält ein Tempo geschenkt und
+kann schnell auf dem Damenflügel vorgehen. Gefühlt ist diese Stellung schon
+gewonnen. Wie kommt der schwarze Turm jetzt eigentlich zurück, um die Bauern
+aufzuhalten?} Kf7 31. a4 g6 {Der Zug ist auch nicht ganz klar. Anscheinend
+will Schwarz Tg5-h5 verhindern.} ({Konsequenter ist} 31... Kf6 32. Rh5 g5 {
+Dann kommt zwar der weiße Turm in die schwarze Stellung und holt sich den
+Bauern c7, aber Schwarz kann mit g5-g4 versuchen, einen Gegenangriff zu
+starten.}) 32. b5 Kf6 {Wieder einen Zug zu spät.} 33. Rg1 Kg7 {[%csl Ya8,Yf8]
+[%cal Gf4f8,Gf8a8] Die ganzen letzten schwarzen Züge waren alle Tempoverluste,
+während die weißen Bauern auf dem Damenflügel Fortschritt gemacht haben.
+Der König will für den Turm den Weg freimachen, damit er am Damenflügel
+eingreifen kann. Aber dieser Plan ist viel zu langsam.} 34. bxa6 Rf8 35. Rb1 {
+[%csl Yb7,Yc7] Weiß besetzt die einzige offene Linie der Stellung mit
+entscheidenden Drohungen. Er kann mit seinem König den h-Bauern alleine
+aufhalten, falls der schwarze Turm nicht zur Unterstützung kommt.
+Gleichzeitig ist die Drohung Tb1-b7xc7 nebst Durchmarsch des Bauern c6 zu
+stark.} Ra8 36. Rb7 Rxa6 37. Rxc7+ Kf8 $2 {Das ist der letzte schwere Fehler
+der Partie. Nun verliert Schwarz ohne Gegenwehr seinen einzigen Trumpf, den
+Bauern h4. Der Rest der Partie ist eigentlich nicht schwer und wurde auch sehr
+schnell gespielt.} 38. Rh7 {Stockfish bewertet die Stellung bereits mit +8,
+also als klar gewonnen. Es kommt jetzt nicht mehr auf die Geschwindigkeit an,
+sondern nur noch darum, keine dummen Fehler in einer Gewinnstellung zu machen.}
+Kg8 39. Rxh4 Rxa4 40. Rh1 Ra8 41. Rb1 {Der Turm wird wieder über die b-Linie
+in die gegnerische Stellung gebracht. Gegen eventuelle Störschachs von
+Schwarz hilft der Bauer auf f3.} Rc8 42. Rb7 Kf8 43. Kg3 Ke8 44. Rh7 {Die
+letzte Finesse der Partie, Weiß erzwingt jetzt den Turmtausch.} Kd8 45. Rh8+
+Kc7 46. Rxc8+ Kxc8 47. Kg4 Kd8 48. Kg5 Ke8 49. Kxg6 Ke7 50. Kg7 {Abgesehen vom
+Materialnachteil wird Schwarz austemperiert und kann höchstens auf ein Patt
+hoffen.} 1-0
+

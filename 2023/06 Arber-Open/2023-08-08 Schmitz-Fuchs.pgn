@@ -1,0 +1,22 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2023.08.08"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Fuchs, Florian"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1888"]
+[BlackElo "2096"]
+[Annotator "Tim Schmitz"]
+[PlyCount "74"]
+[SourceVersionDate "2023.08.08"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. Bc4 Nf6 5. d3 Be7 6. O-O O-O 7. Re1 d6 8. Nbd2
+a6 9. a4 Rb8 10. Nf1 b5 11. axb5 axb5 12. Ba2 b4 13. d4 $6 bxc3 14. bxc3 cxd4
+15. cxd4 Bg4 16. Be3 exd4 17. Bxd4 Nxd4 18. Qxd4 Bxf3 19. gxf3 Qb6 20. Qxb6
+Rxb6 21. Rab1 Rfb8 22. Ne3 Rb2 23. Nf5 Bf8 24. Red1 g6 25. Ne3 Nd7 26. Rxb2
+Rxb2 27. Bd5 Ne5 28. Kg2 $6 (28. f4 $1 Nf3+ 29. Kg2 Nd2 30. Ra1) 28... Bh6 29.
+Ng4 Bg5 30. Kg3 h5 31. Nxe5 dxe5 32. Bc4 Bf4+ 33. Kg2 Be3 34. Rd7 Rxf2+ 35. Kg3
+Rc2 36. Bxf7+ Kf8 37. Bxg6 $4 (37. f4) 37... Bf4+ 0-1
+

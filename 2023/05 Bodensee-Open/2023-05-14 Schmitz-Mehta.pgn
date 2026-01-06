@@ -1,0 +1,27 @@
+[Event "Bodensee-Open"]
+[Site "?"]
+[Date "2023.05.14"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Mehta, Nehan"]
+[Result "1-0"]
+[ECO "C75"]
+[WhiteElo "1906"]
+[BlackElo "1511"]
+[Annotator "Tim Schmitz"]
+[PlyCount "87"]
+[SourceVersionDate "2023.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 Nge7 7. d4 Ng6 8. Be3
+h6 9. Nbd2 Be7 10. Re1 Bg5 11. Nf1 Bxe3 12. Nxe3 O-O 13. dxe5 Ngxe5 $6 14. Nxe5
+dxe5 15. Qh5 b5 16. Bb3 Rc8 17. Rad1 Qe8 18. Nf5 Kh7 19. Re3 Ne7 20. Rg3 Ng6
+21. h4 $6 (21. Nxg7 $1 Kxg7 22. Bxf7 Qxf7 23. Rxd7 Qxd7 24. Rxg6+ Kf7 25. Rxh6+
+Ke7 26. Rh7+ Kd8 27. Qg5+ Ke8 28. Qxe5+ Kd8 29. Qg5+ Ke8 30. Rxd7 Kxd7 31. g3)
+(21. Bxf7 $2 Qxf7 22. Qxg6+ Qxg6 23. Rxg6 Kxg6 24. Ne7+ $4 Kf7 25. Nxc8 Bxc8)
+21... Be6 22. Qg4 Bxb3 23. axb3 Rg8 24. h5 Nf4 25. Nxg7 Qf8 26. Qf5+ Kh8 27.
+Kf1 $4 Rxg7 $2 28. Qxe5 $2 (28. Rxg7 $1 Kxg7 29. Qxe5+ Kg8 30. Qxf4) 28... Ne6
+$1 29. Qf6 Kg8 30. Rgd3 Rg5 31. f4 Rxh5 $2 32. Rg3+ Kh7 $4 (32... Ng7 $1) 33.
+Rd7 Nd8 34. e5 (34. Qg6+ $1) 34... Rh1+ 35. Ke2 Rb1 $4 36. Qf5+ Kh8 37. Qxb1
+Ne6 38. Qf5 b4 39. Qf6+ Ng7 40. Rxf7 Qg8 41. Qxh6+ Qh7 42. Qxh7+ Kxh7 43.
+Rgxg7+ Kh6 44. Rh7+ 1-0
+

@@ -1,0 +1,70 @@
+[Event "RLSW 2023/2024"]
+[Site "?"]
+[Date "2023.12.17"]
+[Round "?"]
+[White "Kollmann, Robert"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "A02"]
+[WhiteElo "1948"]
+[BlackElo "1801"]
+[Annotator "Tim Schmitz"]
+[PlyCount "64"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.12.17"]
+[WhiteTeam "SK Marktoberdorf 1"]
+[BlackTeam "SC Sendling 1"]
+
+1. f4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 O-O 5. e3 d6 6. Be2 c5 7. Na3 {Dieser Zug
+ist in dem Klassischen System des Indo-Bird eher ungebräuchlich. Weiß
+möchte den Springer entwickeln, ohne dem Läufer auf b2 die Sicht zu
+verstellen.} Nc6 8. O-O a6 {Schwarz steht etwas besser. Noch sind keine
+Figuren abgetauscht. Daher geht es darum, die Beweglichkeit der gegnerischen
+Figuren einzuschränken.} 9. Qe1 {[%csl Yf6,Yg5,Yh4][%cal Ge1h4,Gf3g5,Gb2f6]
+Die Dame soll auf den Königsflügel gebracht werden, um einen Mattangriff zu
+initiieren.} Nd5 $6 {Das ist ein eigenartiger Defensivzug, ja fast schon eine
+Panikreaktion. Schwarz möchte auf jeden Fall die Läufer tauschen, um das
+Angriffspotential von Weiß zu reduzieren. Der (geringe) schwarze Vorteil
+verschwindet jetzt vom Brett.} ({Nach einem normalen Zug wie} 9... b5 10. Qh4
+h6 $1 {werden alle sofortigen weißen Drohungen pariert.}) 10. Bxg7 Kxg7 {
+Laut Engine ist die Stellung völlig ausgeglichen und dem ist wahrscheinlich
+auch so.} 11. Qg3 {[%csl Yf5,Yh4][%cal Gf3h4,Gf4f5] Weiß setzt den Angriff
+unbekümmert fort. Er möchte Sf3-h4 und f4-f5 spielen.} Nf6 $1 {[%csl Ye4]
+[%cal Gf6e4] Ein guter Zug, der den Springer zurück in das Spiel bringt und
+mit dem Zug Sf6-e4 droht.} 12. d3 {Weiß verhindert mechanisch den
+zentralisierenden Springerzug. Nun hat Schwarz aber freies Spiel im Zentrum,
+da Weiß seine Figuren abseits platzierte.} d5 13. c4 d4 {Schwarz greift
+direkt das schwache Feld e3 an.} 14. Nc2 {Der Springer kommt zurück in das
+Spiel, aber die Schwäche auf e3 bleibt.} dxe3 15. Nxe3 Nd4 $6 {[%csl Ye2]
+[%cal Gd4e2] Schwarz zentralisiert seinen zweiten Springer und bedroht den
+Läufer auf e2. Allerdings nimmt der folgende Abtausch auch die Spannung aus
+der Stellung.} ({Der Zug} 15... Qd6 $5 {nimmt die schwachen Bauern d3 und f4
+in das Visier.}) 16. Qf2 {Deckt den Läufer und rezentralisiert die
+deplatzierte Dame.} Nxe2+ 17. Qxe2 Bg4 $2 {Ein schwacher Zug, obwohl damit die
+letzte Leichtfigur entwickelt wird. Weiß tauscht einfach die Figuren ab und
+sollte keine Probleme im Endspiel haben.} 18. Nxg4 Nxg4 19. d4 $6 {Das ist
+eine merkwürdige Idee. Weiß will natürlich seinen schwachen Bauern auf d3
+loswerden, aber der Bauer ist erst einmal weg und muss mit Zeitverlust
+wiedergewonnen werden.} cxd4 20. Rad1 d3 $6 {Eine etwas umständliche Art, den
+Bauern zurückzugewinnen. Er kostet Zeit, und das einzige, was Schwarz gewinnt
+ist ein Schach auf b6.} ({Ein Riesenfehler wäre} 20... Ne3 $4 21. Rxd4 Qxd4
+22. Nxd4 Nxf1 23. Kxf1 {und Weiß steht auf Gewinn.}) ({Besser wäre gewesen} 
+20... Qb6 21. Rxd4 Rad8 22. Qb2 Kg8 {mit ähnlichen Motiven wie in der Partie.}
+) 21. Rxd3 Qb6+ 22. Nd4 {Das ganze schwarze Spiel basiert jetzt
+ausschließlich auf der Fesselung des Springers auf d4.} ({Vielleicht wäre
+die Auflösung der Fesselung besser.} 22. Kh1 Rad8 23. Qd1) 22... Rad8 23. Rfd1
+Rxd4 $4 {Ein Riesenfehler in einer ausgeglichenen Stellung. Tatsächlich
+stellt der Zug einfach nur eine Qualität ein.} ({Richtig ist natürlich} 23...
+Nf6 24. Qxe7 Rfe8 {und Schwarz hat genügend Kompensation für den Bauern.})
+24. Qb2 $4 {Weiß revanchiert sich mit einem riesigen Gegenfehler. Er hat
+schlicht einfach den nächsten schwarzen Zug übersehen und dachte, dass die
+Gegenfessel Material gewinnt.} ({Es gewinnt einfach} 24. Rxd4 Rd8 25. Qd2 $18 {
+und Schwarz kann den Druck auf d4 nicht mehr erhöhen.}) 24... e5 $1 {Dieser
+starke Zug hat mehrere Zwecke: Der Turm auf d4 wird gedeckt und die Fesselung
+des Turms unterbunden!} 25. Rxd4 {Weiß muss wahrscheinlich nehmen. Alles
+andere verliert sofort.} exd4 26. Qxd4+ Qxd4+ 27. Rxd4 Nf6 {Das Endspiel mit
+der Minusfigur ist einfach verloren. Der Mehrbauer auf dem Damenflügel kann
+nicht richtig mobilisiert werden.} ({Noch stärker ist vielleicht} 27... Re8
+28. Rd7 $4 Re1#) 28. c5 Re8 29. Kf1 Re4 {Turmtausch oder Bauernverlust} 30.
+Rxe4 Nxe4 {Der Rest ist Agonie.} 31. b4 Kf6 32. a4 Ke6 0-1
+

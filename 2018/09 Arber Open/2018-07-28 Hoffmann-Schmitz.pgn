@@ -1,0 +1,23 @@
+[Event "7.Arber-Open"]
+[Site "?"]
+[Date "2018.07.28"]
+[Round "1"]
+[White "Hoffmann, Sebastian"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2100"]
+[BlackElo "1750"]
+[PlyCount "77"]
+[SourceDate "2018.07.30"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. dxc5 Qxd1+ 7. Kxd1 e5 8.
+b4 a6 $2 (8... a5 9. Bb5 Nge7 10. a3 O-O-O+ 11. Nbd2) 9. Nbd2 Nf6 10. Kc2 Be7
+11. Bb2 O-O 12. Bc4 e4 $6 (12... Bf5+ 13. Kb3 Nd7) 13. Nd4 Ne5 14. Rhe1 Nxc4
+15. Nxc4 Rfe8 16. h3 Bh5 17. Nf5 Bg6 18. Nxe7+ Rxe7 19. Rad1 Kf8 20. Kb3 Bf5
+21. Nd6 Be6+ 22. c4 a5 23. Bxf6 gxf6 24. a3 f5 25. Rd4 Kg7 26. f3 exf3 27. gxf3
+(27. Nxf5+ Bxf5 28. Rxe7 fxg2 29. Re1 Re8 30. Rg1 Bxh3) 27... Kf6 $2 (27...
+Bxc4+ $1 28. Kxc4 Rxe1 29. Nxb7) 28. Rg1 axb4 29. axb4 Rh8 30. f4 h6 31. Rd2
+Rd7 32. Ra1 Rg8 33. Rd3 Rg2 34. Ra7 Rf2 35. Rxb7 Rxb7 36. Nxb7 Rxf4 37. Nd6 Bd7
+38. b5 Rf1 39. c6 1-0
+

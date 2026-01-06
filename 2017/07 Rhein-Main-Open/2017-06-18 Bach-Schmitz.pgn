@@ -1,0 +1,57 @@
+[Event "Rhein-Main-Open (B-Turnier)"]
+[Site "?"]
+[Date "2017.06.18"]
+[Round "7"]
+[White "Bach, Oliver"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "1650"]
+[BlackElo "1850"]
+[PlyCount "30"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.06.18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 {Weiß wählt hier die Klassische
+Fortsetzung} ({Wenn Weiß ein London-System mit c2-c4 spielen, dann wählt er
+meistens den folgenden Aufbau} 4. Nf3 O-O 5. Bf4 d6) 4... d6 5. Bf4 {Dies ist
+ein ungewöhnlicher Zug, zumindest in Kombination mit dem klassischen Zug e2-e4
+} O-O {Schwarz wählt natürlich wieder die kanonische Aufstellung und wartet
+ab, welche Figurenaufstellung Weiß entscheidet} 6. Qd2 {[%csl Yd2,Yf4,Yg4,Yh4,
+Yh6][%cal Rf4h6,Rd2f4,Gg2g4,Gh2h4] Das ist eine konsistente Fortsetzung. Weiß
+hat einigen Raum im Zentrum gesichert und bereitet die große Rochade vor. Er
+will dann mit h2-h4 und g2-g4 auf dem Königsflügel vorgehen und den
+schwarzen Königsflügel durch Abtausch der Läufer schwächen} c5 {Das ist
+die thematische Fortsetzung. Schwarz versucht auszunutzen, dass der weiße
+Damenläufer schon den Damenflügel verlassen hat und spielt ein frühes c7-c5}
+7. d5 {[%csl Yc3,Yg7][%cal Rg7c3] Konsequenterweise spielt Weiß auf Abschluss
+des Zentrums. Er macht sich keine Sorgen darüber, dass der schwarze
+Königsläufer zuviel Einfluss auf den schwarzen Feldern hat, denn er wird
+diesen Läufer ohnehin abtauschen} Qa5 {Der logische Zug, der aber vielleicht
+nicht der beste ist. Schwarz droht direkt mit dem Schlagen auf e4} ({In ruhige
+Gewässer führt} 7... Nbd7 {mit der Idee a7-a6 und b7-b5}) 8. Bd3 {Weiß
+verteidigt die Drohung Sf6xe4, aber er stellt den Läufer auf ein passives Feld
+} Na6 {Dieser Zug entwickelt den Damenspringer "modern". Dieser visiert b4 an,
+wo er sich gegen den weißen Läufer auf d3 tauschen kann} 9. Bh6 $5 {Das ist
+eine interessante Idee und ein wahrscheinlich guter Zug. Bevor Schwarz zu
+irgendwelchen Aktivitäten gegen das weiße Zentrum kommt, tauscht Weiß die
+beste Figur von Schwarz ab} Nb4 {Schwarz bewegt den schlecht stehenden
+Springer und attackiert indirekt das weiße Zentrum} 10. Bxg7 Nxd3+ {Mit
+diesem Abtausch erreicht Schwarz zunächst einmal Ausgleich. Allerdings nimmt
+er auch einiges an Potential aus der Stellung} 11. Qxd3 Kxg7 {An dieser Stelle
+wurde die Partie auf Vorschlag von Schwarz, der ein eher lustloses Turnier
+gespielt hat, Remis gegeben. Natürlich hätten beide Seiten noch
+weiterspielen können. Weiß würde auf dem Königsflügel angreifen, Schwarz
+versuchen im Zentrum und auf dem Damenflügel dagegenzuhalten. Eine mögliche
+Fortsetzung lautet} 12. O-O-O {Weiß rochiert den König, aber es ist nicht
+klar, ob er auf dem Damenflügel überhaupt besser steht} Ng4 {[%csl Ye5,Yf2]
+[%cal Rg4f2,Rg4e5] Die Idee von diesem Zug ist weniger der Angriff gegen den
+Bauern f2, sondern die Zentralisierung des Springers auf e5} 13. Qe2 {Der
+beste Zug von Weiß. Er verteidigt nicht nur die Bauern auf c4 und f2, sondern
+verhindert auch den Springerzug nach e5, weil dann mit Tempogewinn f2-f4 folgt}
+e5 {Schwarz verhindert mechanisch den Vorstoß nach f4 und riegelt das Zentrum
+ab} 14. dxe6 {Weiß kann en passant nehmen und den Bauern auf d6 gewinnen,
+aber die schwarzen Figuren kommen auf gute Felder} Bxe6 15. Rxd6 Ne5 {Das war
+die angestrebte Idealstellung. Der Bauer auf c4 ist nicht mehr zu verteidigen,
+wonach der weiße König auch schon ziemlich unsicher steht} 1/2-1/2
+

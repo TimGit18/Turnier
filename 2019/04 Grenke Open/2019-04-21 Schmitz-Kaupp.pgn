@@ -1,0 +1,61 @@
+[Event "Grenke B-Open"]
+[Site "?"]
+[Date "2019.04.21"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Kaupp, Wolfgang"]
+[Result "*"]
+[ECO "B04"]
+[WhiteElo "1793"]
+[BlackElo "1730"]
+[Annotator "Tim Schmitz"]
+[PlyCount "31"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.04.21"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 g6 {Das ist die
+Semi-Kengis-Variante im Miles-System der Alekhine-Verteidigung. Schwarz
+möchte so ähnlich wie in der Kengis-Variante Druck auf das weiße Zentrum
+aufbauen.} ({Der Standardaufbau wird erreicht nach} 6... Bf5 7. O-O Nd7 8. Nf3
+e6) 7. c4 Nf6 {Das ist eher unüblich in dieser Variante (und ähnelt eher der
+Rückzugsvariante im Miles-System). Der Springer kontrolliert zwar weite Teile
+des Zentrums, aber er verdeckt auch dem eigenen Läufer die Diagonale gegen e5
+und d4.} 8. Nc3 Bg7 9. Be3 {Bislang haben beide Seiten lediglich logische
+Entwicklungszüge gemacht. Der nächste schwarze Zug überrascht aber dann
+doch.} Qa5 $6 {Die Dame wird aktiviert, steht aber auf dem Feld a5 etwas
+exponiert. Weiß versucht die unglückliche Stellung der schwarzen Dame drei
+Züge später auszunutzen, es gelingt aber nicht.} 10. O-O O-O 11. Qd2 {
+Hiermit stellt Weiß den bekannten Abzug mit Sc3-d5 auf. Die Idee ist generell
+nicht schlecht, allein sie bringt keinen Mehrwert für die Stellung des
+Weißen. Eine andere Idee ist deer mögliche Abtausch der schwarzfeldrigen
+Läufer auf h6. Vielleicht ist diese Idee sogar nachhaltiger.} Nbd7 {Nun hat
+Schwarz die primäre weiße Idee völlig ignoriert. Kann dies Weiß ausnutzen?}
+12. Nd5 $6 {Er tut es und muss doch einsehen, dass die Idee keinen großen
+Mehrwert bringt.} ({Eine valide und wahrscheinlich bessere Alternative besteht
+in} 12. Bh6 Rd8 13. Bxg7 Kxg7 14. Ng4 Nxg4 15. Bxg4 Nf6 16. Be2 Be6 17. Qf4 {
+Weiß hat freies Spiel im Zentrum und kann vielleicht mit h2-h4-h5 gegen den
+schwarzen König operieren, zum Beispiel}) 12... Qd8 {Dieser Zug ist erzwungen.
+} 13. Nxf6+ {Das sieht nicht besonders überzeugend aus, aber der Springer
+soll ja nicht nach c3 zurückgehen und auf f4 hat er auch keine Zukunft.} Nxf6
+{Das ist die beste Art zurückzuschlagen. Der Springer kontrolliert das
+Zentrum und öffnet die Diagonale für den Damenläufer. Die schwarze Stellung
+ist gar nicht so schlecht. Er hat keine Schwächen, auch wenn er weniger Raum
+im Zentrum hat. Die Frage ist, wie macht Weiß nun weiter?} 14. Rfd1 {Die Idee
+sieht erst einmal gut aus. Weiß beabsichtigt die Türme auf die c-Linie und
+d-Linie zu stellen, um die schwarze Dame zu beunruhigen. Außerdem liegt immer
+wieder der Vorstoß d4-d5 in der Luft. Der Plan ist vage genug, um keine
+konkreten Varianten zu berechnen, sollte aber Schwarz genug nervös machen.}
+Nd7 $6 {Dieser freiwillige Rückzug soll die Stellung des starken Springers
+auf e5 unterminieren. Aber der Zug leistet nichts für die Entwicklung und ist
+deshalb nicht ganz vollwertig.} 15. Nf3 {Konsequenterweise zieht Weiß seinen
+Springer zurück. Jetzt ist der typische Befreiungszug e7-e5 verhindert.} Nf6 {
+Der Springer kehrt reumütig zurück, da er auf d7 nichts leistet und nur den
+eigenen Figuren im Weg steht.} (15... e5 $2 16. dxe5 Bxe5 $4 {scheitert an} 17.
+Nxe5 Nxe5 18. Qxd8 Rxd8 19. Rxd8+ {und Weiß hat einen glatten Turm mehr.}) 16.
+Ne5 $2 {Weiß willigt, wohl auch gesundheitsbedingt, in das stille
+Remisangebot ein. Dabei war in dieser Stellung viel mehr drin, und Weiß hat
+alle Möglichkeiten mit viel Druck weiterzuspielen.} ({Eine gute Alternative
+ist} 16. Rac1 Ne4 17. Qe1 Bf5 18. Nd2 Nxd2 19. Rxd2 {mit gutem Spiel für
+Weiß, obwohl Schwarz auch ein schönes Figurenspiel mit seinen Läufern hat.})
+*
+

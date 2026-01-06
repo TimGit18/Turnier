@@ -1,0 +1,26 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2016.11.02"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Bäuml, Ulrich"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1817"]
+[BlackElo "2095"]
+[PlyCount "98"]
+[EventDate "2016.11.02"]
+[SourceDate "2016.11.02"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 Nc6 6. Bb5 Bd6 7. O-O Nge7 8.
+Bg5 O-O 9. dxc5 Bxc5 10. Nbd2 Bg4 11. h3 Bh5 12. Nb3 Bd6 13. Be2 Qc7 14. Nbd4
+a6 15. Qd2 Rfe8 16. Rfe1 h6 17. Be3 Rad8 18. Bd3 Bxf3 19. Nxf3 Ne5 20. Nxe5
+Bxe5 21. Rad1 h5 22. Qe2 g6 23. Qf3 Nc6 24. Bg5 Rd6 25. a3 Rde6 26. Kf1 d4 27.
+c4 (27. Bc4 Rd6) 27... a5 28. c5 Bg7 29. Rxe6 Rxe6 30. Bf4 Be5 31. Bg5 Bg7 32.
+Bf4 Ne5 33. Qd5 Qe7 34. Bb5 g5 35. Bd2 g4 36. Bxa5 gxh3 37. gxh3 Bf6 38. Qg2+
+Ng6 $2 (38... Kf8 39. Rxd4 Nc6) 39. Bc4 Kh7 40. Bxe6 Qxe6 41. Bd2 $2 (41. Bc7)
+41... Nh4 42. Qg3 Qc4+ 43. Ke1 (43. Kg1 Qe2) 43... Qe6+ 44. Kf1 Qc4+ 45. Ke1 d3
+46. Kf1 $2 (46. Be3 Qc2 47. Rd2 Qc1+ 48. Rd1 Qxb2 49. Rxd3 Bc3+) 46... Qe4 47.
+Be3 (47. Kg1 Qe2) (47. Re1 Qh1+ 48. Qg1 Qxh3+) 47... Qh1+ 48. Qg1 Qxh3+ 49. Ke1
+Nf3# 0-1
+

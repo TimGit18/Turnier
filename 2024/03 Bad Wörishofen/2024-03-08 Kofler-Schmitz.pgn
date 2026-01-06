@@ -1,0 +1,103 @@
+[Event "Bad Wörishofen B-Turnier"]
+[Site "?"]
+[Date "2024.03.08"]
+[Round "1"]
+[White "Kofler, Albin Ernst"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E63"]
+[WhiteElo "1660"]
+[BlackElo "1823"]
+[Annotator "Tim Schmitz"]
+[PlyCount "38"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2024.03.08"]
+
+1. Nf3 Nf6 2. g3 g6 3. c4 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 {Das ist der
+Panno-Aufbau gegen das Fianchetto-System in der Königsindischen Verteidigung.
+Das Fianchetto-System ist extrem solide und nicht einfach zu bespielen. Die
+Grundidee ist es, im Zentrum und auf dem Damenflügel dagegen zu halten.} 7.
+Nc3 a6 8. Re1 {Ein ungewöhnlicher Zug, der theoretisch nicht kritisch sein
+dürfte.} Rb8 {Jetzt ist alles für den Vorstoß b7-b5 vorbereitet.} 9. Bf4 $6
+{[%csl Yd6,Yf4][%cal Gf4d6] Mein Gefühl sagt mir, dass der Läufer im
+Königsinder immer auf f4 schlecht steht. Er ist zwar entwickelt, aber er
+beißt mit dem Bauern d6 auf Granit. Möglicherweise war ein Motiv, den
+Befreiungszug e7-e5 zu verhindern, obwohl dies keine richtige Drohung war.} ({
+Die Theorie nach David Vigorito lautet} 9. Rb1 {[%csl Yb4][%cal Gb2b4]
+Normalerweise spielt Weiß hier den Damenturm nach b1, um der langen
+Läuferdiagonalen aus dem Weg zu gehen und eventuell b7-b5 mit b2-b4 zu
+entgegnen. Außerdem ist der Zug nicht verpflichtend, so wie andere Züge in
+dieser Stellung.} Na5 $5 {Das ist eine interessante Methode, um die weißen
+Pläne zu zerstören}) 9... Nh5 $6 {[%csl Yf4][%cal Rh5f4] Das ist definitiv
+etwas übermotiviert. Der Springer steht hier nicht so gut. Ich war getrieben
+von dem Wunsch, den weißen "inkorrekten" Aufbau zu "bestrafen". Jedoch ist
+dies kein gutes Motiv. Ein weiterer Wunsch war es, prompt f7-f5 folgen zu
+lassen, was jedoch anders als im Klassischen System im Fianchetto-System keine
+allzu starke Idee darstellt.} ({Normal wäre der Panno-Aufbau gewesen mit der
+Fortsetzung} 9... b5 {Das ist die logische Fortsetzung, denn die beiden
+vorhergehenden Züge haben diese vorbereitet. In dieser Stellung muss Schwarz
+nicht fürchten, dass der Springer auf c6 ungedeckt ist und vom weißen
+Läufer auf g2 geschlagen werden kann.} 10. cxb5 {Wenn Weiß den Bauern nicht
+schlägt, dann muss er ihn verteidigen, etwa mit b2-b3. Das schwächt aber die
+Diagonale h8-a1, und auch die b-Linie kann für Schwarz geöffnet werden.} axb5
+{Nun droht unter Umständen b5-b4.} 11. e4 {Weiß macht das beste aus der
+momentanen Stellung. Er hat ja seine Figuren im Zentrum massiert und will hier
+durchbrechen.} Bg4 {Weiß hat ein schönes Zentrum, aber Schwarz hat sehr
+gutes und aktives Figurenspiel.}) 10. Be3 {Hier steht der Läufer besser und
+er kann auch nicht so leicht angegriffen werden. Allerdings gibt es Ideen mit
+f7-f5-f4.} e5 $5 {Schwarz klärt die Situation im Zentrum und kann sich etwas
+befreien. Er hat mit den letzten beiden Zügen sich dafür entschieden, das
+Spiel auf den Königsflügel zu verlagern. Der Panno-Aufbau ist damit
+allerdings konterkariert.} 11. d5 {Weiß entscheidet sich dafür, das Zentrum
+abzuschließen - wie fast immer in solchen Stellungen. Das nimmt etwas
+Spannung aus der Stellung und legt gleichzeitig die Strategie für beide
+Seiten fest.} ({Weiß hätte auch den Bauern schlagen können mit} 11. dxe5 {
+Hiernach sollte Schwarz nicht mit dem Bauern, sondern mit dem Springer
+schlagen.} Nxe5 {Den Abtausch im Zentrum braucht Schwarz nicht zu fürchten.} (
+{Nach dem offensichtlichen} 11... dxe5 12. Qxd8 Rxd8 {folgt unangenehm} 13. Nd5
+) 12. Nxe5 Bxe5 {Die Stellung ist ausgeglichen, aber offensichtlich verflacht.
+Die Tempoverluste Tf1-e1 und Ta8-b8 spielen hier keine große Rolle.}) 11...
+Ne7 {Der Springer wird auf ein schlechtes Feld getrieben, es gab aber auch
+kein besseres.} ({Ein Fehler wäre hier} 11... Na5 $2 {, denn nach} 12. Nd2 c5
+{ist der Springer völlig aus dem Spiel}) 12. Bd2 {Der Läufer stand auf d2
+nur im Weg. Weiß möchte jetzt e2-e4 spielen. Allerdings ist dies jetzt schon
+der dritte Zug mit dieser Figur, was zeigt, dass er in dem System nicht so
+einfach zu entwickeln ist.} f5 {Dieser Zug ist logisch und notwendig.
+Angesichts der folgenden Abwicklung könnte er aber auch vorschnell gespielt
+sein.} 13. Ng5 {[%csl Ye6][%cal Gg5e6,Re6f8,Re6d8] Die Idee ist aus dem
+Bayonett-Angriff bekannt. Der weiße Springer strebt in das Loch. Weiß kann
+einen ärgerlichen Bauern auf e6 platzieren.} h6 $6 {Der Springer wollte
+sowieso weg. Daher muss man diesen Zug als Tempoverlust werten.} ({Besser wäre
+} 13... e4 {, wonach sich Linien für Läufer und Turm öffnen.}) 14. Ne6 Bxe6
+15. dxe6 {Das ist eine der Grundstellungen aus dem Bajonett-Angriff für
+Schwarz (ohne die Stellung der weißen Läufer). Die Frage ist: Kann der Bauer
+e6 gehalten werden? Wenn ja, dann steht Weiß sehr gut, auch angesichts der
+Schwäche der Diagonalen g8-a2. Andererseits kostet die Jagd nach dem Bauern
+auf e6 Schwarz eine Menge Zeit.} c6 $5 {Ich habe zuviel Respekt vor dem
+vakanten Feld d5. Der Zug ist sehr ängstlich.} ({Der natürliche Zug hier ist
+} 15... Qc8 {Der Bauer kann nicht gedeckt werden, also muss Weiß anders
+reagieren.} 16. Nd5 {Wenn Schwarz den Springer auf d5 schlägt, dann hat Weiß
+eine Bombenstellung.} Qxe6 {Schwarz kann sich diesen Zug erlauben.} 17. Nxc7 {
+Weiß muss hier das Maximum herausholen. Man beachte, dass der Turm auf b8
+prophylaktisch schon den Bauern b7 deckt!} Qxc4 18. Rc1 Qf7 {Schwarz hat einen
+guten Mehrbauern und ein gutes Zentrum.} 19. Bb4 {Weiß erhält den Bauern
+zurück.} e4 {Diese Stellung ist gut spielbar für beide Seiten. Weiß muss
+aufpassen, dass sein Springer nicht gefangen wird. Schwarz muss seine Türme
+entwickeln und den Springer am Rand wieder in das Spiel bringen.}) 16. e4 {
+Natürlich droht Weiß jetzt mit Schlagen auf f5 und es hängt der Springer
+auf h5 oder es gibt eine Gabel auf g4.} Nf6 {Es ist schwer, diese Stellung
+einzuschätzen. Eigentlich sollte Schwarz ganz gut stehen, aber die Engine
+sagt, dass es gleich ist. Also war das Remisangebot hier gerechtfertigt. Eine
+mögliche Fortsetzung in der Analyse war} 17. exf5 {Weiß öffnet die e-Linie,
+um die Wirkung des Turms zu erhöhen.} gxf5 {Zweischneidig: Schwarz
+kontrolliert eine Menge Raum im Zentrum, öffnet aber auch die Königsstellung.
+} ({Das Zurückschlagen mit dem Springer} 17... Nxf5 {ist wahrscheinlich
+besser. Der schlechte Springer wird aktiviert und der Bauer e6 kann jetzt
+frontal angegangen werden.} 18. Bh3 {Weiß versucht den Bauern e6 indirekt zu
+decken. Jedoch} Qe7 19. c5 Qxe6 20. cxd6 Qxd6 {Schwarz hat einen Mehrbauern
+auf e5, der zwar isoliert, aber nicht so schlecht zu verteidigen ist.}) 18. c5
+$1 {Das ist ein starker Zug, um das mächtige schwarze Zentrum zu
+unterminieren.} d5 {Schwarz kann sein Zentrum halten, aber um den Preis, dass
+der e-Bauer geschwächt ist. Was aber nicht geht} 19. Rxe5 $2 {wegen der
+Antwort} Ne4 {und der Turm ist gefangen.} 1/2-1/2
+

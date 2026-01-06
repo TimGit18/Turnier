@@ -1,0 +1,77 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2018.01.06"]
+[Round "9"]
+[White "Schmitz, Tim"]
+[Black "Eißmann, Olaf"]
+[Result "1-0"]
+[ECO "B98"]
+[WhiteElo "1831"]
+[BlackElo "1724"]
+[PlyCount "67"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.01.06"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 {Das ist die Ausgangsstellung
+des Kan-Systems. Schwarz will b7-b5 spielen und gegen e4 operieren} d6 {
+Das ist nicht die normale Fortsetzung im Kan-System. Es scheint, dass Schwarz
+eine Art Hybrid-Aufstellung aus Najdorf- und Paulsen-System gegen den weißen
+Standardaufbau spielen will. Weiß sollte versuchen, sich flexibel zu
+verhalten.} 6. Bd3 {Diesen Zug kann man gegen beide Systeme spielen. Weiß
+bereitet die kurze Rochade vor und überdeckt den Bauern e4. Wenn Schwarz
+jetzt den Damenspringer nach c6 entwickeln würde, dann könnte ihn Weiß ganz
+einfach schlagen und gegen das schwarze Zentrum spielen} Nf6 7. Bg5 {Dieser
+Zug macht hier Sinn, denn die Dame steht noch auf d8 und der Springer ist
+gefesselt. Nun transponiert das Spiel in die Hauptvariante der
+Najdorf-Verteidigung} Be7 8. f4 Nbd7 9. Qf3 {Die letzten Züge waren alle
+logisch. Jetzt könnte Schwarz Dd8-c7 und b7-b5 spielen und den Standardaufbau
+erreichen} Rb8 $6 {Schwarz möchte b7-b5 spielen, aber nicht von e4-e5
+belästigt werden. Dafür war dieser Zug aber nicht notwendig, denn er wird
+normalerweise gespielt, wenn Weiß seine Stellung schon mit a2-a3 geschwächt
+hat} 10. O-O-O {Es muss weiter das Standardprogramm durchgeführt werden, denn
+mit der kurzen Rochade macht der weiße Aufbau wenig Sinn} Qc7 11. Rhe1 {
+Jetzt ist fast die Ausgangsstellung der Klassischen Hauptvariante im
+Najdorf-System erreicht.} b5 {Mit diesem Vorstoß bereitet Schwarz Aktionen am
+Damenflügel vor, aber er schwächt auch das Feld c6} 12. Nd5 {Das ist das
+thematische Figurenopfer von Kotronias in dieser Stellung} Nxd5 $2 {Das ist
+keine gute Fortsetzung. Weiß erhält große Stellungsvorteile ohne Material
+zu opfern} ({Nach der (empfohlenen) Annahme} 12... exd5 {folgt} 13. Nf5 Kf8 14.
+Qg3 {mit Drohungen gegen e7 und g7}) 13. exd5 {[%csl Yc6,Yd5,Ye6][%cal Re1e6,
+Rd5e6,Rd5c6] Jetzt hat Weiß trotzdem die e-Linie geöffnet und droht mit dem
+Eindringen auf c6 oder einem Einschlag auf e6. Der schwarze König ist
+überdies unsicher. Alle weißen Figuren stehen optimal postiert, so dass
+Schwarz etwas unternehmen muss} Ne5 $6 {Das ist ein sehr aktionistischer Zug,
+der in manchen solcher Stellungen funktionieren kann, aber hier wohl eher
+nicht.} ({Besser ist direkt} 13... Bxg5 {[%csl Ye5,Yf3,Yf4,Yg5][%cal Gd7e5,
+Ge5d3,Ge5f3,Rf4g5] , weil dann das Zurückschlagen auf g5 wegen der
+Springergabel auf e5 nicht funktioniert} 14. dxe6 fxe6 15. fxg5 Ne5 {[%csl Yd3,
+Yf3] und die schwarze Stellung sieht zumindest haltbarer aus}) 14. fxe5 Bxg5+ {
+Das materielle Gleichgewicht ist gewahrt, aber der Stellungsvorteil von Weiß
+ist klar, denn sein Zentrum gewährt ihm viel mehr Raum. Schwarz muss immer
+noch den König in Sicherheit bringen} 15. Kb1 O-O $6 {Natürlich stand der
+schwarze König im Zentrum wegen der weißen Drohungen und der Türme nicht
+gut, aber auf dem Königsflügel findet er auch keine Sicherheit} 16. Qh5 {
+[%csl Yg5,Yh7][%cal Rd3h7,Rh5h7,Rh5g5] Natürlich mit Doppelangriff auf den
+König und auf den Läufer} h6 {Der Zug begegnet beiden Drohungen, aber er
+schwächt auch die weißen Felder rund um den schwarzen König herum} ({Nach} 
+16... Bh6 17. g4 {hat Schwarz Schwierigkeiten dem Bauernvorstoß g4-g5 zu
+begegnen}) 17. exd6 {Weiß will die Stellung öffnen, aber zunächst die Dame
+von der siebten Reihe weglocken} Qxd6 18. dxe6 {Die zweite Linie im Zentrum
+wird geöffnet und die Dame gerät in das Visier des weißen Turms} g6 $2 {
+Das ruiniert die Stellung endgültig. Schwarz möchte die weiße Dame gerne
+vertreiben, aber die Königsstellung wird ganz schwach. Und er verliert einen
+Bauern, was angesichts der mangelnden Sicherheit des schwarzen Königs nicht
+von Bedeutung ist} 19. exf7+ Rxf7 20. Bxg6 Re7 $2 {Zu der schlechten Stellung
+kommt nun auch Materialverlust hinzu} ({Nicht besser ist allerdings} 20... Rf6
+21. Nf5 Qc5 22. Rd8+ Rf8 23. Rxf8+ Qxf8 24. Re8) 21. Rxe7 Qxe7 $6 {Schwarz
+gibt eine Qualität} ({Vielleicht ist} 21... Bxe7 22. Ne6 Qxd1+ 23. Qxd1 Bxe6 {
+das kleinere Übel} 24. Qe1 Rb6 25. Qe3 Rd6) 22. Nc6 Qc7 23. Nxb8 Qxb8 {
+Die Partie ist technisch gewonnen. Weiß hat zwei Bauern und die Qualität
+mehr, aber in Wahrheit ist der schwarze König der Gewinnfaktor. Mit ein paar
+Schachs kann Weiß den König auf das offene Feld führen und Schwarz muss
+schon sehr viel aufgeben, um ihn zu retten} 24. Bf7+ Kf8 25. Qg6 Qc7 {[%csl
+Yd1,Yd2,Yd3,Yd4,Yd5,Yd6,Yd7,Yd8,Ye6,Ye8,Yf7,Yg6,Yg7,Yg8]} 26. Qg8+ Ke7 27. Qe8+
+Kf6 28. Rf1+ Bf5 {Das ist noch ein kleiner Scherz. Schwarz droht seinerseits
+mit Schlagen auf c2} 29. Qe6+ Kg7 30. Qxf5 Qxh2 31. Qg6+ Kf8 32. Qg8+ Ke7 33.
+Qe8+ Kd6 34. Qb8+ 1-0
+

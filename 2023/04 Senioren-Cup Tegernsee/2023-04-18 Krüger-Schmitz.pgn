@@ -1,0 +1,20 @@
+[Event "Senioren-Cup Tegernsee"]
+[Site "?"]
+[Date "2023.04.18"]
+[Round "?"]
+[White "Krüger, Detlef"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "1683"]
+[BlackElo "1860"]
+[Annotator "Tim Schmitz"]
+[PlyCount "41"]
+[SourceVersionDate "2023.04.18"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 a6 7. Qe2 Nf6 8.
+O-O Bg4 9. Rd1 e6 10. Bf4 Qb8 11. Rac1 Be7 12. h3 Bxf3 13. Qxf3 O-O 14. Bb3 Rc8
+15. Na4 b5 16. Nc5 Ne5 $2 (16... e5 $1) 17. Bxe5 dxe5 18. Nxe6 Rxc1 19. Rxc1 h6
+$4 (19... fxe6 20. Bxe6+ Kh8 21. Rc8+ Qxc8 22. Bxc8 Rxc8 23. Qf5) 20. Nc7 Ra7
+21. Nd5 1/2-1/2
+

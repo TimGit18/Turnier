@@ -1,0 +1,16 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2025.08.04"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Sippenauer, Florian"]
+[Result "*"]
+[ECO "B01"]
+[WhiteElo "1841"]
+[BlackElo "2165"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[SourceVersionDate "2025.08.04"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bg4 7. h3 Bh5 8. g4 Bg6 9. Ne5 Nbd7 10. Nxd7 Nxd7 11. Bd2 Qb4 $6 12. Qe2 Nb6 $2 13. Bb3 Qxd4 $2 14. O-O-O e6 15. Be3 Qb4 16. f4 Be7 17. f5 exf5 18. gxf5 Bxf5 19. Rd4 $2 Qa5 20. Bg5 Be6 21. Bxe7 Kxe7 $18 22. Bxe6 $6 fxe6 23. Re1 $6 Qf5 24. Re4 $2 Rad8 25. Rxe6+ $11 Kd7 26. Re7+ Kc8 27. Rxg7 Rd7 28. Rxd7 $11 *
+

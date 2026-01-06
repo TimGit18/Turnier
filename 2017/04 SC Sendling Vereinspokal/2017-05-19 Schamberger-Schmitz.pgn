@@ -1,0 +1,91 @@
+[Event "SC Sendling Vereinspokal"]
+[Site "?"]
+[Date "2017.05.19"]
+[Round "1"]
+[White "Schamberger, Alfons"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B95"]
+[WhiteElo "2125"]
+[BlackElo "1874"]
+[PlyCount "87"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.05.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. a4 {Dies ist
+eine ungewöhnliche Fortsetzung in der Najdorf-Variante. Weiß unterbindet die
+schwarze Expansion auf dem Damenflügel mit b7-b5. Aber er leistet nichts für
+die Entwicklung des eigenen Angriffs wie etwa f2-f4} h6 {Schwarz hat keinen
+Grund seine Entwicklungsstretegie zu ändern. Er will im Geiste der
+Browne-Verteidigung seine Struktur aufstellen, um die Koordination der weißen
+Figuren zu stören} 8. Be3 {Weiß ändert seine Strategie und die Partie geht
+in die Struktur eines Klassischen Systems über} e5 {Dies ist die konsequente
+Antwort. Jetzt, wo der Läufer nicht mehr auf g5 steht, hat Schwarz wieder
+etwas mehr Kontrolle über das Feld d5 und kann diesen thematischen
+Najdorf-Zug spielen} 9. Nb3 Be6 {Konsequente Überdeckung des Feldes d5 und
+Entwicklung einer Figur} 10. Be2 Be7 {Beide Seiten haben sich im Sinne der
+Klasssischen Variante entwickelt und bereiten ihre Mittelspiel-Pläne vor} ({
+Schwarz könnte die Stellung auch gleich öffnen und den Bauerndurchbruch
+spielen} 10... d5 11. exd5 Nxd5 12. Nxd5 Bxd5 {[%csl Yc5][%cal Rb3c5,Re3c5]
+Was nicht gefällt ist, dass Schwarz einen Entwicklungsrückstand und ein
+schwaches Feld auf c5 besitzt}) 11. O-O O-O {Die Grundentwicklung der Figuren
+ist abgeschlossen. Weiß entscheidet sich jetzt für ein aggressives Vorgehen}
+12. f4 exf4 13. Bxf4 Nc6 14. Kh1 Ne5 {[%csl Yc4,Ye5,Yg4][%cal Re6c4,Rd5c4,
+Re5c4,Re5g4] Schwarz verzichtet auf die Zentrumsöffnung und vertraut auf
+seine Figurenkoordination} ({Aber jetzt wäre es an der Zeit, den
+Zentrumsdurchbruch zu spielen} 14... d5 15. e5 Ne4 16. Nxe4 dxe4 17. Nd2 Bg5 {
+Weiß wird zwar den Bauern auf e4 gewinnen, aber Schwarz kann sich den Bauern
+auf e5 sichern}) 15. Nd4 {Auch Weiß hat jetzt einen schönen Vorposten für
+seinen bislang schlecht platzierten Springer gesichert} Rc8 {Dieser
+thematische Zug von Schwarz besetzt die e-Linie und droht mit dem
+Qualitätsopfer auf c3} ({Eine valide Alternative ist} 15... Qb6 {[%csl Yb2,
+Yd4][%cal Rb6d4,Rb6b2] mit Angriff auf den Bauern b2 und den Springer d4}) 16.
+Qe1 {Weiß überdeckt den Springer und verhindert somit das Qualitätsopfer,
+denn Schwarz möchte nicht nur den Bauern auf e4, sondern auch die
+Bauernstruktur auf dem Damenflügel zerstören} Ng6 {Dieser Rückzug vertreibt
+zwar den starken Läufer von f4, aber er entfernt auch eine Figur aus dem
+Zentrum} ({Aber jetzt hätte man} 16... Qb6 {spielen sollen, vielleicht mit
+der Folge} 17. Nxe6 fxe6 18. Rb1 {Weiß hat zwar das Läuferpaar, aber auch
+einen isolierten e-Bauern.}) 17. Be3 Qc7 $6 {Möglicherweise nicht das beste
+Feld für die Dame, obwohl es ein Sizilianischer Standardzug ist. Allerdings
+ist die Dame hier auch Angriffen des Springers auf d5 ausgesetzt} ({Die
+Alternative} 17... Qd7 {überdeckt die weißen Felder im Zentrum und bereitet
+d6-d5 vor} 18. Rd1 Rfd8 19. Nf5 {ist eine plausible Fortsetzung}) 18. Bd3 $6 {
+Dieser Zug ist ungenau, denn er verliert die Kontrolle über g4. Außerdem
+wird nicht klar, was der Läufer auf d3 soll.} Ng4 $1 {[%csl Ye3,Ye5,Yg4,Yh2]
+[%cal Rg4e5,Rg4e3,Gc7h2,Rg4h2] Der Springer greift den Läufer auf e3 an und
+visiert das starke Feld e5 an. Außerdem strahlt die schwarze Dame im Verbund
+mit dem Springer nach h2} 19. Bg1 {Dieser Rückzug ist der sicherste, der
+Läufer wird gerettet und er deckt den Bauern auf h2} Bh4 {Der Läufer sieht
+zwar optisch stark aus und kommt auch mit Tempo nach h4, aber auf lange Sicht
+leistet der Läufer nichts auf diesem Feld} 20. Qe2 {Der beste Zug von Weiß.
+Nun droht direkt Sd4xe6 mit Figurengewinn, also muss der Springer ziehen} N4e5
+21. Nf5 $1 {Ein unangenehmer Zug, denn der Springer bedroht wichtige Felder
+auf dem Königsflügel und den schwarzen Läufer auf h4} Bg5 {Wahrscheinlich
+ist dies der beste Rückzug für den Läufer, denn jetzt droht Schwarz auch
+mit dem Zug Sg6-f4} 22. g3 {Weiß verhindert prophylaktisch den Einstieg auf
+f4. Ein anderes Motiv liegt im Vormarsch des h-Bauern, der von Schwarz
+unterschätzt wird} Rfe8 {Der Zug sieht zunächst einmal plausibel aus. Die
+letzte Figur wird auf eine aktive Linie gebracht und steht auch in
+Fernverbindung mit der weißen Dame.} 23. h4 {Das sieht aus wie eine
+entscheidende Wendung. Weiß ergreift die Initiative und treibt die schwarzen
+Figuren auf passive Felder} Bxf5 {Fügt sich in das scheinbar unvermeidliche.
+Der weiße Springer auf f5 steht extrem stark} ({Nach} 23... Bd8 24. Nd5 Qd7 {
+stehen die schwarzen Figuren sehr gedrängt}) 24. Rxf5 {Das ist nicht die
+einzige, aber vielleicht beste Art des Wiedernehmens} ({Der Zug} 24. exf5 {
+gewinnt keine Figur aufgrund des Abzugsangriffs} Nxd3 25. Qxd3 Ne5 26. Qd5 Bd8)
+24... Bd8 {Es sieht zwar umständlich aus, den Läufer auf der Grundreihe zu
+platzieren, aber hier überdeckt er das gefährliche Loch auf dem Feld b6} 25.
+Nd5 {Der logische Folgezug. Der Springer steht sehr dominant im Zentrum und
+bedroht wichtige schwarze Felder, insbesondere die schwarze Dame} Qd7 {Die
+Dame bleibt in der Nähe ihres Königs und schielt mit einem Auge auf den
+Bauern a4} 26. Be3 {Weiß bringt seine Figuren wieder in das Spiel.} Ne7 {
+Dieser Rückzug führt zum Abtausch des dominanten weißen Springers. Aber
+richtig gut gefällt die Stellung nicht mehr. Weiß kann die Türme verdoppeln
+und gegen die Schwächen auf h6 und f7 spielen} 27. Nxe7+ Bxe7 28. Raf1 {
+Weiß bringt eine weitere Figur in das Spiel, opfert aber einen Bauern} Bf8 $2
+{Dieser Zug ist viel zu passiv} (28... Qxa4) (28... Bf6 29. Bxh6) 29. Bd4 g6
+30. R5f4 Qh3+ 31. Qh2 Qd7 (31... Qxh2+ 32. Kxh2 Re7) 32. Bxe5 dxe5 33. Rxf7
+Qxf7 34. Rxf7 Kxf7 35. Qf2+ Kg7 36. Qb6 Re7 37. b3 Rc6 38. Qd8 Rf7 39. Qd5 Rc5
+40. Qe6 Rf6 41. Qe8 Bd6 $2 42. Bc4 Rf8 $4 43. Qd7+ Kh8 44. Qxd6 1-0
+

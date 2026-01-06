@@ -1,0 +1,38 @@
+[Event "Schachfestival Bad Wörishofen 2010"]
+[Site "?"]
+[Date "2010.03.09"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Hipp, Herrmann"]
+[Result "0-1"]
+[ECO "B14"]
+[WhiteElo "1870"]
+[BlackElo "1841"]
+[Annotator "Tim Schmitz"]
+[PlyCount "136"]
+[EventDate "2010.05.16"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 {Eher
+eine zahme Version des Panov-Angriffs} (7. cxd5 Nxd5 8. Bd3 Nc6 9. O-O O-O 10.
+Re1 Nf6 {ist die Theorie}) 7... O-O 8. O-O a6 9. Bg5 dxc4 10. Bxc4 b5 $1 {
+Eine gute Variante gegen Panov: Schwarz kommt unter Tempogewinn zur
+Entwicklung des weißfeldrigen Läufers} 11. Bb3 Bb7 12. Qd3 $2 {Mit der
+falschen Idee der Batterie, dafür fehlt aber a3!} Nbd7 13. Bc2 $4 {Jetzt kommt
+Schwarz sehr leicht in Vorteil} b4 $1 14. Ne2 Be4 15. Qb3 Bxc2 16. Qxc2 Rc8 {
+Schwarz hat die Initiative am Damenflügel, Weiß nur einen schwachen IDB, da
+der Königsläufer abgetauscht ist} 17. Qa4 Qb6 18. Rac1 h6 19. Be3 Qb7 20. Ng3
+$2 {Hier hat der Springer gar keine Felder} Nb6 21. Qb3 a5 {[%csl Yd5]} 22. Qd3
+Nbd5 23. Ne5 a4 24. Qe2 a3 $1 {Nach einigen planlosen weißen Zügen geht
+Schwarz am Damenflügel vor} 25. h3 axb2 26. Qxb2 Nc3 $1 27. Bd2 Nfd5 28. Bxc3
+Nxc3 29. a3 Qd5 30. axb4 Qxd4 {Wickelt in ein gewonnenes Endspiel ab} 31. Rfe1
+Qxb4 32. Qxb4 Bxb4 33. Rc2 Nd5 34. Rxc8 Rxc8 35. Ra1 Bd6 36. Nf3 Bxg3 {Das
+geht am einfachsten} 37. fxg3 Rc2 38. Re1 Nc3 39. Nd4 Rd2 40. Nf3 Re2 41. Rxe2
+Nxe2+ 42. Kf2 Nc3 43. Ke3 f6 44. g4 Kf7 45. Kd3 Nd5 46. Ke4 Ne7 47. Kd3 e5 48.
+Ke4 g6 49. g3 Ke6 50. Nd2 f5+ 51. gxf5+ gxf5+ 52. Kd3 Nd5 53. Nc4 h5 54. h4 f4
+55. Ke4 $4 (55. gxf4 Nxf4+ (55... exf4 56. Ke4 {ist nur Remis}) 56. Ke3 {
+ist viel zäher}) 55... Nf6+ 56. Kf3 fxg3 57. Kxg3 Kd5 {Jetzt hat Schwarz eine
+Durchmarschroute gefunden} 58. Ne3+ Ke4 $2 59. Ng2 (59. Kf2) 59... Nd5 60. Kf2
+Nf4 61. Ne3 Nh3+ 62. Ke2 Nf4+ 63. Kf2 Nh3+ 64. Ke2 Nf4+ 65. Kf2 Ng6 66. Ng2 Kd3
+{Endlich} 67. Ne1+ Kd4 68. Ng2 Nf4 {Zeitüberschreitung durch Weiß nach
+ziemlich vielen Fehlern} 0-1
+

@@ -1,0 +1,83 @@
+[Event "Salzkammergut Schachopen (B-Turnier)"]
+[Site "?"]
+[Date "2015.05.22"]
+[Round "?"]
+[White "Goelles, Walter"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "E63"]
+[WhiteElo "1713"]
+[BlackElo "1835"]
+[PlyCount "42"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.06.10"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O a6 7. Nc3 Nc6 8. e3
+Rb8 9. b3 {Mit diesem Zug leitet Weiß einen Aufbau ein, der an das
+Damenfianchetto im Panno-System erinnert. Allerdings spielt Weiß diesen Zug
+normalerweise einen Zug früher und verzichtet auf e2-e3.} Bd7 {Dieser Zug
+passt zwar immer in das Panno-System, ist aber vielleicht etwas zu passiv} ({
+Thematisch ist der Vorstoß} 9... b5 {und wird auch von der Theorie empfohlen.
+Allerdings hatte ich Angst vor der ungedeckten Stellung des Springers auf c6})
+10. Re1 {Weiß verstärkt seine Stellung im Zentrum und wartet zunächst ab,
+wie sich Schwarz aufbaut. Dieses Verhalten ist nicht untypisch im Panno-System,
+in dem Weiß das Spiel in der Regel nicht forciert.} b5 {Spätestens jetzt ist
+die Zeit gekommen, diesen thematischen Durchbruch zu spielen. Die schwarzen
+Figuren stehen gut organisiert und Weiß kann das Aufreißen seines
+Damenflügels nicht gut verhindern.} 11. Nd2 {[%csl Yc4,Yc6,Yg2][%cal Rd2c4,
+Rg2c6] Dieser Zug ist auch nicht unüblich im Panno-System. Weiß verstärkt
+den Halt des Bauern c4 und demaskiert den Läufer auf g2. Vielleicht wäre es
+aber stellungsgemäßer, auf b5 zu tauschen und auf der c-Linie zu spielen} Nb4
+$5 {[%csl Yc2,Yd3][%cal Gb4d3] Ein gravierender Nachteil der weißen
+Figurenaufstellung ist die Schwächung der weißen Felder auf dem Damenflügel
+und im Zentrum durch die Züge e2-e3 und Sf3-d2. Schwarz droht sofort damit,
+dass Läuferpaar zu gewinnen, wonach der Läufer g7 seher stark werden würde}
+12. Nde4 {Weiß zentralisiert eine Figur und verhindert die beschriebene
+Drohung. Allerdings ist dies ein weiterer Zug mit einer entwickelten Figur, so
+dass das weiße Spiel nicht vorankommt} bxc4 $6 {[%csl Yb2,Yc5,Yd4][%cal Gc7c5,
+Gg7d4,Gb8b2] Die schwarze Strategie ist eigentlich klar. Er möchte die
+b-Linie öffnen, den Springer auf e4 abrtauschen und dann c7-c5 spielen, um
+mit dem starken schwarzen Läufer auf g7 einen Druck auf den Bauern d4 und die
+schwarzen Felder im weißen Lager auszuüben} ({Allerdings ist die Reihenfolge
+womöglich ungenau. Besser ist vielleicht} 12... Nxe4 13. Nxe4 bxc4 14. bxc4 c5
+{, wonach der schwarze Läufer auf g7 sehr stark verbleibt}) 13. bxc4 {Weiß
+verpasst die Möglichkeit, hier eine Zugumstellung vorzunehmen und den ein
+Tempo zu gewinnen} ({Nach} 13. Nxf6+ Bxf6 14. Ne4 $1 {kann Weiß einen Bauern
+für Initiative opfern} cxb3 15. Nxf6+ exf6 16. axb3 Bb5 17. e4 {hat zwar
+Schwarz einen Bauern mehr, aber Weiß hat das Läuferpaar, ein gutes Zentrum
+und etwas Kompensation für den geopferten Bauern}) 13... Nxe4 {Natürlich
+darf man Weiß nicht die Gelegenheit einräumen, diesen Fehler direkt zu
+korrigieren} 14. Bxe4 {Vielleicht ist der Springer auf e4 besser platziert,
+aber Weiß möchte gerne die starke Diagonale a8-h1 für seinen Läufer
+behalten und die Diagonale a1-h8 für den schwarzen Läufer geschlossen halten}
+c5 {Dieser Zug muss jetzt kommen} 15. Ne2 {Dieser Rückzug ist passiv und noch
+nicht notwendig. Weiß möchte unbedingt den Bauern auf d4 sichern.} ({Die
+Alternative} 15. a3 Nc6 16. Bxc6 Bxc6 17. Qd3 {sieht auch nicht sehr angenehm
+aus. Schwarz hat ideale Diagonalen für seine Läufer, die offene b-Linie und
+eine gesunde Bauernstruktur. Er kann mit Angriffsspiel fortsetzen} Rb3) 15...
+Qc7 {[%csl Yc4,Yd4][%cal Gc7c4,Gc5d4] Das ist ein sinnvoller Entwicklungszug,
+der die beiden Türme verbindet, den Bauern c4 indirekt angreift und auch
+einen Blick nach c2 wirft} 16. a3 {Weiß wirft den störenden schwarzen
+Springer zurück} Nc6 17. Bxc6 $2 {Das ist eine strategisch zweifelhafte
+Entscheidung. Auf der einen Seite beseitigt Weiß zwar einen starken schwarzen
+Springer, der unangenehm auf d4 drückt. Andererseits schwächt der Abtausch
+alle weißen Felder rund um den weißen König. Der schwarze Damenläufer hat
+jetzt keinen Gegenspieler mehr} Bxc6 18. Ra2 {Auch dieser Zug ist kein sehr
+überzeugender. Der Turm entfernt sich aus der Diagonale des Läufers und
+deckt den eigenen Läufer auf b2. Aber der Turm steht hier passiv und
+künstlich} Bf3 {Der Zug fesselt den weißen Springer auf e2 und demaskiert
+wiederum die Dame auf der c.-Linie} 19. Bb2 {Dieser natürlich aussehende Zug
+ist ein weiterer Fehler, den die weiße Stellung nicht verkraften kann} ({Nach
+} 19. Qd3 Rfc8 20. d5 Qd7 21. Nf4 g5 22. Ng2 Qh3 23. Qf1 {steht Weiß zwar
+sehr schlecht, kann aber die Partie vielleicht noch halten}) 19... Rfc8 {Ein
+Zug, der die schwarze Stellung verstärkt und damit droht einen Bauern auf c4
+zu gewinnen (der Bauer steht tatsächlich en prise, es ist aber gar nicht
+notwendig diesen sofort zu nehmen)} 20. Qd2 {Weiß entfesselt seinen Springer,
+aber er rettet dadurch nur kurzfristig den c-Bauern} Qd7 {Schwarz könnte den
+Bauern auch direkt nehmen, indem er erst auf f3 und dann auf d4 tauscht, aber
+er zieht es vor, die Spannung in der Stellung aufrecht zu halten} 21. Nf4 $2 {
+Dieser Zug verliert sofort} ({Nicht viel besser ist} 21. h4 Qh3 22. Nf4 Bh6 23.
+Qd3 Bxf4 24. Qf1 {und Schwarz behält eine Mehrfigur}) 21... g5 {Wenn der
+Springer jetzt weichen muss, dann geht die schwarze Dame nach h3 und Weiß
+wird matt} 0-1
+

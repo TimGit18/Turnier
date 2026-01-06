@@ -1,0 +1,153 @@
+[Event "Ligapokal"]
+[Site "?"]
+[Date "2015.11.15"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Komarov, Jan"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[WhiteElo "1852"]
+[BlackElo "1866"]
+[PlyCount "141"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.11.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 {Dies ist die
+Ausgangsstellung des Schwarzen Diamanten} 7. f4 {Das ist eigentlich eine viel
+zu zögerliche und zahme Antwort. Aus Angst vor fehlender Theoriekenntnis
+hofft Weiß, in die bekannten Varianten des Klassischen Najdorf-Systems zu
+gelangen.} ({Die eigentlich bevorzugte Fortsetzung lautet} 7. Bc4 Qa5 8. Qd2 e6
+9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 O-O-O 12. a3 {und es wird ein kompliziertes
+Mittelspiel entstehen}) 7... e6 8. Qf3 Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1
+O-O-O {Es ist eine Art Klassischer Najdorf-Stellung entstanden, in der Schwarz
+allerdings ein Tempo eingesprart hat, da er auf die (vorzeitige)
+Läuferentwicklung nach e7 verzichtet hat} 12. Kb1 {Ein logischer Zug, mit dem
+Weiß den König aus der gefährlichen c-Linie zieht} Be7 {Schwarz beendet die
+Entwicklung der Leichfiguren. Jetzt benötigt Weiß einen adäquaten Plan} 13.
+Qg3 $6 {[%csl Yg7] Das ist ein zweifelhafter Plan. Es ist richtig die Dame aus
+der Läuferdiagonalen zu ziehen, aber das Zielfeld ist falsch. Eigentlich
+funktioniert der Plan mit dem Angriff gegen den Bauern g7 nur, wenn Schwarz
+noch in der Brettmitte steht, denn jetzt kann er selber auf dem Königflübel
+tätig werden} ({Vermutlich ist die folgende Aufstellung besser, mit mit der
+eine ähnliche Anlage wie in der Partie durchgeführt wird.} 13. Qe2 h6 14. Bh4
+g5 15. Bg3 {Jetzt steht der weiße Damenläufer optimal, denn er strahlt die
+schwarze Dame an}) 13... h6 $1 {Schwarz beginnt ein aktives Gegenspiel am
+Königsflügel. Das ist ein sehr guter, aggressiver Plan, denn er kann im
+Zentrum momentan keinen Druck aufbauen. Allerdings ist seine Bauernstruktur
+völlig intakt und seine Figuren auf der siebten Reihe gut koordiniert.} 14.
+Bh4 {Der Abtausch auf f6 würde nur den Druck auf die schwarze Stellung
+vermindern} g5 {Folgerichtig gespielt im Geiste des Browne-Systems. Schwarz
+opfert temporär einen Bauern, um Linien zu öffnen und einen Stützpunkt für
+seinen Springer auf e5 zu errichten} 15. fxg5 {Weiß muss den Bauern nehmen,
+da er sonst eine Figur verliert} hxg5 16. Bxg5 Rdg8 {Für den Preis eines
+Bauern hat Schwarz seine Stellung befreit und seine Türme hervorragend
+aktiviert} 17. h4 {Der Zug verfolgt zwei Ziele, nämlich die Sicherung des
+h-Bauern und die Deckung des Läufers auf g5} Nh5 {Schwarz treibt die weißen
+Figuren unter Tempogewinn zurück} 18. Qf2 {Dies ist noch das aktivste Feld
+für die weiße Dame, denn sie besetzt eine halboffene Linie und greift den
+Bauern f7 an} Bxg5 $5 {Konsequent, aber der Zug hat eine Komponente, die
+Gegenspiel erlaubt} 19. hxg5 Ne5 $1 {[%csl Yc4,Yd3,Yf7,Yg4][%cal Re5c4,Re5d3,
+Re5g4,Re5f7] Der schwarze Springer ist die beste Figur auf dem Brett. Er deckt
+f7 und greift den Läufer auf d3 an. Gleichzeitig visiert er die Felder c4 und
+g4 an} 20. Bxb5 {Das ist ein defensives Figurenopfer, mit der die schlechteste
+Figur von Weiß aktiviert wird.} Qb6 {Klugerweise nimmt Schwarz das angebotene
+Opfer nicht an, sondern stellt die Dame auf das aktivste Feld. Sie wirkt auf
+b2 und fesselt gleichzeitig den Springer auf d4} ({Nach} 20... axb5 21. Ndxb5
+Qe7 22. Nxd6+ Kb8 23. Ncb5 Nc6 {hat Weiß drei Bauern für die Figur erhalten
+und den schwarzen König erfolgreich destabilisiert}) 21. Ba4 $2 {Auf diesem
+Feld hat der Läufer keine Zukunft. Die Idee war vielmehr die Figur nach b3 zu
+stellen, um das Feld c4 zu kontrollieren. Aber auch dort ist er deplatziert} ({
+Besser ist der Zug} 21. Be2 {[%csl Ye2,Yf3,Yg4,Yh5][%cal Ge2h5] , denn er
+kontrolliert g4 und greift den Springer auf h5 an} Rxg5 {wird mit} 22. Rh1 {
+beantwortet}) 21... Rxg5 22. Bb3 Rhg8 {Die Eröffnung ist vorüber. Alle
+Figuren sind entwickelt. Die schwarzen Figuren sind allerdings für einen
+Mittelspielangriff viel besser positioniert. In der Folge wird Weiß komplett
+überspielt, obwohl es Möglichkeiten zu Gegenspiel gibt} 23. Rg1 {Weiß muss
+zunächst den gefährdeten Bauern decken. Er darf die Türme von Schwarz nicht
+auf die zweite Reihe lassen} Ng3 $1 {Ein hervorragender Zug, der die
+schlechteste Figur von Schwarz aktiviert und attackiert die größte Schwäche
+von Weiß, den Bauern e4} 24. Qd2 {Das ist ein Verzweifelungszug von Weiß in
+der vagen Hoffnung etwas auf d6 anzustellen. Er entfesselt zwar den Springer
+auf d4, aber er gibt auch leichtfertig den Bauern auf e4 auf, wonach die
+Stellung kippt} ({Zäher war} 24. Qe1 {Natürlich ist die weiße Stellung
+passiv. Aber jetzt droht auch schon einmal ein Zug wie Sd4xe6} Qc5 25. Nxe6
+fxe6 26. Bxe6+ Kb8 27. Bxg8 Rxg8 28. Nd5 {Vermutlich ist Schwarz immer noch
+besser, aber die Stellung ist zumindest hiunreichend unklar}) 24... Nxe4 25.
+Nxe4 Bxe4 {Schwarz hat vollständig die Kontrolle über das Zentrum
+übernommen und wird jetzt Material gewinnen} 26. a4 {Ein etwas alberner
+Versuch von Weiß Gegenspiel auf dem Damenflügel zu organisieren. Vermutlich
+war das Opfer auf e6 immer noch die beste Option} Rxg2 {Natürlich bricht sich
+Schwarz jetzt auf der g-Linie durch} 27. Rxg2 Rxg2 28. Qe1 {Weiß könnte mit
+der Dame auch direkt nach c3 gehen, aber er möchte den Läufer aus dem
+Zentrum werfen} d5 $1 {Zurecht beurteilt Schwarz die weißen Ideen nicht als
+allzu gefährlich. Er muss nur noch die wenigen Angriffsmöglichkeiten
+abwehren und dann im Zentrum marschieren} 29. Qc3+ Qc7 {Ein schlauer
+Damenrückzug, mit der der Druck auf den schwachen Bauern c2 noch einmal
+erhöht wird} 30. Qb4 {Weiß zielt auf die lange Diagonale und auf das Feld f8}
+Nd7 {Schwarz zieht den Springer zurück, um das Feld f8 zu decken und um seine
+Bauernfront im Zentrum zu mobilisieren} 31. Rd2 {Natürlich ist dieser Zug
+eine moralische Kapitulation. Aber der Druck gegen das Feld c2 und auf der
+zweiten Reihe ist bereits zu stark} Qc5 {Nur zu gerne tauscht Schwarz die
+Damen, da er jede Schwindelchancen von Weiß verhindert.} 32. Qxc5+ {Weiß hat
+keine andere Wahl} Nxc5 33. Rxg2 Bxg2 {Das Endspiel muss als gewonnen für
+Schwarz angesehen werden. Weiß kann nicht so einfach einen Freibauern auf dem
+Damenflügel bilden} 34. Kc1 Kd7 35. Kd2 Be4 {Welchen Plan soll Weiß in dem
+Endspiel wählen?} 36. Kc3 {Das ist schon einmal nicht richtig. Weiß kann
+überhaupt nicht auf dem Damenflügel durchbrechen} Kd6 {Beide Könige sind
+aktiviert. Jetzt ist es Zeit für die konkreten Pläne} 37. a5 {Die Idee sieht
+schon einmal gut aus. Der weiße Läufer wird von der Deckung des Bauern
+entbunden. Außerdem steht der Bauer auf der richtigen Farbe, nämlich der
+entgegengesetzten Läuferfarbe} f5 $1 {Die Bauernmasse setzt sich in Bewegung
+- und zwar mit dem richtigen Bauern, nämlich demjenigen, der am weitesten vom
+König entfernt ist} 38. Ba2 {Die einzige Idee ist es, den Bauern b2-b4 zu
+bewegen. Weiß darf nicht abwarten} e5 {Schwarz drängt energisch die weißen
+Figuren zurück} 39. Ne2 f4 {Hier ist schon eine gewisse Panik angesagt. Der
+Bauer auf f4 droht einfach damit, durchzumarschieren} 40. b4 {Ein Gegenangriff,
+um wenigstens eine Trotzreaktion zu zeigen} Ne6 {Hier steht der Springer sehr
+schön} 41. Kd2 {Der Zug ist notwendig, um den freien f-Bauern aufzuhalten und
+den eigenen c-Bauern zu mobilisieren. Trotzdem bleibt die Stellung verloren} d4
+$6 {Der Zug ist artifiziell. Im Prinzip soll man die Bauern auf die falsche
+Läuferfarbe stellen. Aber jetzt wird der weiße Läufer aktiv} ({Besser sieht
+} 41... Bg2 {aus. Die Bauern auf der e- und f-Linie sind einfach zu stark}) 42.
+Bc4 Nc7 {Die Stellung wird wieder besser für Weiß, denn jetzt ist der
+schwarze Springer passiv und der weiße Läufer hat auf einmal Angriffschancen}
+43. c3 {Der weiße Bauer ist wertlos auf c2 und muss daher verwendet werden,
+um die schwarze Bauernkette zu reduzieren} dxc3+ 44. Nxc3 {Die weißen Figuren
+sind wieder reaktiviert und beherrschen wieder einige Felder. Trotzdem bleibt
+die schwarze Bauernformation eine große Macht} Bg2 {Dieser Zug kommt
+vielleicht zu spät} 45. Bd3 {Der Kampf geht jetzt um die weißen Felder (e4
+und b5)} Kc6 46. Ke2 Nb5 {Schwarz bietet den Springer zum Tausch an, da er
+eine Blockade auf b5 errichten möchte} 47. Kf2 $5 {Meine Idee hier ist
+folgende: Wenn der Läufer wegzieht, dann verschlechtert er automatisch die
+schwarze Stellung. Wenn aber der schwarze Läufer gegen den weißen Spöringer
+eingetauscht wird, dann hat der weiße Läufer keine Konkurrenz mehr} Nxc3 48.
+Kxg2 Na2 $6 {Das ist aber doch eine seltsame Fortsetzung. Schwarz erobert den
+Bauern b4, aber er verliert den Bauern a6. Wenn sich der weiße Läufer dann
+noch gegen die beiden Freibauern abtauschen kann, dann ist das Ziel erreicht}
+49. Bxa6 Nxb4 50. Be2 Kc5 {Jetzt müssen die Könige wieder in das Spiel
+gebracht werden} 51. Kf3 Kd4 52. Bb5 $2 {Das ist ein sehr luxuriöser Zug, den
+ich mir eigentlich nicht erlauben kann} ({Richtig ist} 52. a6 Nc6 53. Bb5 Na7
+54. Bf1 {und der Springer bleibt auf ewig an das Feld a7 gebunden. Er kann ja
+auch kein Tempo verlieren}) 52... Nd5 $1 {Eine schlaue Entgegnung. Schwarz
+deckt sowohl den Bauern f4 und bereitet damit den Vormarsch des e-Bauern vor
+als auch das Feld a8 via c7} 53. Bc6 $2 {Verliert zwar noch nicht die Partie,
+aber es macht die Sache wieder spannend} ({Auch hier hätte man besser noch} 
+53. a6 {gespielt, wonach} e4+ 54. Kf2 Nc7 55. a7 Kc5 56. Bf1 {folgt}) 53... e4+
+{Jetzt ist Schwarz klar im Vorteil, weil die beiden Bauern mit dem König sehr
+dynamisch sind} 54. Kf2 Nc7 55. Bb7 Kd3 56. a6 Nb5 57. Bc6 e3+ 58. Ke1 Nd4 59.
+Be4+ {Ein hübsches Scheinopfer, um ein Tempo zu gewinnen. Aber Schwarz zieht
+mit Schach ein} Kxe4 60. a7 Kd3 61. a8=Q Nc2+ 62. Kf1 e2+ 63. Kg2 e1=Q {
+Vielleicht ist das Damenendspiel remis, aber nicht einfach. Der weiße König
+ist völlig ungeschützt, wohingegen der schwarze noch von seinem Springer
+beschützt wird. Weiß muss jetzt Dauerschach versuchen} 64. Qa6+ Ke3 65. Qb6+
+$4 {Weiß scheitert schon an dem zweiten Schach, da jetzt der Springer alle
+Schachfelder dominiert!} ({Richtig ist natürlich} 65. Qe6+ Kd2 66. Qd6+ {
+und die Sache ist noch lange nicht vorbei}) 65... Nd4 66. Qb7 {Das ist
+natürlich ein sinnloser Zug, aber die Dame steht jetzt zumindest auf einer
+langen Diagonalen} f3+ {Das gewinnt, verkompliziert aber auch noch die
+Angelegenheit} ({Der kürzeste Weg, um Matt zu setzen, ist der folgende} 66...
+Qg3+ 67. Kh1 Qh3+ 68. Kg1 Ne2#) 67. Kh3 f2 68. Qe7+ Kd3 69. Qa3+ Qc3 $4 {
+Ein schrecklicher Fehlzug ohne Zeitnot. Das ist der einzige Zug, der nicht
+gewinnt} 70. Qxc3+ Kxc3 71. Kg2 {Der Bauer fällt aufgrund der ungünstigem
+Geometrie des Springers} 1/2-1/2
+

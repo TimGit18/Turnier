@@ -1,0 +1,38 @@
+[Event "ZABO-Open Nürnberg"]
+[Site "?"]
+[Date "2010.09.18"]
+[Round "3"]
+[White "Myagkov, Kirill"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C58"]
+[WhiteElo "1685"]
+[BlackElo "1903"]
+[Annotator "Tim Schmitz"]
+[PlyCount "42"]
+[EventDate "2010.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Bd3 {Dieser Zug stammt von Morozevich, war mir allerdings völlig unbekannt. Er
+sieht etwas gekünstelt aus, hat aber auch aggressives Potential (Druck gegen
+h7, Kontrolle von e4)} Be7 {Da ich die Theorie nicht kenne, kann ich genauso
+gut normale Entwicklungszüge spielen, die nichts gefährden} 9. b3 {Hier habe
+ich allerdings schon Zweifel, ob der Zug so gut ist. Mein nächster Zug ist
+daher eher intuitiv} Qd4 {Weiß muss spielen} 10. Nc3 Ng4 {Die schwarzen
+Figuren sehen aggressiver aus} 11. Nge4 (11. Nh3 {sieht am sichersten aus 
+(Fischer, Steinitz), aber erlaubt dem Schwarzen auch bequemes Spiel} O-O 12.
+Bb2 Nf6 13. Qf3 Bg4) 11... f5 {Hier muss aggressiv fortgesetzt werden, sonst
+hat Schwarz nichts für den Bauern} 12. Be2 {Präzise gespielt, da Weiß so die
+Figur rettet} fxe4 {Die einzige Chance auf Initiative} 13. Bxg4 O-O $6 {
+Plausibel, aber nicht stark} (13... e3 $1 {sichert schwarzen Vorteil wegen des
+Doppelangriffs auf g4 und f2} 14. Bxc8 exf2+ 15. Kf1 Rxc8 16. Qf3 Rd8 17. Qxf2
+$2 Rf8) 14. O-O Bc5 $2 ({Spätestens hier muss} 14... e3 {kommen} 15. Bxc8 exf2+
+16. Kh1 Raxc8 17. Qe2 Bc5 {mit etwas Vorteil für Schwarz, denn der Bauer f2
+ist sehr unbequem}) 15. Bxc8 Raxc8 16. Qe2 Rxf2 {So erobere ich den Bauern
+zurück, erlaube aber auch eine einfache Abwicklung} 17. Qxf2 $6 (17. Rxf2 Rf8
+18. Ba3 Qxf2+ 19. Qxf2 Bxf2+ 20. Kh1 {ist am besten für Weiß}) 17... Rf8 (17...
+Qd6 {geht nicht wegen} 18. d4 exd3 19. Be3 {und ein Turm ist weg}) 18. Qxd4 {
+Weiß gerät auf die Verliererstraße} Bxd4+ 19. Rf2 Rxf2 20. h3 Rxd2+ 21. Kh2
+Rxc2 {Jetzt verliert Weiß eine Figur, da der Springer gefesselt ist und gibt
+daher auf} 0-1
+

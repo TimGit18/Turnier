@@ -1,0 +1,16 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2026.01.06"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Rössling, Johannes"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "1730"]
+[BlackElo "1589"]
+[Annotator "Tim Schmitz"]
+[PlyCount "139"]
+[SourceVersionDate "2026.01.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 $6 {Schon bereits ein Zugeständnis und Angst vor der Offenen Verteidigung.} b5 6. Bb3 Be7 7. O-O O-O ({Marshall-Hybrid} 7... d5 $6 8. exd5 Nxd5 9. Re1 Bg4 10. h3 Bh5 11. g4 Bg6 12. Nxe5 Nxe5 13. Rxe5 c6 $13) 8. c3 d6 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. d4 $4 {Verliert temporär einen Bauern, akute Schachblindheit.} cxd4 13. cxd4 exd4 14. h3 Nb4 15. Nxd4 {Remisangebot, was konsequenterweise ablgelehnt wurde.} Nxc2 16. Qxc2 Bb7 {[%csl Ye4]} 17. N2f3 $15 Rc8 18. Qd3 Re8 19. Bg5 $4 {Verliert endgültig einen Bauern} Nxe4 20. Bxe7 Rxe7 21. Nf5 Re8 22. Qd4 {Weiß hat ein wenig Kompensation für den Bauern, aber nicht viel.} f6 23. Rac1 Rxc1 24. Rxc1 d5 25. Qa7 {Einzige Möglichkeit: auf Initiative spielen.} Qd7 {[%csl Yb7,Yf5][%cal Gd7b7,Rd7f5] Verteidigt b7 und attackiert den Springer f5.} 26. N3d4 Rc8 $4 {Schmeißt die gute Stellung einstellig weg} 27. Ne7+ $1 {Gewinnt Material.} Kf8 28. Nxc8 Bxc8 29. Qxd7 ({Auch sehr gut} 29. Rc7) 29... Bxd7 {Jetzt ist Technik gefragt.} 30. Rc7 Ke7 31. Ra7 Nc5 32. Kf1 Kd8 33. Ra8+ Bc8 34. Ra7 Bd7 35. b4 Nd3 36. a3 Ne5 37. Ke2 Nc4 38. Rxa6 Kc7 39. Ra7+ Kc8 40. Ra8+ Kc7 41. Rg8 g6 42. Rg7 Nxa3 43. Rxh7 Kd6 44. Kd3 Nc4 45. f4 Nb2+ 46. Kc2 Na4 47. Kd2 Nb6 48. Rf7 f5 49. Rf6+ Kc7 50. Rxg6 Nc4+ 51. Ke2 Nd6 52. Ne6+ Bxe6 53. Rxe6 Kd7 54. Rxd6+ Kxd6 55. Kd3 Ke6 56. Kd4 Kd6 57. g4 fxg4 58. hxg4 Ke6 59. f5+ Kf6 60. Kxd5 Kg5 61. Ke6 Kxg4 62. f6 Kg3 63. f7 Kf2 64. f8=Q+ Ke2 65. Kd5 Kd2 66. Qf3 Ke1 67. Qg2 Kd1 68. Kd4 Kc1 69. Kc3 Kb1 70. Qb2# 1-0
+

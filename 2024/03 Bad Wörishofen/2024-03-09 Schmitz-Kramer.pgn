@@ -1,0 +1,47 @@
+[Event "Bad Wörishofen B-Turnier"]
+[Site "?"]
+[Date "2024.03.09"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Kramer, Kai"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[WhiteElo "1823"]
+[BlackElo "1699"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2024.03.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Das ist das Cozio-System in der Spanischen
+Partie - etwas passiv, aber sehr solide.} 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 {
+Schwarz wählt einen sehr zurückhaltenden Aufbau. Wie er nach der Partie
+zugab, liegen ihm passive Stellungen.} 7. Nc3 Nxd4 8. Qxd4 a6 $5 {Der Zug
+vermeidet die offensichtliche Verflachung.} 9. Be2 Nc6 10. Qd1 Be7 11. Be3 Bg5
+$6 {Ein ungewöhnliche Versuch, die Läufer zu tauschen, entpuppt sich als
+Tempoverlust.} 12. f4 $1 {Den Zug wollte Weiß sowieso spielen.} Bf6 13. Qd2
+Qe7 $2 {Aber das ist schon ein ernster Fehler. Schwarz hat die weiße Riposte
+nicht beachtet.} 14. Nd5 Qd8 {Mit den beiden Mehrtempi steht Weiß klar besser.
+} (14... Qxe4 $4 {funktioniert nicht wegen} 15. Bf3 {und dann kommt auch noch
+die Gabel auf c7.}) 15. Rad1 {Der Bauer auf b2 kann nicht gut geschlagen
+werden.} Be6 (15... Bxb2 16. Rb1 Bf6 17. Rxb7 {und c7 ist unter Beschuß.}) 16.
+c3 O-O {Hier hatte ich das Gefühl, dass eine taktische Lösung in der Luft
+liegt.} 17. Bf3 $6 {Das ist zu langsam.} ({Richtig ist} 17. Nxf6+ $1 {
+Berechnet, aber nicht gesehen} Qxf6 18. f5 Bd7 ({Ich sah nur} 18... Bxa2 $4 {
+, aber das verliert} 19. Ra1 Bb3 20. Ra3 {und der Läufer ist gefangen.}) 19.
+Bg5 Qe5 20. f6 $1 Qxe4 {Weiß steht bombig trotz des Minusbauern.} 21. fxg7
+Rfe8 22. Bd3 {Das wird schwer zu halten sein.}) 17... Bxd5 18. Qxd5 {Weiß
+steht immer noch sehr gut. Es folgte die zweite Phase mit riesigem
+Zeitverbrauch.} Re8 19. Rfe1 Qd7 $6 {Schwarz nimmt die Fesselung sehr leicht.}
+20. e5 Be7 21. h3 Qe6 22. Qxe6 fxe6 23. exd6 cxd6 24. Bg4 {Das Endspiel ist
+klar besser für Weiß: er hat das Läuferpaar, die besseren Bauern und den
+besseren König. Aber er hat nur noch ein paar Minuten auf der Uhr.} Kf7 25. f5
+$2 {Verschenkt den Vorteil ziemlich einfach und schenkt dem schwarzen Springer
+das Feld e5.} (25. Bf2 $1 Bf8) 25... exf5 26. Bxf5 {Ich glaubte immer noch gut
+zu stehen und übersah völlig die schwarze Antwort.} Bh4 $1 {Ein starker
+Defensivzug, der die schwarzen Kräfte koordiniert und den Abtausch der guten
+weißen Figuren forciert.} 27. Bf2 Bxf2+ 28. Kxf2 Rxe1 29. Rxe1 Ne5 $1 {
+Der Springer ist die beste Figur auf dem Brett. Er ist unangreifbar und
+dominiert die weißen Figuren.} 30. Rd1 Rd8 31. Be4 b6 32. Bd5+ {Hier bot ich
+Remis an, denn das Spiel ist nicht mehr zu gewinnen.} 1/2-1/2
+

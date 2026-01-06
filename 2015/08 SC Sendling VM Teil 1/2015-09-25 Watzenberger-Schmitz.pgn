@@ -1,0 +1,108 @@
+﻿[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2015.09.25"]
+[Round "1"]
+[White "Watzenberger, Stefan"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2096"]
+[BlackElo "1756"]
+[PlyCount "81"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.09.26"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Bd3 {Damit ist die Zentralvariante der
+Browne-Verteidigung erreicht. Als besser gilt vielleicht Lf1-e2, da der
+Läufer wichtige weiße Felder auf dem Königsflügel kontrolliert} g5 {Nur
+mit diesem Vorstoß macht die Variante mit h7-h6 überhaupt noch Sinn} 12. fxg5
+Ne5 13. Qe2 Nfg4 14. Nf3 {Das ist der beste weiße Zug, der den Bauern g5
+verteidigt und den Springer auf e5 angreift. Bis zu diesem Punkt war mir die
+Theorie auch bekannt.} Qc5 $6 {Das ist vielleicht ein ungenauer Zug. Die
+schwarze Dame kontrolliert zwar wichtige schwarze Felder im Zentrum, ist aber
+auch angreifbar.} ({Als theoretisch kritische Fortsetzung gilt} 14... hxg5 15.
+Bxg5 Bxg5+ 16. Nxg5 Qc5 {Schwarz hat zwar einen Bauern geopfert, aber er
+kontrolliert alle schwarzen Felder im Zentrum und droht mit einem
+Qualitätsgewinn auf f2.} {Nach} 17. Nh3 Bd7 {wird Schwarz lang rochieren und
+auf der h-Linie und der g-Linie angreifen}) 15. Nxe5 {Weiß vereinfacht die
+Stellung durch Tausch und reduziert das schwarze Angriffspotential auf dem
+Königsflügel und im Zentrum} Nxe5 16. Kb1 {Ein prophylaktischer Zug, mit dem
+der König aus der riskanten c-Linie und der Diagonalen c1-h6 gebracht wird}
+hxg5 {Es scheint als habe Schwarz seine Eröffnungsprobleme überwunden. Aber
+sein König steht noch schwach und er ist in der Entwicklung zurückgeblieben}
+17. Bf2 $1 {Der Läufer stellt die Kontrolle über die schwarzen Felder im
+Zentrum wieder her} Qa5 $6 {Auf den ersten Blick sieht dieser Damenseitzug
+aktiv aus. Leider steht die Dame hier auch abgeklemmt, wie sich später zeigt}
+({Sicherlich wäre ein ruhiger Zug wie} 17... Qc7 {angebrachter. Die Dame
+kontrolliert immer noch die c-Linie und viele schwarze Felder. Schwarz hatte
+zuviel Angst vor dem Manöver} 18. Na4 {, was aber nach} b5 19. Nb6 Rb8 20.
+Nxc8 Rxc8 {im Sande verläuft. Das weiße Läuferpaar wird von dem starken
+Springer auf e5 mehr als kompensiert}) 18. Bd4 $1 {Dieser starke Zug
+zentralisiert nicht nur den weißen Damenläufer, sondern fesselt auch den
+Springer an den Turm} Bd7 {Schwarz muss seine Entwicklung vervollständigen}
+19. Qf2 $1 {[%csl Yb6,Yc5,Yd4,Ye3,Yf2,Yf7][%cal Rf2d4,Rd4b6,Rf2f7] Das ist ein
+starker multifunktionaler Zug. Die Dame verstärkt den Druck auf der
+Diagonalen g1-a7, so dass Damenfang in zwei Zügen droht und über einen
+unangenehmen Druck auf der f-Linie gegen den schwachen Punkt f7 aus.} Qc7 {Nun
+ist die Dame dorthin zurückgekehrt, wohin sie schon vorher gehen sollte. Aber
+es gibt kaum einen anderen Zug} 20. Rhf1 {Jetzt ist der Bauer auf f7 wirklich
+unter Beschuss. Die lange Rochade würde den Bauern f7 und vermutlich weiteres
+Material kosten} f6 $5 {Der Zug sieht wie eine positionelle Konzession aus,
+aber das schwarze Bauernzentrum macht noch einen festen Eindruck} ({Die
+Alternative zu diesem Zug heißt} 20... Rh7 {Allerdings steht der Turm auf h7
+auch nicht gerade sicher und Schwarz hat Angst vor ihm nachteiligen
+Verwicklungen nach} 21. Bb6 Qc6 22. Nd5 {[%csl Yc7,Yf6][%cal Rd5c7,Rd5f6] Den
+Springer kann man schon nicht gut nehmen wegen des Abzugs nach h7 und auch
+nicht gut stehen lassen aufgrund der Löcher auf f6 und c7}) 21. h3 {Weiß
+sichert seinen h-Bauern und macht gleichzeitig einen Tempozug} b5 {Ein Versuch
+die Initiative und Raum auf dem Damenflügel zu ergreifen. Außerdem erhält
+die schwarze Dame ein weiteres Manövrierfeld auf b7} ({Das naive} 21... O-O-O
+{verliert sofort die Qualität nach} 22. Bb6) 22. Bb6 $6 {Dieser Zug
+entspricht keinem Plan und kann nur als Tempoverlust gedeutet werden} Qb7 23.
+Bd4 {Hier steht der Läufer viel besser. Weiß korrigiert seinen Fehler sofort
+und hat nur einen Zug verloren} b4 $6 {Das ist der Beginn eines fehlgeleiteten
+Plans. Der schwarze Angriff ist nicht stark genug, um die weiße Stellung zu
+erschüttern. Es wäre besser, den König in Sicherheit zu bringen und die
+Türme zu verbinden} ({Nach} 23... O-O-O {und dem Manöver Kc8-b8 und Td8-b8
+wird es keine Gefahr mehr für den schwarzen König geben}) 24. Ne2 {Der
+Springer wird auf den Königsflügel transferiert, da er auf dem Damenflügel
+ohnehin nur begrenzt aktiv war} a5 {Folgerichtig, aber kritisch, denn die
+weißen Felder auf dem Damenflügel werden sicherlich geschwächt} 25. Bxe5 {
+Weiß verfolgt mit diesem Tausch eine tiefere Idee. Er will nun die weißen
+Felderschwächen auf dem Damenflügel ausnutzen} dxe5 26. Ng3 $1 {Der Springer,
+zwecklos auf e2, strebt nach h5, um dort den schwachen Bauern auf f6 zu
+attackieren. Schwarz erkennt das (schlummernde) Potential, das in der weißen
+Stellung steckt, überhaupt und macht einige ungenaue Züge und sogar Fehler}
+a4 {Folgerichtig, um eine oder zwei Linien zu öffnen} 27. Bc4 {[%csl Yc4,Yd1,
+Yd7,Ye6][%cal Rc4e6,Rd1d7] Der Läufer, auf d3 zur Passivität verurteilt,
+greift auf c4 den Doppelbauern an und öffnet die zweite Turmlinie} Rh4 $2 {In
+schwieriger Stellung bereits ein arger positioneller Fehler. Der Turm steht
+hier abseits, obwohl er ein aktives Feld einnimmt. Er will auf f4 platziert
+werden und den Bauern e4 angreifen} 28. Qe2 {[%csl Ya6,Yb5,Yc4,Yd3,Ye2,Yf3,Yg4,
+Yh5][%cal Re2c4,Rc4a6,Re2h5] Die Dame nimmt auf diesem Feld eine
+Schlüsselposition ein. Sie kontrolliert zwei wichtige Diagonalen und
+beherrscht alle weißen Felder} Rc8 $4 {Nach einigen schwachen Zügen oder
+einem nicht stellungsgemäßen Plan folgt nun ein schwerer taktischer Fehler
+in bereits akuter Zeitnot. Der Zug verliert einzügig und ohne Not die
+Qualität} 29. Rxd7 $5 {Der Zug zerstört zwar die schwarzen Verteidiger,
+wirkt aber auch etwas kompliziert} ({Nach} 29. Ba6 Qb6 30. Bxc8 Bxc8 31. Rfe1
+Ba6 32. Qd2 Bb5 {hat Schwarz vielleicht etwas Kompensation für die Qualität 
+(Angriff und Läuferpaar), aber mehr auch nicht}) 29... Qxd7 30. Bb5 Rc6 {
+Schwarz muss zwar die von Weiß geopferte Qualität zurückgeben, rettet aber
+noch einmal seinen König} 31. Nh5 $1 {Jetzt wird die unpassende Stellung des
+Turms auf h4 und die Schwäche des Bauern f6 gnadenlos aufgedeckt} Kf7 {Die
+schwarze Stellung steht kurz vor dem Zusammenbruch} 32. Qf3 {Dieser logische
+Zug erlaubt noch einen taktischen Trick} Rc3 $5 {Das löst zwar nicht die
+schwarzen Probleme, verschafft aber eine Atempause} 33. Qxc3 Qxb5 ({Die
+Alternative} 33... bxc3 34. Bxd7 Rxh5 35. Bxa4 {sieht angesichts der
+Damenflügel-Mehrheit von Weiß auch nicht vielversprechend aus}) 34. Qf3 Kg6
+$2 {In höchster Zeitnot verpasst Schwarz eine problemstudienartige Fortsetzung
+} ({Viel besser ist} 34... Rxe4 $1 35. Nxf6 Rf4 36. Qh5+ Kxf6 37. Qh6+ Kf7 {
+und es ist fraglich, ob Weiß mehr als Dauerschach hat}) 35. g4 {Nun ist die
+schwarze Stellung - insbesondere aufgrund des schlechten Turms auf h4 -
+vollständig paralysiert. Die übrigen Züge sind keine große Kunst mehr und
+sind nur der Vollständigkeit aufgezählt. Es geht nur darum, die
+Zeitkontrolle zu erreichen und nicht direkt mattgesetzt werden} b3 36. axb3
+axb3 37. cxb3 Qc6 38. Nxf6 Rh8 39. Ng8 Rh7 40. Nxe7+ Rxe7 41. Qf6+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "DSAM Aalen C-Turnier"]
+[Site "?"]
+[Date "2015.12.18"]
+[Round "1"]
+[White "Strauss, Martin"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "1758"]
+[BlackElo "1853"]
+[PlyCount "96"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.12.20"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. Nc3 Nf6 7. d4 cxd4
+8. Nxd4 g6 (8... e6) 9. f4 Bg7 10. Nf3 O-O 11. Qe2 Qc8 12. Rd1 Rd8 13. Nd5 e6
+14. Nxf6+ Bxf6 15. c3 Qc7 16. Be3 Rac8 17. Qf2 Qa5 18. Nd4 Nxd4 19. Bxd4 Bxd4
+20. Rxd4 a6 $6 (20... d5 21. exd5 Rxd5 22. Rxd5 Qxd5 23. Qxa7) 21. a3 d5 22. f5
+e5 23. Rb4 b5 24. Rf1 Qc7 25. Qh4 Qc5+ 26. Kh1 $2 a5 27. Qh6 $2 (27. Rb3 Qc4
+28. Rf3 Qxb3) 27... axb4 28. fxg6 hxg6 29. Rf6 Qf8 30. Qc1 bxa3 31. exd5 Rxd5
+32. bxa3 Qxa3 33. Qb1 Qe7 34. Rxg6+ fxg6 35. Qxg6+ Kf8 36. Qf5+ Kg7 37. Qg4+
+Kf6 38. Qf3+ Ke6 39. Qg4+ Kd6 40. Qb4+ Rcc5 41. Qb1 Qg5 42. Qf1 Qf4 43. Qa1 Qd2
+44. Qa6+ Rc6 45. Qa3+ Rdc5 46. h4 Qxc3 47. Qa8 Qc1+ 48. Kh2 Qf4+ 0-1
+

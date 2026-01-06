@@ -1,0 +1,28 @@
+[Event "ZMD-Porzellancup Dresden"]
+[Site "?"]
+[Date "2009.01.24"]
+[Round "5"]
+[White "Lieber, Paul"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "C29"]
+[WhiteElo "1697"]
+[BlackElo "1844"]
+[Annotator "Tim Schmitz"]
+[PlyCount "77"]
+[EventDate "2009.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4
+5. d3 {Die Oxford-Variante} Nxc3 {Vermeidet die Würzburger Falle} (5... Qh4+)
+6. bxc3 Be7 7. Nf3 O-O 8. d4 f6 9. Bd3 fxe5 10. Nxe5 Bf5 11. Rf1 Bxd3 12. Rxf8+
+Qxf8 (12... Bxf8 {ist vielleicht vorsichtiger}) 13. Qxd3 Nc6 14. Nxc6 bxc6 15.
+Be3 Qc8 $6 {Nicht direkt schlecht, da Da6 verhindert wird, aber Tb8 ist aktiver
+} 16. Rb1 Qg4 17. Qe2 Qh4+ 18. g3 Qe4 19. Kd2 Re8 {In der Folge spiele ich
+sehr nachlässig , obwohl Weiß schon etwas bessere Aussichten hat} 20. Bf4 Qg6
+$2 {Verliert zwangsläufig Material, was in dieser Stellung einem Verlustzug
+gleichkommt} 21. Re1 Kf8 22. Qa6 Bd6 23. Rxe8+ Kxe8 24. Qxc6+ Ke7 25. Bxd6+
+Qxd6 26. Qxd6+ Kxd6 27. Kd3 c5 28. c4 dxc4+ 29. Kxc4 cxd4 30. Kxd4 a5 31. a4
+Kc6 32. h4 h5 33. c4 Kd6 34. c5+ Kc6 35. Kc4 g6 36. Kd4 Kc7 37. Kd5 Kd7 38. c6+
+Kc7 39. Kc5 1-0
+

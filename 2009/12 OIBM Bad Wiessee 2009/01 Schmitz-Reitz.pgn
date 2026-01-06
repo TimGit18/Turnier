@@ -1,0 +1,39 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2009.10.31"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Reitz, Ralf"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[WhiteElo "1853"]
+[BlackElo "2195"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 {Meist wird Lxd4 gespielt}
+6. c3 d5 {Ein mutiger Gegenstoß im Zentrum} (6... Nxe4) 7. exd5 Nxd5 8. Re1+
+Nce7 9. Bg5 {Die weißen Züge schienen mir bis jetzt alle sehr natürlich} (9.
+cxd4 Bb4 10. Nc3 f6 {sieht etwas besser aus}) 9... f6 10. Bh4 c6 {Weiß hat nur
+noch minimalen Vorteil} 11. Nxd4 {[%csl Ye6] Ich wollte gegen die geschwächten
+weißen Felder spielen. Außerdem wird Lg4 verhindert} O-O 12. Nd2 {[%csl Ye4]
+[%cal Rd2e4] strebt nach e4} Bxd4 $1 {Mit diesem und dem folgenden Zug
+erreicht Schwarz ein etwas besseres Spiel} 13. cxd4 Nf5 14. Nf3 {Sonst
+verliere ich den Bauern d4} (14. Bg3 Nxd4 15. Ne4 {[%csl Yc4,Yd5,Ye6,Yf7]
+würde allerdings ein Tempo gewinnen und die Fesselung auf der langen Diagonale
+ausnutzen}) 14... Kh8 15. Bg3 {[%csl Rc7,Rd6,Re5,Rf4,Rg3] Die schlechtest
+stehende weisse Figur wird abgetauscht} Nxg3 16. hxg3 Nb6 $6 {Nicht mehr so
+stark, der Springer steht auf d5 besser} 17. Bb3 Bg4 18. Qd3 {[%csl Yc2,Yd3,
+Ye4,Yf5,Yg6,Yh7] Ich wollte eine Batterie auf der langen Diagonalen aufbauen}
+Qd7 19. Bc2 g6 {Ist schon erzwungen} 20. Nh4 {Ein weiterer Versuch, das Spiel
+zu verkomplizieren} Nd5 21. a3 {Ich wollte auf jeden Fall Sb4 verhindern} Ne7 {
+Schwarz überdeckt noch einmal g6. Eine Verschärfung ist hier nicht mehr drin}
+22. Re4 {überdeckt d4 und macht e1 für den anderen Turm frei} ({Ich analysierte
+} 22. f3 {aber} Bf5 23. Nxf5 Nxf5 {[%csl Rd4,Rg3][%cal Yf5d4,Yf5g3] mit der
+Doppeldrohung gefiel mir nicht}) 22... Bf5 23. Nxf5 Nxf5 24. Rae1 Rae8 25. Qc3
+{will Schwarz auf der anderen Diagonale beunruhigen} Kg7 26. Qb4 Rxe4 27. Bxe4
+Nd6 ({Kritisch ist} 27... Nxd4 28. Bb1 (28. Bxg6 c5 $1) 28... Rf7 {Schwarz hat
+einen guten Mehrbauern}) 28. Bf3 Re8 {Das vereinfacht sehr} 29. Rxe8 Nxe8 30.
+Qc5 a6 31. d5 cxd5 32. Bxd5 1/2-1/2
+

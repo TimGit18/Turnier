@@ -1,0 +1,144 @@
+[Event "OIBM Bad Wiessee 2010"]
+[Site "?"]
+[Date "2010.10.30"]
+[Round "1"]
+[White "Pfeffer, Rupprecht"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "C99"]
+[WhiteElo "2225"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "129"]
+[EventDate "2010.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 {Milos Pavlovic: 'Schwarz
+plombiert die e-Linie und droht mit Sxe4'} 6. Re1 {Milos Pavlovic: 'Nun droht
+Weiß selber mit Lxc6 und Sxe5'} b5 7. Bb3 O-O {Milos Pavlovic: 'Diese Zugfolge
+ist präziser als d6'} 8. h3 {Der moderne Anti-Marshall Milos Pavlovic: 'ist
+mit die beste Art, den Marshall-Angriff zu vermeiden und wird von den besten
+Spielern benutzt. Weiß steuert die Stellung in positionelle Bahnen und hofft,
+dass diese ihm einen langandauernden Vorteil geben. Andererseits sind die
+schwarzen Ressourcen beträchtlich. Er hat einen festen Griff im Zentrum und
+seine Fähigkeit, auf beiden Seiten des Bretts zu spielen, offenbart ihm
+befriedigende Chancen. Warum kann Schwarz kein Marshall-Gambit spielen? Wegen
+h3 kommt die schwarze Dame nicht mit Tempo nach h4 und der weiße Springer mit
+Tempo nach c3. Außerdem ist h3 immer ein nützlicher Zug für Weiß. Kurzfristig
+will er seinen Läufer auf der Diagonale a2-g8 belassen.'} d6 $2 {Kein
+richtiger Fehler, aber in diesem Kontext falsch. Denn im Anti-Marshall sollte
+Lc8-b7 gespielt werden, wonach das Gambit d7-d5 nach c2-c3 droht} (8... Bb7 {
+Das ist der einzige vernünftige Zug für Schwarz, wenn er die Transposition in
+den Klassischen Spanier vermeiden will} 9. d3 {Wiederum vermeidet Weiß den
+riskanten Zug c2-c3, nachdem das Gambit d7-d5 kommen kann} d6 {Neben anderen
+Zügen droht jetzt Schwarz mit Sa5} 10. a3 {Das ist ein Schlüsselzug der weißen
+Strategie. Wie erwähnt soll der Läufer auf der langen Diagonale bleiben, da
+Schwarz bereits zu Lb7 verpflichtet wurde. Schwarz sollte im Zentrum spielen
+und versuchen, das Feld d4 zu besetzen} Na5 11. Ba2 c5 {[%csl Rd5][%cal Gb1c3,
+Gc3d5,Yb1d2,Yd2f1,Yf1e3,Ye3d5] Das ist die Ausgangsstellung des Modernen
+Anti-Marshalls. Anders als im Chigorin fehlt hier c2-c3. Weiß kann direkt mit
+dem Damenspringer nach d5 via c3 oder indirekt via e3. Schwarz kann seine
+Figuren redeployen mit Sc6, Lc8-e6. Außerdem sollte er den schlechten Läufer
+abtauschen, damit das Feld d5 nicht zum Problem wird} 12. Nbd2 Nc6 13. Nf1 Bc8
+{[%csl Yd5,Ye6][%cal Rb7c8,Rc8e6,Gf1e3,Ge3d5,Ga2d5] Wie bereits erwähnt,
+neutralisiert das Manöver Lb7-c8-e6 den Läufer a2. Das ist ein defensives
+Schlüsselmanöver für Schwarz. Die Bewertung dieser Stellung ist kritisch für
+die Bewertung von 12.Sbd2 und vielleichts für die ganze Variante mit 8.h3
+Anti-Marshall-Moderne Variante mit Sbd2/Fighting the Ruy Lopez 0/[Milos
+Pavlovic]}) 9. c3 Na5 {Jetzt befinden wir uns wieder im Chigorin, was keine
+gute Enstscheidung ist. Die Stellungen sind zu wenig konkret und langwieriger
+Manövrierkampf angesagt} 10. Bc2 c5 11. d4 Qc7 {Ich möchte eigentlich auf d4
+schlagen, aber das erlaubt dem Weißen den Springer nach c3 zu stellen} 12. Nbd2
+cxd4 {Jetzt geht es} 13. cxd4 Bd7 {[%csl Yb4,Yb5,Yd7][%cal Rd7b5,Rb5b4,Rf6d7,
+Ra8c8,Re7f6] Die Stellung sieht für Schwarz noch ziemlich gut aus. Soweit
+bekannt, wurde diese Stellung schon sehr oft in der Datenbank gespielt. Die
+schwarze Grundidee besteht im Gegenspiel auf der c-Linie. Der Damenläufer soll
+nach dem Vorstoß b5-b4 selbt nach b5 gehen, wo er schön in die weiße Stellung
+schaut. Der Springer f6 kann über d7 dann auf den Damenflügel transportiert
+werden. Der Läufer e7 geht nach f6 oder als defensive Ressource nach via f8
+nach g7. Leider verfolge ich in der Partie einen anderen Plan, der aber nicht
+ganz funktioniert} 14. Nf1 Rac8 15. Bd3 $6 {Weiß verhindert b4. Der schwarze
+Springer kann nun mit Tempogewinn umgruppiert werden. Allerdings stirbt damit
+der ursprüngliche Plan.} Nc6 16. Bb1 {Weiß muss mehr oder weniger zurück, denn
+die Doppeldrohung Sc6xd4 und Sc6-b4 ist zu stark} Rfe8 {Es droht vage, einmal
+auf e4 einzuschlagen. Leider verbrauche ich zu viel Zeit} 17. d5 $1 {Der Zug
+legt die Struktur der Stellung fest. Er ist deshalb gut, weil die schwarzen
+Leichtfiguren keine guten Felder haben. Die weißen Läufer haben viel mehr vom
+Spiel auch wenn sie nicht direkt eingreifen} Na5 (17... Nb4 18. Ne3 a5 {
+wird vom Computer empfohlen, aber in der Parite kam ich nicht auf diese Idee.
+Sie ist viel aktiver und eröffnet Optionen am Damenflügel}) 18. Ne3 g6 {
+Ein prophylaktischer Zug, aber nicht allzu gut} (18... Nb7 19. b4 a5 {kommt
+ähnlich wie in der Partie}) 19. Kh2 {Weiß spielt in der Folge aber auch
+zögerlich, probiert vieles aus. Er kann hier leider sehr gut das Tempo
+verschleppen, da ich nichts wirklich dagegen unternehme} Nb7 20. b4 $1 {
+Den Zug habe ich unterschätzt. Weiß legt die Struktur zu seinen Gunsten fest.
+Ich dachte, dass Dame c3 sehr stark ist, aber Weiß kann auf Damenfang spielen}
+a5 ({In der Partie habe ich zunächst gedacht, dass b4 gar nicht geht wegen} 
+20... Qc3 {Aber der Weiße kann einfach die Damen tauschen} 21. Qb3 (21. Nc2 {
+war die Idee von Pfeffer: er deckt b4 und a1, und danach wird ganz simpel Ld2
+gespielt}) 21... Qxb3 (21... Qxa1 {opfert die Dame für etwas Kompensation, die
+aber wohl nicht reicht} 22. Bb2 Qxb1 23. Rxb1 Nxe4 {ist sehr gewagt}) 22. axb3
+{sieht gut für Weiß aus}) 21. a3 axb4 22. axb4 Ra8 {Das ist mein Plan. Die
+Türme tauschen und die Kontrolle auf der a-Linie gewinnen} 23. Rxa8 Rxa8 24.
+Bb2 {An dieser Stelle muss Schwarz einen vernünftigen Plan finden, was mir
+leider nicht gelang. Die Grundidee ist die Durchsetzung von f7-f5. Eine im
+Grunde einfache Idee. Statt dessen ziehe ich einfach Züge, die nicht einmal
+richtig konkret sind} Ra4 $6 {Hier steht der Turm nur pseudoaktiv. Die weißen
+Figuren sind harmonischer aufgestellt als die schwarzen} ({Ein aktiverer Plan
+wäre} 24... Nh5 25. Qd2 Nf4 {Der Springer hat hier sein Idealfeld erreicht und
+kann nicht so einfach vertrieben werden. Der weitere Plan besteht in den Zügen}
+26. Z0 Rf8 27. Z0 f5 28. Z0 Nd8 29. Z0 fxe4 30. Bxe4 Nf7 31. Z0 Ng5 {und die
+schwarzen Läufer strahlen auf den Damenflügel}) 25. Qb3 Qb8 26. Ng1 {Jetzt
+beginnt die Manövrierphase. Ich will die schlimme Stellung meiner Figuren
+verbessern. Weiß möchte risikolos den Druck erhöhen} Ne8 {[%csl Yb5] Der
+weiche Bauer b5 soll gestützt werden. Ich glaube, dass das schwarze Konzept
+defensiv nicht ganz verkehrt ist, aber für das eigene Spiel zu wenig tut. Das
+reicht natürlich nicht gegen starke Gegner} 27. Rc1 Bg5 $5 {Mein Läufer
+aktiviert sich} 28. Rc3 Nd8 {Die Springerrückzüge auf die Grundreihe sind eine
+bittere Notwendigkeit, was am fehlenden Offensivkonzept liegt. Es ist hier gar
+nicht notwendig, konkrete Varianten durchzurechnen, da es keine gibt} 29. Nf3
+Bh6 30. Kg1 Ra7 {Schwarz spielt nur noch um die Ergebnisse 0 oder 1/2. Zwar
+macht Weiß keine richtigen Fortschritte, aber seine Struktur ist gesund. Die
+folgenden Züge wirken insgesamt recht planlos von beiden Seiten und sollten
+nicht kommentiert werden. Es hat viel mit Zeitnot und "Stellung ausquetschen"
+zu tun} 31. Nh2 Bg7 32. Rc1 {Weiß hat seinen Turmirrweg beendet, Schwarz noch
+nicht} Rc7 33. Rf1 {Der neue Plan besteht in f2-f4} Qb6 34. Bd3 Rc8 {Dieser
+humorvolle Zug macht c7 für den Springer frei, der eigentlich auf h5 oder f4
+stehen sollte. Schwarz hat ein irres Figurenknäuel, das ich nicht mehr
+aufgelöst bekomme} 35. Ra1 {Auch wieder ein Zeitgewinn} Nc7 36. Nhf1 f6 $2 {
+Damit der andere Springer nach f7 gehen kann, aber der f-Bauer muss natürlich
+nach f5. Das geht jetzt noch nicht, aber ich verzichte in Zukunft leider auch
+auf die Durchführung} 37. Ng3 Nf7 38. Ne2 Bh6 {Wieder das alte Motiv. Der
+weiße Vorteil ist zwar klein, aber stabil} 39. Nf1 Ra8 $2 {Macht in großer
+Zeitnot eine Konzession} 40. Rxa8+ Nxa8 41. Qa3 Nc7 42. Nc1 Bg5 (42... f5 $1 {
+wäre hier der richtige Zug. Schwarz kann sich befreien} 43. Qa5 Qb7 {Wenn Weiß
+jetzt seine Stellung für die Läufer öffnen will, bekommt Schwarz schon die
+besseren Aussichten} 44. exf5 gxf5 {Die weiße Dame auf a5 ist keine Bedrohung
+mehr für den schwarzen König und die schwarzen Läufer erwachen auch zum Leben.
+Außerdem ist der Bauer d5 auf einmal sehr weich} 45. Ne3 Bxe3 46. fxe3 Nxd5)
+43. Nb3 {Eine nette Idee, Weiß geht über a5 nach c6} h5 {Das sieht vage nach
+Aktivität aus, es droht aber überhaupt nichts Konkretes. Die Idee war
+"irgendwie" h4, Lf4 und Sg5 zu spielen} (43... f5 $1 {ist immer noch korrekt}
+44. Bc1 fxe4 45. Bxe4 Qb7 {und bei Schwarz ist alles in Ordnung}) 44. Bc1 Kg7
+45. Be3 Bxe3 46. Nxe3 Nh6 {Der Springer soll nach e7, aber jetzt ist die
+schwarze Stellung endgültig passiv} 47. Qa5 Qb7 48. Qa1 Ng8 49. Kf1 Ne7 50. Qc3
+Kh6 51. Nc2 {Der Zug überdeckt alle schwarzen Felder im Zentrum und gefällt
+daher ganz gut} Kg7 52. Qd2 Qa8 53. Na5 Qa7 {Zunehmende Planlosigkeit} 54. Be2
+Qb6 55. f4 $1 {Der Hebel zum richtigen Zeitpunkt} exf4 {Die Idee ist
+eigentlich nicht schlecht. Ich will etwas die Stellung öffnen, um den Figuren
+wieder mehr Luft zu geben. Die Position war stickig.} 56. Qxf4 g5 $6 {Ich
+hatte leider den anderen Zug gar nicht auf der Rechnung, aber das wundert
+nicht, da ich schon die ganze Partie an der Idee vorbeispiele} (56... f5 $1 {
+ist besser} 57. Ne3 ({Nach} 57. exf5 {oder}) (57. e5 {folgt} Ncxd5)) 57. Qd2
+Be8 {Der h5 muss gedeckt werden, aber nun ist e6 schwach} 58. Nd4 {[%csl Yc6,
+Ye6][%cal Rd4e6,Rd4c6] Nun werden die schwarzen Felder e6 und c6 unter
+Beschuss genommen} Bg6 59. Qc3 h4 $4 {Ein taktischer Fehler in Zeitnot} (59...
+Kf7 {ist besser, wenngleich die schwarze Verteidigung schwierig bleibt}) 60.
+Qxc7 $1 Qxd4 $6 {hofft nur noch auf Tricks} 61. Qxe7+ Kh6 62. Nc6 Qc3 63. Qxd6
+Bxe4 64. Qf8+ Kg6 65. Ne7+ {und matt in zwei Zügen. Fazit dieser Partie: Eine
+durchaus vermeidbare Niederlage. Ich habe "abstraktes Manövrierspiel"
+mitgemacht, statt ein konkretes Gegenspiel zu planen. Beide Pläne (Spiel am
+Damenflügel und der Schlüsselzug f7-f5) waren eigentlich nicht schwer zu sehen.
+Die Eröffnung war in Ordnung, das Mittelspiel plan- und sinnlos. Lösung:
+Konkrete Varianten durchrechnen statt Figuren zu postieren, das "schlechte
+Gefühl" in dieser Stellung ernst nehmen} 1-0
+

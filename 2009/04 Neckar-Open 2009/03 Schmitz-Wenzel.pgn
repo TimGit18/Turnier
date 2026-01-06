@@ -1,0 +1,31 @@
+[Event "13.Neckar-Open (B-Open)"]
+[Site "?"]
+[Date "2009.04.10"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Wenzel, Ingo"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1832"]
+[BlackElo "1478"]
+[Annotator "Tim Schmitz"]
+[PlyCount "57"]
+[EventDate "2009.??.??"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6
+5. d4 Bxd4 6. Nxd4 Nxd4 7. f4 d6 8. fxe5 dxe5 9. Bg5 Be6 10. Na3 Qe7 11. Bxe6 {
+Der Abtausch ist nicht notwendig} (11. c3 Bxc4 12. Bxf6 gxf6 13. Nxc4) 11...
+Qxe6 12. c3 {Stellt einzügig einen Bauern ein} Nxe4 13. cxd4 Nxg5 14. Qa4+ {
+Die einzige Möglichkeit, um Initiative zu kämpfen} c6 15. Rae1 O-O 16. Rxe5 (
+16. h4 {würde eine Figur gewinnen, aber eine ziemlich zerrissene Stellung
+ergeben} Nh3+ 17. gxh3 Qxh3 18. dxe5 Qg3+ 19. Kh1 Qh3+ {mit Dauerschach}) 16...
+Qg6 17. Re7 b5 18. Qb4 a5 19. Qc5 Rac8 {Die schwarzen Figuren werden auf
+schlechte Felder gestellt} 20. Nc2 {Die schlechtest stehende weiße Figur muss
+rezentralisiert werden} f6 $2 {Das verdirbt aber das schwarze Spiel} 21. Ne3 {
+Droht Sf5} Rfd8 {Verhindert den Springerzug wegen der Antwort Td5} 22. Qa7 Kf8
+23. Nf5 Re8 24. Qc5 (24. Rxg7 {funktioniert leider nicht wegen der
+Remisvariante} Nh3+ 25. Kh1 Nf2+ 26. Kg1 Nh3+) 24... Rxe7 25. Nxe7 $2 {Falsch}
+(25. Qxe7+ Kg8 26. h4 Re8 27. hxg5 $1 fxg5 28. Qd7 $18) 25... Nh3+ 26. Kh1 Qd3
+$4 {Verpasst das Remis mit oben beschriebener Abwicklung} 27. Nxc8+ Kf7 28.
+Qh5+ Kf8 29. Qf3 1-0
+

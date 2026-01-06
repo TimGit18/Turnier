@@ -1,0 +1,22 @@
+[Event "Baden-Baden 2014"]
+[Site "?"]
+[Date "2014.03.02"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Nam, Seung-Zin"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1763"]
+[BlackElo "1326"]
+[PlyCount "61"]
+[SourceDate "2014.03.02"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nc3 Bg4 6. Be2 Bf5 7. Nf3 e6 8.
+O-O Nbd7 9. Bg5 c6 10. d5 Qc7 11. dxc6 bxc6 12. Nd4 Bg6 13. Qa4 (13. Bf3 $1 Ne5
+14. Bf4 Nxf3+ 15. Qxf3 Qd7 16. Qxc6) 13... Rc8 14. Rfe1 Bc5 (14... Nc5 $1 15.
+Qd1 Bd6) 15. Rad1 Qb6 $1 16. Be3 Qxb2 $6 (16... e5 17. Nb3) 17. Qa6 O-O 18. Na4
+Qb8 19. Nxc6 Qc7 $2 (19... Rxc6 20. Qxc6 Bxe3 21. fxe3 Qe5) 20. Nxc5 Qxc6 $4 (
+20... Nxc5 21. Bxc5 Qxc6 22. Qxc6 Rxc6 23. Bxf8 Kxf8) 21. Qxc6 Rxc6 22. Nxd7
+Nxd7 23. Rxd7 a6 24. Red1 Rcc8 25. c5 a5 26. Ba6 Ra8 27. Bb7 Rab8 28. Bf4 e5
+29. Bxe5 Rbe8 30. Bd6 Rd8 31. Bxf8 1-0
+

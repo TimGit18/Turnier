@@ -1,0 +1,21 @@
+[Event "Bodensee-Open"]
+[Site "?"]
+[Date "2023.05.15"]
+[Round "3"]
+[White "Derraugh, Geordie"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2116"]
+[BlackElo "1906"]
+[Annotator "Tim Schmitz"]
+[PlyCount "65"]
+[SourceVersionDate "2023.05.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Nbd7 10. Qd3 O-O 11. O-O Rc8 (11... Bxd5 12. exd5 Ne8) 12. c4 Re8
+13. a4 Nc5 14. Nxc5 dxc5 15. a5 Bxd5 16. exd5 e4 17. Qc2 Bd6 18. g3 Qd7 19.
+Rfe1 Qh3 20. Bd2 Ng4 $2 (20... h5) 21. Bxg4 Qxg4 22. Bf4 Bxf4 23. Rxe4 g5 24.
+Rae1 Qd7 25. Rxe8+ Rxe8 26. Rxe8+ Qxe8 27. gxf4 Qe1+ 28. Kg2 g4 29. Qd3 Qe7 30.
+d6 Qd8 31. d7 h5 32. Qd5 h4 33. Qg5+ 1-0
+

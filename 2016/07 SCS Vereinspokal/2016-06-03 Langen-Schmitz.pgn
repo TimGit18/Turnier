@@ -1,0 +1,153 @@
+[Event "SCS Vereinspokal 2016"]
+[Site "?"]
+[Date "2016.06.03"]
+[Round "1"]
+[White "Langen, Bernd"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1815"]
+[BlackElo "1782"]
+[PlyCount "121"]
+[EventDate "2016.??.??"]
+[SourceDate "2016.06.04"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. O-O Nf6 7. d3 O-O {
+Das ist die Ausgangsstellung des Modernen Grand-Prix-Angriffs. Sie ist etwas
+riskanter als die Verteidigung mit e7-e6 und Sg8-e7, aber auch aktiver} 8. a3 {
+Dieser Zug ist sehr verhalten. Weiß will den Läfuer retten und im Falle
+eines Angriffs nach a2 zurückziehen. Der Zug ist eigentlich zu langsam} e6 {
+Dieser Zug verfolgt mehrere Ziele. Zunächst soll die Wirkung des Läufers auf
+c4 eingeschränkt werden und das - potentiell schwache - Feld f7 geschützt
+werden. Außerdem wird das Feld d5 überdeckt und der Vorstoß f4-f5 erschwert}
+9. Qe1 {Weiß führt den ursprünglichen Plan aus. Er will die Dame auf dem
+Königsflügel einsetzen, aber jetzt kann Schwarz das übliche Gegenspiel
+einleiten} Nd4 10. Nxd4 cxd4 {Im Unterschied zur Hauptvariante wird Weiß den
+Springer jetzt nicht mehr auf d5 stellen können. Daher ist diese Abwicklung
+sogar noch besser für Schwarz} 11. Ne2 d5 {Dieser aktive, aggressive Zug
+führt zwar zu einer schlechten Bauernstruktur für Schwarz, aber er öffnet
+die Stellung für die schwarzen Figuren und erobert auch Raum im Zentrum. Das
+Problem der weißen Figuren ist ihre mangelnde Koordination} 12. exd5 {Es ist
+zwar nicht schön Weiß die e-Linie zu öffnen, aber sonst verliert er einen
+Bauern} exd5 13. Bb3 {Jetzt hat Schwarz eine gute Stellung und kann seine
+Figuren frei bewegen und endlich atmen} Re8 {Das ist der logische Folgezug.
+Schwarz fesselt den Springer an die weiße Dame und übt unangenehmen Druck
+auf der e-Linie aus} 14. Qd2 {Die Dame steht hier ausgesprochen seltsam. Sie
+behindert die Entwicklung des Läufers auf c1, aber sie muss auch den Springer
+decken, der sonst im nächsten Zug verloren gegangen wäre} ({Schlecht ist} 14.
+Qf2 {und die schwarzen Figuren dringen mit Tempo in die weiße Stellung hinein}
+Ng4 15. Qf3 Ne3 16. Re1 Bg4 17. Qg3) 14... Bg4 $6 {Zunächst scheint dieser
+Zug logisch. Er entwickelt seine letzte Figur und greift den Springer auf e2
+ein weiteres Mal an. Aber er hat einen taktischen Makel, denn der Bauer auf d4
+hängt} ({Richtig war} 14... Ng4 $1 {und der schwarze Angriff gegen die weiße
+Königsstellung wird sehr stark. Der Bauer auf d4 wird gedeckt und der Weg
+für die schwarze Dame nach h4 wird freigemacht} 15. h3 Ne3 16. Rf3 {Schwarz
+hat klaren Vorteil. Die weißen Figuren sind unkoordiniert und stehen
+bedrängt. Die schwarzen Läufer haben eine gute Reichweite und die
+Schwerfiguren gute Aussichten}) 15. Nxd4 $1 {Das ist die beste Antwort von
+Weiß! Ursprünglich sieht dieser Zug riskant aus, da er den Springer in eine
+Fesselung stellt. Aber er beseitigt auch den ärgerlichen Bauern auf d4 und
+stellt einen starken Springer in das Zentrum} Qb6 {An diesen Zug klammerte
+Schwarz seine Hoffnung, aber er übersieht vollständig die weiße
+Gegenverteidigung} 16. Qb4 $1 {Dieser aktive Zug neutralisiert die schwarze
+Initiative und leitet ein Gegenspiel ein. Schwarz kann den Damentausch nicht
+gut verhindern, sollte aber auch nicht Weiß die a-Linie öffnen} Nd7 {Dieser
+Zug konsolidiert zumindest die schwarze Bauernstruktur und demaskiert den
+schwazren Königsläufer. Zwar hat Schwarz keine richtige Kompensation für
+den verlorenen Bauern, aber er kann auf Aktivität setzen} 17. Qxb6 Nxb6 {
+Es ist eine leicht bessere Stellung für Weiß entstanden. Schwarz hat den
+isolierten Damenbauern und einen guten Königsläufer. Auch sind die c-Linie
+und die e-Linie potentielle Angriffslinien. Dagegen stehen der Damenläufer
+und der Springer ineffiktiv und schlecht. Weiß hat noch
+Enbtwicklungsrückstand, aber einen Mehrbauern und bessere Aussichten im
+späten Mittelspiel. Sein Königsläufer ist eine gute Figur, sein Springer
+ist noch besser} 18. Nb5 {Weiß droht sofort mit der entscheidenden Gabel auf
+c7. Wenn jetzt der Damenturm zöge, dann kann Weiß auch den Bauern auf a7
+einstecken} Re7 {Schwarz überdeckt die siebte Reihe und das schlechte Feld c7.
+Er bereitet die Turmverdopplung auf der e-Linie vor} ({Aktiver sieht} 18... Re2
+{aus. Es kann folgen} 19. Nc3 Bd4+ 20. Kh1 Bxc3 21. bxc3 Rc8 22. Bb2 {Schwarz
+hat Kompensation für den Bauern, aber mehr auch nicht}) 19. Nc3 {Weiß zieht
+den Springer zurück und greift den Bauern auf d5 an. Aber vielleicht ist der
+Zug etwas voreilig} Rc8 {Schwarz macht sich gar nicht die Mühe den Bauern zu
+verteidigen. Stattdessen greift er den Bauern auf c2 an, falls sich die
+weißen Figuren auf d5 bedienen} 20. Bd2 {Klugerweise setzt Weiß die
+Entwicklung fort und verbindet die Türme, auch wenn der Läufer hier sehr
+bescheden steht} ({Schwarz hoffte auf das naive} 20. Nxd5 Nxd5 21. Bxd5 Rxc2 {
+mit Initiative}) 20... Be6 {Der Läufer auf g4 hatte nicht mehr allzuviel zu
+melden. Auf e6 deckt er zunächst den isolierten Bauern. Außerdem bereitet er
+den Abtausch des Läufers auf b3 vor} 21. Rab1 {Das ist ein komischer und
+schlapper Zug. Der Turm wird zwar aus der Diagonalen gebracht und deckt den
+Bauern auf b2, leistet aber nichts für die Entwicklung} d4 {Das ist die Idee:
+der schlechte Bauer wird nach vorne gepeitscht. Der Damenläufer auf b3 wird
+abgetauscht und der Springer wird aktiviert. Es gibt aber auch Nachteile. Der
+Königsläufer wird eingesperrt und das Feld e4 wird für den weißen Springer
+freigeräumt} 22. Ne4 {Würde Weiß auf e6 tauschen und dann den Springer
+wegziehen, dann könnte Schwarz wieder auf c2 einschlagen} Bxb3 23. cxb3 Nd5 {
+Wenigstens hat der Springer ein gutes Feld besetzt und droht auf e3
+einzusteigen} 24. f5 {Das ist eine gute und nicht vorhergesehene Antwort von
+Weiß. Der eigene schwache Bauer wird nach vorne gebracht und droht mit f5-f6
+und Figurengewinn. Wenn Schwarz den Bauern jetzt schlägt, dann öffnet sich
+für Weiß die Turmlinie} gxf5 {Dies scheint das kleinere Übel} ({Die
+Alternative war} 24... Be5 25. fxg6 hxg6 26. Rfc1 Rec7) 25. Rxf5 Ne3 {Die
+einzige Möglichkeit das weiße Spiel auszugleichen besteht in Gegenspiel} 26.
+Rc5 {Dieser Zug ist nicht besonders gut. Der Turm stand eigentlich gut auf der
+f-Linie, aber vielleicht hatte Weiß Angst vor dem Turmzug nach c2} Rxc5 {
+Der Turmtausch sollte nur Schwarz helfen, da sich die Stellung der schwarzen
+Figuren verbessert} 27. Nxc5 {Jetzt hat Schwarz ein schönes taktisches
+Manöver, das aber weder von ihm noch von Weiß zunächst gesehen wird} f5 {
+Dieser Zug soll dem weißen Springer die Rückkehr nach e4 verwehren, wo er
+wirklich besonders gut stünde. Andererseits wird der Bauer auch ein Risiko,
+denn er ist leicht angreifbar} 28. b4 {Weiß versucht den Springer auf c5 zu
+zementieren, der aber überhaupt nicht angegriffen war.} ({Der Zug} 28. g3 {
+wäre die bessere Wahl gewesen}) 28... Nxg2 {Endlich kann der Bauer auf g2
+gefahrlos genommen werden} 29. Kf2 ({Nach} 29. Kxg2 Re2+ 30. Kf3 Rxd2 {hat
+Schwarz die viel bessere Stellung, da Figuren aktiver sind und die
+Bauernstellung besser}) 29... Ne3 {Der Springer kehrt auf sein Idealfeld
+zurück und droht mit einem peinlichen Schach auf g4} 30. h3 {Weiß verwehrt
+dem Springer das Feld g4, aber so richtig zufrieden ist er mit seiner Stellung
+nicht mehr} Kf7 {Schwarz bringt erst einmal den König näher zum Zentrum} 31.
+Rg1 {Weiß verbessert die Stellung des weißen Turms und sucht nach Gegenspiel
+auf der g-Linie} Bf6 {Vielleicht steht der Läufer auf e5 besser, da zentraler.
+Die Idee ist ein Schach auf h4} 32. Nb3 {Der Springer wird zurückgebracht, um
+den Bauern auf d4 anzugreifen.} b6 {Auch ein Tempozug, um dem Springer die
+Rückkehr nach c5 zu verwehren und Zeit zu gewinnen} 33. Rc1 {Weiß kann über
+die g-Linie nicht eindringen und verlagert daher den Turm auf die c-Linie} Re8
+{Die folgenden Züge sind vor allem der hohen Zeitnot geschuldet und stellen
+keinen Plan dar} 34. Rc7+ Re7 35. Rc6 $2 {Das ist aber schon ungenau. Weiß
+übersieht die folgende Taktik} Nd1+ {Die Gabel bringt einen gesunden
+Mehrbauern für Schwarz (auch wenn er nur den Doppelbauern reduziert)} 36. Kf3
+Nxb2 37. Nc1 {Das ist schon der einzige Zug, um den d-Bauern zu decken} Nd1 {
+Besonders originell ist dieser Zug nicht, der den Springer wieder nach e3
+überführen soll. Aber die Zeit war knapp} 38. Ne2 Ne3 39. b5 {Für den
+Moment ist ein stabiles Gleichgewicht entstanden} Nd5 $2 {Jetzt greift Schwarz
+fehl, einen Zug vor der Zeitkontrolle. Er übersieht, dass Weiß mit einer
+simplen Taktik etwas Material zurückgewinnt} ({Der Zug} 39... Be5 {
+zentralisiert nicht nur den Läufer sondern überdeckt auch noch das Feld c7}
+40. Bxe3 dxe3 41. Kxe3 Bd6+ 42. Kd4 Bxa3 {führt daher zu einem vorteilhaften
+Endspiel für Schwarz}) 40. Rd6 $1 {Der aktive Turmzug erobert den Bauern auf
+d4} Nc3 41. Nxd4 Bxd4 42. Rxd4 Nxb5 43. Rh4 $6 {Das ist ein aktiver Zug, aber
+nicht der beste} ({Das stärkere} 43. Rd5 $1 {gabelt Springer und Bauer auf f5.
+Und Schwarz verliert sogar noch nach} Nxa3 44. Bb4) 43... Ke6 {Schwarz
+zentralisiert seinen König und versucht seine Figuren besser zu stellen} 44.
+a4 {Der Springer wird zunächst auf ein passives Feld getrieben} Nc7 45. Rh6+ (
+{Vielleicht ist die folgende Zugfolge genauer} 45. Bb4 Rf7 46. Rh6+ Kd7 47.
+Rd6+ {Alle weißen Figuren sind aktiver als die schwarzen und der Mehrbauer
+ist kompensiert}) 45... Kd5 {Der König wird weiter zentralisiert, aber er
+begibt sich auch in eine riskante Position} 46. Bb4 {Weiß stellt eine gemeine
+Falle} Rd7 {Das ist der einzige richtige Verteidigungszug} ({Das stümperhafte
+} 46... Rf7 $4 {verliert direkt nach} 47. Rd6+ Ke5 48. d4#) 47. Ke3 {Auch
+Weiß zentralisiert seinen König} Ne6 {Langsam beginnen sich die schwarzen
+Figuren aus der prekären Stellung zu lösen} 48. Rh5 Rf7 49. Rh4 {Die letzten
+weißen Züge waren nicht sehr genau, aber verderben auch noch nichts} f4+ {
+Der schwarze f-Bauer sollte eigentlich das Spiel entscheiden} 50. Kf2 Nc5 $6 {
+Ein alberner Zug, um auf d3 zu springergabeln} ({Der Zug} 50... f3 {droht
+zumindest schon mit einer Figur auf f4 nachzurücken} 51. Bc3 {Weiß gehen so
+langsam die guten Züge aus} Nf4 52. Kxf3 $2 Ng6+) 51. Rh5+ Kd4 52. Bxc5+ $1 {
+Weiß hat noch eine Verteidigungsressource gefunden} bxc5 53. Kf3 c4 $2 {
+Der letzte Fehler: Schwarz würde so gerne den schwachen Bauern auf c4
+loswerden} ({Das viel stärkere} 53... a5 {brächte Weiß bald in Zugzwang} 54.
+Rg5 h6 55. Rh5 Rf6 56. Rh4 Kxd3 57. Rxf4 Rxf4+ 58. Kxf4 c4 {mit schwarzem Sieg}
+) 54. dxc4 Kxc4 55. a5 $1 {Eine gute Idee. Der Bauer geht auf die fünfte
+Riehe und kann dort leicht verteidigt werden} a6 56. Rg5 Kb4 57. Rh5 Ka4 58.
+Rg5 Rf6 59. Rh5 h6 60. Re5 Kb4 61. Rh5 1/2-1/2
+

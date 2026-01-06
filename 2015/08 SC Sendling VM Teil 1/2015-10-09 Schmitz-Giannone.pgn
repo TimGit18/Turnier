@@ -1,0 +1,57 @@
+﻿[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2015.10.09"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Giannone, Louis"]
+[Result "1/2-1/2"]
+[ECO "B98"]
+[WhiteElo "1853"]
+[BlackElo "1440"]
+[PlyCount "195"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.10.10"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 $6 {Das ist die Wiederholung der letztjährigen Variante} 10.
+Nxc6 {Das muss der richtige Zug sein. Wenn Schwarz mit der Dame schlägt, dann
+steht sie schlechter als zuvor} bxc6 11. e5 {Das ist die Idee des weißen
+Aufbaus. Das Zentrum wird sofort geöffnet, um den weißen
+Entwicklungsvorsprung zur Geltung zu bringen} dxe5 12. fxe5 Nd5 13. Bxe7 Qxe7 (
+{Der Zug} 13... Nxc3 {scheitert an} 14. Rd8+ Qxd8 15. Bxd8 Nd5 16. Ba5) 14. Ne4
+{Der weiße Springer soll die schwarzen Felder im Zentrum beherrschen. Der
+schwache weiße Bauer auf e5 wird durch die Schwäche des Bauern c6 kompensiert
+} O-O 15. c4 Nb6 16. Nf6+ $6 {Dieser Zug, obwohl optisch ansprechend, ist
+alberne Effekthascherei. Etwas konkretes erreicht Weiß nicht} Kh8 17. Ne4 ({
+Geplant war eigentlich} 17. Bd3 {, aber Schwarz kann diese Stellung gut
+verteidigen} gxf6 18. exf6 Qc5 {und die Dame kommt mit Tempo nach g5, um die
+Felder g7 und h7 zu verteidigen}) 17... Bb7 18. Bd3 Nd7 19. Qg3 f5 $2 {Der
+Versuch, den schwarzen Figuren etwas Aktivität zu verschaffen, ist ein
+positioneller Fehler. Schwarz erhält zwei schwache Bauern auf c6 und e6} 20.
+exf6 Nxf6 21. Ng5 h6 22. h4 $6 {Das sieht zwar auch gut aus, aber dieser Zug
+ist wiederum nicht zwingend} c5 23. Bg6 {Weiß will alle Befreiungsideen wie
+Sf6-h5 verhindern} Kg8 24. Rd6 $2 {Der Beginn eines falschen Plans. Besser
+hätte Weiß den anderen Turm genommen, aber dieser hofft noch vergeblich auf
+die Öffnung der h-Linie} e5 25. Re6 Qc7 26. Qc3 $2 {Ein schlechter Zug folgt
+auf den nächsten. Weiß hat hier völlig den Faden verloren} e4 27. Nxe4 $4 {
+Dieser riesige Figureneinsteller übersieht völlig das Motiv mit dem
+Zwischenschach auf f4} Nxe4 28. Bxe4 Qf4+ 29. Qd2 Bxe4 30. Qxf4 Rxf4 31. Rd1 {
+Praktisch ist die Stellung verloren. Weiß kann nur etwas auf den Damenflügel
+hoffen} Rg4 32. Re5 Bxg2 33. Rxc5 Bf3 34. Rd7 Rg2 35. Re5 Rc8 36. b3 Rf8 37.
+Rde7 {Es drohen bereits Mattmotive auf der Grundreihe} Ba8 38. Re1 Kh7 39. R7e6
+Rxa2 40. Kb1 Raf2 (40... Rff2 $1) 41. Rxa6 Rg2 42. c5 Be4+ 43. Ka1 Ra8 44. Rxa8
+Bxa8 45. Re8 Bd5 46. b4 Ra2+ 47. Kb1 Ra7 {Auf einmal ist Weiß wieder im Spiel.
+Tragischerweise verliert er seinen Damenflügel} 48. Re5 $2 ({Es ist viel
+wichtiger hier den König zu aktivieren} 48. Kc2 Rc7 49. Kc3 Bf7 50. Re1 Kg6
+51. Rf1 {mit Gegenspiel}) 48... Bc6 49. Re6 Rc7 50. Kc2 g5 51. hxg5 hxg5 52.
+Kc3 g4 53. Re3 {Mit ein paar Zügen hat Schwarz hier einfach eine gewonnene
+Stellung erreicht} Rf7 54. Re6 Bb5 (54... g3 $1) 55. c6 $4 Rc7 $1 {Das gewinnt
+alle Bauern} 56. Re5 Rxc6+ 57. Kd4 Rc4+ 58. Ke3 Rxb4 59. Rg5 Bc6 60. Rc5 Bf3
+61. Re5 Kg6 62. Kf2 Re4 63. Rc5 Re2+ 64. Kg3 Kf6 65. Ra5 Re5 66. Ra6+ Kf5 67.
+Ra4 Re3 68. Ra5+ Bd5+ 69. Kf2 Re5 70. Kg3 Bf3 71. Ra4 Re4 72. Ra5+ Ke6 73. Rb5
+Rd4 74. Ra5 Rd5 75. Ra4 Ke5 76. Rb4 Rd4 77. Rb8 Ke4 78. Re8+ Kd3 79. Rb8 Ke2
+80. Rb2+ Rd2 81. Rb4 Ke1 82. Rb1+ Rd1 (82... Bd1 $1) 83. Rb4 Kf1 84. Rb2 Kg1
+85. Ra2 Rd3 86. Ra1+ Rd1 87. Ra2 Kf1 88. Rb2 Ke1 89. Ra2 Rd2 90. Ra1+ Ke2 91.
+Ra3 Kd1 92. Ra1+ Kc2 93. Ra2+ Kc3 94. Ra3+ Kb2 95. Re3 Rg2+ 96. Kf4 Bd1 97. Re1
+Kc2 98. Ke3 1/2-1/2
+

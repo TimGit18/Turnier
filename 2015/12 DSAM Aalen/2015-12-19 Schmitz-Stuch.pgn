@@ -1,0 +1,78 @@
+[Event "DSAM Aalen C-Turnier"]
+[Site "?"]
+[Date "2015.12.19"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Stuch, Hans-Ferdinand"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "1853"]
+[BlackElo "1765"]
+[PlyCount "43"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 $6 {Dieser Zug hat keine allzu gute
+Reputation, ist aber besser als sein Ruf und nicht einfach zu widerlegen.
+Schwarz muss einen Bauern opfern} 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. Qxe5 $2 {
+Das ist schon die falsche Art des Nehmens. Nach dem Damentausch kommt Schwarz
+zu einem schönen Druckspiel} ({Wenn man die Damen auf dem Brett läßt, dann
+erhält man eine bessere Stellung für Weiß. Denn die weiße Dame ist sehr
+gut platziert, die schwarze aber sehr schlecht} 7. dxe5 Nc6 8. Bb5 Bd7 9. O-O
+$14 O-O-O 10. Nc3 {Weiß hat schon die bessere Stellung. Er kann mit dem
+Damenspringer nach d5 gehen und eine sehr schöne Stellung einnehmen.
+Außerdem ist der schwarze Königsläufer noch unentwickelt}) 7... Qxe5+ 8.
+dxe5 Bf5 {Dieser Zug ist stärker als er aussieht. Vordergründig bedroht
+Schwarz nur den Bauern auf c2. Aber der Zug bereitet auch die lange Rochade
+vor und zwingt Weiß zu einer Konzession} 9. Bb5+ {Das ist der vermutlich am
+wenigsten schlecht aussehendenste Zug. Weiß möchte den Läufer auf der
+Diagonalen a4-d1 platzieren, um den Bauern dort zu decken} ({(a) Der plumpe
+Versuch, den Läufer zu tauschen, führt nach} 9. Bd3 Bxd3 10. cxd3 Nc6 {
+zu einer Stellung mit lauter Löchern und schwachen Bauern auf d3 und e5}) ({
+(b) Ein etwas besserer Versuch stellt} 9. c3 {dar. Aber nach} Nd7 10. Bf4 Nc5 {
+[%csl Yc5,Yd3,Yf5][%cal Rc5d3,Rf5d3] hat Weiß ein häßliches Loch auf d3.
+Schwarz kann mit seinem Springer einsteigen und dann - nach dem Abtausch auf
+d3 - die weißen Felder beherrschen}) 9... c6 {Natürlich versucht Schwarz
+jetzt die Initiative zu gewinnen} 10. Ba4 Nd7 11. O-O {Weiß spekuliert darauf,
+dass Schwarz den Bauern auf e5 wegen der Fesselung in der e-Linie nicht nehmen
+kann. Das ist allerdings ein Irrtum} Nc5 $6 {Mit diesem Zug sichert sich
+Schwarz das Läuferpaar und eine etwas bessere Stellung im Endspiel} ({Er
+könnte auch direkt den Bauern gewinnen, denn nach} 11... Nxe5 12. Re1 O-O-O {
+kann Weiß den Springer auf e5 wegen des Grundlinienmatts nicht nehmen} 13. Nc3
+Bd6 14. Bf4 Nc4 15. Bxd6 Rxd6 {Die schwarzen Leichtfiguren sind besser
+platziert, da sie beide Ziele im weißen Lager angreifen} 16. b4 Rd2 17. Rad1
+Rhd8) 12. Bb3 Nxb3 13. cxb3 {Schwarz hat sich das Läuferpaar gesichert und
+die bessere Stellung in diesem Endspiel erreicht. Der weiße Mehrbauer spielt
+momentan keine Rolle. Die weißen Bauern auf dem Damenflügel sind zwar
+entwertet, aber sie vermeiden die Bildung eines Freibauern auf dem
+Damenflügel. Der Bauer e5 im Zentrum kann eine wichtige Rolle spielen,
+ähnlich wie in dem Berliner Endspiel} O-O-O 14. Be3 {Das ist ein guter Zug,
+denn er verbindet schnelle Entwicklung mit Zeitgewinn. Außerdem kontrolliert
+der Läufer das Feld d4} b6 {Schwarz versucht die schwarzen Felder auf dem
+Damenflügel zu kontrollieren. Er will den König nach b7 bringen} 15. Nc3 {
+Der Springer muss hierhin, um das Feld d5 zu kontrollieren. Er muss mit dem
+Damenläufer gut harmonieren und die Felder der anderen Farbe kontrollieren}
+Be7 {Das ist ein natürlicher Entwicklungszug, aber vielleicht steht der
+Läufer auf g7 viel besser um den schwarzen Bauern auf e5 anzugreifen} 16. Rfd1
+{Die Türme sind verbunden. Jetzt geht es darum, die einzige offene Linie im
+Zentrum zu beherrschen} Rde8 $5 {Dieser Zug beläßt die Spannung in der
+Stellung. Der Turm steht hier auf einer guten, aktiven Linie und richtet sich
+gegen den Bauern e5} 17. Rac1 {Weiß entwickelt hier seine letzte Figur und
+nimmt die leichte Schwäche c6 unter Beobachtung. Von der Eröffnung genervt
+bietet er hier Remis an. Dabei ist noch genug Dynamik in der Stellung. Die
+folgende Idee verdeutlicht es} Kb7 18. Ne2 {[%csl Yc6,Yd4,Ye2,Yf4,Yf5,Yg3]
+[%cal Ge2d4,Gd4c6,Gd4f5,Ge2g3,Rf2f4] Das ist ein multifunktionaler Zug in
+dieser Stellung. Der Springer droht damit, das Feld d4 zu betreten, wonach er
+ideal steht und viele Ziele angreift. Alternativ kann er auch nach g3 gehen
+und mit dem f-Bauern vorpreschen} f6 {Schwarz möchte diesen lästigen Bauern
+auf e5 endlich loswerden. Würde Weiß auf f6 schlagen, dann würden die
+schwarzen Läufer eine hervorragende Figur abgeben} ({So hat Weiß nach den
+Zügen} 18... c5 19. Ng3 Bg6 20. f4 f6 21. f5 Bf7 22. e6 Bg8 23. Rd7+ {einfach
+in kürzester Zeit eine Traumstellung erreicht}) 19. Nd4 {Der Springer bedroht
+hier nicht nur den Bauern c6, sondern auch noch das geschwächte Feld e6} Be4 {
+Der Läufer steht hier sehr stark im Zentrum. Er möchte nach d5 gehen} 20. Ne6
+$1 {Dieser Zug sieht sehr aktiv aus. Weiß läßt seine Figuren in die
+schwarze Stellung einsickern} fxe5 {Das ist bereits eine Konzession, aber was
+soll Schwarz sonst spielen?} 21. Rd7+ Kc8 22. Rxa7 {Die Stellung hat sich
+gedreht. Der schwarze König steht hier sehr unsicher und er muss sich um die
+hängenden Bauern auf b6 und g7 kümmern} 1/2-1/2
+

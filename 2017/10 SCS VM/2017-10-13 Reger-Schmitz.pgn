@@ -1,0 +1,98 @@
+[Event "SC Sendling Vereinsmeisterschaft 2018"]
+[Site "?"]
+[Date "2017.10.13"]
+[Round "2"]
+[White "Reger, Klaus"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1687"]
+[BlackElo "1776"]
+[PlyCount "34"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.10.14"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. c4 d6 5. Nc3 O-O {Weiß spielt ein
+London-System mit einem Bauern auf c4 und kontrolliert zuverlässig das Feld e5
+} 6. e4 {Dieser Zug passt eigentlich nicht in das von Weiß gewählte System.
+Eigentlich bevorzugen die London-Spieler ein System mit dem Bauern auf e3
+statt auf e4, um in der Ruhe ihre Entwicklung zu beenden} c5 $6 {Das ist eine
+prinzipielle Fortsetzung und sicherlich nicht falsch. Aber Schwarz
+vernachlässigt etwas die Kontrolle des Feldes e5. Dieser Umstand verlockt
+Weiß dazu, das Feld e5 zu besetzen} ({Bologan empfiehlt, um die Kontrolle des
+Feldes e5 zu kämpfen} 6... Bg4 {Schwarz fesselt den weißen Königsspringer
+und bereitet den Vorstoß des eigenen Königsbauern nach e5 vor} 7. Be2 Nfd7 {
+Das ist ein wichtiger Zug. Schwarz kontrolliert jetzt mit drei Figuren das
+Feld e5.} 8. O-O Bxf3 9. Bxf3 e5 {Jetzt hat Schwarz den wichtigen Vorstoß
+nach e5 durchgesetzt. Er hat zwar das Läuferpaar verloren, aber sein Zentrum
+stabilisiert} 10. Be3 Nc6) 7. e5 $5 {Das ist ein zweischneidiger Zug. Weiß
+erobert Raum und vertreibt eine schwarze Figur, aber er überdehnt auch sein
+Zentrum und erlaubt Angriffe auf den schwarzen Feldern} Nh5 {Wegen dieser
+Antwort war ich der Meinung, dass der Vorstoss nach e5 nicht gehe. Aber Weiß
+kann den Läufer auf ein besseres Feld stellen} 8. Be3 {Der Läufer ist hier
+unangreifbar und deckt den potentiell gefährdeten Bauern auf d4} Nc6 $6 {
+Das ist auch ein zweischneidiger Zug. Schwarz entwickelt zwar eine Figur auf
+ein aktives Feld und baut starken Druck gegen das Feld d4 auf. Aber es wäre
+vielleicht einfacher gewesen, den schlichten Massenabtausch im Zentrum
+vorzunehmen} ({Nach den leicht ausrechenbaren Zügen} 8... cxd4 9. Bxd4 Nc6 10.
+exd6 Nxd4 11. Nxd4 Qxd6 12. Ndb5 Qe5+ 13. Be2 {hätte Schwarz zwar keinen
+Vorteil, aber ein angenehmes Spiel mit offenen Diagonalen und guten Läufern
+in einem Spiel ohne Bauernzentrum}) 9. exd6 {Weiß beseitigt seinen schlechten
+Bauern auf e5 und verschafft Schwarz einen schwachen und rückständigen
+Bauern auf d6. Als kleinen Preis kann man die Befreiung des Läufers auf g7
+sehen. Ich hatte mir von der Öffnung der Diagonalen und des Drucks auf d4
+allerdings mehr versprochen} exd6 {[%csl Yd4,Yg7][%cal Rg7d4,Rc5d4,Rc6d4] Nach
+längerer Überlegung scheint das der einzig richtige Zug zu sein. Das
+schwarze Zentrum wird stabilisiert, auch wenn der Bauer auf d6 sehr schwach ist
+} ({(a) Die einzige Alternative, an die gedacht wurde ist} 9... cxd4 10. dxe7
+Qxe7 11. Nd5 {Jetzt scheint die schwarze Dame kein gutes Feld mehr zu haben}) (
+{(b) Wenn die Dame in das Zentrum kommt, dann wird sie schnell gejagt werden
+kann} 9... Qxd6 10. Nb5 Qd8) 10. Be2 {Am besten ist es für Weiß, wenn er
+sich ganz ruhig und unspektakulär weiterentwickelt} Qa5 {Die Dame steht hier
+nicht allzu gut, aber sie deckt den Bauern c5 und kann selber nicht
+angegriffen werden} 11. O-O Nf6 {[%csl Yd5,Ye4,Yg4][%cal Gf6e4,Gf6d5,Rf6g4]
+Dieser Rückzug ist vielleicht ein Tempoverlust, aber er scheint auch
+notwendig. Erstens muss er die Felder e4 und d5 zu überdecken, zweitens steht
+er auf h5 immer latent gefährdet und drittens kann der Springer auf g4
+angreifen} 12. Qb3 $6 {Dieser Zug scheint überflüssig oder ein Zeitverlust.
+Weiß will nicht so sehr die Damen auf b5 tauschen, sondern d5 auf jeden Fall
+verhindern. Ein Nachteil, den Schwarz unbedingt ausnutzen muss, ist die
+Tatsache, dass wieder eine Deckungsfigur von dem gefährdeten Bauern auf d4
+abgezogen wird} ({Die kritische Fortsetzung erschien hier} 12. Nb5 {mit
+Doppelangriff auf die Bauern d6 und c5. Was soll Schwarz spielen?} cxd4 13.
+Nfxd4 d5 $1 {Nur so kann es gehen. Schwarz befreit sich langsam aus der
+Umklammerung im Zentrum und löst den schwachen Bauern auf d6 auf}) 12... Ng4
+$1 {[%csl Yd4,Ye3][%cal Rg7d4,Rc6d4,Rc5d4,Rg4e3] Das ist die einzige richtige
+Antwort. Aktives Spiel gegen die weiße Stellung und Angriff gegen die weißen
+Verteidiger von d4} 13. Nb5 {Das ist die logische Antwort. Weiß verteidigt
+den Bauern auf d4 und greift den Bauern auf d6 an} cxd4 ({Nach} 13... Nxe3 14.
+fxe3 {wäre die f-Linie für Weiß geöffnet, der Bauer auf d6 weiterhin
+gefährdet und das weiße Zentrum stabilisiert}) 14. Bxd4 {Das ist eine kleine
+Konzession von Weiß. Er gibt das Läuferpaar ab, um den Abtausch auf e3 zu
+vermeiden. Er will natürlich auf der Schwäche von d6 herumkauen} Nxd4 15.
+Nfxd4 $2 {Das ist der erste schwere Fehler in der Partie, der aber logisch
+erklärbar ist. Erstens sollen die Figuren maximal aktiv sein. Hier sind beide
+Springer aktiv und auch der Läufer wird aktiviert, weil sich eine weitere
+Diagonale für ihn öffnet. Allerdings hat der Zug einen schweren taktischen
+Nachteil, denn der Springer auf d4 wird nur von dem Verteidiger auf b5 gedeckt}
+a6 {Die Deckungsfigur von Weiß wird angegriffen. Weiß verfügt über einen
+taktischen Trick} 16. Nxd6 {Weiß hofft auf einen Trick} Qe5 $5 {[%csl Yd4,Yd6,
+Ye2,Yh2][%cal Re5e2,Re5d4,Re5d6,Re5h2] Das ist ein guter Zug, aber vielleicht
+nicht der beste. Schwarz zentralisiert die eigene Dame, droht mit Matt und
+greift gleichzeitig mehrere Figuren an} ({(a) Die einfachste Fortsetzung ist} 
+16... Bxd4 17. Nxc8 Nxf2 18. Ne7+ Kg7 19. Rxf2 {Weiß hat eine Figur mehr,
+aber er wird die Qualität verlieren. Nicht gesehen habe ich die Fortsetzung}
+Rfe8 20. Nd5 Rxe2 21. Raf1 Rxf2 22. Rxf2 Qc5 {Hiernach muss Schwarz das
+Endspiel einfach gewinnen}) ({(b) Besser ist womöglich} 16... Qc7 {, aber mit
+der gleichen Grundidee wie in der Partie und besserer Umsetzung}) 17. Bxg4 $2 {
+Das ist der eigentliche Verlustzug, wahrscheinlich aus Panik. Dabei hätte
+eine längere Überlegung das Spiel offenhalten können} ({Nach} 17. Qg3 {
+bleibt für Schwarz eigentlich nur der Weg wie in der oben beschriebenen
+Variante} Qxg3 18. hxg3 Bxd4 19. Nxc8 Nxf2 20. Ne7+ Kg7 21. Rxf2 Rae8 22. Rd1
+Bxf2+ 23. Kxf2 Rxe7 {Schwarz hat die Qualität mehr und eine bessere
+Bauernstellung. Die Stellung ist nicht einfach zu gewinnen und locker
+weitspielbar für Weiß, aber eigentlich war die ganze Variante sehr forciert
+und leicht zu berechnen}) 17... Bxg4 {Jetzt hat Weiß einfach eine Figur
+verloren und gibt auf. Er könnte noch etwas weiterspielen, aber dies macht
+keinen Spaß} 0-1
+

@@ -1,0 +1,21 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2015.11.07"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Steinle, Simon"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "1852"]
+[BlackElo "1647"]
+[PlyCount "65"]
+[SourceDate "2015.11.07"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Nf3 cxb2 8.
+Bxb2 Nh6 9. Bd3 O-O 10. Qd2 Nf5 11. h4 Nc6 12. b5 Qb6 13. Ba3 (13. g4 Nfd4 14.
+Nxd4 Nxd4 15. Bxd4 Qxd4 16. Bxh7+) 13... Nxe5 14. Nxe5 Qd4 15. O-O Qxe5 16.
+Bxf8 Kxf8 17. Qb4+ Ke8 $2 18. b6 a6 19. Rfe1 Qf6 20. Bxf5 Qxf5 21. c4 Qf4 22.
+Qb2 d4 23. Rad1 Qxh4 24. Rxd4 Qf6 25. Qd2 e5 26. Rd6 Be6 27. Qa5 Rc8 28. c5 Qg5
+29. c6 Qe7 30. cxb7 (30. Qxe5 bxc6 31. b7 Qxb7 32. Qxg7) 30... Qxd6 31. bxc8=Q+
+Bxc8 32. Rxe5+ Kf8 33. Qc5 1-0
+

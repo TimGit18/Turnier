@@ -1,0 +1,34 @@
+[Event "Rhein-Main-Open 2010"]
+[Site "?"]
+[Date "2010.06.03"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Kutzner, Joachim"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[WhiteElo "1870"]
+[BlackElo "2080"]
+[Annotator "Tim Schmitz"]
+[PlyCount "81"]
+[EventDate "2010.05.21"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 Nf6 6. exd5 exd5 7. O-O {
+Der normale Tarrasch-Aufbau, vielleicht steht Weiß etwas besser} Bg4 8. h3 Bh5
+9. Re1+ Be7 {Jetzt kann Weiß einen Bauern gewinnen} 10. dxc5 O-O 11. Nb3 Ne4 {
+[%csl Rc5][%cal Ge7c5,Ge4c5]} 12. Be2 $6 (12. Be3 Ne5 13. Be2 Nc4 {gefiel mir
+nicht}) 12... Nxc5 13. Be3 Nxb3 14. axb3 {Jetzt haben beide Seiten schwache
+Bauern, aber Schwarz ist etwas aktiver} Bf6 15. c3 Re8 16. Qd2 Qd7 17. Rad1
+Rad8 {Ich plane jetzt, den guten Läufer abzutauschen} 18. Bg5 Qd6 19. Qf4 $6 {
+Zweifelhaft} Bxg5 (19... Qxf4 20. Bxf4 d4 21. cxd4 Bxf3 22. Bxf3 Nxd4) (19...
+Re4 {hatte ich befürchtet wegen} 20. Qxd6 Rxd6 21. Bxf6 Rxf6 {aber} 22. g4 {
+ergibt weißen Vorteil}) 20. Qxg5 Bg6 21. Bb5 Be4 22. Nd4 {Weiß muss aktiv
+spielen} h6 (22... Re5 23. Qd2) 23. Qe3 f5 {Schwarz will es jetzt wissen} 24.
+f3 f4 25. Qf2 Bg6 26. b4 a6 27. Bf1 $2 {Ein schlapper Zug in Zeitnot} (27. Bxc6
+bxc6 28. Qd2 Ra8 29. Ra1 {und Weiß hat Druckspiel und einen starken Springer})
+27... Ne5 {Der Springer kommt nach c4} 28. Qd2 Nc4 29. Bxc4 {Erzwungen} dxc4
+30. Rxe8+ Rxe8 31. Re1 {Jetzt wird alles abgetauscht} Re5 32. Rxe5 Qxe5 33. Kf2
+Bd3 34. Qe1 Qg5 {Das ergibt trotzdem nur eine Festung} 35. Kg1 a5 36. bxa5 ({
+Offenbar ist die folgende Variante besser} 36. Qe8+ Kh7 37. Ne6 Qg3 38. Nf8+
+Kg8 39. Nd7+ Kh7 40. h4 Bc2 41. Nf8+ Kg8 42. h5 Bd3 43. Ng6+ Kh7 44. Qh8#)
+36... Qxa5 37. Kh2 Qg5 38. Qe6+ Kh7 39. Qe1 h5 40. Kg1 h4 41. Qe6 1/2-1/2
+

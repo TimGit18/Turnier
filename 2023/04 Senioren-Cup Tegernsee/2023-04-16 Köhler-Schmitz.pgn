@@ -1,0 +1,23 @@
+[Event "Senioren-Cup Tegernsee"]
+[Site "?"]
+[Date "2023.04.16"]
+[Round "2"]
+[White "Köhler, Gerhard"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E99"]
+[WhiteElo "2250"]
+[BlackElo "1860"]
+[Annotator "Tim Schmitz"]
+[PlyCount "79"]
+[SourceVersionDate "2023.04.16"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. Nd3 Nf6 14. c5 Ng6 15. Rc1
+Rf7 16. a4 h5 17. Nb5 a6 18. Na3 Bf8 19. Nc4 g4 20. cxd6 Bxd6 21. b4 Rg7 22. a5
+gxf3 23. Bxf3 Ng4 24. Nc5 Bxc5 25. bxc5 Nh4 26. Be1 Qg5 27. d6 Nxg2 28. Bxg2
+Nxh2 29. Rc2 (29. Rf2 Bg4 30. Qd5+ Kh7 31. Qxe5) 29... Nxf1 30. Qd5+ Kh7 31.
+Kxf1 f3 $6 32. Qxe5 $4 (32. Bxf3 Qg1+ (32... Bh3+ 33. Ke2) 33. Ke2 Bh3 34. Ne3)
+32... fxg2+ 33. Kg1 Qxe5 34. Nxe5 Bh3 35. Rd2 Rf8 36. Bf2 cxd6 37. cxd6 Bd7 $4
+38. Nxd7 Rxd7 39. Kxg2 Kg6 40. Bg3 1/2-1/2
+

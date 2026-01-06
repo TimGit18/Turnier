@@ -1,0 +1,81 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2010.01.15"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Yegorkin, Vitaly"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "1877"]
+[BlackElo "1728"]
+[Annotator "Tim Schmitz"]
+[PlyCount "121"]
+[EventDate "2010.01.04"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 {Die
+Vierspringer-Variante ist aggressiver, aber auch unsolider als die Varianten
+mit 5...e6} Bg4 {[%csl Yd4][%cal Rc6d4,Rg4f3] Dieser aggressive Zug
+unterminiert die Verteidigung des potentiell schwachen Bauern d4. Die schwarze
+Strategie ist allerdings ziemlich riskant, da die Entwicklung des
+Königsflügels vernachlässigt wird.} 7. cxd5 {Das ist die Hauptfortsetzung, die
+zu einer forcierten Abwicklung führt.} Nxd5 8. Qb3 {[%csl Yb7,Yd5][%cal Rb3d5,
+Rb3b7] Dieser aktive Damenzug entfesselt den Springer Sf3 und bildet einen
+Doppelangriff auf den Springer Sd5 und den Bauern b7} Bxf3 9. gxf3 Nb6 {
+[%csl Yd4,Yd5][%cal Rd4d5] Schwarz verteidigt b7 und rettet den angegriffenen
+Springer. Aber er erlaubt den weißen Vormarsch d4-d5, der fester Bestandteil
+der weißen Strategie ist. Daher ist e6 die wichtige Alternative} 10. Be3 {
+Dieser ruhige Zug deckt d4 und vermeidet die Komplikationen, die nach d4-d5
+entstehen. Weiß muss den Raumvorteil und das Läuferpaar ausnutzen} e6 {[%csl
+Rd4,Yf2,Yf3,Yh2][%cal Gf1c4,Ga1c1] Das Tabiya dieser Variante: Die Bauern h2,
+f2 und f3 sind schwach. Der Bauer d5 gehört vom Brett. Er behindert die weißen
+Figuren. Weiß muss lang rochieren, die Bauernvorstöße d5 und f4 spielen. Die
+weißen Türme gehören demnach nach c1 und d1. Danach können die Läufer
+entwickelt werden} (10... g6 {[%csl Yd4] Das ist eine Idee aus der
+Aljechin-Verteidigung. Schwarz will mit dem Läufer g7 Druck auf den weißen
+d-Bauern aufbauern. Dieser kann aber nach vorn preschen} 11. d5 Ne5 12. Bb5+ {
+nutzt sofort die Abwesenheit des Springers c6 aus} Ned7 13. Bd4 {Beide Läufer
+haben überragende Positionen} f6 14. d6 exd6 15. Bxb6 axb6 16. Qe6+ Qe7 17.
+Bxd7+ {mit Gewinn}) (10... Nxd4 $4 11. Bxd4 Qxd4 12. Bb5+ Nd7 13. Rd1 Qe5+ 14.
+Ne4 Rd8 15. O-O {Jetzt droht schon Sd6+} e6 16. Rxd7 $1) 11. O-O-O Be7 12. d5
+$1 {[%csl Yd5] Weg mit ihm} exd5 (12... Nxd5 $2 {ist keine gute Art, den
+Bauern zu schlagen. Der schwarze Damenflügel wird zertrümmert und Weiß erhält
+ohne Probleme eine Gewinnstellung} 13. Qxb7 Rc8 14. Bb5 {[%csl Yc6]} Qc7 {
+Diese Konzession ist bereits erzwungen} 15. Qxc7 Rxc7 16. Nxd5 exd5 17. Kb1 $18
+{[%csl Yd5] Dieser Sidestep ist auf jeden Fall gut}) 13. Nxd5 Nxd5 14. Rxd5 Qc7
+15. Kb1 O-O {Die Schlüsselstellung der gesamten Variante. Aufgrund der
+entgegengesetzten Rochadestellung müssen beide Seiten dynamisch spielen} 16. f4
+{[%csl Ye5][%cal Gf1b5,Ge3c5,Re7f6]} Nb4 $1 {Schwarz muss die Initiative
+ergreifen, da sonst die weiße Stellung im Zentrum zu dominant wird} (16... Rad8
+{Das ist ein logischer Zug, denn Schwarz will den aktiven weißen Turm auf d5
+beseitigen} 17. Bg2 {Der thematische Zug entwickelt den Läufer auf die lange
+Diagonale, deckt den Turm und bringt den Königsturm in das Spiel} Rxd5 18. Bxd5
+Bf6 19. Rc1 {Damit wird wieder die aktivste Aufstellung für Weiß erreicht} Qd7
+20. Be4 Re8 21. Qc2 {[%csl Yc6,Yh7][%cal Re4h7,Re4c6]} g6 {Jetzt kann Weiß
+aufgrund des Doppelangriffs auf c6 und h7 Material gewinnen} 22. Bxc6 bxc6 23.
+Qxc6 Qf5+) 17. Rd4 Rfd8 {Der aktivste schwarze Zug} (17... Nc6 {Der Rückzug
+ist nicht ganz so gut. Weiß kann den weißfeldrigen Läufer auf die lange
+Diagonale entwickeln und Druck auf der c-Linie auf c6 ausüben} 18. Rd1 Bf6 19.
+Bg2 {[%csl Yc6][%cal Rg2c6]} Rfd8 {Weiss hat bereits hier schon leichten
+Vorteil} 20. Be4 Rxd1+ 21. Rxd1 Rd8 22. Rxd8+ Bxd8 23. Qd3 $14) 18. Rxd8+ Rxd8
+19. Bc4 {[%csl Yf7]} Bf8 (19... Bd6 {erlaubt es Weiß, die d-Linie zu besetzen}
+20. Rd1 $14) 20. Rc1 Qd7 21. a3 Nc6 22. Qb5 {[%csl Yf5] Weiß muss sehr genau
+spielen und das Feld f5 kontrollieren, da sonst das Bauernendspiel verloren ist
+} (22. Bb5 $2 {ist ein großer Fehler, denn Schwarz kann eine günstige
+Abwicklung wählen} Qf5+ $1 23. Ka1 Nd4 $1 24. Bxd4 Rxd4 $17 {[%csl Yf2,Yf4,Yh2]
+Das weiße Läuferpaar ist verschwunden und die weißen Bauern auf dem
+Königsflügel werden fallen}) 22... a6 23. Qb6 {Der beste weiße Zug, der das
+Feld d4 überdeckt} Rc8 {Erst hier weicht Vitaly von der Houska-Variante ab} 24.
+Ka1 {Prophylaktisch gegen Df5+ gerichtet} Be7 25. Qb3 {[%csl Yf7]} Nd8 26. Rd1
+Qc7 27. Bd5 b5 28. Rc1 Qd7 29. Rxc8 Qxc8 {Das Endspiel ist nur minimal besser
+für Weiß} 30. Qd3 g6 31. Qe4 Kf8 {Die weißen Figuren stehen etwas aktiver} 32.
+f5 $6 {Zeitnot, aber auch ein Versuch die Stellung zu öffnen} (32. Qe5 f6 33.
+Qe4) 32... Qxf5 33. Qxf5 gxf5 34. b4 Kg7 35. Bb6 Ne6 36. Bb7 {Das ist der Plan}
+Bf6+ 37. Kb1 Be5 38. h3 $2 (38. Bxa6 Bxh2 39. Bxb5 {und die Freibauern auf dem
+Damenflügel sind schwer zu stoppen}) 38... Nf4 (38... Bc7) 39. Bxa6 Nxh3 40.
+Bxb5 Nf4 {Jetzt hat Weiß großen Vorteil} 41. Bc6 Nd3 $2 {Ein Irrweg, der nur
+Zeit kostet} 42. Kc2 Nf4 43. a4 Ne6 44. Kd3 Kf8 {Das Endspiel ist für Schwarz
+verloren} 45. a5 Nc7 46. b5 Ke7 47. a6 Nxa6 {Erzwungen} 48. bxa6 Bb8 49. a7
+Bxa7 50. Bxa7 Kf6 51. Ke3 Kg5 52. Bb8 h5 53. Bf4+ Kh4 54. Bf3 f6 55. Bh6 (55.
+Be2 {setzt matt in fünf} Kh3 56. Kf3 Kh4 57. Bd3 Kh3 58. Bg3 h4 59. Bf1#) 55...
+Kh3 56. Bxh5 Kh4 57. Be2 Kh3 58. Kf3 f4 59. Bxf4 f5 60. Be3 Kh4 61. Kf4 1-0
+

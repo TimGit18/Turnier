@@ -1,0 +1,29 @@
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2013.12.08"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Wallace, Paul"]
+[Result "0-1"]
+[ECO "C63"]
+[WhiteElo "1909"]
+[BlackElo "2130"]
+[PlyCount "54"]
+[EventDate "2013.12.08"]
+[SourceDate "2013.12.08"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nf6 {Das ist eine sehr interessante
+Variante, aber mir ist die Strategie hier nicht ganz klar} 5. exf5 e4 6. Ng5 d5
+7. d3 Bxf5 {Offenbar ist das noch Theorie} 8. dxe4 dxe4 9. Be3 $6 ({Normal
+spielt Weiß hier} 9. Qe2 Bb4 10. Bd2 Qe7) 9... h6 10. Nh3 Bxh3 11. gxh3 Bb4 12.
+Qe2 ({Möglicherweise war besser direkt} 12. Rg1 Qe7 13. Qd4 {, was die
+Bauernstruktur intakt hält}) 12... Bxc3+ 13. bxc3 {Schwarz hat das Läuferpaar
+aufgegeben, aber die weiße Bauernstruktur zerstört} O-O 14. Bxc6 (14. Rg1 {
+gefällt nicht wegen} Ne5) 14... bxc6 15. Rg1 Kh8 16. Rd1 ({Geplant war
+eigentlich} 16. Bd4 {, aber dann folgt} Qd6 17. Rg3 c5) 16... Qc8 {Die Dame
+will nach e6} 17. Rg3 Qe6 18. c4 {Der Zug kontrolliert zwar das Feld d5, aber
+nun kann Schwarz über die schwarzen Felder einbrechen} ({Wallace schlägt vor} 
+18. Bd4 Qxa2 19. Bxf6 Rxf6 20. Qg4 Qf7 $6 21. Rd7 $1) 18... Rad8 19. Rxd8 Rxd8
+20. h4 Qe5 21. Kf1 Qa1+ 22. Kg2 Rd1 23. f3 Nh5 24. Rg4 $2 Re1 $1 25. Qf2 Qd1
+26. Kh3 Rf1 27. Qd2 Qxf3+ 0-1
+

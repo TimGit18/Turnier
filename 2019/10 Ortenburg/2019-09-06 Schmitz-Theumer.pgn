@@ -1,0 +1,45 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.09.06"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Theumer, Lutz"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "1849"]
+[BlackElo "2117"]
+[Annotator "Tim Schmitz"]
+[PlyCount "80"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.09.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8. Bd3
+Nbc6 9. Nf3 O-O 10. Qh5 Ng6 11. Be3 c4 12. Bxg6 fxg6 13. Qg4 Qf7 {Die
+bisherigen Züge folgen der bekannten Theorie im Warschauer System.} 14. Kd2 $2
+{Das ist ein Tempoverlust, der eigentlich in so einer scharfen Stellung nicht
+toleriert werden kann.Weiß hat Angst vor Df7-f5, wonach er entweder die Damen
+tauschen muss oder den Bauern auf c2 verliert. Dabei war dieser
+kompromittierende Königszug gar nicht notwendig.} ({Denn nach} 14. Ng5 Qf5 15.
+Qe2 $1 {droht Weiß mit Damengewinn durch g2-g4, so dass Schwarz den Turm von
+f8 wegziehen muss, um der Dame ein Rückzugsfeld zu gewähren.}) 14... Bd7 {
+Durch den weißen Zeitverlust hat Schwarz Zeit seine Figuren besser zu stellen.
+} 15. h4 $6 {Eigentlich macht dieser Zug hier keinen Sinn mehr. Der Vormarsch
+nach h5 kann leicht aufgehalten werden.} ({Sinnvoller ist auch hier der Zug} 
+15. Ng5 {, um die schwarze Dame von f7 zu vertreiben, denn} Qf5 {ist wegen} 16.
+Qe2 {immer noch nicht gut.}) 15... Qf5 $1 {Dieser Zug kommt zur rechten Zeit.
+Die Dame kontrolliert das Zentrum und alle weißen Felder, auch auf dem
+Königsflügel.} 16. Qg3 {Das ist die einzige Möglichkeit, den Damentausch zu
+vermeiden.} Ne7 {Schwarz gruppiert seine Figuren um und öffnet die Diagonale
+für den Läufer auf d7.} 17. h5 $2 {War die Stellung vorher noch ausgeglichen,
+so verdirbt dieser Fehler die Partie. Weiß opfert mehr oder weniger sinnfrei
+einen Bauern, um eine Linie zu öffnen. Mehr erreicht er aber auch nicht.} gxh5
+{Schwarz hat einen gesunden Mehrbauern und steht besser.} 18. Rh3 {Weiß
+träumt von der Turmverdopplung, aber Schwarz hat einen guten Gegenzug.} Ba4 $1
+{Der Druck auf c2 erlaubt es Schwarz einen weißen Turm an c2 zu binden.} 19.
+Rc1 Ng6 20. Nh4 $6 {Naja, der Abtausch der Figuren hilft vielleicht nicht viel.
+Aber so großartig sind die Alternativen auch nicht.} Nxh4 21. Rxh4 Qg6 22. Qh2
+Rf5 23. Rh3 Raf8 24. f3 h6 25. Rg3 Qh7 26. Rh3 g6 27. Rf1 R5f7 (27... Qg7) 28.
+Rf2 g5 29. Kc1 h4 30. g4 a5 31. Qg2 b5 32. Rh1 Rb7 33. f4 Qe7 34. fxg5 Qxa3+
+35. Kd2 Rxf2+ 36. Qxf2 Rf7 37. Qxh4 b4 38. Rc1 Qxc3+ 39. Ke2 Bxc2 40. g6 Qd3+
+0-1
+

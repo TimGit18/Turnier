@@ -1,0 +1,24 @@
+[Event "Bodensee-Open"]
+[Site "?"]
+[Date "2023.05.13"]
+[Round "1"]
+[White "Kanonier, Clemens"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2109"]
+[BlackElo "1906"]
+[Annotator "Tim Schmitz"]
+[PlyCount "85"]
+[SourceVersionDate "2023.05.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be7 8. Be3
+Be6 9. Qd2 O-O 10. O-O-O a5 11. a4 Nc6 12. g4 Nb4 13. Kb1 Rc8 14. Qf2 Nd7 $6 (
+14... d5 $1 15. g5 (15. Bb6 Qd6 16. Bb5) 15... Ne8 16. exd5 (16. Bb6 Qd6 17.
+Nb5 Qc6 18. Nxa5 Qxc2+ 19. Qxc2 Rxc2 20. exd5 Bf5) 16... Bf5 17. Bd3 Bxd3 18.
+cxd3 Nxd5 $17) 15. Rd2 Qc7 16. Be2 Nc5 17. Nxc5 dxc5 18. Nb5 Qb8 19. Rhd1 Rfd8
+20. Rxd8+ Rxd8 21. c3 Rxd1+ 22. Bxd1 Qd8 23. Qd2 Qxd2 24. Bxd2 Na6 25. Be3 Kf8
+26. Kc2 Ke8 27. Be2 Kd7 28. Na3 Nc7 29. Nc4 Bxc4 30. Bxc4 Ne6 31. Kb3 f6 $4 32.
+Bxe6+ Kxe6 33. Kc4 b6 34. Kb5 Bd8 35. Kc6 g6 36. Bd2 f5 37. b4 cxb4 38. cxb4
+axb4 39. Bxb4 fxg4 40. fxg4 h5 41. h3 hxg4 42. hxg4 Kf6 43. Kd7 1-0
+

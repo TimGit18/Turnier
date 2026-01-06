@@ -1,0 +1,36 @@
+[Event "RMO B-Open"]
+[Site "?"]
+[Date "2016.05.29"]
+[Round "7"]
+[White "Janzen, Dr. Andreas"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E80"]
+[WhiteElo "1781"]
+[BlackElo "1812"]
+[PlyCount "30"]
+[EventDate "2016.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Qd2 Nc6 8. Nge2
+Rb8 {Dies ist die Ausgangsstellung der Panno-Variante im Sämisch-Angriff} 9.
+g4 {Das ist ein ganz scharfes, aber auch verpflichtendes Abspiel} ({Die
+Hauptvariante beginnt eigentlich mit dem Zug} 9. h4 {. wonach Schwarz am besten
+} h5 {erwidert}) 9... b5 {Dieser Zug liegt nahe. Schwarz muss Gegenspiel
+entwickeln, auch wenn der weiße König noch nicht auf den Damenflügel
+rochiert ist} 10. Ng3 $2 {Dieser Zug gilt als schlecht. Weiß verteidigt zwar
+den Bauern auf c4, aber Schwarz kann nun im Zentrum zuschlagen} e5 11. d5 Nd4 {
+Die Besetzung dieses Feldes ist das Schlüsselkonzept von Schwarz. Er kann
+nicht gut geschlagen werden und greift gleichzeitig den schwachen Bauern auf
+f3 an} 12. Kf2 $6 {Auch ein sehr verpflichtender Zug. Weiß verteidigt zwar
+den Bauern auf f3, aber jetzt liegen Springergabeln auf g4 in der Luft} (12.
+Bxd4 exd4 13. Qxd4 {scheitert an} Nxe4 14. Qxe4 Re8) 12... Bd7 $2 {Das ist
+ungenau.} ({Laut Theorie geht hier schon} 12... bxc4 13. Bxc4 Bxg4 14. fxg4
+Nxg4+ 15. Kg2 Rxb2 $1 16. Qxb2 Nxe3+ 17. Kg1 Nxc4) 13. h4 bxc4 {Die Idee wird
+mit einem Zug Verzögerung doch noch ausgeführt} 14. Bxc4 Bxg4 15. Be2 {
+Sehr passiv, aber Weiß wollte sich die Verwicklungen von oben nicht zeigen
+lassen} Bh5 {Das ist vielleicht nicht am besten. Schwarz will eine Art
+mechanische Blockade auf h5 aufbauen. Dabei ist der Bauernvorstoß nicht so
+gefährlich} ({Nach} 15... Bd7 16. h5 Ne8 17. hxg6 fxg6 {ist der schwarze
+König noch einigermaßen sicher, während der weiße König auf der f-Linie
+unsicher steht.}) 1/2-1/2
+

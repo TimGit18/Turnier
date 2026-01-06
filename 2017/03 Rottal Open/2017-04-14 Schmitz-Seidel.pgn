@@ -1,0 +1,44 @@
+[Event "Rottal-Open"]
+[Site "?"]
+[Date "2017.04.14"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Seidel, Monika"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1808"]
+[BlackElo "847"]
+[PlyCount "33"]
+[SourceDate "2017.04.14"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 {Nicht
+direkt schlecht, aber schon verpflichtend. In der Regel geht der Springer nach
+d7, da er hier flexibler eingesetzt werden kann} ({So landet der Springer nach
+der üblichen Hauptvariante} 6... Be7 7. Bf4 O-O 8. Qd2 Nd7 9. O-O-O Nc5 {
+auf einem aktiven Feld}) 7. Be3 {Weiß entwickelt sich nach dem üblichen
+Muster weiter. Er will lang rochieren und dann über die offenen Linien
+angreifen} Bg4 {Diese Fesselung sieht stärker aus als sie eigentlich ist.
+Weiß hat keine Angst vor einem Doppelbauern, denn er erhält das Läuferpaar
+mit guter Kompensation} 8. Qd2 {Natürlich könnte man hier auch einen
+sicheren Zug wie Lf1-e2 spielen, aber dieser Zug provoziert die folgende
+schwarze Antwort} Bxf3 $2 {Dieser Tausch ist voreilig. Schwarz verliert damit
+die Kontrolle über die weißen Felder und entfernt eine Gefahr, die keine ist}
+9. gxf3 {Die weiße Bauernstruktur ist zwar entwertet, aber dies tritt erst im
+Endspiel als Faktor auf} Be7 {Schwarz entwickelt eine Figur und bereitet die
+kurze Rochade vor} ({Folgende Variante kam noch in Frage} 9... Ne5 10. Be2 Qf6
+11. f4 {Die schwachen Bauern kontrollieren bereits Raum im Zentrum. Die
+Läufer beherrschen bald das Brett}) 10. O-O-O O-O {Beide Seiten haben auf
+entgegengesetze Seiten rochiert, was normalerweise für einen scharfen Kampf
+spricht. Hier hat Weiß aber drei Vorteile: Die g-Linie ist bereits für
+Angriffsoperationen geöffnet, das Läuferpaar spielt eine wichtige Rolle in
+der offenen Stellung und der weiße König steht etwas sicherer} 11. Rg1 {
+[%csl Yg7][%cal Rg1g7] Weiß visiert direkt den schwächsten Punkt in der
+schwarzen Stellung an, den Bauern g7} Qe8 $2 {Das ist ein schwacher Zug von
+Schwarz. Er entgegnet nichts dem weißen Angriff und greift auch selber nichts
+an. Außerdem schnürt er die eigenen Figuren eher noch ein} 12. Bh6 {Schwarz
+ist bereits in großen Schwierigkeiten, während Weiß einfach nur logische
+Züge gespielt hat} Qd7 $4 {Der Verlustzug. Nach einem Fehler kommt oft der
+nächste. Weiß gewinnt forciert} ({Einzige Rettung bot} 12... Bf6 13. Re1 Qd7)
+13. Bxg7 Rfd8 14. Bf6+ Kf8 15. Qh6+ Ke8 16. Rg8+ ({Der Damenfang} 16. Bh3 {
+gewinnt auch, ist aber albern}) 16... Bf8 17. Rxf8# 1-0
+

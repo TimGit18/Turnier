@@ -1,0 +1,22 @@
+[Event "MEM 2014"]
+[Site "?"]
+[Date "2014.02.01"]
+[Round "?"]
+[White "Weidl, Robert"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B88"]
+[WhiteElo "1752"]
+[BlackElo "1792"]
+[PlyCount "36"]
+[SourceDate "2014.02.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. f5 Nxb3 ({Andriasyan empfiehlt} 9... Be7 10. Qf3 O-O 11. Be3 e5 12. Nde2
+Nxb3 13. axb3 b5 14. g4 b4 15. Na4 Bb7) (9... e5 10. Nf3 Nfxe4 {funktioniert
+nicht wegen} 11. Nxe4 Nxe4 12. Qd5) (9... Nfxe4 10. fxe6 Qh4+ 11. g3 Nxg3 12.
+Nf3 {ist zu riskant}) 10. axb3 Be7 11. Be3 Bd7 12. g4 e5 13. g5 exd4 14. Bxd4
+Bc6 $5 (14... Nxe4 15. Nxe4 {schien mir zu riskant, ich übersah} Bxf5) 15. gxf6
+Bxf6 16. Bxf6 Qxf6 17. Qg4 h5 18. Qg3 O-O-O {Die Stellung ist gleich,
+vielleicht ein Hauch besser für Weiß wegen des schwachen Bauern auf d6} 1/2-1/2
+

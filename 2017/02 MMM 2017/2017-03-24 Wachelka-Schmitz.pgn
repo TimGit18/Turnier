@@ -1,0 +1,65 @@
+[Event "MMM 2017"]
+[Site "?"]
+[Date "2017.03.25"]
+[Round "?"]
+[White "Wachelka, Artur"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[WhiteElo "1801"]
+[BlackElo "1808"]
+[PlyCount "40"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.03.25"]
+[WhiteTeam "MSA Zugzwang 3"]
+[BlackTeam "SC Sendling 2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 {Der Vier-Bauern-Angriff ist zwar
+eine der aggressivsten Systeme von Weiß, aber in der Praxis nicht allzu
+erfolgreich} O-O 6. Nf3 c5 {Dieser Zug bildet die Standard-Antwort von Schwarz
+auf den Vier-Bauern-Angriff} 7. e5 $6 {Auf so einen Zug hofft Schwarz. Das
+weiße Bauernzentrum wirkt bereits jetzt schon überdehnt und fällt nach
+einem Vorstoß wie e4-e5 irgendwann in sich zusammen} ({Die Hauptfortsetzung
+lautet} 7. d5 e6 8. Be2 exd5 9. cxd5 Bg4) 7... Nfd7 {Dieser Rückzug macht Sinn
+} ({Nach der schlichten Fortsetzung} 7... dxe5 8. dxe5 Qxd1+ 9. Kxd1 Nfd7 10.
+Nd5 {[%csl Yc7,Ye7][%cal Rd5e7,Rd5c7] hat Weiß nicht nur sein Bauernzentrum
+weitestgehend aufrechterhalten, sondern eine unangenehme Doppeldrohung gegen
+e7 und c7 aufgestellt}) 8. dxc5 {Auch dieses Schlagen wirkt bereits
+unmotiviert. Der weiße Doppelbauer ist schwach und der Bauer auf e5 kann
+nicht gehalten werden} dxe5 9. fxe5 Qa5 {[%csl Yc5][%cal Ra5c5] Natürlich
+könnte Schwarz hier auch direkt den Bauern auf e5 schlagen. Aber dann könnte
+Weiß die Damen tauschen und wieder den Springer von c3 nach d5 spielen. Auf
+diesem Manöver beruht eigentlich das ganze Spiel von Weiß. Eine andere Idee
+des Zuges ist es, den Turm nach d8 zu bringen und unangenehm gegen die weiße
+Dame zu strahlen} 10. Bd2 $5 {Das ist etwas unangenehm, aber wenigstens steht
+der Läufer auf einem schlechten Feld} Nxe5 {Schwarz hat seinen Bauern
+wiedergewonnen und den Springer auf einem hervorragenden Feld im Zentrum
+platziert. Man muss wissen, dass Weiß hier keinen sehr guten Abzugsangriff hat
+} 11. Nd5 {Weiß platziert seinerseits den Springer auf ein gutes Feld im
+Zentrum und vertreibt die schwarze Dame. Dieser Zug stellt auch eine Falle} Qd8
+{Der einzige Zug, der aber hier nicht so schlecht ist} ({Das leichtsinnige
+Schlagen} 11... Qxc5 $4 {führt zu Verlust nach} 12. Bb4 Qc6 13. Nxe7+) 12. Bf4
+{Da auch Schwarz bereits ein paar Tempi verloren hat, kann sich Weiß die
+Umentwicklung des Läufers erlauben. Der Springer auf e5 ist bedroht} Nbc6 $5 {
+Ein logischer Zug, der aber nicht der beste ist. Schwarz verteidigt den
+starken Springer auf e5 und entwickelt eine Figur} ({Besser ist} 12... Bg4 {
+, denn jetzt kann immer e7-e6 folgen, ohne dass der Läufer eingesperrt wird.
+Der weiße Springer ist gefesselt und Schwarz kann das Läuferpaar ruhig
+aufgeben} 13. Be2 Bxf3 14. Bxf3 e6 15. Nc3 Nbc6 {und Schwarz hat überhaupt
+keine Probleme}) 13. Nxe5 Nxe5 14. Be2 {Weiß setzt die Entwicklung fort und
+bereitet die kurze Rochade vor} e6 {Es ist keine Zeit für ruhige Entwicklung.
+Der starke Springer soll aus dem Zentrum vertrieben werden, auch wenn dabei
+der Läufer auf c8 eingesperrt wird} 15. Nc3 Qa5 {Zum zweiten Mal landet die
+Dame auf diesem Feld und bedroht den Bauern auf c5. Außerdem ist wieder
+Tf8-d8 eine Option} (15... Qe7 {gefiel nicht wegen} 16. Ne4 Rd8 17. Nd6 {
+und der Springer steht auf d6 sicher noch stärker als auf d5}) 16. Qc1 {
+Die weiße Dame entfernt sich aus der gefährlichen d-Linie} Rd8 {Trotzdem
+sollte dieser Zug jetzt kommen. Es droht in manchen Varianten ein Schach auf d3
+} 17. O-O {Das ist sicher der beste weiße Zug in der Stellung} ({Wenn Weiß
+an dem Bauern festhält erlangt Schwarz einige Initiative und das Läuferpaar
+nach} 17. Be3 Nd3+ 18. Bxd3 Rxd3 {[%csl Yc3,Yd4,Ye3,Ye5,Yf6,Yg7][%cal Rd3c3,
+Rd3e3,Rg7c3,Ra5c3]}) 17... Qxc5+ 18. Be3 Qc6 {Das vermeidet eine unangenehme
+Befragung nach Dd8-e7 und Le3-g5} 19. Bg5 Rd4 20. Qe3 Nxc4 {Schwarz hat einen
+weiteren Bauern gewonnen und steht klar besser. Das Remis geschah aus
+persönlichen Gründen} 1/2-1/2
+

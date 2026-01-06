@@ -1,0 +1,16 @@
+[Event "Ortenburg-Open"]
+[Site "?"]
+[Date "2024.09.06"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Hones, Bernd"]
+[Result "*"]
+[ECO "B02"]
+[WhiteElo "1860"]
+[BlackElo "1689"]
+[Annotator "Tim Schmitz"]
+[PlyCount "60"]
+[SourceVersionDate "2024.09.06"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. Bc4 $6 g6 5. O-O Bg7 6. Nc3 Nxc3 7. bxc3 $6 O-O 8. d4 c5 9. Qe2 Nc6 10. Be3 Bg4 11. Rfd1 Qc7 12. Rab1 Na5 13. Rb5 $4 cxd4 14. Rxa5 dxe3 $1 15. Rb5 Bxf3 16. gxf3 exf2+ 17. Kh1 a6 18. Rbd5 b5 19. Bb3 Qxc3 20. Qxf2 e6 21. Rc5 Qf6 22. Rc7 Rfd8 23. Rcd7 Rxd7 24. Rxd7 Rd8 25. Rxd8+ Qxd8 26. a4 Qd1+ 27. Kg2 Bd4 28. Qf1 Qd2+ 29. Kh1 Be5 30. Qg2 Qd1+ *
+

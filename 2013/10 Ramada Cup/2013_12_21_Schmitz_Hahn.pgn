@@ -1,0 +1,27 @@
+[Event "DSAM Aalen C-Turnier"]
+[Site "?"]
+[Date "2013.12.21"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Hahn, Martin"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "1757"]
+[BlackElo "1789"]
+[PlyCount "36"]
+[EventDate "2013.12.20"]
+[SourceDate "2013.12.20"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 {Die Rückzugsvariante} 4. d4 Nf6 5. Nf3 c6 (
+5... Bg4 {ist verfrüht} 6. Bc4 Bxf3 7. Qxf3 Qxd4 8. Qxb7) 6. h3 $6 {Zu
+ängstlich und nicht notwendig, weil Lg4 gar keine Drohung aufstellt} ({Die
+Theorie der Banker-Variante ist} 6. Bc4 Bf5 7. Ne5 e6 8. g4 Bg6 9. h4 Nbd7 10.
+Qe2 $1 Bb4 11. Bd2 {mit scharfen Spiel}) 6... Bf5 7. Bd3 {Es geht in eine Art
+Caro-Kann-Verteidigung} Bxd3 8. Qxd3 e6 9. Bg5 {Der Zug ist etwas verpflichtend
+} h6 10. Bh4 Nbd7 11. O-O-O Qa5 12. Kb1 Bd6 {Die Stellung ist jetzt
+ausgeglichen} 13. Bxf6 gxf6 (13... Nxf6 14. Ne4 Nxe4 15. Qxe4 O-O-O 16. Rhe1 {
+verflacht sehr}) 14. Ne4 Be7 15. g4 {Weiß muss unbedingt f6-f5 verhindern}
+O-O-O (15... h5 {ist sehr aggressiv} 16. Ng3 hxg4 17. hxg4 O-O-O 18. Rh5 {mit
+unklarer Stellung}) 16. Ng3 Ne5 17. Qe2 (17. Qe4 {erlaubt} Nc4) 17... Nxf3 18.
+Qxf3 Qd5 1/2-1/2
+

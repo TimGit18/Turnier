@@ -1,0 +1,51 @@
+[Event "Salzkammergut-Open"]
+[Site "?"]
+[Date "2018.05.21"]
+[Round "5"]
+[White "Mayrhuber, Franz"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "1717"]
+[BlackElo "1799"]
+[PlyCount "32"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.05.21"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. Bf4 d6 {Weiß spielt ein
+London-System mit einem Bauern auf c4 und kontrolliert zuverlässig das Feld
+e5. In der Regel wird er die Bauern auf e3, d4 und c4 stellen. Die Springer
+bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die Türme gegen nach d1
+und c1. Schwarz wird Probleme haben, seine Bauern nach c5 oder e5 zu stellen.}
+6. h3 {Weiß möchte seinen schwarzfeldrigen Läufer vor einem Abtausch
+sichern und sichert das Feld h2 für einen Rückzug. Wie auch immer ist der
+Zug zu langsam} c5 {Das ist der charakteristische Gegenzug in der
+Königsindischen Verteidigung bei einer zu frühen Entwicklung des
+Damenläufers nach f4 oder g5} 7. e3 Qa5 {Dieser Zug stammt von Yevseev und
+wurde auch von Bologan empfohlen} 8. Bd3 $6 {Das ist ein ungenauer Zug,
+vielleicht sogar ein Fehler. Weiß entwickelt zwar eine Figur und bereitet die
+kurze Rochade vor, aber er schwächt die Kontrolle über das Feld d4 und
+seinen Damenbauern} ({Die richtige Fortsetzung lautet} 8. Qd2 {, wonach folgen
+kann} cxd4 9. exd4 e5 {und der Bauer e5 geht nicht verloren wegen der Stellung
+des schwarzen Königs und der aktiven Dame auf a5}) 8... Nc6 $6 {Auch dies ist
+eher ein schwacher Zug. Schwarz übersieht die offensichtliche Antwort d4-d5} (
+{Richtig ist an dieser Stelle natürlich} 8... cxd4 9. exd4 Nc6 {mit einer
+ähnlichen Stellung wie in der Partie}) 9. a3 $2 {Hier war die letzte Chance,
+den Bauernverlust zu verhindern} ({Nach} 9. d5 Nb4 10. Be2 Na6 11. Qd2 Nc7 {
+entsteht eine Art Benoni-Struktur, in der Schwarz gut ein Wolga-Gambit mit
+b7-b5 spielen kann}) 9... Nh5 {[%csl Yc5,Yc6,Yd4,Yg7][%cal Rg7d4,Rc5d4,Rc6d4]
+Nun entsteht durch den Abzug des Springers neben dem Angriff auf den Läufer
+f4 auch ein Angriff auf den Bauern d4, der nicht mehr gut verteidigt werden
+kann} 10. Bg5 {Erstaunlicherweise ist dies auch der Vorschlag von Stockfish,
+wohingegen ich eher mit dem Rückzug nach h2 rechnete} cxd4 11. exd4 Nxd4 12.
+Bd2 $1 {Das ist jetzt ein gutes Rückzugsfeld. Weiß stabilisiert etwas seine
+Struktur und bedroht die schwarze Dame.} Nxf3+ 13. Qxf3 Qe5+ {Nach diesen
+forcierten Zügen ist eine eigenartige Stellung entstanden, die aber für
+Schwarz besser sein sollte. Er hat einen Mehrbauern, wohingegen Weiß
+Entwicklungsvorsprung für den Minusbauern hat. Außerdem sind die weißen
+Figuren besser koordiniert. Das Remis wurde hier nach dem enttäuschenden
+Turnierverlauf vereinbart. Es könnte wie in der Analyse folgen} 14. Be3 Be6 {
+Schwarz gibt den Bauern für schnelle Entwicklung und Gegenspiel zurück} 15.
+Qxb7 Rab8 16. Qxa7 Rxb2 {Nun hängt c3 und Weiß kann immer noch nicht
+rochieren} 1/2-1/2
+

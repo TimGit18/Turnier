@@ -1,0 +1,48 @@
+[Event "13.Neckar-Open (B)"]
+[Site "?"]
+[Date "2009.04.11"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Zadravic, Sascho"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "1832"]
+[BlackElo "1772"]
+[Annotator "Tim Schmitz"]
+[PlyCount "57"]
+[EventDate "2009.??.??"]
+
+1. e4 b6 2. d4 Bb7 {Schwarz spielt die Owen-Verteidigung, die aber Weiß vor
+keine Probleme stellen sollte} 3. Bd3 e6 (3... f5 {gilt als widerlegt} 4. exf5
+Bxg2 5. Qh5+ g6 6. fxg6 Bg7 7. Qf5 Nf6 8. Bh6 Bxh6 9. gxh7 Kf8 10. Qg6 Bxh1 11.
+Qh5) 4. Nf3 Nf6 {mit Doppelangriff auf den Bauern e4} 5. Qe2 c5 6. c3 {Mit
+diesem Aufbau folge ich der Empfehlung von Neil McDonald} cxd4 7. cxd4 Nc6 8.
+Nc3 Be7 ({Die übliche Entgegnung ist} 8... Nb4 9. Bb1 Ba6 10. Qd1) 9. O-O d6 {
+Schwarz strebt eine Art Igelstellung, allerdings mit dem Nachteil, dass sein
+Springer auf c6 statt auf d7 steht. Ich wollte diesen Umstand ausnutzen und
+die schwarze Rochade unmöglich machen} 10. d5 Nb8 $2 {Ein schwacher Zug, der
+mir einen starken Angriff ermöglicht} ({Die plausible Fortsetzung lautet} 10...
+exd5 11. exd5 Nb4 12. Bb5+ Kf8 {Ich opfere damit den Bauern d5, habe aber
+freies Figurenspiel, die bessere Königsstellung und Druck gegen d6}) 11. dxe6
+fxe6 12. Bb5+ Nfd7 {Schwarz will Sg5 verhindern, aber der folgende Zug bedroht
+trotzdem e6} 13. Nd4 Kf7 {An dieser Stelle wollte ich den Druck auf e6 erhöhen,
+aber zuvor noch die schwarze Stellung schwächen. Das funktionierte aber nicht.}
+14. Qh5+ $6 ({Wuchtig wäre gewesen} 14. Nxe6 $1 Kxe6 15. Bc4+ d5 {Und das
+praktisch der einzige Zug, der nicht zum Matt führt} 16. Nxd5 {und jetzt droht
+schon} Ne5 17. Nxe7+ Kxe7 18. Bg5+ {mit Gewinn}) 14... g6 15. Qg4 Nc5 16. Be3 (
+{Ich traute mich nicht zu} 16. b4 {wegen} Bf6 17. Be3 Bxd4 18. Bxd4 e5 19. Be3
+Ncd7 {mit einer ähnlichen Stellung wie in der Partie, aber mit Angriffschancen
+nach} 20. f4) 16... h5 17. Qh3 e5 $1 {Schwarz hat in einer schwierigen
+Stellung die besten defensiven Züge gespielt, während meine Entscheidungen
+unsicher und zaghaft waren. Trotzdem muss Weiß noch besser stehen.} 18. Bc4+
+Kg7 19. Ne6+ Nxe6 20. Qxe6 Rf8 21. Nd5 $6 {Ich wollte in ein leicht besseres
+Endspiel abwickeln und hatte außerdem Angst vor einem möglichen Damenfang.
+Andere Züge sind besser} ({a)} 21. f4 Rf6 22. Qh3 Nc6 23. Nd5 {und Weiß ist
+immer noch am Drücker}) ({b)} 21. Rac1 Qd7 22. Rfd1 Qxe6 23. Bxe6 {mit
+möglichem Spiel gegen den schwachen Bauern d6 bei Entwicklungsvorsprung}) 21...
+Nc6 22. Nxe7 Qxe7 23. Qxe7+ $2 {ist auch unnötig} (23. Rfd1 Qxe6 24. Bxe6 Nd8
+25. Bb3 Nf7 26. f3 Rac8 27. Rac1 {mit besserem Endspiel}) 23... Nxe7 24. Bg5
+Rfc8 $2 (24... Nc6 {ist erforderlich}) 25. Be6 {mit Remis in besserer Stellung.
+Es könnte folgen} Rc7 26. Rac1 Rxc1 27. Rxc1 Nc6 28. Bd7 Nd4 29. Rc7 {und Weiß
+gewinnt eine Figur!} 1/2-1/2
+

@@ -1,0 +1,66 @@
+[Event "OIBM Bad Wiessee 2010"]
+[Site "?"]
+[Date "2010.11.04"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Hein, Manfred"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1934"]
+[BlackElo "2134"]
+[Annotator "Tim Schmitz"]
+[PlyCount "59"]
+[EventDate "2010.05.02"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 {Der ins Auge springende Zug entwickelt eine
+Figur und gewinnt Zeit beim Vertreiben der schwarzen Dame} Qa5 {Hier steht die
+Dame ziemlich aktiv, aber auch relativ sicher} 4. d4 Nf6 5. Nf3 c6 {Dieser Zug
+ist flexibler als Lf5 und erlaubt Schwarz mehr Optionen gegen Se5} 6. Bc4 Bf5 (
+6... Ne4 $6 7. Ne5 {mit Druck gegen f7} e6 8. Qf3) 7. Bd2 {Hebt die Fesselung
+auf und erlaubt Abzugsangriffe gegen die schwarze Dame} e6 {Da der
+skandinavische Läufer bereits entwickelt ist, macht dieser Zug Sinn} 8. Nd5 Qd8
+9. Nxf6+ gxf6 {Das Zurückschlagen mit dem Bauern erinnert an die
+Caro-Kann-Verteidigung} 10. Bb3 {Der theoretische Zug. Ich will De2 spielen,
+dabei den Bauern c2 gedeckt halten} Bg4 $6 ({Die Theorie empfiehlt} 10... Nd7
+11. Qe2 Qc7 12. Nh4 {Weiß muss den dominanten skandinavischen Läufer angreifen}
+Bg6 {Skandinavische Verteidigung-Khalifman-System/Scandinavian Defence 2009/ 
+[John Emms]}) 11. h3 Bxf3 12. Qxf3 {Schwarz hat seinen "skandinavischen"
+Läufer aufgegeben, für nichts. Mit der Schwäche auf f6 hat er keine
+Kompensation. Weiß hat das Läuferpaar und die bessere Entwicklung} Bd6 13.
+O-O-O Kd7 $5 {Weiß ist klar im Vorteil. Das heißt, dass Schwarz eine kreative
+Idee braucht, wie er seinen König in Sicherheit bringen will. Er evakuiert ihn
+auf den Damenflügel} 14. Rhe1 Kc8 15. Bc3 $6 {Der Zug wirkt etwas gekünstelt.
+Die kritische Stellung ist erreicht. Weiß will d4-d5 spielen, was nicht direkt
+geht. Was soll Weiß spielen?} (15. Qh5 {gefiel mir nicht wegen} Qg8 {und} 16.
+Z0 Qg6) (15. Kb1 {ist vielleicht die beste Idee} Nd7 16. c4 Rg8 17. d5 Ne5 18.
+Qe4 f5 19. Qd4 {mit gutem und starkem Spiel für Weiß}) 15... Nd7 16. Kb1 {
+Auch das ist eher ein mauer Zug. Schwarz erhält Gegenspiel} a5 17. a4 (17. a3 {
+gefiel mir nicht wegen} a4 18. Ba2 Qb6) 17... Bb4 18. Re3 {Meine Züge sind
+sehr konsolidierend, erzwingen aber nichts} Bxc3 19. Rxc3 Kb8 20. Qf4+ ({
+Die Idee ist eigentlich immer} 20. d5 {zu spielen. Aber dann kommt} Ne5 $2 {
+Wir übersahen alle die Abwicklung} (20... cxd5 $1 21. Bxd5 Ne5 $1 (21... exd5
+$4 22. Qxd5 {und Weiß gewinnt das Material siegreich zurück})) 21. dxc6 Nxf3
+22. Rxd8+ Rxd8 23. c7+ Ka7 24. cxd8=Q Rxd8 25. Rxf3 {mit Gewinn für Weiß})
+20... Ka7 21. Qe4 (21. d5 {ging immer noch wegen} cxd5 22. Bxd5 exd5 23. Rxd5 {
+und Schwarz kriegt die Fesselung nicht aufgelöst. Wenn die Dame von der
+Diagonale d8-a5 zieht, kann der Turm auf a5 Schach geben mit Matt im nächsten
+Zug. Ansonsten holt sich der zweite Turm einfach den Springer} Rc8 (23... b6
+24. Rc7+ {und es ist aus}) (23... Qe8 24. Rxa5+ Kb6 25. Qb4#) 24. Rxc8 Qxc8 25.
+Qd4+ {Weiß wird die Figur zurückerobern, einen zweiten Bauern erobern und hat
+die besseren Figuren, vor allem steht sein König sicher} Kb8 26. Rxd7) 21...
+Rc8 {Jetzt kann Schwarz eine Festung aufbauen} 22. Rdd3 {[%csl Rg3,Rg7][%cal
+Yd3g3,Yg3g7] Die Idee ist es via g3 auf g7 einzusteigen} f5 23. Qf4 Rg8 24. Rg3
+Nf6 25. Rxg8 Qxg8 26. Rg3 (26. Qe5 {Mein Gegner empfahl diesen Zug als
+Gewinnmöglichkeit. Aber Schwarz gewinnt den Bauer zurück} Ne4 27. Qxa5+ Kb8 28.
+Rd3 Qxg2 {und Schwarz dringt entscheidend in die weiße Stellung ein}) 26... Qd8
+27. Rd3 Rc7 28. Qe5 Rd7 29. f3 {Mit der Idee g2-g4, aber im Prinzip fiel mir
+nicht viel ein} b6 30. Kc1 {Auch keine wirklich starke Idee, so dass ich in
+dieser Stellung Remis anbot Fazit dieser Partie: In der Eröffnung lief alles
+gut und glatt, so dass ich für die ersten 14 Züge nur 8 Minuten brauchte. Aber
+die Grundidee d4-d5, nach der die Stellung schreit, konnte ich in den Zügen 20
+und 21 nicht berechnen. Die wenig konkreten Manöver mit Dame, Damenläufer und
+Türmen wirken nicht überzeugend. Lösung: Der Shirov-Angriff ist eine gute und
+sympathische Waffe gegen Skandinavisch. Die Variantenberechnung muss
+verbessert werden, bessere Kalkulationsfähigkeit führt zu mehr Mut und einer
+entscheidenden Wendung im 21.Zug.} 1/2-1/2
+

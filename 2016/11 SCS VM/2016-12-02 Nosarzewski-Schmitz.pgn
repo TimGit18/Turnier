@@ -1,0 +1,89 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2016.12.02"]
+[Round "4"]
+[White "Nosarzewski, Michael"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "1437"]
+[BlackElo "1807"]
+[PlyCount "100"]
+[EventDate "2016.??.??"]
+[SourceDate "2016.12.03"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. e3 {Mit diesem Zug versucht Weiß
+eine Art Semi-Standardaufbau zu wählen. Er will seinen Königsspringer nach
+e2 entwickeln und dann zwischen d2-d3 oder d2-d4 entscheiden} e5 6. Nge2 Nc6 7.
+O-O d6 {Beide Seiten haben ganz natürliche Züge gespielt und ihre
+Entwicklung weitergetrieben und das Zentrum kontrolliert. Schwarz hätte
+vielleicht den Plan mit c7-c6 auch wählen können, aber der Aufbau mit dem
+Springer auf c6 ist sehr solide und gesund} 8. f4 $5 {Das ist ein
+interessanter Versuch. Weiß möchte die f-Linie für seinen Turm öffnen und
+das schwarze Zentrum unterminieren} Re8 {Schwarz sollte natürlich den Bauern
+auf f4 keinesfalls schlagen, denn dann käme der Springer von e2 auf ein
+interessantes Feld im Zentrum} 9. fxe5 dxe5 {Weiß verwirklicht seinen Plan.
+Er möchte nun auf den weißen Feldern spielen} 10. Nd5 {Die Idee ist
+eigentlich nicht schlecht. Wenn der Springer auf d5 gehalten werden kann, dann
+schickt Weiß mit Se2-c3 den zweiten Springer hinterher} Nxd5 {Der weiße
+Springer war viel zu stark, um ihn dort stehen zu lassen. Aber jetzt hat Weiß
+starken Druck gegen den Punkt f7} 11. Bxd5 Be6 {Schwarz entwickelt seine
+letzte Leichtfigur und schützt den Punkt f7. Er hat keine Angst vor dem
+Doppelbauern auf c6, denn er kontrolliert das Zentrum und hat das Läuferpaar}
+12. Nc3 Bxd5 13. Nxd5 {Auch dieser Tausch scheint alternativlos} Re6 {Der
+einzige logische Zug. Schwarz überdeckt das Feld f6, damit seine Dame
+flexibler wird} 14. Rb1 {Dieser Zug macht einen inkonsequenten Eindruck, auch
+wenn er den Turm aus der Diagonalen zieht und b2-b3 vorbereitet} ({Die
+kritische Fortsetzung lautet} 14. Qf3 f5 15. e4 Nd4 16. Qf2 c6 17. Ne3 Rf6 {
+Schwarz hat die weißen Figuren zurückgedrängt und ist bereit, selber die
+Initiative zu übernehmen}) 14... Qd7 {Die Dame überdeckt den Punkt f7 und
+räumt die achte Reihe für den Damenturm} 15. b3 {Weiß will jetzt endlich
+seinen Läufer entwickeln} Ne7 {Die Idee an diesem Zug ist es weniger, den
+Springer auf d5 abzutauschen als ihn mit c7-c6 zu vertreiben} 16. Qf3 $2 {
+[%csl Yd5,Yf7][%cal Rf3f7,Rf3d5] Dieser Zug ist ein Fehler. Weiß überdeckt
+zwar den Springer und greift f7 an, aber er vernachlässigt die entstehende
+Bauernstruktur} Nxd5 {Natürlich vereinfacht Schwarz das Geschehen und wickelt
+in ein etwas besseres Mittelspiel ab} 17. cxd5 Rf6 18. Qe4 Rxf1+ 19. Kxf1 {
+Weiß hat mindestens drei Handicaps in diesem späten Mittelspiel: Erstens ist
+der Bauer auf d5 isoliert und schwach. Zweitens ist Weiß in der Entwicklung
+zurück. Drittens steht der König von Weiß relativ unsicher} Rd8 {Jetzt kann
+der Bauer auf d5 nicht gehalten werden} 20. Bb2 ({Auch} 20. d6 {hilft nicht
+wegen} Qb5+ 21. d3 cxd6 {und Schwarz hat einen gesunden Mehrbauern nebst der
+besseren Stellung}) 20... Qxd5 21. Qxd5 Rxd5 {Vielleicht war der Damentausch
+nicht notwendig für Weiß, auch wenn die schwarze Dame im Zentrum sehr
+dominant war. Jetzt hat Schwarz alles erreicht, was er wollte, auch wenn der
+Weg zum Sieg noch sehr weit ist} 22. Ke2 {Was kann Weiß tun? Er hat drei
+Bauerninseln und seine Figurenkkoordination ist schecht} f5 {Schwarz nimmt das
+Zentrum unter Kontrolle und ebnet seinem König einen Weg eben dorthin} 23. Rc1
+{[%csl Yc7][%cal Rc1c7] Immerhin ist das noch ein aktiver Zug} c6 24. d3 Kf7
+25. e4 {Weiß versucht zumindest etwas Gegenspiel im Zentrum zu organisieren.
+Natürlich nimmt Schwarz den Bauern nicht, sondern versucht die Spannung
+aufrecht zu erhalten} Rd7 26. Rf1 Ke6 27. Ke3 {In der nächsten Partiephase
+geht es darum, die Stellung der Figuren langsam zu verbessern} Bh6+ {Das ist
+ein ganz wichtiger Zug. Schwarz kontrolliert jetzt alle schwarzen Felder im
+Zentrum} 28. Ke2 Bf8 $1 {Dieser Zug sieht zwar widersprüchlich aus, aber
+Schwarz wollte zuerst den weißen König zurücktreiben und danach den eigenen
+Läufer via c5 nach d4 bringen} 29. exf5+ {Dieser Abtausch macht hier wenig
+Sinn} ({Nach} 29. Rc1 Bb4 {mit der Gabeldrohung auf d2 nach Tausch auf e4} 30.
+a3 Ba5 31. b4 Bb6 {landet der schwarze Läufer doch irgendwann auf der
+richtigen Diagonalen und letztlich auf d4}) 29... gxf5 30. Rc1 {Weiß
+verhindert mechanisch Lf8-c5} Rd5 {Ein guter zentralisierender Zug. Weiß kann
+eigentlich nicht viel machen} 31. Rc2 Rc5 {Erzwingt den Abtausch der Türme}
+32. Rxc5 {Weiß muss die Türme tauschen} ({Nach} 32. Rd2 Bh6 33. Rd1 Rc2+ {
+verliert Weiß eine Figur}) 32... Bxc5 {In den nächsten Zügen besetzt
+Schwarz das Zentrum mit seinen Figuren und drängt die des weißen zurück} 33.
+a3 Kd5 34. Bc1 Bd4 35. h3 h5 36. g4 $4 {Das ist ein schwerer Fehler, Weiß
+stürzt sich in das eigene Schwert} ({Etwas zäher ist eine Verteidigung, die
+auf den komplementären Feldern basiert} 36. a4 b5 37. axb5 cxb5 {Schwarz hat
+jetzt die Möglichkeit, einen Freibauern auf der a-Linie zu bilden}) 36... fxg4
+37. hxg4 hxg4 {Schwarz hat nun den entfernten Freibauern und kann Weiß
+endgültig dominieren} 38. Kf1 e4 39. dxe4+ Kxe4 40. Kg2 Be5 {Der Läufer
+steht hier nicht nur zentral, sondern schneidet auch den Weg für den weißen
+König ab} 41. Bg5 Kd3 {Der schwarze König widmet sich nun der übrig
+gebliebenen weißen Bauernschar. Weiß könnte hier auch aufgeben} 42. Be7 Kc3
+43. b4 Kb3 44. b5 cxb5 45. Kf2 a5 {Bildet einen zweiten entfernten Freibauern}
+46. Ke3 b4 47. axb4 a4 {Dieser Bauer kann nicht mehr aufgehalten werden} 48.
+Ke4 a3 $1 {Ein schönes Figurenopfer zum Schluß. Der weiße König auf e5
+verhindert, dass Weiß den Bauern noch schlagen kann} 49. Kxe5 a2 50. Bf6 a1=Q+
+0-1
+

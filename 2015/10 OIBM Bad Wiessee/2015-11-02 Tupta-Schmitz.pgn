@@ -1,0 +1,87 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2015.11.02"]
+[Round "3"]
+[White "Tupta, Szymon"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1401"]
+[BlackElo "1834"]
+[PlyCount "30"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. f4 {Das ist der Grand-Prix-Angriff, der für Weiß
+einfach zu lernen ist und gute Chancen auf Angriff verspricht.} Nf6 $6 {
+Dieser Zug ist schon die erste Ungenauigkeit. Der schwarze Aufbau mit d7-d6
+ist nun wirklich nicht originell, aber Schwarz möchte eine Transposition in
+den Offenen Sizilianer mit Sb8-c6 vermeiden. Trotzdem ist der Springerzug nach
+f6 nicht gut, denn Weiß könnte mit e4-e5 und Tempogewinn nach vorne
+marschieren und Raum erobern} ({Präziser ist die Zugfolge} 3... g6 4. Nf3 Bg7
+{Schwarz hält sich die Option offen, mit e7-e6 und Sg8-e7 eine sicherere
+Variante zu wählen. Der Läufer behält seine Wirkungsdiagonale und ein
+frühes e4-e5 bleibt ausgeschlossen}) 4. Nf3 g6 {Schwarz macht ein weiteres
+Zugeständnis. Ich spielte die Eröffnung viel zu schnell, fast schon
+gelangweilt. Die nicht-schachlichen Gründe waren hier Auslöser} ({Gegen
+einen solchen Gegner (jung, aggressiver Spielstil) ist ein Zug wie} 4... e6 $5
+{angebracht. Wahrscheinlich würde die Stellung in das Fischer-System oder in
+das Sozin-System der Offenen Sizilianischen Verteidigung transponiert werden})
+5. Bc4 Bg7 6. d3 Nc6 7. O-O O-O 8. Qe1 {[%csl Yf5,Yh4][%cal Re1h4,Rf4f5] Die
+Grundstellung des Grand-Prix-Angriffs ist erreicht. Der weiße Plan ist
+denkbar einfach: er spielt De1-h4, f4-f5 nebst Öffnung der h-Linie} Na5 $2 {
+Dieses Manöver erweist sich als Zeitverschwendung. So attraktiv die Idee auch
+ist, den aktiven und gefährlichen weißen Königsläufer abzutauschen, so ist
+der Aufwand beträchtlich. Es findet zwar eine gewisse Entwertung der weißen
+Bauern statt, aber Schwarz erhält auch Probleme auf der d-Linie. An dieser
+Stelle gibt es zwei viel bessere Alternativen} ({(a) Die offizielle
+theoretische Fortsetzung lautet} 8... e6 9. f5 d5 {Schwarz muss im Zentrum
+dagegenhalten} 10. Bb3 c4 11. dxc4 dxe4 12. Nxe4 Nxe4 13. Qxe4 exf5 {Es ist
+nicht klar, ob Schwarz bereits Ausgleich erreicht hat, aber der weiße Angriff
+hat an Fahrt verloren}) ({(b) Ftacnik empfiehlt} 8... Nd4 9. Nxd4 cxd4 10. Nd5
+Nxd5 11. Bxd5 e6 12. Bb3 a5 13. a4 {Er will f7-f5 folgen lassen, um den
+weißen Angriff abzupuffern}) 9. Qh4 Nxc4 10. dxc4 {[%csl Yd1,Yd5,Yf5][%cal
+Ra1d1,Rc4d5,Re4d5,Rf4f5] An dieser Stelle ist bereits klar, dass etwas bei
+Schwarz schiefgelaufen ist. Weiß kontrolliert das Zentrum und hat mehr Raum.
+Die vermeintliche Schwäche auf c4 kann nicht so einfach angegriffen werden
+wie es scheint. Schwarz muss jetzt anfangen , genauer zu spielen} e6 $6 {
+Dieser Zug ist eine Art Notbremse, um die Kontrolle über die Felder d5 und f5
+wieder zu erlangen. Wahrscheinlich ist der Zug kein Fehler, aber er ist auch
+nicht besonders aktiv} ({Das natürliche} 10... Be6 {sieht besser aus. Ein
+Problem habe ich nach} 11. Ng5 {gesehen. Aber wahrscheinlich kann man einfach
+nehmen} Bxc4 12. e5 Nh5 {Der Springer muss das Matt auf h7 verhindern} 13. g4
+f6 {Es ensteht eine wilde Stellung, in der Weiß einiges opfern wird}) 11. f5
+$5 {Dieser Vorstoß ist das Thema der Eröffnung. Weiß muss unter
+Materialverlust unbedingt die f-Linie öffnen} Nd7 $6 {Dieser Defensivzug hat
+nicht nur das Ziel, die Damen zu tauschen, sondern er möchte auch die
+Kontrolle über das Feld e5 etablieren. Tatsächlich hat Schwarz Panik vor der
+"ewigen" Fesselung des Läufers auf g5. Trotzdem ist der Zug wahrscheinlich
+nicht der stärkste.} ({Die offensichtliche Fortsetzung lautet} 11... exf5 12.
+Bg5 {Davor hatte ich am meisten Angst} h6 {Dieser Zug ist ein Muss in der
+Variante, obwohl er zunächst einen Bauern einstellt} ({Und nicht} 12... fxe4
+$4 13. Nxe4 {mit Materialverlust}) 13. Bxh6 Nxe4 $1 {Das ist die Pointe der
+schwarzen Abwicklung. Schwarz klärt die Situation im Zentrum und auf dem
+Königsflügel} 14. Qxd8 Rxd8 15. Bxg7 Kxg7 16. Nxe4 fxe4 17. Ng5 Bf5 {Das
+Endspiel ist klar besser für Schwarz}) 12. Ng5 {Weiß vermeidet den
+Damentausch und droht mit dem schlichten Matt auf h7.} ({Aktiver sieht der Zug
+} 12. Bg5 {aus} f6 ({Berechnet hatte ich auch} 12... Bf6 13. Bxf6 Qxf6 (13...
+Nxf6 {sieht riskant aus, geht aber noch} 14. h3 (14. Qh6 Ng4) 14... Kg7) 14.
+Ng5 Qg7 15. fxe6 fxe6 16. Nxe6 {ist unschön und viel besser für Weiß}) 13.
+fxg6 hxg6 14. Be3 {Schwarz hat einige bedenkliche Schwächen in seinem
+Bauernverbund. Es wird einiges an Aufwand kosten, die Stellung zusammenzuhalten
+}) 12... h6 {Der Zug muss kommen, denn nach Sd7-f6 kann Weiß einfach mit
+Sg5-f3 die Stellung wiederholen} 13. Rf3 $2 {Das ist der erste schwere Fehlzug
+nach über 30-minütigem Nachdenken. Weiß versucht ein Matt in einer Stellung
+zu berechnen, in der kein Matt existiert. Der Turm soll auf der h-Linie Druck
+ausüben, aber Schwarz wird ja den Springer auf g5 niemals nehmen} Ne5 $1 {
+Hier steht der Springer sehr zentral und aktiv. Er greift den Turm auf f3 an,
+den Bauern auf c4 und deckt außerdem noch den Bauern auf g6. Das weiße
+Bauernopfer auf f6 funktioniert in dieser Stellung auch nicht} 14. Rh3 {
+[%csl Yc8,Yh3][%cal Rc8h3] Konsequent, aber hier gerät der Turm in die
+Schusslinie des Läufers auf c8} exf5 {Die schwarze Stellung atmet auf, Weiß
+hat nur noch wenige Sekunden auf der Uhr} 15. Qg3 {Ein letzter Versuch, den
+Springer anzubieten. Aber die weiße Stellung ist ohnehin schon sehr schlecht}
+fxe4 {Weiß verliert auf Zeit, aber er hat zwei Bauern weniger und die
+schwarzen Läufer sind zum Leben erwacht. Die Figurenkoordination spricht für
+Schwarz} ({Schneller gewann} 15... f4 16. Bxf4 Bxh3 17. Nxh3 Nxc4 {Schwarz ist
+ohnehin schon materiell im Vorteil und wird weiteres Material gewinnen}) 0-1
+

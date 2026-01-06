@@ -1,0 +1,19 @@
+[Event "Zabo-Open"]
+[Site "?"]
+[Date "2014.09.20"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Ulusoy, Tolga"]
+[Result "1-0"]
+[ECO "B78"]
+[WhiteElo "1713"]
+[BlackElo "1924"]
+[PlyCount "55"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Bg5 Rc5 14. g4 (14. Kb1
+$1 b5 15. Bh6) 14... hxg4 15. h5 Nxh5 16. Rxh5 gxh5 17. Nd5 Re8 18. Rh1 gxf3
+19. Rxh5 Bg4 20. Rh1 Qd7 21. Qh2 Ng6 $2 22. Qh7+ Kf8 23. Bh6 Bxh6+ 24. Qxh6+
+Kg8 25. Qh7+ (25. Nxe7+ Rxe7 26. Qxg6+ Kf8 27. Rh8#) 25... Kf8 26. Nb6 Rxc2+
+27. Nxc2 Qe6 28. Nd7+ 1-0
+

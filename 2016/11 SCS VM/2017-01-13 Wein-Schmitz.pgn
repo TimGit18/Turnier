@@ -1,0 +1,80 @@
+[Event "SCS Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2017.01.13"]
+[Round "7"]
+[White "Wein, Ulrich"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "1906"]
+[BlackElo "1807"]
+[PlyCount "46"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 {Das ist die
+Ausgangslage des Klassischen Systemes in der Najdorf-Verteidigung. Weiß
+wählt einen soliden Entwicklungszug und hofft darauf, dass seine Figuren
+besser stehen als die des Gegner.} e5 {Und das ist die klassische Antwort im
+Sinne Najdorfs. Schwarz beansprucht Raum im Zentrum, um seine Figuren gut zu
+platzieren. Er hat keine Angst vor einem rückständigen Bauern auf d6 und dem
+schwachen Feld d5, denn der Bauer ist gut gedeckt und er kann einige Kontrolle
+über das Feld gewinnen.} 7. Nb3 {[%csl Ra5,Rc5,Rd4,Yd5][%cal Gc3d5] Obwohl
+dieses Feld das beste Rückzugsfeld für den Springer ist, wird er hier von
+Schwarz dominiert} Be7 8. O-O O-O 9. f4 {Weiß entscheidet sich für die
+Klassische Flügelvariante. Der Vorstoß sieht gut und aggressiv aus, ist aber
+etwas voreilig. Leider habe ich die beste schwarze Antwort nicht gewußt. So
+bleibt die weiße Angriffsidee ungeahndet} Qc7 $6 {Die Dame steht hier
+eigentlich nicht schlecht. Die Idee ist es Lc8-e6 zu spielen und im Falle
+eines Vormarschs des f-Bauern, den Läufer nach c4 zu stellen} ({Die richtige
+schwarze Antwort auf den Flügelangriff ist ein eigener Flügelangriff! Dieser
+hat aber unmittelbare Auswirkungen auf das weiße Zentrum.} 9... b5 $1 {
+Weiß hat verschiedene Möglichkeiten, um diesen Angriff zu begegnen.} 10. a3
+Bb7 11. Bf3 Nbd7 12. Kh1 Rc8 13. Qe2 {Schwarz hat sein Zentrum gehalten und
+wird bald d6-d5 durchsetzen}) 10. Be3 Be6 {Jetzt entspricht die Stellung
+wieder eher den normalen Najdorf-Mustern. Schwarz mobilisert seine Kräfte
+hinter dem schwarzen Bauernzentrum} 11. Nd5 $6 {Weiß bringt seinen Springer
+mit Tempo in das Zentrum. Er muss also abgetauscht werden, da er eine so
+starke Figur im Zentrum darstellt. Die Frage ist nur, wie man den Springer am
+besten entfernt} {Dieser Zug gefiel noch am besten} Bxd5 $5 {Schwarz gibt zwar
+den guten Läufer, aber er sorgt auch dafür, dass der Druck auf d6 nicht mehr
+so groß ist.} ({(a)} 11... Qd7 {verliert nach} 12. Nb6) ({(b)} 11... Qd8 {
+verliert auch nach} 12. Bb6 Qe8 13. Nc7) ({(c) Eine Alternative ist} 11... Nxd5
+12. exd5 Bf5 13. c4) 12. exd5 Nbd7 {Der Bauer auf e5 soll auf jeden Fall
+gehalten werden. Außerdem kann der Springer nach c5 gehen} 13. c4 {Weiß hat
+einen neuen Plan. Er will seinerseits die c-Linie öffnen, um die schwarze
+Dame anzugreifen} Rfe8 {Ein nützlicher Zug, falls sich die e-Linie öffnet.
+Dann wirkt der Turm auf die weißen Läufer} 14. Rc1 {Jetzt droht Weiß
+unmittelbar mit dem Zug c4-c5} b6 {Schwarz errichtet eine mechanische Blockade
+auf den schwarzen Feldern auf dem Damenflügel, so dass Weiß neue Ressourcen
+für den Durchbruch besorgen muss} 15. Nd2 {Ein guter Zug von Weiß. Der
+Springer taugt auf b3 nicht viel, denn er hat überhaupt keine Felder. Jetzt
+droht Weiß mit b2-b4.} a5 {Ja, dieser Zug verhindert b2-b4 und zementiert das
+Feld c5 für den Springer auf d7. Aber das Feld b5 ist jetzt auch schwach
+geworden. Weiß kann diese Schwäche noch nicht direkt ausnutzen, aber er hat
+eine Idee} 16. Nb1 $1 {[%cal Gb1c3,Gc3b5] Dieser Zug sieht gut aus und sollte
+eigentlich die einzige schlechte weiße Figur auf ein schönes Feld bringen}
+Nc5 {Das Spiel des Schwarzen richtet sich gegen das Feld e4} ({Vielleicht ist
+es besser, direkt} 16... Ne4 {zu spielen, um Sb1-c3 zu verhindern. Aber Weiß
+kann genausogut} 17. Na3 {spielen um auf b5 einzusteigen, so dass sich dieses
+Manöver gar nicht verhindern lässt}) 17. Nc3 Nfe4 {Der Springer wird gut
+zentralisiert. Aber auch Weiß hat seine Figurenstellung verbessert} 18. Nb5
+Qd8 {Das ist ein kritischer Moment. Schwarz muss aufpassen, wohin er seine
+Dame zieht} ({(a) Nach dem schlampigen} 18... Qd7 19. fxe5 dxe5 20. Bg4 {
+gerät Schwarz in die Defensive} Qd8 (20... Qb7 {ist noch unangenehmer, denn
+nach} 21. d6 Bd8 {gerät der d-Bauer in Bewegung. Die Stellung ist schwer
+einzuschätzen, aber sie gefiel mir überhaupt nicht}) 21. Qf3 {mit Druck auf
+den Bauern f7}) ({(b) Viel besser sieht es auch nach} 18... Qb7 {nicht aus} 19.
+fxe5 dxe5 20. d6 Bd8 21. Bf3) 19. fxe5 dxe5 20. Bf3 {Weiß hat noch eine
+passive Figur mobilisiert und die f-Linie geöffnet. Aber Schwarz kann den
+gedeckten Freibauern auf d5 zuverlässig blockieren und seine Figuren
+umgruppieren} Nd6 21. a4 $6 {Der Zug stablisiert den Springer, aber er kämpft
+nicht um Vorteil.} ({Gerechnet hatte ich mit} 21. Nc3 g6 22. Qc2 Bf8 23. Rce1
+f5 {Schwarz kann jetzt versuchen, seine Bauernmajorität im Zentrum zur
+Geltung zu bringen}) 21... Nxb5 {Diese Entscheidung ist gerechtfertigt, da
+Remis das Ziel von Schwarz ist. Der d-Bauer kann auch sehr zuverlässig vom
+Läufer auf d6 blockiert werden.} 22. axb5 Bd6 23. Bxc5 Bxc5+ {Aus der
+Stellung ist alles Leben gewichen. Die ungleichfarbigen Läufer neutralisieren
+sich. Wenn, dann hat Schwarz die besseren Aussichten. Angesichts der knappen
+Zeit von Weiß wurde das Remisangebot unverzüglich angenommen} 1/2-1/2
+

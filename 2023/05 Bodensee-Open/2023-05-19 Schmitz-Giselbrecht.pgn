@@ -1,0 +1,82 @@
+[Event "Bodensee-Open"]
+[Site "?"]
+[Date "2023.05.19"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Giselbrecht, Leefke"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1904"]
+[BlackElo "1292"]
+[Annotator "Tim Schmitz"]
+[PlyCount "177"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.05.19"]
+
+1. e4 c5 {Dieser Antwortzug war die erste (angenehme) Überraschung. Ich
+rechnete mit der Skandinavischen Verteidigung, die viel unangenehmer ist.} 2.
+c3 d5 3. exd5 Qxd5 4. d4 Bf5 $5 {Ein ungewöhnlicher Zug, der aber nicht
+schlecht ist. Gebräuchlicher ist es einen der Springer zu ziehen.} 5. Nf3 {
+Das ist der normalste Zug der Welt. Trotzdem begann ich hier (wieder)
+Gespenster zu sehen, was die schlechte Form während des Turniers nur
+untermauert. Und dachte kurz, dass ich eine Figur eingestellt hätte.} e6 ({
+So klappt} 5... Bxb1 {nicht wegen} 6. Rxb1 Qe4+ 7. Be3 {und der Turm ist
+gedeckt. Es ist schon bezeichnend, eine solche einfache Zugfolge nicht zu
+sehen.}) 6. Be3 Nf6 {In dieser Stellung punktet Weiß nicht besonders gut.
+Trotzdem glaube ich, sind die nächsten weißen Zügesehr aggressiv und
+angemessen.} 7. Bb5+ Nc6 8. O-O a6 9. Qa4 {Hier war ich mit der Stellung sehr
+zufrieden. Weiß übt Druck auf die schwarze Stellung aus und hat
+Entwicklungsvorteil.} Be7 $6 {Das ist die erste Ungenauigkeit laut Engine.
+Weiß hat verschiedene Möglichkeiten in Vorteil zu kommen.} 10. c4 $5 ({
+Noch stärker war vielleicht} 10. dxc5 {Der Bauer darf nicht geschlagen werden,
+weil nur die Dame den Läufer auf c5 schützt und leicht angegriffen werden
+kann.} Rc8 11. Bc4 Qd7 12. Rd1 Qc7 {mit besserer Stellung und Mehrbauer für
+Weiß.}) 10... Qd6 11. dxc5 Qc7 12. Bxc6+ Qxc6 13. Qxc6+ bxc6 {Was hat Weiß
+erreicht? Die Damen sind vom Brett, erhat einen gesunden Bauern mehr und muss
+eigentlich nur in ein günstiges Endspiel überleiten. Dafür hat Schwarz das
+Läuferpaar, das ich gerne loswerden wollte. Der Übergang in das Ensdspiel
+klingt aber einfacher, als es sich später herausstellte.} 14. Nd4 $6 {Das ist
+vielleicht nicht der ideale Weg, um die Stellung zu transformieren.} ({
+Alternativ wäre} 14. Nc3 {besser gewesen, um nach} Bd3 15. Rfd1 Bxc4 16. Ne5 {
+weiter Druck auszuüben, auch wenn das Läuferpaar auf dem Brett bleibt. Die
+weißen Figuren stehen viel besser als die schwarzen, und Weiß hat gute
+Aussichten im Endspiel aufgrund seiner Damenflügel-Bauernmehrheit.}) 14... Nd7
+$5 {Das ist gar kein schlechter Zug. Schwarz kümmert sich nicht um das
+Läuferpaar, sondern versucht seinen Bauern zurückzuholen. Den Bauer auf c6
+hat er sowieso schon abgeschrieben und will ihn gar nicht verteidigen.} 15.
+Nxf5 $6 {Statt den Bauern auf c6 zu nehmen, halbiert Weiß das schwarze
+Läuferpaar. Er hat immer noch einen kleinen Vorteil - jedoch nicht mehr so
+klar. Ich war zu sehr auf die Elimnierung des "starken" schwarzen
+Damenläufers fixiert, der ja keinen Kontrahenten mehr hat.} ({Klarer ist} 15.
+Nxc6 $1 Bxc5 16. Bxc5 Nxc5 17. b4 Nd3 18. Nc3 {mit einem weißen Vorteil. Die
+schwarzen Figuren sind zwar aktiv, die weißen aber auch. Außerdem ist die
+Mehrheit auf dem Damenflügel jetzt 3 gegen 1.}) 15... exf5 {Jetzt ist die
+Stellung einfacher. Die nächsten Züge wurden recht schnell gespielt.} 16. Nc3
+Nxc5 {Numerisch sind beide Parteien wieder gleich stark. Die weißen Bauern
+sind allerdings besser, denn sie sind verbunden und Schwarz hat einen
+Doppelbauern auf f5.} 17. Bxc5 $6 {Es ist auch fragwürdig, ob Weiß den
+Springer überhaupt noch tauschen sollte.} ({Eine schlichte Alternative wäre} 
+17. Rad1 {, um d3 zu überdecken und den König vom Zentrum abzusperren.} O-O
+18. Rfe1 Ne4 {Ich wollte der jungen Gegnerin allerdings keine Gelegenheit
+geben, etwas mehr im Trüben zu fischen.}) 17... Bxc5 18. Rfe1+ Kf8 19. Re5 Bd4
+20. Rxf5 {Mit etwas Aufwand hat Weiß wieder einen Bauern mehr.} g6 21. Rf4 c5
+22. Rc1 {Hier war ich wieder sehr zuversichtlich. Der Springer sollte besser
+sein als der Läufer und kann ideal auf d5 platziert werden.} Rb8 23. b3 Kg7
+24. Re4 Bxc3 25. Rxc3 {Weiß steht besser. Er muss eigentlich nur das
+Turm-Endspiel unfallfrei spielen. Das ist aber schwerer als erwartet.} Rbd8 {
+Schwarz droht matt.} 26. Rce3 $6 {Das ist logisch, verkompliziert aber die
+Sache.} ({Einfacher ist} 26. g3) 26... Rd2 27. Re2 Rd1+ 28. Re1 Rhd8 29. Kf1
+R8d2 30. Rxd1 Rxd1+ 31. Ke2 Ra1 32. a4 Rb1 {Schwarz hat ein Turmpaar
+abgetauscht (richtig bei Materialnachteil) und den anderen sehr aktiv postiert.
+Jetzt wird es wirklich ein Geduldsspiel.} 33. Re3 Rb2+ 34. Kf3 Kf6 35. g3 Kf5 {
+Auch die zweite schwarze Figur wird so aktiv wie möglich postiert.} 36. h3 h5
+37. Rd3 Ke6 38. Ke3 g5 39. f4 f6 40. g4 hxg4 41. hxg4 gxf4+ 42. Kxf4 Rf2+ 43.
+Kg3 Rb2 44. Re3+ Kd6 45. Kf3 a5 46. Ke4 Rf2 47. Rf3 Re2+ 48. Kf5 Ke7 49. Kg6
+Re4 50. g5 fxg5 51. Kxg5 Re5+ 52. Kf4 Ke6 53. Rh3 Rf5+ 54. Ke4 Re5+ 55. Kd3 Rg5
+56. Rh6+ Ke5 57. Rc6 Rg3+ 58. Kc2 Kd4 59. Rd6+ Ke4 60. Rd5 Rg2+ 61. Kc3 Rg3+
+62. Kb2 Rg2+ 63. Ka3 Rg1 64. Rxc5 Kd4 65. Rf5 Kc3 66. Rf3+ Kc2 67. Rf2+ Kc3 68.
+Rf3+ Kc2 69. Ka2 Rg2 $4 70. c5 Kc1+ 71. Ka1 Rg6 72. Rc3+ Kd2 73. Rc4 Rc6 74.
+Kb2 Kd3 75. Ka3 Kd2 76. b4 Kd3 77. b5 Kxc4 78. bxc6 Kxc5 79. c7 Kd4 80. c8=Q
+Kd5 81. Kb3 Ke5 82. Kc4 Ke4 83. Qe6+ Kf4 84. Kd3 Kf3 85. Qf5+ Kg3 86. Ke2 Kg2
+87. Qg5+ Kh2 88. Kf2 Kh3 89. Qg3# 1-0
+

@@ -1,0 +1,39 @@
+[Event "Salzkammergutopen 2010"]
+[Site "?"]
+[Date "2010.05.22"]
+[Round "2"]
+[White "Müller, Max"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2027"]
+[BlackElo "1869"]
+[Annotator "Tim Schmitz"]
+[PlyCount "75"]
+[EventDate "2010.05.21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 {Den Zug hatte ich noch nie
+gesehen und greife prompt daneben} Nxe4 (5... exd4 6. O-O Be7 7. Re1 b5 8. e5
+Nxe5 9. Rxe5 d6 10. Re1 bxa4 {ist die theoretische Fortsetzung}) 6. Qe2 Nf6 $4
+{Noch immer im Standby-Modus, Weiß erlangt jetzt großen Vorteil} (6... b5 7.
+Qxe4 d5 8. Qe3 bxa4 9. Nxe5 {hält die Position einigermaßen}) 7. dxe5 Nd5 8.
+Bb3 {Jetzt habe ich gemerkt, was demnächst passiert (auf f7). Also Aufgeben
+oder eine halbe Stunde überlegen} Nb6 9. Ng5 Qe7 10. Nxf7 (10. Bxf7+ {ist
+vielleicht sogar noch stärker}) 10... Nd4 {Die einzige Chance auf Gegenspiel}
+11. Bg5 {Wickelt in ein besseres Endspiel für Weiß ab (Figuren, Entwicklung,
+gesunder Mehrbauer)} Qxg5 12. Nxg5 Nxe2 13. Kxe2 Be7 14. Ne4 {Der Springer
+steht hier großartig} Rf8 15. Nbd2 Rf5 $2 {Der Turm steht hier nicht gut und
+wird auch später gefangen} (15... d5 16. exd6 cxd6 {öffnet wenigstens die
+Stellung für das Läuferpaar}) 16. Nf3 Rb8 $2 {Letzte Chance für d5, der Umweg
+Sa8, b7-b5 ist zu umständlich} 17. c3 h6 {Auch keine gute Idee: der Zug
+schwächt nur Felder und hat gar nichts} 18. Rad1 g5 19. h3 Na8 20. Rhe1 b5 21.
+Kf1 {Jetzt droht schon etwas} Kf8 22. Ng3 {Und der Turm verschwindet} Rf4 23.
+Nh5 Rxf3 24. gxf3 Nb6 {Der Bauer d7 muss gedeckt bleiben} 25. f4 {Weiß spielt
+simpel und stark} Bb7 26. f5 $2 {Zu optimistisch: Weiß übersieht im
+Siegesrausch die Gabel} Bf3 27. Ng3 Bxd1 28. Rxd1 a5 $2 ({Hier war passive
+Verteidigung angesagt} 28... Re8) 29. a3 b4 30. f6 {Das gewinnt leicht} Bd8 31.
+axb4 axb4 32. cxb4 {Die schwarzen Figuren haben überhaupt keine Felder} Ke8 $2
+{Ein schwacher Zug zum Schluß, der immer f7 erlaubt. Aber ich hatte keine Zeit
+mehr} 33. Ne4 c6 34. f7+ Kf8 35. Nc5 Nd5 $4 {mit noch 1 Minute einen
+Riesenbock zum Schluß} 36. Bxd5 cxd5 37. Nxd7+ Ke7 38. f8=Q+ 1-0
+

@@ -1,0 +1,35 @@
+[Event "MMM 2009 - A-Klasse 1"]
+[Site "?"]
+[Date "2009.03.03"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Jasarevic, Izudin"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1832"]
+[BlackElo "1698"]
+[Annotator "Tim Schmitz"]
+[PlyCount "51"]
+[EventDate "2009.??.??"]
+[WhiteTeam "SC Sendling 2"]
+[BlackTeam "1.SK Neuperlach 1"]
+[TimeControl "240+2"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 g6 5. Nf3 Bg7 6. Bc4 h6 {Bereits
+zweifelhaft} 7. O-O d6 8. e5 {Spekuliert auf den Abtausch auf d6, da Schwarz
+nicht nehmen kann} Nc6 9. exd6 Qxd6 10. Qxd6 exd6 {Ich rechne mit Rückgewinn
+des Bauern und Angriffschancen wegen besserer Entwicklung} 11. Nb5 Ke7 12. Bf4
+Be5 13. Rfe1 f6 {Ein Tausch würde nur Schwarz konsolideren, daher} 14. Nh4 Kd7
+({Oder} 14... Bf5 15. g4 Bc2 16. Rac1 g5 17. Rxc2 gxh4) 15. Nxg6 Bxf4 16. Nxf4
+(16. Nxh8 {ist vielleicht einfacher, aber ich wollte den starken Läufer
+abtauschen}) 16... Nge7 17. Be6+ $6 (17. Rad1 {ist noch stärker: alle Figuren
+sind am Angriff beteiligt} Nf5 18. Be6+ Kd8 19. Bxf5 Bxf5 20. Nxd6 Bg4 21. f3
+Bd7 22. Nf7+ Kc7 23. Nd5+ Kc8 24. Nxh8 {gewinnt einfach}) 17... Kd8 18. Rad1
+Bxe6 19. Nxe6+ Kc8 {Eine interessante Idee. Der schwarze König flüchtet nach b8
+} 20. Nxd6+ Kb8 21. Nc5 {Weiß ist klar im Vorteil und hat einen Bauern mehr.
+Aber ein konkreter Gewinn ist momentan nicht zu sehen} Kc7 ({Der Bauer kann
+nicht verteidigt werden} 21... b6 22. Na6#) 22. a4 Rab8 23. Nb5+ Kc8 $2 ({
+Schwarz muss die Qualität geben} 23... Kb6 24. Nd7+) 24. Rd7 {Droht Sd6 matt} (
+{Oder} 24. Rxe7 Nxe7 25. Rd7 Ra8 26. Nd6+ Kb8 27. Rxb7#) 24... Nf5 25. Red1
+Nfd4 ({Sonst} 25... Ra8 26. Rc7+ Kb8 27. Nd7#) 26. Nd6# 1-0
+

@@ -1,0 +1,68 @@
+[Event "MMM 2017/18"]
+[Site "?"]
+[Date "2018.03.22"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Schober, Joachim"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1799"]
+[BlackElo "1966"]
+[PlyCount "110"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.03.24"]
+[WhiteTeam "SC Sendling 3"]
+[BlackTeam "SC Karlsfeld 1"]
+
+1. e4 c5 2. Nf3 e6 3. c3 $6 {Ein seltsamer Zug, der die Hauptvarianten des
+Taimanov- oder Kan-Systems vermeiden will. Tatsächlich war mir die Theorie
+des Alapin-Systems nicht mehr geläufig, obwohl mein Gegner am Anfang auch
+sehr viel nachdenken musste} Nf6 4. e5 Nd5 5. d4 cxd4 {Damit leitet Schwarz in
+eine der Hauptvarianten des Alapin-Systems über. Jetzt folgt allerdings eine
+Kurzschlusshandlung von Weiß} 6. Bc4 $2 {Ein Doppelbauern-Opfer ohne eine
+erkennbare Strategie, das auf einem Krawallinstinkt beruht} dxc3 7. O-O {
+Für die zwei Bauern erhält Weiß zumindest ordentlichen Entwicklungsvorsprung
+} ({Die eigentliche Zug war} 7. Bxd5 cxb2 8. Bxb2 exd5 9. Qxd5 {, aber nach}
+Bb4+ {kann Schwarz einach rochieren}) 7... Nb6 8. Bb3 cxb2 9. Bxb2 Be7 {
+Die beiden Läufer von Weiß sehen zwar optisch gut aus, aber die schwarze
+Stellung hat keine Schwächen und er kann nun seinen König in Sicherheit
+bringen. Für einen Bauern hat Weiß Kompensation, aber nicht für zwei} 10.
+Nc3 O-O 11. Qd3 $2 {Dies ist ein weiterer Fehler in einer Stellung, die keine
+Fehler toleriert. Weiß träumt von einer Dame-Läufer-Batterie auf der
+Diagonalen b1-h7. Aber die Mattdrohung auf h7 ist erstmal leicht abzuwehren
+und die weißen Läufer sehen gar nicht mehr so stark aus.} ({Der konsistente
+Zug lautet} 11. Qe2 {Die weißen Türme werden auf die c- und die d-Linie
+gebracht. Dann werden mit Sc3-e4 Umgruppierungen und Springermanöver
+eingeleitet. Schwarz darf die Stellung nicht öffnen, muss aber auch noch
+seinen kompletten Damenflügel entwickeln} Nc6 12. Rfd1 a6 13. Rac1 Qc7 14. Ne4
+{Weiß kann auf das Feld g5 gehen und versuchen den König zu bedrängen})
+11... d5 $1 {Das ist ein ausgezeichneter Konter, der fast sofort ausgleicht.
+Wenn Schwarz im Sizilianer zu d5 kommt, steht er meistens schon besser.} 12.
+exd6 {Auch wenn hierdurch die schwarze Stellung befreit wird, muss der Zug
+gespielt werden, um die eigenen Läufer zu aktivieren und die Stellung
+irgendwie zu öffnen} Qxd6 13. Qe2 {Jetzt sieht man die Fehlidee. Die schwarze
+Dame ist aktiv und seine Stellung atmet wieder} ({Ich berechnete lang} 13. Qxd6
+Bxd6 14. Nb5 Bf4 15. g3 {, aber nach} a6 16. Nbd4 Bh6 {steht Schwarz einfach
+gut}) 13... Bd7 {Der Läufer soll nach c6, um die kritischen Felder im Zentrum
+zu überdecken} 14. Rfd1 Qf4 $1 {Die schwarze Dame hat ein ausgezeichnetes
+Feld gefunden} 15. Rd4 Qf5 {Wieder ein aktives Feld trotz einiger geschenkter
+Tempi an Weiß} 16. Nh4 {Es sieht etwas seltsam aus, den Springer an den Rand
+zu stellen, aber der einzige Zug, der die Dame irritiert} ({Der naheliegende
+Zug ist eigentlich} 16. Bc2 {, aber dann folgt} Qh5 {[%csl Yc6,Yf3,Yh5][%cal
+Rh5f3,Rd7c6,Rc6f3] mit Druck auf den weißen Feldern}) 16... Qa5 {Die
+Situation wird langsam instabil. Es droht Sb8-c6 mit Verlust des Springers auf
+h4} 17. Qe4 {Einer der wenigen Züge, die die Stellung hält} Bf6 18. Rd3 Qe5
+$1 {Schwarz hat sein Ziel erreicht. Er erzwingt den Damentausch und stellt
+langsam die Koordination seiner Figuren her. Dann übernimmt er die Kontrolle
+im Zentrum und versucht mit seinen Mehrbauern Raum zu gewinnen. Der Rest der
+Partie ist eigentlich belanglos. Weiß versucht erfolgreich noch etwas im
+Trüben zu fischen und einige tatktische Fallen zu stellen, aber letztlich
+geht noch ein dritter Bauer verloren. Schwarz muss nur noch die Zeitnotphase
+überstehen und die Figuren abtauschen, um im Bauernendspiel leicht zu gewinnen
+} 19. Qxe5 Bxe5 20. Nf3 Bf6 21. Rad1 Bc6 22. Ba3 Re8 23. Nd4 Rd8 24. Ndb5 Rxd3
+25. Rxd3 N8d7 26. f4 Nf8 27. f5 a6 28. Nd6 Rd8 29. Rh3 Nc8 30. Nde4 Bd4+ 31.
+Kf1 Bxc3 32. Nxc3 exf5 33. Re3 f4 34. Re5 Ng6 35. Rf5 Bxg2+ 36. Ke2 Rd7 37. Na4
+Bh3 38. Rc5 Bg4+ 39. Ke1 Rd8 40. Rc7 b5 41. Bxf7+ Kh8 42. Nc3 Ne5 43. Bd5 Nd3+
+44. Kd2 Ne5 45. Kc2 Bf5+ 46. Be4 Bxe4+ 47. Nxe4 h6 48. Bb2 Nd7 49. Bd4 Ncb6 50.
+Nd6 Kg8 51. Nf5 Nd5 52. Rb7 f3 53. Kd2 Rf8 54. Rxd7 Rxf5 55. Rxg7+ Kf8 0-1
+

@@ -1,0 +1,26 @@
+[Event "Staufer-Open (B-Open)"]
+[Site "?"]
+[Date "2018.01.05"]
+[Round "8"]
+[White "Injac, Petar"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1874"]
+[BlackElo "1913"]
+[PlyCount "127"]
+[SourceDate "2018.01.06"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. dxc5 Qa5+ 5. Nc3 Qxc5 6. e3 f5 7. Qd4 Qxd4
+8. exd4 Bg7 9. Nf3 O-O 10. Nd5 Nc6 11. c3 e6 12. Ne3 b6 13. Bc4 Bb7 14. d5 Ne5
+15. Nxe5 Bxe5 16. O-O Kh8 17. f4 Bd6 18. b4 Rac8 19. Rac1 Rg8 20. Rc2 Rg7 21.
+a3 h5 22. g3 h4 23. Kf2 Rcg8 24. Rd2 Bb8 25. a4 hxg3+ 26. hxg3 Rh7 27. Kf3 Rh3
+28. Rg2 Rc8 29. Kf2 Rxc4 $6 (29... Kg7 30. Rd1 Kf6) 30. Nxc4 Bxd5 31. Ne5 Bxg2
+(31... Bxe5 32. fxe5 Bxg2 33. Kxg2 Rh7 34. Rd1 f6 35. exf6 Rf7 36. Kf3 d5) 32.
+Kxg2 Rh7 33. Nxd7 Bc7 34. Rd1 Kg7 35. c4 Rh8 36. c5 bxc5 37. Nxc5 Rd8 38. Rxd8
+Bxd8 39. a5 Kf8 40. Kf3 Ke7 41. Ke3 f6 42. Kd4 Bc7 43. Kc4 e5 44. Nb3 Kd6 45.
+b5 Bd8 46. Nc5 Bc7 47. Nb7+ Ke6 48. a6 Bb6 49. Nc5+ Kd6 50. Na4 Kc7 $2 (50...
+Bd4) 51. Nc3 Bf2 52. Nd5+ Kb8 53. Nxf6 exf4 54. gxf4 Be3 55. Nd5 Bf2 56. Kd3
+Bc5 57. Ke2 Bd6 58. Kf3 Bc5 59. Ne3 Kc7 60. Nc4 Bg1 $4 (60... Bd4 61. Kg3 Bg7
+62. Kh4 Bh6) 61. Kg3 Bc5 62. Kh4 Be7+ 63. Kh5 Bc5 64. Kg6 1-0
+

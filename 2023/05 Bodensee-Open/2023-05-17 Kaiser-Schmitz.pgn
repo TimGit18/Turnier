@@ -1,0 +1,132 @@
+[Event "Bodensee-Open"]
+[Site "?"]
+[Date "2023.05.17"]
+[Round "5"]
+[White "Kaiser, Elmar"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "2149"]
+[BlackElo "1904"]
+[Annotator "Tim Schmitz"]
+[PlyCount "83"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.05.17"]
+
+1. e4 c5 2. a3 $5 {Das ist ein ungewöhnlicher Zug, den ich noch nie gesehen
+habe. Er ist gar nicht so schlecht und bereitet die Expansion der Bauern auf
+dem Damenflügel vor.} Nc6 {Schwarz verhindert (scheinbar) den Vorstoß b2-b4
+und entwickelt ein Figur. Der Zug kann also nicht so schlecht sein.} 3. b4 {
+Weiß spielt den Zug trotzdem. Er rechnet damit, dass Schwarz mit der
+Eroberung des Bauern b4 zuviel Zeit einbüßt und er dann das Zentrum besetzen
+kann.} e5 {[%csl Yc5,Yd4,Yf4][%cal Gf8c5,Re5d4,Re5f4] Dieser Zug erschien mir
+logisch. Ich öffne die Diagonale für den Läufer f8, der nun den Bauern c5
+verteidigt. Gleichzeitig beansprucht der Zug Raum im Zentrum und kontrolliert
+die Felder d4 und f4. Mit der Sizilianischen Verteidigung hat dies zwar nicht
+mehr viel zu tun, aber als ehemaliger e4-e5-Spieler fühlte ich mich mit dem
+Stellungstyp vertraut.} ({Nach} 3... cxb4 4. axb4 Nxb4 5. d4 {[%csl Yc5,Yd5,
+Ye5,Yf5][%cal Gf1b5,Gc1g5,Gd1f3,Ga1a6,Re4f5,Re4d5,Rd4e5,Rd4c5] hat Weiß
+totale Dominanz im Zentrum, alle seine Figuren bekommen offene Diagonalen und
+Linien - das ist einen Bauern wert.}) 4. b5 {Weiß reagiert unspezifisch, aber
+konsistent. Er versucht die gegnerische Figur auf ein schlechtes Feld zu
+treiben.} Nce7 5. Nf3 {Weiß entwickelt eine Figur und greift den Bauern e5 an.
+Endlich beginnt er normale Züge zu machen.} Ng6 {Der Springer stand auf e7
+ziemlich schlecht. Hier verteidigt er den Bauern e5 und hat Angriffsaussichten
+auf dem Königsflügel.} 6. Nc3 {Weiß entwickelt eine weitere Figur und
+kontrolliert das Feld d5.} Nf6 {Der Zug hat zwei Ziele: Angriff auf den Bauern
+mit Kontrolle des Feldes d5 und Vorbereitung der kurzen Rochade.} 7. Bc4 {
+Weiß verstärkt den Griff nach d5 und beschleunigt seine Entwicklung.} Be7 8.
+d3 d6 9. O-O O-O {Beide Seiten haben ihre Entwicklung des Königsflügels
+beendet und eigentlich eine ausgeglichene Stellung erreicht. Weiß steht etwas
+freier und hat mehr Raum, die Stellung von Schwarz ist aber sehr fest und
+erinnert etwas an die Anti-Sveshnikov-Variante.} 10. Nd5 {Weiß spielt
+konsequent auf die Dominanz der weißen Felder. Der Springer auf d5 ist zwar
+die beste Figur auf dem Brett, doch wenn ich sie abtausche, dann ist der
+Läufer dort noch viel dominanter.} h6 {Ein prophylaktischer Zug, um die
+Fesselung Lc1-g5 nach dem Tausch auf e7 zu vermeiden.} 11. Re1 {Die Idee von
+Weiß ist es, das Zentrum zu öffnen und die besser postiertenn Figuren
+auszunützen.} Be6 {Schwarz entwickelt seine letzte Leichtfigur, um seinen
+Griff im Zentrum zu behalten.} 12. c3 $6 {Dieser Zug wird von der Engine nicht
+gutgeheißen. Er schwächt d3 und ist (als Vorbereitung von d3-d4) auch
+langsam.} Nxd5 $1 {Der Abtausch erfolgt zur rechten Zeit. Die stärkste weiße
+Figur, der Springer auf d5 wird beseitigt. Gleichzeitig wird der Läufer auf
+c4 neutralisiert.} 13. exd5 {Es sieht merkwürdig aus, den vormals zu stolzen
+Läufer auf c4 zu beerdigen.} ({Nach} 13. Bxd5 Bxd5 14. exd5 f5 {[%csl Yd4,Ye4,
+Yf4,Yg4][%cal Rf5g4,Rf5e4,Re5f4,Re5d4,Rc5d4] hat Schwarz schönes Gegenspiel
+im Zentrum und auf dem Königsflügel. Die schwachen weißen Felder im
+schwarzen Lager sind nicht so einfach auszunutzen.}) 13... Bf5 {[%csl Yd3,Yd7,
+Yf5,Yg4][%cal Ge6d7,Ge6f5,Gf5g4,Rf5d3,Rg4f3] Mit der Idee e4 zu kontrollieren
+und den Bauern auf d3 zu beobachten. Der Engine gefällt es besser, wenn der
+Läufer nach g4 zieht, um den Springer zu fesseln, oder der Läufer nach d7
+zurückzieht.} 14. h3 {Weiß verlegt sich auf Manöver. Er wartet erst einmal
+ab, bevor er einen Plan fasst und umsetzt.} Bf6 {Die Idee dieses Zugs ist es,
+die schlechtest stehende schwarze Leichtfigur zu aktivieren und (in Verbindung
+mit e5-e4) vielleicht auf der langen Diagonalen aktiv zu werden.} 15. Ra2 {
+Weiß entfernt den Turm aus der Diagonalen und möchte eventuell auf der
+e-Linie verdoppeln oder den Turm auf die d-Linie bringen.} Nf4 $1 {[%csl Yd3,
+Yg2,Yh3][%cal Rf5d3,Rf4d3,Rf5h3,Rf4h3,Rf4g2] Ein ansprechender Zug, der
+eigentlich keiner großen Überlegung bedurfte. Trotzdem befand ich mich schon
+langsam in beginnender Zeitnot. Wenn Weiß den Springer schlägt, so werden
+die beiden schwarzen Läufer unglaublich aktiv, was den Doppelbauern und die
+offene e-Linie für Weiß kompensiert.} 16. Nh2 {Nun auf f3 hat der Springer
+nicht viel bewirkt. Weiß möchte die Dame auf f3 platzieren und dann
+vielleicht mit seinen Bauern nach vorne drücken, um taktische Drohungen gegen
+die schwarzen Leichtfiguren zu erzeugen.} Qd7 $6 {Das ist zu schlaff. Auf der
+Diagonalen c8-h3 hat Schwarz keine Drohungen.} ({Aktiver ist} 16... g5 {
+Schwarz gewinnt Raum auf dem Königsflügel und beansprucht hier die
+Initiative. Um die Schwächung des Königs muss er sich keine Sorgen machen,
+da noch genügend Figuren um diesen herumstehen.}) 17. Qf3 {Die Dame wird
+aktiviert. Man beachte, dass der Springer auf f4 nun zweimal angegriffen ist 
+(was er nach vorhergehendem g7-g5 nicht wäre).} Rfe8 {Schwarz verhindert
+präventiv, dass der Springer auf f4 geschlagen wird (wegen der
+Grundreihenproblematik auf e1).} 18. Kh1 $2 {Weiß verhindert prophylaktisch
+alle Schachs auf h3 oder e2 mit dem Springer. Trotzdem ist der Zug laut Engine
+ein schwerer Fehler.} Bg6 $6 {übersieht die einfache Taktik. Schwarz hatte
+Angst, dass sein Läufer hier in das Gedränge kommt.} ({Nach der nicht so
+schwierig zu berechnenden Zugfolge (alle forciert)} 18... Nxd3 $1 19. Bxd3 e4
+20. Bxe4 Bxe4 21. Rxe4 Rxe4 22. Qxe4 Re8 23. Qd3 Re1+ 24. Nf1 Rxc1 {ist das
+Material zwar ausgeglichen, aber Schwarz steht viel besser (nach Stockfish auf
+Gewinn). Der Springer ist passiv an die Grundreihe gebunden, die Dame muss den
+Springer decken, der Turm von Weiß steht im Abseits. Alle schwarzen Figuren
+sind viel aktiver.} 25. c4 Qe7 {Es folgt Tc1-c3 und Schwarz wird einen
+Mehrbauern haben, Weiß hat keine Kompensation.}) 19. h4 $2 {Auch Weiß sieht
+die Gefahr nicht und wählt einen weiteren Tempoverlsut.} Re7 $2 {Dies vergibt
+die letzte Chance auf schwarzen Vorteil. Die Stellung ist nun ausgeglichen,
+kippt aber aufgrund einiger unpräziser Züge (Zeitnot!) in Folge an Weiß.} ({
+Eine Alternative zur obigen Variante, die aber etwas schwieriger zu berechnen
+war lautete} 19... Bxh4 $1 20. g3 Bh5 21. Qe3 Bg5 22. gxf4 exf4 $1 23. Qd2 Qh3
+{Schwarz hat eine Figur weniger, aber seine Figuren auf dem Königsflügel
+sind so stark, dass er bald matt setzt oder sein Material mit Zinsen
+wiederbekommt.}) 20. g3 {treibt den Springer zurück und konsolidiert die
+Stellung} Nh5 21. a4 {[%csl Yb3,Yd1][%cal Gc4b3,Gb3d1] Der Läufer soll über
+b3 nach d1 wieder in das Spiel gebracht werden. Dafür deckt der Bauer a4 nun
+den b5.} e4 $2 {Ein simpler Blunder. Schwarz möchte Linien öffnen und
+Gegenspiel generieren, übersieht aber, dass der Bauer c3 nach dem Nehmen auf
+e4 mit dem Bauern d3 einfach von der Dame gedeckt ist.} 22. dxe4 {Jetzt hat
+Weiß einfach einen gesunden Mehrbauern (im Zentrum!). Das bißchen Aktivität
+der schwarzen Läufer reicht nicht aus. Die Stellung ist allerdings noch nicht
+ganz verloren.} Rae8 {Aktiviert die letzte schwaze Figur.} 23. Rae2 {Weiß
+verteidigt den e-Bauern und verbessert die Koordination seiner Figuren.} Be5 {
+Das ist optisch in Ordnung, aber das Problem von Schwarz ist, dass er keine
+Drohungen hat.} 24. Bd2 Nf6 {Zumindest werden die verknoteten Figuren
+aufgelöst.} 25. Bd3 $2 {Weiß übersieht den ganz einfachen Qualitätsverlust
+und verliert seinen kompletten Vorteil.} Bh5 26. Qg2 Bxe2 27. Rxe2 Ng4 {
+Für die Qualität hat Weiß eine Bauernwalze im Zentrum und das Läuferpaar.
+Bei genauem Spiel sollte dies trotzdem nicht ausreichen.} 28. Nf1 Bf6 {[%csl
+Yd3,Ye5][%cal Gg4e5,Re5d3] Der Springer strebt nach e5, wo er ideal stünde}
+29. Re1 {Weiß reorganisiert seine Stellung.} Ne5 30. Be2 {Wie reagiert man
+auf die Drohung f2-f4?} c4 $1 {Das ist noch eine gute Gegenmaßnahme. Es droht
+der Einstieg auf d3.} 31. f3 {Weiß hält das Zentrum zusammen.} Qc7 {Schwarz
+überdeckt c4 und visiert a5 bzw. c5 an.} 32. Ne3 {Weiß hat langsam die
+Stellung wieder ausgeglichen. Er hat keinen Vorteil, aber seine Stellung ist
+sehr fest.} Nd3 33. Rb1 {Der Springer auf d3 nervt zwar, aber Weiß kann um
+ihn herumspielen.} Qa5 $4 {Ein Riesenfehler in Zeitnot, der nicht nur den
+Bauern auf c4 (einzügig) einstellt, sondern auch noch den Springer auf d3.} (
+33... Qc5 {sieht zwar nicht schön aus, aber der Springer auf d3 ist
+zementiert. Weiß muss hier noch einiges probieren, um eine Gewinnstellung zu
+erlangen.}) 34. Nxc4 {[%csl Ya5,Yd3,Yd6][%cal Re2d3,Rc4d6,Rc4a5] Auf einen
+Schlag sind drei schwarze Figuren angegriffen. Ich mache noch einige Züge bis
+zur Zeitkontrolle, aber der kapitale Einsteller ist einfach ärgerlich.} Qxa4
+35. Bxd3 Rc8 36. Nxd6 Rcc7 37. Nf5 Red7 38. c4 Qa3 39. Qe2 Qa2 40. e5 Bxe5 41.
+Qxe5 Qxd2 42. Qxg7# 1-0
+

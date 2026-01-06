@@ -1,0 +1,106 @@
+[Event "SC Sendling 1 - SC Haar 1"]
+[Site "?"]
+[Date "2020.09.20"]
+[Round "9"]
+[White "Held, Sebastian"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "1926"]
+[BlackElo "1828"]
+[Annotator "Tim Schmitz"]
+[PlyCount "82"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.09.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. a4 Nbd7 {Bis hierhin ist die Partie in eine Feld- und
+Wiesenstellung der Klassischen Variante in der Najdorf-Verteidigung
+übergegangen. Jetzt folgt aber ein aggressiver Zug, bei dem ich regelmäßig
+fehlgreife.} 11. f4 {Das ist ein riskanter Zug, der direkt in einen Angriff
+auf den schwarzen König einzahlt. Schwarz muss sich strecken, um im Zentrum
+überhaupt dagegen zu halten.} Qc7 $6 {Diese Reaktion ist zu passiv. Weiß
+kann - wie der Gegner in Ortenburg - die Initiative ergreifen und Raum auf dem
+Damenflügel gewinnen.} ({Üblich ist hier die Empfehlung von Arizmendi und
+Moreno} 11... exf4 12. Bxf4 {Der weiße Damenläufer musste zum zweiten Mal
+ziehen und Weiß verliert die Kontrolle über b6.} Ne5 13. Kh1 Rc8 14. Nd4 Qb6
+{Schwarz hat einen guten Nutzen aus dem Tempogewinn gemacht.}) 12. f5 {Weiß
+erobert - wie geplant - Raum auf dem Königsflügel.} Bc4 {Schwarz möchte
+nicht das Läuferpaar aufgeben und wenigstens seine Figuren auf aktiven
+Feldern zu platzieren.} 13. g4 {Dieser Zug signalisiert endgültig die
+aggressiven Absichten von Weiß. Er möchte mit g4-g5 die schwarzen
+Verteidiger wegfegen.} d5 $5 {Schwarz antwortet - wie gelernt - mit einer
+Reaktion im Zentrum auf den Flügelangriff. Allerdings beinhaltet der Zug auch
+ein Bauernopfer, denn d5 ist dreimal von Weiß überdeckt und nur zweimal von
+Schwarz.} 14. exd5 Nb6 {Schwarz greift den Bauern direkt wieder an und erlangt
+eine gewisse Initiative.} 15. Bxb6 Qxb6+ 16. Kh1 {Weiß hat den Mehrbauern
+behalten können, musste aber dazu den "guten" Läufer gegen den "schlechten"
+Springer auf b6 tauschen. Außerdem merkt er jetzt, dass er seinen König
+ziemlich exponiert hat, was später in der Partie noch ein Thema sein wird.}
+Rac8 17. g5 Nd7 18. Rg1 {Weiß hat zwar nicht viele Drohungen, aber f5-f6 hat
+Wucht.} ({Die beiden Vorgängerpartien spielten} 18. Bxc4 Rxc4 19. Qe2 Rfc8 {
+In beiden Partien hatte Schwarz auch ein Remis geschafft.}) 18... Kh8 {Der
+Wegzug des Königs aus der g-Linie ist die einfachste Lösung, die keine
+strukturellen Schäden verursacht. Es gibt allerdings ein neues Angriffsziel
+auf der h-Linie. Die Öffnung der g-Linie wäre jetzt kein Problem mehr, denn
+Schwarz hat die Türme verbunden und greift mit der Dame auch g1 an.} 19. Rg4
+$5 {[%csl Yc4][%cal Rg4c4,Re2c4] Das ist ein starker Zug. Weiß greift mit dem
+Turm ein zweites Mal den Läufer an und behält es sich vor, wo er ihn
+einsetzt.} Bxe2 {Das ist schade, aber es gab keine Möglichkeit mehr, den
+Läufer auf c4 zu halten.} 20. Qxe2 {Weiß hat eine starke Stellung. Er hat
+Raumvorteil auf dem Königsflügel und kann sehr schnell seine Schwerfiguren
+aktivieren. Schwarz hat Probleme sich zu befreien und zudem einen Bauern
+weniger. Er muss jetzt ein effektives Gegenspiel entwickeln, das schnell wirkt.
+} Bb4 $2 {Aber nicht so. Der Läuferzug ist pseudoaktiv, aber ungenau. Erstens
+bedroht er selber keine Figur, ist aber verletzlich, da er vom Turm
+angegriffen wird. Laut Engine steht Weiß bereits klar auf Gewinn.} 21. a5 {
+Weiß nutzt es sofort aus, dass der Läufer hängt, wenn die Dame falsch
+wegzieht.} ({Sofortiges} 21. Ne4 $1 {wäre wahrscheinlich noch stärker
+gewesen. Die weißen Figuren rücken an den schwarzen König heran, während
+die schwarzen sinnlos auf dem Damenflügel herumlungern. Außerdem hat Weiß
+noch immer einen Bauern mehr, nämlich den gefährlichen Freibauern auf d6.})
+21... Qd6 {Unschön, aber alternativlos.} 22. Ne4 {Immer noch gut, aber
+vielleicht nicht mehr tödlich.} Qxd5 $5 {Only Move} ({Es geht nämlich nicht} 
+22... Qe7 23. Rh4 Rfd8 24. Qh5 {und es ist bald vorbei.}) 23. Rd1 {mit Tempo.}
+Qc6 {Die Dame muss schon auf der Diagonalen bleiben. Erst jetzt zeigt sich die
+Verwundbarkeit des weißen Königs durch das Vorziehen der Bauern, er sollte
+auch einmal leiden.} 24. c3 {Der Zug verdirbt noch nichts, wirkt aber schon
+fahrig. Zumindest schützt Weiß seinen angegriffenen c-Bauern, aber der
+Läufer kommt wieder auf ein besseres Feld.} Be7 {Schwarz muss das Feld d6
+kontrollieren.} 25. Nbd2 $6 {Kein besonders übergezugender Zug. Der Springer
+stand zwar nicht besonders auf b3, aber die Umgruppierung nach f3, wo er den
+Bauern e5 angreift und die lange Diagonale unterbricht, dauert viel zu lange.}
+Rfe8 {Schwarz deckt indirekt den Bauern auf e5 und strahlt gegen die schwarze
+Dame.} 26. b4 {Der Zug macht eigentlich gar keinen Sinn mehr. Weiß sollte am
+Königsflügel angreifen oder die Stellung seiner Figuren verbessern.} (26. Nf3
+{macht einen deutlich besseren Eindruck. Weiß erhöht den Druck auf die
+schwarze Stellung und kann seine Figuren langsam nach vorne schieben.}) 26...
+b6 $5 {Obwohl der Zug der Engine überhaupt nicht gefällt, verlockte die
+Aussicht auf Gegenspiel. Schwarz "übersieht" allerdings einen zweizügigen
+Bauernverlust.} 27. axb6 Nxb6 28. Qxa6 {Weiß hat eine Bauern gewonnen, aber
+Schwarz kann jetzt seine Figuren aktivieren.} Ra8 29. Qf1 Nd5 {[%csl Yc3,Ye3,
+Yf4][%cal Gd5e3,Gd5f4,Gd5c3] Jetzt steht der Springer richtig gut. Er kann auf
+f4 eingesetzt werden, greift den Bauern auf c3 an und droht mit einer Gabel
+auf e3.} 30. Qf3 {Weiß verhindert die Gabel, unterbricht die Fesselung und
+überdeckt den Bauern auf c3 ein zweites Mal.} Ra3 {[%csl Yb4][%cal Gd5b4]
+Noch eine weitere Drohung. Durch die Fesselung des Bauern c3 droht jetzt der
+Zug Sc6xb4.} 31. Nb1 $2 {Weiß steht immer noch besser, aber nicht mehr auf
+Gewinn.} (31. Rh4 {Ziemlich aussichtslos ist} Nxc3 32. Rxh7+ Kxh7 33. Nf6+ {
+gewinnt für Weiß die Dame.}) 31... Ra1 {Der Turm sollte möglichst aktiv
+bleiben} 32. Nc5 $4 {Das ist aber ein ziemlicher Einsteller. Schwarz kann auf
+einen Schlag die Stellung vereinfachen und seinen Bauern zurückholen.} Nxb4
+33. Qxc6 Nxc6 34. Ne4 {Jetzt ist eine völlig ausgeglichene Stellung
+entstanden. Schwarz hat erfolgreich überlebt und kann jetzt die Initiative
+ergreifen.} Rd8 {Es soll die Deckung des Springers b1 unterminiert werden.} 35.
+Rxd8+ Bxd8 36. Ned2 {Jetzt ist der Springer überdeckt, aber beide Springer
+stehen passiv. Etwas Sorgen macht allerdings die Drohung Tg4-c4-c8. Trotzdem
+muss Schwarz besser stehen.} f6 {Die weißen, einst stolzen Bauern werden
+gesprengt und der schwarze König hat etwas Luft.} 37. g6 {Weiß versucht das
+Beste aus der Situation zu machen.} hxg6 38. fxg6 Kg8 ({Besser gefällt} 38...
+Bb6 39. Rc4 Ne7 {und Schwarz hat alle Drohungen erfolgreich abgewendet.}) 39.
+Rc4 Ra6 {Etwas passiv, aber am sichersten.} 40. h4 f5 41. Kg2 Kf8 {Hier wurde
+Remis angeboten. Schwarz kann diese Stellung eigentlich nicht verlieren. Er
+hat zwei verbundene Freibauern im Zentrum und die besseren Leichtfiguren. Aber
+es stand 3,5-1,5 für Sendling und es reichte ein 4:4 zum Klassenerhalt. Sonst
+hätte die Partie noch lange laufen können.} 1/2-1/2
+

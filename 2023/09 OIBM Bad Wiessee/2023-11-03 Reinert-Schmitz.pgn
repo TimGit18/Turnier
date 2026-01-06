@@ -1,0 +1,22 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2023.11.03"]
+[Round "7"]
+[White "Reinart, Stephane"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2011"]
+[BlackElo "1849"]
+[Annotator "Tim Schmitz"]
+[PlyCount "70"]
+[SourceVersionDate "2023.11.03"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 g6 4. e3 Bg7 5. Nb5 Na6 6. h3 c6 7. Nc3 Nc7 8. Nf3
+O-O 9. Bd3 Ne6 10. Be5 b5 $6 11. a3 Ne8 12. Bxg7 N6xg7 $6 13. e4 Be6 14. O-O
+Nd6 15. e5 Nc4 16. Qc1 Bf5 $16 17. Ne2 Qd7 18. b3 Nb6 19. Kh2 Rac8 20. g4 Be4
+$1 21. Qe3 Bxf3 (21... f5 $5) 22. Qxf3 c5 23. dxc5 Rxc5 24. Qe3 Rfc8 25. Nd4 a6
+26. f4 Rc3 27. f5 Ne8 $4 (27... Nc4) 28. fxg6 hxg6 29. Rxf7 $1 Nd6 30. Rf2 Ne4
+31. Rf3 e6 (31... Qc7) 32. Raf1 Qg7 33. Nxe6 Qxe5+ 34. Nf4 Nd7 35. Kg2 Nf8 {
+Zeitüberschreitung} (35... Rxc2+ $1 36. Bxc2 Rxc2+ 37. Kg1 Nd2) 1-0
+

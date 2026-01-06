@@ -1,0 +1,62 @@
+[Event "Schachfestival Bad Wörishofen"]
+[Site "?"]
+[Date "2022.03.11"]
+[Round "1"]
+[White "Sombetzki, Detlef"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1529"]
+[BlackElo "1811"]
+[Annotator "Tim Schmitz"]
+[PlyCount "62"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.03.11"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 d6 5. Nbd2 O-O 6. h3 {Dies ist die
+Ausgangsstellung des Londoner Systems im Anti-Königsinder.} Nbd7 $6 {Da mir
+die Theorie nicht mehr allzu geläufig war, verwendete ich ein eher aus der
+normalen Königsindischen Verteidigung herrührendes System mit der Idee e7-e5
+durchzusetzen nach den Vorbereitungszügen c7-c6, Dd8-c7 und Tf8-e8.} ({
+Die reguläre Fortsetzung wäre} 6... c5 7. c3 Be6 {mit der Idee} 8. Z0 Qb6) 7.
+c3 Re8 8. Qc2 e5 $5 {Der Zug ist natürlich sehr aktiv und passt auch in das
+Konzept der Stellung - aber erlaubt eine unangenehme Fesselung auf g5.} 9. Bg5
+c6 {Oberste Priorität hat es, diese Fesselung so schnell wie möglich
+aufzuheben.} 10. O-O-O $6 {Die lange Rochade wirkt sehr kompromittierend. Sie
+passt auch eigentlich nicht in das Londoner System, in dem Weiß eigentlich
+Lf1-e2 und die kurze Rochade spielt.} Qa5 $6 {Mir gefiel der Zug ganz gut, da
+er mehrere Ziele auf einmal verfolgt: Erstens wird die Fesselung des Springers
+f6 aufgehoben, zweitens der entfernte Rochadebauer auf a2 angegriffen und
+drittens eine Strahlung gegen den Läufer auf g5 aufgebaut.} ({Stockfish
+bevorzugt das profane} 10... d5 {, wonach Schwarz einfach deutlich besser
+steht. Es droht e5-e4 und nach dem Schlagen auf e5 ist die schwarze Stellung
+einfach befreit, wohingegen Weiß sein Zentrum aufgegeben hat.}) 11. Bc4 $2 {
+Aber dieser Zug ist schon ein ziemlicher Fehler, auch wenn mir das zunächst
+nicht auffiel. Weiß deckt den Bauern a2 und entwickelt eine Figur. Möglich
+sind auch Drohungen gegen f7.} e4 $1 {Dieser Zug ergibt großen Vorteil, Weiß
+verliert die Kontrolle im Zentrum.} 12. Bxf6 Nxf6 {Aber das stellt einzügig
+eine Figur ein.} 13. Ng5 $4 ({Die einzige Alternative} 13. Ne1 d5 14. Bb3 b5 {
+stellt ein Spiel auf ein Tor dar.}) 13... Qxg5 {Weiß hat die viel schlechtere
+Stellung und eine glatte Figur weniger.} 14. g4 Be6 {Das ist am einfachsten.} (
+{Möglich war auch} 14... d5 15. Be2 {, aber hiernach ist die Stellung nicht
+so klar. Die schwarze Dame steht auf dem Königsflügel nicht besonders gut.})
+15. Rde1 Bxc4 16. Nxc4 Qd5 {Hier steht die Dame zentralisiert und greift
+gleichzeitig verschiedene Felder an.} 17. b3 {Weiß verteidigt den Springer
+und unterbricht die Damenlinie nach a2, schwächt aber auch die eigene
+Königsstellung.} b5 {Zunächst sollte der Springer von dem aktiven Feld
+vertrieben werden. Danach kann die Stellung auf dem Damenflügel geöffnet
+werden.} ({Dagegen wäre es ein schrecklicher Fehler mit} 17... a5 $4 {zu
+beginnen wegen} 18. Nb6) 18. Nd2 c5 {Erhöht den Druck auf d4 und öffnet die
+c-Linie mit unangenehmen Konsequenzen für Weiß.} 19. Kb1 cxd4 20. exd4 {
+Weiß hält zwar die c-Linie geschlossen, erlaubt aber den Vormarsch des
+e-Bauern und eine Abwicklung in ein gewonnenes Endspiel.} e3 $1 {Der Zug
+öffnet die Diagonale für die Dame und wickelt in ein gewonnenes Endspiel ab.}
+21. fxe3 Rxe3 22. Rxe3 {Das verliert zwar direkt, aber sonst ist auch kein
+guter Zug für Weiß zu sehen.} Qxh1+ 23. Kb2 Re8 $5 {Je mehr Figuren
+abgetauscht werden, desto weniger Potential bleibt bei Weiß.} 24. Rxe8+ Nxe8
+25. Qd3 {Der Angriff auf den Bauern b5 ist eine kleine Bedrohung, die schnell
+verteidigt werden kann.} Qd5 26. Ne4 b4 $1 {Wenn der Bauer d4 fällt, dann
+bricht die weiße Stellung auseinander.} 27. g5 {versucht noch im Trüben zu
+fischen mit einer möglichen Gabeldrohung auf f6.} bxc3+ 28. Kxc3 Qa5+ 29. Kb2
+Qb4 30. Nf6+ {verliert forciert.} Nxf6 31. gxf6 Bxf6 0-1
+

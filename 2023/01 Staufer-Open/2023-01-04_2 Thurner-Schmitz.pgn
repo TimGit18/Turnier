@@ -1,0 +1,24 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2023.01.04"]
+[Round "6"]
+[White "Thurner, Hermann"]
+[Black "Schmitz, Tim"]
+[Result "*"]
+[ECO "B90"]
+[WhiteElo "1700"]
+[BlackElo "1840"]
+[Annotator "Tim Schmitz"]
+[PlyCount "30"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.01.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 {Das ist
+die Rückzugsvariante im Klassischen System der Najdorf-Verteidigung in der
+Sizilianischen Verteidigung. Aus weißer Sicht (wie mein Gegner freimütig
+erklärte) besteht der Vorteil darin, keine Theorie-Kenntnisse besitzen zu
+müssen.} Be7 {Dieser und die nächsten schwarzen Züge sehen sehr logisch aus.
+Aber Schwarz vermisst die entscheidende Idee in diesem System.} (7... h6 $1) 8.
+Be3 Qc7 9. O-O O-O 10. h3 Be6 11. Ng5 Bc4 12. Bxc4 Qxc4 13. Qd3 Qc7 14. Rac1
+Nbd7 15. Rfd1 h6 *
+

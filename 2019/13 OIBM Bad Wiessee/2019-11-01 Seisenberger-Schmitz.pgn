@@ -1,0 +1,74 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2019.11.01"]
+[Round "7"]
+[White "Seisenberger, Georg"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E84"]
+[WhiteElo "2072"]
+[BlackElo "1858"]
+[Annotator "Tim Schmitz"]
+[PlyCount "79"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.11.03"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 9. Rc1 {Das ist die Modevariante (von Lars Scharndorff) im Panno-Systems
+des Sämisch-Angriffs. Die ganze Richtung ist eher positionell.} Bd7 10. Nd1 b5
+{Schwarz wählt hier die prinzipielle Entscheidung, auf dem Damenflügel
+vorzugehen.} ({Eine andere Idee lautet} 10... e5 11. d5 Ne7 12. Nec3 Nh5 13.
+Bd3 Nf4 14. O-O f5 {aus 1-0 (73) Meiser,M (2117)-Schmitz,T (1825) Heusenstamm
+2017. Schwarz erhält Spiel am Damenflügel, aber der Angriff ist nicht so
+wuchtig wie im Klassischen System der Mar del Plata-Variante.}) 11. c5 {
+Logischerweise will Weiß die c-Linie öffnen und sich Raumvorteil auf dem
+Damenflügel sichern.} d5 $2 {Das ist ein Fehler, weil der schwarze Spieler
+weder die Theorie kennt noch die Struktur der Stellung versteht.} ({Richtig
+ist an dieser Stelle} 11... e6 12. Nf2 b4 {[%cal Rc6e7,Rd7b5] mit der Idee in
+eine Art Igelstellung zu gehen. Schwarz hat zwar weniger Raum, aber er kann
+die weißen Bauern ganz gut in einer "Badewanne" auf e6 und d6 auffangen.}) 12.
+e5 $1 {Das ist auch die von Vigorito angesprochene Widerlegung. Hiernach steht
+Weiß deutlich besser. Denn er hat mehr Raum. Vielleicht kann man die Stellung
+noch halten, aber es wird sehr schwer.} Ne8 13. Nf2 {[%csl Yd3,Yf4][%cal Gf2d3,
+Gd3f4,Ge2f4] Das ist der logische Zug, um den Springer auf f4 gewinnbringend
+einzusetzen.} f6 {Zumindest ist der Zug konsequent. Schwarz greift die Vorhut
+des weißen Zentrums an. Auch kann die f-Linie geöffnet werden.} 14. f4 {
+Weiß überdeckt das Zentrum und stabilisiert den Vorposten auf e5.} fxe5 $6 {
+Das sieht schon relativ ratlos aus.} 15. fxe5 {Laut der Engine steht hier
+Weiß schon fast auf Gewinn.} Be6 16. Nf4 Qd7 {Schwarz klammert sich
+verzweifelt an die weißen Feldern - da die schwarzen allesamt vom Gegner
+beherrscht werden.} 17. Be2 {Weiß hat keine Eile. Er führt zunächst seine
+Entwicklung zuende.} Bf5 {Schwarz spielt damit, eine ewige Blockade auf den
+weißen Feldern zu errichten. Leider läßt sich diese Idee nicht richtig
+verwirklichen. Weiß hat immer noch den Hebel g2-g4, mit dem er die schwarze
+Stellung unterminieren kann.} 18. O-O {Das ist auch ein guter Abwartezug.
+Weiß muss hier nichts forcieren. Seine Figuren sind sehr gut koordiniert (im
+Gegensatz zu den schwarzen) und er kontrolliert mehr Raum.} Nd8 $6 {Die Idee
+hinter diesem Zug ist eigentlich nicht schlecht. Wenn Schwarz zu c7-c6 käme,
+dann ist seine Stellung sehr fest. Die Figuren könnten auf dem Königsflügel
+umgruppiert werden.} 19. c6 $1 {Diese bärenstarke Antwort wurde unterschätzt.
+Weiß opfert einen Bauern für die Öffnung der c-Linie. Er verhindert die
+Stützung des Zentrums durch den schwarzen c-Bauern.} Nxc6 {Schwarz muss
+nehmen.} 20. Bf3 $1 {Ein logischer Zug, der vielleicht sogar der beste ist.
+Weiß erhöht den Druck auf den Bauern d5.} ({Auch gut ist das Scheinopfer} 20.
+Nxd5 Qxd5 21. Bf3 {, wonach der schwarze Springer auf c6 fällt.}) 20... e6 {
+Was sonst?} 21. g4 Be4 22. Nxe4 dxe4 23. Bxe4 Ne7 {Der nächste Versuch, eine
+Blockade auf den weißen Feldern aufzubauen (mit c7-c6 und Se7-d5).} 24. Qg2 $1
+{[%csl Yc6,Yd5][%cal Gg2e4,Ge4d5,Gd5c6,Rc1c6] Ein feiner Zug, der die
+Herrschaft über die komplette lange Diagonale sichert.} Rd8 {Wenigstens wird
+versucht, das Feld d5 zu kontrollieren.} 25. Rc2 {[%csl Yc1,Yc7][%cal Gf1c1,
+Rc1c7] Weiß bereitet die Verdopplung der Türme auf der c-Linie vor mit Druck
+gegen c7.} (25. Rc5 {würde Schwarz völlig paralysieren.}) 25... Nd5 26. Bxd5
+exd5 {Obwohl mit dem Tausch etwas Potential aus der Partie genommen wurde,
+kann Weiß den Druck weiter steigern. Die schwarzen Figuren sind immer noch
+völlig deskoordiniert und haben keine Wirkung.} 27. Rfc1 g5 $6 {Auch keine
+gute Idee, aber wenigstens wird die f-Linie freigeräumt und der
+Monsterspringer von f4 vertrieben.} 28. Nh5 h6 29. Rc6 Qf7 $5 {Dies leitet den
+letzten Gegenangriff von Schwarz ein. Es macht nämlich gar keinen Sinn, den
+Bauern auf a6 zu decken und eine ewige Verluststellung anzumelden.} 30. Rxa6
+Qf3 31. Qxf3 Rxf3 32. Ra3 Bf8 {Hier schlummert noch ein taktischer Trick.} 33.
+Rb3 {Das ist am sichersten.} (33. Rd3 {geht auch, aber dann muss man} c5 34.
+dxc5 d4 35. Rxd4 {sehen}) 33... Ra8 34. Kg2 Rf7 35. a3 b4 36. axb4 Rb8 37. b5
+Ng7 ({Auf} 37... Bg7 {folgt} 38. Nxg7) 38. Nf6+ Kh8 39. Nxd5 Ne6 40. Rc6 {
+verliert auch, da Weiß drei Mehrbauern und die viel bessere Stellung hat.} 1-0
+

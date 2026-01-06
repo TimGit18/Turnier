@@ -1,0 +1,39 @@
+[Event "NW-Cup Bad Zwischenahn 2009"]
+[Site "?"]
+[Date "2009.02.13"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Arndt, Uwe"]
+[Result "0-1"]
+[ECO "C13"]
+[WhiteElo "1844"]
+[BlackElo "2047"]
+[Annotator "Tim Schmitz"]
+[PlyCount "124"]
+[EventDate "2009.??.??"]
+[TimeControl "240+2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 {Die Burn-Variante} Be7 6. Ng3
+$6 {Ein schlechter Versuch der Theorie auszuweichen} O-O 7. Nf3 Nbd7 8. Bd3 c5
+9. Qe2 $2 {Das ist ein arroganter und strukturell schwacher Zug} cxd4 10. Nxd4
+Nc5 11. Rd1 ({Eigentlich war geplant} 11. O-O-O {aber ich hatte Angst vor}
+Nxd3+ 12. Rxd3 $1 Qa5) 11... Qa5+ 12. Bd2 Nxd3+ 13. Qxd3 Qxa2 {Schwarz hat
+einen gesunden Mehrbauern} 14. Bc3 Rd8 15. Qf3 (15. Qe2 {wollte ich nicht
+spielen wegen} b6 16. O-O Ba6) 15... Qa6 $1 {Schwarz reaktiviert die Dame und
+verhindert die weiße Rochade} 16. b3 ({Oder} 16. Rd3 {mit} e5 17. Ndf5 Bxf5 18.
+Nxf5 Bc5) 16... Rd5 17. Ra1 Qd6 {Druckspiel auf d4} 18. Nde2 Bd7 (18... e5 {
+ist noch stärker} 19. O-O Bg4) 19. O-O Bc6 20. Qf4 {Ich komme um den
+Damentausch nicht herum} Qxf4 21. Nxf4 Rdd8 22. Ngh5 $2 {Ein untauglicher
+Versuch, den weißen Leichtfiguren etwas mehr Aktivität zu verschaffen} Nxh5 23.
+Nxh5 f6 24. Rfe1 Kf7 25. Nf4 $2 {Aber was soll das?} e5 26. Nh5 (26. Nd3 Bb5
+27. Rad1 Rac8 {und Feierabend}) 26... a6 27. Ng3 Rac8 28. Ba5 Rd7 29. Rad1 g6
+30. Rxd7 Bxd7 31. Rd1 Be6 32. c4 {Das spielt Schwarz völlig in die Hände} b5
+33. cxb5 Bxb3 $1 34. Rb1 Bc2 35. Rb2 axb5 36. h4 (36. Rxb5 Bd3 {mit
+Mattdrohung auf c1}) 36... Bd3 37. h5 Rc1+ 38. Kh2 Ra1 39. hxg6+ hxg6 {Schwarz
+ist close to winning} 40. Bc3 Ra4 41. Rd2 Bc4 42. Ne4 Ke6 43. f3 f5 44. Nf2 b4
+45. Bb2 Ra2 46. Bc1 Rxd2 47. Bxd2 Be2 $1 {Stark: der weiße Springer ist
+klinisch tot} 48. Kg3 Bc5 49. Nh3 b3 50. Bc1 Bd4 51. f4 b2 52. Bxb2 Bxb2 53.
+fxe5 Bxe5+ 54. Kf2 Bh5 55. g3 {Naja} Bg4 56. Nf4+ Bxf4 57. gxf4 Kd5 58. Kg3 Ke4
+59. Kh4 {A final trick} Bh5 (59... Kxf4 {Patt}) 60. Kg5 Kf3 61. Kh4 Kxf4 62.
+Kh3 g5 0-1
+

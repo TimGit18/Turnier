@@ -1,0 +1,42 @@
+[Event "Landesliga Süd"]
+[Site "?"]
+[Date "2011.02.27"]
+[Round "?"]
+[White "Hahn, Dr. Christoph"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "2166"]
+[BlackElo "1890"]
+[Annotator "Tim Schmitz"]
+[PlyCount "107"]
+[EventDate "2011.04.16"]
+[WhiteTeam "SK Kriegshaber 1"]
+[BlackTeam "SC Sendling 1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 (3... Bf5 {war vielleicht vorzuziehen mit Umstieg
+in die ruhigen slawischen Varianten nach} 4. c4 c6 5. Bd3) 4. b3 Bf5 {Hier
+meinte Hahn, dass Lg4 für Weiß unangenehmer sei} 5. Be2 Nc6 6. O-O e6 7. Ba3 {
+Eine interessante Idee, um die schwarze Entwicklung zu behindern} Qa5 8. Nh4
+Bg6 9. Nxg6 hxg6 10. c3 {Jetzt droht dxc5 nebst Figurengewinn, dachte ich.
+Aber Ld6 hält noch die Stellung zusammen} cxd4 {Ungenau.} ({Besser war} 10...
+Ne4 11. Qc1 Bd6 12. dxc5 $4 Bxh2+ 13. Kh1 Qc7) 11. Bxf8 Kxf8 12. exd4 Ne4 13.
+Qd3 Rc8 14. f3 Nf6 {Hier steht der Springer nicht gut.} ({Etwas besser sieht
+aus} 14... Nd6 {denn das Feld f5 oder b5 kann besetzt werden}) 15. f4 Qc7 16.
+g3 Ne4 {Eben das ist planlos} 17. Nd2 Nxd2 18. Qxd2 Ke7 $2 {Ein krasser Fehler,
+der König steht in der Mitte gefährdet} 19. Qe3 Rh6 {Der Zug macht wenig Sinn.
+Der Angriff auf der h-Linie findet nicht statt und der Turm bleibt eingeklemmt
+für die Partie} 20. Bf3 Qd6 21. Rad1 {Weiß erhöht jetzt den Druck} Kf8 22. Rfe1
+Ne7 23. Qd3 Qc7 {Irgendwie muss ich Gegenspiel entwickeln} 24. Rc1 Qb6 25. Red1
+Nf5 {Dieser Springer soll jetzt nach d6} 26. c4 $1 {Weiß öffnet jetzt
+vorteilhaft die Stellung} dxc4 27. bxc4 Rd8 {Weiß hat praktisch einen Mehrturm}
+28. c5 Qb2 {Ich suche taktische Komplikationen} 29. Rc2 Qxd4+ 30. Qxd4 Nxd4 31.
+Bg4 f5 {Diese Endspiel verliert, obwohl Rybka noch Ausgleich sieht} (31... Nc6
+{ist die Alternative} 32. Rxd8+ Nxd8 33. Bf3) 32. Rcd2 fxg4 33. Rxd4 Rxd4 34.
+Rxd4 Ke7 $2 {Ein Fehler in Zeitnot} ({Vorzuziehen war auf jeden Fall} 34... Rh5
+35. Rd8+ Ke7 36. Rb8 Kf6 37. Rxb7 Rxc5 38. Rxa7) 35. Rb4 Kd7 $2 {und noch
+einer. Jetzt gewinnt Weiß ganz leicht} 36. Rxb7+ Kc6 37. Rxa7 Kxc5 38. Rxg7 Kb4
+39. Kg2 Ka3 40. Ra7+ Kb4 41. Rb7+ Ka3 42. Rb5 Kxa2 43. Rg5 Kb3 44. Rxg4 Kc4 45.
+Rg5 (45. f5+ {gewinnt sofort}) 45... Kd4 46. Re5 Kc4 47. Rxe6 Kd5 48. Re5+ Kd6
+49. g4 Kd7 50. Kg3 Kd6 51. Ra5 Ke6 52. f5+ Kf6 53. Ra6+ Kf7 54. Rxg6 1-0
+

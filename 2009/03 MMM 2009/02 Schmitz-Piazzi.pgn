@@ -1,0 +1,36 @@
+[Event "MMM 2009 - A-Klasse 1"]
+[Site "?"]
+[Date "2009.03.13"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Piazzi, Mark"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1832"]
+[BlackElo "1788"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[EventDate "2009.??.??"]
+[WhiteTeam "SC Sendling 2"]
+[BlackTeam "SV Weiß-Blau Allianz 1"]
+[TimeControl "240+2"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 g6 7. e5 {Nach
+Langrock der korrekte Zug} e6 ({Besser ist} 7... Bg7 8. exd6 Nf6 9. O-O O-O 10.
+dxe7 Nxe7 11. Qb3 Nc6 12. Rd1 Qe7) 8. Bg5 Qd7 9. exd6 Qxd6 10. Nb5 {Dieser Zug
+geht} Qb8 (10... Qb4+ 11. Qd2 Qxc4 $4 12. Nc7#) 11. O-O a6 12. Nbd4 Ne5 {
+Der beste Verteidigungszug in dieser Stellung} 13. Nxe5 (13. Nxe6 {
+funktioniert leider nicht} Bxe6 14. Bxe6 fxe6 15. Re1) 13... Qxe5 14. Qd2 {
+Das ist etwas gemächlich.} (14. Nf3 Qd6 15. Qe2 Be7 16. Rfd1 Qc5 17. Be3 Qc7
+18. Rac1 {ergibt großen Entwicklungsvorsprung für Weiß}) 14... Bc5 15. Nb3 (15.
+Nb5 $1 Be7 16. Bf4 {würde gewinnen!}) 15... Be7 16. Bf4 Qe4 17. Rac1 b5 18.
+Rfe1 Qb7 19. Be2 {mit schönen Drohungen} Nf6 20. Bf3 Nd5 21. Bxd5 $2 {Hier
+waren mehrere bessere Züge möglich. Schwarz war aber schon in schlimmer
+Zeitnot, so dass ich auf Komplikation spekulierte} ({a)} 21. Rc7 Bb4 22. Qd4 $1
+) ({(b)} 21. Nc5 Bxc5 22. Bxd5) ({(c)} 21. Rc5 Bxc5 22. Nxc5 Qa7 23. Qxd5)
+21... Qxd5 22. Qxd5 (22. Qc3) 22... exd5 23. Rc7 Be6 {Hält die schwarze
+Stellung zusammen} 24. Nd4 Kd8 $4 {Ein schlimmer Fehler in Zeitnot} (24... Bb4
+25. Re2 O-O 26. Nxe6 fxe6 27. Be5 Rf7 28. Rc6) 25. Nc6+ {Schwarz gibt auf. Es
+könnte folgen} Ke8 26. Rxe7+ Kf8 27. Bh6+ Kg8 28. Rd7 f6 29. Ne7+ Kf7 30. Nxd5+
+Bxd7 31. Re7+ Kg8 32. Nxf6# 1-0
+

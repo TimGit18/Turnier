@@ -1,0 +1,29 @@
+[Event "MMPT 2008"]
+[Site "?"]
+[Date "2008.04.13"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Stöhr, Herbert"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "1795"]
+[BlackElo "1902"]
+[Annotator "Tim Schmitz"]
+[PlyCount "86"]
+[EventDate "2008.??.??"]
+[WhiteTeam "SC Sendling 1"]
+[BlackTeam "SG Schwabing München-Nord 1"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 d6 5. Nf3 Nc6 6. Bf4 Nf6 7. Nbd2 e6 8. O-O
+Be7 9. h3 O-O 10. Qe2 e5 11. Be3 Nh5 12. Bc4 Nf4 13. Bxf4 exf4 14. Rad1 Qc7 15.
+Nb3 g5 {Sehr optimistisch von Schwarz} 16. Nbd4 g4 17. Nxc6 bxc6 18. hxg4 Bxg4
+19. Rd3 Be6 20. Bxe6 fxe6 21. Nd4 Rf6 {Weiß versucht die schwarzen
+Bauernschwächen auszunutzen} 22. Rh3 c5 23. Qc4 $1 Qd7 24. Nf5 Kh8 25. Nh6 Bf8
+26. Ng4 Rg6 27. f3 Qb7 28. b3 a5 29. e5 $1 {öffnet eine weitere Angriffslinie}
+d5 30. Qxf4 {Es droht Sf6} Bg7 31. Qh2 a4 $6 32. Rxh7+ Kg8 33. Qh5 Qf7 34. Nh6+
+Bxh6 35. Rxf7 Kxf7 {Weiß steht klar besser, aber die Zeitnot....} 36. g4 $2 {
+kapselt die Dame ein!} Rag8 37. Qh3 Bf4 38. Rb1 Rh6 {Jetzt folgt ein
+Mattangriff} 39. Qf1 Rgh8 40. Kf2 Rh2+ 41. Ke1 Rh1 42. Ke2 R8h2+ 43. Kd3 Rd2#
+0-1
+

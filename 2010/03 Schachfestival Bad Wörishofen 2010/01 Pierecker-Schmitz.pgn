@@ -1,0 +1,37 @@
+[Event "Bad Wörishofen 2010"]
+[Site "?"]
+[Date "2010.03.06"]
+[Round "1"]
+[White "Pierecker, Markus"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D52"]
+[WhiteElo "2268"]
+[BlackElo "1870"]
+[Annotator "Tim Schmitz"]
+[PlyCount "101"]
+[EventDate "2010.05.16"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5 7. cxd5 {Das
+Cambridge-Springs-Abtauschsystem} Nxd5 8. Qb3 Bb4 9. Rc1 O-O {Die Theorie
+empfiehlt c6-c5} 10. Bd3 Re8 $2 {Der Beginn eines unglücklichen Plans: Schwarz
+will e6-e5 spielen, obwohl hier c6-c5 angebracht ist} 11. O-O Nxc3 12. bxc3 Bd6
+$2 {Hält immer noch an dem Plan fest} 13. Bh4 Qc7 {Jetzt habe ich gemerkt,
+dass etwas nicht stimmt} (13... e5 $4 14. Ng5 {[%csl Yf7,Yh7]}) 14. Rfd1 Nf8
+15. Bg3 {Abtausch der einzigen aktiven Figur von Schwarz} Bxg3 16. hxg3 a5 $6 {
+Mit der Idee, den Turm auf der a-Linie in das Spiel zu bringen. Aber der Zug
+schafft auch eine Schwäche auf b7} 17. a4 Rb8 18. Rb1 Bd7 {Weiß steht jetzt
+klar besser. Alle schwarzen Figuren sind passiv und gehemmt} 19. Qb6 {Weiß
+strebt nach Vereinfachung} Rec8 20. Rd2 c5 {Etwas Gegenspiel} 21. Ne5 Bxa4 22.
+Ra2 $6 {Nun ist der weiße Vorteil aber gar nicht mehr so groß} Qxb6 23. Rxb6
+Nd7 24. Nxd7 Bxd7 25. Rxa5 {Im Endspiel steht Weiß besser, aber noch nicht auf
+Gewinn} cxd4 26. cxd4 Rc6 27. Rb1 Rd6 $4 {Schon wieder Zeitnot und
+"Grundreihenmatt"} 28. Ra7 $2 (28. Rxb7 {gewinnt einen gesunden Mehrbauern bei
+besserer Stellung}) 28... Bc6 29. Rb6 g6 30. Bb5 $1 Rbd8 31. Bxc6 bxc6 32. Rbb7
+Rf8 33. g4 Kg7 34. Rc7 Kf6 35. Kh2 h5 $2 {Forcierter Selbstmord, aber passive
+Verteidigung bringt auch keinen Fortschritt} 36. gxh5 gxh5 37. Ra6 Rg8 (37...
+Rb8 {ist besser} 38. Raxc6 Rxc6 39. Rxc6) 38. Raxc6 Rxc6 39. Rxc6 Rg5 40. Rc5
+Rf5 $4 41. Rxf5+ Kxf5 42. f3 Kg5 43. Kg3 f6 44. e4 Kg6 45. Kh4 Kg7 46. d5 exd5
+47. exd5 Kg6 48. d6 Kf7 49. Kxh5 Ke6 50. Kg6 Kxd6 51. Kxf6 {Eine schlimme
+Partie} 1-0
+

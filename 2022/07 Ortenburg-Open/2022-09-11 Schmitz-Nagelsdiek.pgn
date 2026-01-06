@@ -1,0 +1,88 @@
+[Event "Ortenburg-Open"]
+[Site "?"]
+[Date "2022.09.11"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Nagelsdiek, Michael"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "1840"]
+[BlackElo "2063"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.09.11"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Qc7 13. Ne4 Nxe4 14. Qxe4
+Nf6 15. Qe2 O-O-O {Bis zu dieser Stelle entspricht der Partieverlauf der
+Theorie in der Hauptvariante des Klassischen Capablanca-Systems der
+Caro-Kann-Verteidigung. Daher wurde auf beiden Seiten auch noch gar keine Zeit
+verbraucht.} 16. Kb1 $5 {Das ist die erste Abweichung von der Negi-Theorie.
+Mir schien g2-g3 hier nicht mehr unbedingt logisch, da der Läufer noch nicht
+auf d6 steht. Im übrigen muss der König ohnehin von der c-Linie weichen, da
+der Bauer c2-c4-c5 zum Angriff benutzt werden soll.} ({Tatsächlich lautet die
+Hauptfortsetzung, die auch von Negi empfohlen, wird} 16. g3 Bd6 17. c4 c5 18.
+Bc3 cxd4 19. Nxd4 a6 {Das ist gewissermaßen die Ausgangsstellung oder das
+Tabiya der Hauptvariante.}) 16... Bd6 {[%csl Yf4,Yg3][%cal Gg2g3,Rg3f4,Gd6f4]
+Jetzt könnte dieser Läufer schon nach f4 gebracht werden, aber der Abtausch
+auf f4 ist keine Bedrohung mehr, denn der Läufer auf d2 kann mit dem
+nächsten Zug nach c3 entweichen.} 17. c4 $1 {[%csl Yc3,Yd5][%cal Rc4d5,Gd2c3]
+Das ist der richtige Zug, der Bauer kontrolliert das Feld d5 und dient damit
+als Schutzschild für den Läufer, der nach c3 gebracht wird, denn er kann
+dann nicht mehr von einem Springer auf d5 angegriffen werden.} c5 $1 {Schwarz
+reagiert richtig und proklamiert seinen Anspruch auf das Zentrum. Er darf sich
+nicht einschnüren lassen und muss das beeindruckende weiße Bauernzentrum
+infrage stellen.} 18. Bc3 {[%csl Yd4,Ye5,Yf6][%cal Gc3d4,Rd4e5,Re5f6,Gd1d4]
+Hier gehört der Läufer hin. Er deckt zusätzlich den Bauern d4, räumt die
+d-Linie für den Turm, verstärkt den Griff von e5 und übt eine Fernwirkung
+auf der Diagonalen a1-h8 aus. Auf d2 stand der Läufer nicht wirklich gut.}
+Rhe8 {Ein logischer Zug, der den Turm in die Mitte bringt. Er strahlt auch
+gegen die Dame auf e2, obwohl noch keine Gefahr droht.} ({Mit} 18... cxd4 19.
+Nxd4 a6 {würde wieder eine Stellung ähnlich der Hauptvariante entstehen (mit
+dem Unterschied, dass anstatt des "überflüssigen" Zugs g2-g3 der König
+bereits in die Ecke gebracht wurde).}) 19. Ne5 {Weiß setzt die Idee der
+Zentralisierung seiner Figuren fort. Der Springer greift den (momentan
+gedeckten) Bauern auf f7 an. Er kann nicht gut geschlagen werden, weil der
+Bauer auf e5 den schwarzen Springer angreift, der keine guten Felder hat.} Re7
+$2 {Der Zug gefällt nicht, denn er schützt zwar den Bauern auf f7, zerstört
+aber auch die Koordination der schwarzen Figuren. Weiß kann eine schöne
+Zwangsfolge anbringen.} ({Besser scheint} 19... cxd4 20. Bxd4) 20. dxc5 Bxc5
+21. Rxd8+ Qxd8 22. Rd1 Qb6 {Weiß hat mit einfachen Mitteln Zeit gewonnen und
+die aktiveren Figuren.} 23. Nd3 $6 {[%csl Yc5,Yf2][%cal Gd3c5,Gd3f2] Der
+Springer verteidigt f2 und greift den Läufer auf c5 an. An dieser Stelle
+schien es mir eine gute Idee zu sein Remis, anzubieten, denn ich hielt diese
+Stellung für etwas besser als Weiß.} ({Der Engine gefällt der Partiezug
+überhaupt nicht und sie empfiehlt} 23. f4 {[%csl Yg4,Yg5][%cal Gg2g4,Rg4g5]
+mit der Idee g2-g4 und g4-g5. Schwarz hat tatsächlich keinen guten Plan: der
+Druck gegen den Bauern f2 ist verschwunden und er hat die d-Linie preisgegeben.
+Der weiße Vorteil ist zwar nur langsam zu verwerten, aber spürbar.}) 23...
+Bd4 $4 {Schwarz lehnt das Remisangebot ab und spielt einen Zug, der eine Figur
+und die Partie einstellt. Das Motiv mit der Dynamik des Bauern c5 und der
+halboffenen c-Linie wurde von Schwarz nicht gesehen.} ({Während der Partie
+habe ich dieses Motiv gesehen und vermutet, dass Schwarz mit} 23... Nd7 {
+[%csl Yc5,Yg7][%cal Gd7c5,Rd3c5,Rc3g7] versuchen will, den Posten auf c5 zu
+halten. Vielleicht war dem Gegner der Zug zu passiv, er opfert damit auch den
+Bauern auf g7.}) 24. c5 $1 {Das ist der Gewinnzug. Die Dynamik des weißen
+Bauern auf c5 wird genutzt, um auch die schlechte Stellung des schwarzen
+Königs auszunutzen. Wenn der Bauer geschlagen wird, dann wird die c-Linie
+geöffnet mit gewinnbringenden Fesselungsmotiven.} Bxc5 {Schwarz muss seinen
+angegriffenen Läufer und die gleichzeitig angegriffene Dame retten (Motiv der
+Überlastung). Allerdings hat er auch wenig Wahl.} ({Der Rückzug der Dame, um
+den Läufer zu decken} 24... Qd8 {ist genauso schlimm wegen} 25. Ne5 {und der
+Läufer ist nicht zu decken und außerdem noch an die Dame gefesselt.}) {
+Die Reihenfolge ist hier sehr wichtig.} 25. Bxf6 $1 {Es ist noch nicht zu
+spät, um hier Fehler zu begehen. Daher musste hier noch etwas berechnet
+werden.} ({Schwach ist} 25. Nxc5 $2 Qxc5 26. Bxf6 Qf5+ $1 {und Schwarz rettet
+die Figur, indem er aus der Fesselung auf der c-Linie geht. Weiß steht immer
+noch gut, weil der schwarze König offen ist, aber er hat einen Bauern weniger.
+}) 25... gxf6 26. Nxc5 {Der Springer ist nun tabu wegen der Fesselung auf der
+c-Linie. Schwarz verlöre die Dame, wenn er den Springer schlüge.} Rc7 27. Nb3
+{Das ist am relativ sichersten. Schwarz hat überhaupt keine Kompensation für
+die Figur, und selbst der Mehrbauer ist wertlos wegen des verdoppelten
+f-Bauern.} ({Noch schneller gewönne} 27. Qg4 {und Schwarz ist erstaunlich
+hilflos} Kb8 28. Qg8+ Rc8 29. Nd7+ Kc7 30. Qg3+ {und die Dame geht verloren.})
+27... a5 {schafft ein Luftloch und versucht eine Art Gegenspiel zu inszenieren,
+aber es nutzt nichts.} 28. Qd2 {mit Doppelangriff gegen den Bauern a5 und
+Mattdrohung auf d8. Schwarz hatte hier genug und gab auf.} 1-0
+

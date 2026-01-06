@@ -1,0 +1,105 @@
+[Event "Rhein-Main-Open"]
+[Site "?"]
+[Date "2017.06.17"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Riemann, Jonas"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "1850"]
+[BlackElo "1620"]
+[PlyCount "41"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.06.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {
+Dieser Zug leitet in die Klassische Variante des Steinitz-Systems} 8. dxc5 {
+Dieser Abtausch ist hier eigentlich noch gar nicht notwendig.} ({Einfacher
+geschieht nach gängiger Theorie} 8. Qd2 a6 9. dxc5 Nxc5 {und man hat in die
+Partiestellung transponiert} 10. O-O-O Qa5 11. Kb1 b5 12. Ne2 {Schwarz kann
+jetzt die Damen tauschen und in einem nachteiligen Endspiel landen oder
+versuchen noch Figuren auf dem Brett zu behalten, um ein Gegenspiel gegen den
+weißen König zu organisieren}) 8... Nxc5 9. Qd2 a6 {Jetzt hat man über
+einen kleinen Umweg die Stellung aus der Theorievariante erreicht. Leider war
+Weiß die Theoriestellung überhaupt nicht geläufig, sondern nur einige
+Muster und typische Manöver} 10. Qf2 {Der Zug ist sicher thematisch und kommt
+in einigen Varianten dieses Systems vor. Vielleicht ist er verfrüht.
+Jedenfalls droht Weiß zunächst einmal mit Figurengewinn} ({Negi empfiehlt im
+Falles des schwarzen Rochadeverzichts} 10. O-O-O {mit der Folge} Qa5 11. Kb1 b5
+12. Ne2 {Weiß bietet den Damentausch an, weil er in günstiges Endspiel
+abzielt}) 10... Nd7 {Schwarz entwickelt die Figur zurück, um sie zu retten.
+Allerdings wird sie von einem aktiven auf ein passives Feld gebracht} ({
+Daher wäre die Variante} 10... Qa5 {mit der Folge} 11. O-O-O Na4 {
+wahrscheinlich genauer}) 11. Nd4 {Das ist sicher auch ein zweckmäßiger Zug.
+Weiß zentralisiert einen seiner Springer und verhindert für den Augenblick
+b7-b5. Aber der Zug hat keinen tieferen Sinn und passt auch nicht in einen
+gängigen Plan von Weiß} ({(a) Der ursprüngliche Plan lautete} 11. Bd3 {
+, worauf aber Schwarz mit zu Unrecht zu sehr befürchteten Zug} Nb4 {kontern
+kann. Nach} 12. O-O-O Nxd3+ 13. Rxd3 {hat Schwarz zwar das Läuferpaar, aber
+Weiß steht immer noch freier}) ({(b) Eine solide Alternative wäre auch} 11.
+O-O-O b5 12. Bd3 b4 13. Ne2 Qa5 14. Kb1 {Weiß platziert wieder einen Springer
+auf d4 und steht optisch besser}) 11... Qc7 {Das ist ein zweckmäßiger Zug.
+Schwarz deckt den Springer auf c6 und bereitet den Vorstoß b7-b5 vor} 12. Bd3
+{Endlich spielt Weiß diesen Zug. Er behält sich ebenfalls die kurze Rochade
+vor. Wie sich herausstellt hat Schwarz gar nicht vor, diesen Läufer zu
+tauschen und dafür einen seiner guten Springer zu geben} Nxd4 {Schwarz
+ändert seine Pläne und möchte die Lage im Zentrum klären, um dann
+ungehindert auf dem Damenflügel angreifen zu können. Obwohl er nach dem
+Abtausch keinesfalls schlechter steht, ist dieser Zug auch ein gewisses
+Zugeständnis an Weiß, denn dieser erhält eine neue Figur, die in das
+Zentrum nachrückt} ({Optisch gefälliger sieht} 12... b5 {aus. Schwarz
+beginnt sofort mit Operationen auf dem Damenflügel} 13. O-O Bb7 14. Rae1 Nb6 {
+[%csl Yc4][%cal Rb6c4] und Weiß muss etwas gegen die Drohung Sb6-c4
+unternehmen}) 13. Bxd4 Nc5 {Wahrscheinlich hat sich Schwarz auf diesen Zug
+verlassen. Er greift den Läufer d3 an, räumt d7 für den eigenen
+Damenläufer und Weiß kann wegen Tempogewinn den Springer auch nicht schlagen}
+14. O-O-O {An dieser Stelle ist die Rochade eine gute Idee. Der schwarze
+Angriff hat an Fahrt verloren, der Turm deckt den Königsläufer und der
+König steht sicher, wenn er erst einmal die c-Linie verlassen hat} b5 15. Kb1
+{Die letzten beiden Halbzüge waren einfach zu spielen. Der Bauernvorstoß
+musste kommen und der Seitschritt des Königs ist ebenfalls logisch. In
+manchen Fällen geht Weiß auch einfach mit dem Turm nach c1, um die Dame auf
+c7 zu belästigen} b4 {Dieser Zug ist sehr aggressiv, aber vielleicht auch
+etwas verfrüht. Schwarz möchte die Diagonale zwischen d7 und a4 öffnen, um
+seinen schlechten Läufer zu tauschen} 16. Ne2 {[%csl Yf4,Yh5][%cal Re2f4,
+Rf4h5] Das einzige Feld für den weißen Springer. Aber auf c3 hatte er
+ohnehin keine Zukunft und er kann über f4 nach h5 gebracht werden} Bd7 {
+[%csl Ya4,Yb5,Yc2,Yd3][%cal Rd7b5,Rb5d3,Rb5a4,Ra4c2] Das ist ein gutes Feld
+für den Läufer. Er steht hier viel besser als auf b7 und kann auf b5 oder
+auf a4 eingesetzt werden} 17. g4 {Es wird allerhöchste Zeit auch für Weiß
+etwas zu unternehmen. Das Zentrum ist geschlossen und der Damenflügel die
+Angriffsseite von Schwarz. Daher muss Weiß versuchen, das Zentrum vom
+Königsflügel her aufzureißen. In der Realität wurde hier vollkommen
+verfrüht auf Initiative von Weiß remisiert. Dabei stecken noch einige
+interessante Ideen in dieser Stellung} a5 {Dieser Zug ist die eine, aber etwas
+langsame Idee. Schwarz will mit seinem Minoritätsangriff auf dem Damenflügel
+den Schutzwall vor dem weißen König aufreißen} ({Die andere, vielleicht
+bessere Idee ist es, den Läufer zu aktivieren} 17... Bb5 {Weiß kann den
+Läufer nicht gut schlagen. Er würde zwar die schwarze Bauernstruktur sehr
+entwerten, aber auch die a-Linie für den Turm und die schwarze Dame öffnen}
+18. Nc1 {Weiß verteidigt die Struktur seiner Stellung und bringt den Springer
+auf ein nützliches Feld, von wo aus er auch a2 und b3 überdeckt. Aber etwas
+hat sich jetzt geändert. Die weißen Figuren stehen etwas passiv, wohingegen
+die schwarzen zum Leben erwachen} Rb8 {Schwarz möchte nicht abwarten, sondern
+selber mit dem a-Bauern nach vorne marschieren. Weiß muss der Drohung begegnen
+} 19. Qe2 {Weiß erhöht den Druck auf b5 und überdeckt den Bauern e5} Qc6 {
+Wenn Schwarz die obige Idee weiterverfolgt, dann kann Weiß endlich selber
+aktiv werden} 20. f5 {und es ist eine scharfe, zweischneidige Stellung
+entstanden}) 18. f5 {Auch Weiß muss den Druck auf die schwarze Stellung
+erhöhen. Er hat Entwicklungsvorsprung und muss daher die Stellung öffnen} a4
+{Schwarz kümmert sich nicht um die weißen Drohungen sondern reklamiert
+weiter die Initiative für sich} 19. Nf4 {[%csl Yc2,Yf6,Yg7,Yh5][%cal Rf2c2,
+Rf4h5,Rh5f6,Rh5g7] Wahrscheinlich ist dies der beste Zug in dieser Stellung.
+Der Springer steht auf f4 sehr gut. Er kann nach h5 gebracht werden und
+unangenehme Drohungen aufstellen. Außerdem sichert er den Einfluß der
+weißen Dame auf die Deckung des eigenen Damenflügels} ({Der Vorstoß} 19. f6
+$2 {führt zu nichts, denn nach} gxf6 20. exf6 Bd6 {steht der schwarze
+Königsläufer viel besser als zuvor und der weiße Angriff ist verpufft})
+19... b3 $6 {Der Zug sieht ersteinmal gut aus, allerdings bleibt er ohne
+nachhaltige Wirkung} 20. a3 {Jetzt droht Weiß mit der totalen Blockade des
+Damenflügels mit c2-c3, also muss Schwarz schlagen} bxc2+ 21. Bxc2 {Schwarz
+hat zwar die b-Linie geöffnet, aber der weiße König wird nach a1 oder a2
+gehen. Ansonsten ist der schwarze Angriff etwas erschlafft, während Weiß
+noch nicht die Spannung aus der Stellung gelöst hat. Daher hat Weiß in
+dieser Stellung sehr gute Aussichten} 1/2-1/2
+

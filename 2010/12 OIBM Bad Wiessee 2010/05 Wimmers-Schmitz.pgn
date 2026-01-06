@@ -1,0 +1,53 @@
+[Event "OIBM Bad Wiessee 2010"]
+[Site "?"]
+[Date "2010.11.03"]
+[Round "5"]
+[White "Wimmers, Alfred"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2072"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[EventDate "2010.05.02"]
+
+1. g3 d5 2. Nf3 Nf6 3. b3 Bf5 4. Bg2 c6 5. O-O Nbd7 6. Bb2 h6 7. d3 e6 8. Nbd2
+Qc7 {Dieser Zug ist vielleicht flexibler als Le7, nimmt sich aber in der
+Reihenfolge nicht viel} 9. c4 Be7 10. Rc1 O-O 11. Rc2 {Weiß plant das New
+Yorker Manöver (Tc2, Da1, Tfc1). Mir fällt in der Folge wenig ein, ich gerate
+in schlimme Zeitnot und die Stellung ist überhaupt nicht konkret} Rfe8 12. a3
+Rad8 13. Qa1 Qb8 {Ich will aus der Fesselung auf der c-Linie gehen} (13... Bd6
+{geht leider nicht wegen} 14. Re1 e5 15. cxd5 Nxd5 16. e4) 14. b4 {Vielleicht
+hätte Schwarz dies mit a7-a5 und b7-b5 verhindern sollen} Bh7 {Hier hatte ich
+schon eine Stunde verbraucht, ich muss also etwas unternehmen} 15. Bh3 {
+Weiß will auf den Bauern e6 kauen} (15. Ne5 {ist die einfachste Lösung gefolgt
+von} Bd6 16. Ndf3 {mit unangenehmen Druckspiel auf die schwarze Stellung})
+15... Bf8 {Ich will den Bauern g7 einfach sichern} 16. Rfc1 e5 {Jetzt geht
+dieser Zug, denn Schwarz kann e5 decken, indem er nach Lxd7 mit dem Springer
+nimmt} 17. cxd5 cxd5 18. Nb3 e4 {Schwarz hat etwas Initiative, deswegen bot
+ich Remis an. Wegen der Uhrzeit nahm Weiß natürlich nicht an} 19. Ne1 Qd6 {
+Jetzt kommt es darauf an, sehr schnelle Züge zu spielen, die nicht so schlecht
+sind. Das gelingt mir besser als vorher die abstrakte Stellung zu behandeln}
+20. Nc5 Nxc5 {Das ist leider schon fast erzwungen} 21. bxc5 Qc6 22. Bd4 (22.
+Bxf6 {scheint die prinzipielle Fortsetzung. Aber dann ich auf Königsangriff
+spielen und im Trüben fischen} gxf6 23. d4 Bg7 24. e3 f5) 22... Re7 23. Be3 $6
+{Eine planlose Fortsetzung, gegen die ich einen einfachen Zug habe} g5 $1 {
+Jetzt hat Schwarz mehr vom Spiel} 24. Bd4 {Sieht ein, dass der Läufer auf d4
+viel besser steht} Bg7 25. dxe4 Bxe4 (25... dxe4 {ist vielleicht genauer, denn
+der Läufer d4 wird angegriffen. Aber auf e4 steht der schwarze Damenläufer
+auch sehr aktiv}) 26. Nd3 {[%csl Rb4,Re5][%cal Gd3e5,Gd3b4] Er plant den
+Springer nach e5 oder b4} Nh5 {Das ist besser als Te8, weil die schwarze Dame
+noch Fluchtfelder hat} 27. Nb4 Qg6 28. Rd2 g4 29. Bf1 Rc8 {Die Stellung ist im
+Gleichgewicht, ich muss nur noch die Zeitkontrolle in vier Minuten erreichen.
+Aber mein Gegner hat auch nur noch zehn Minuten} 30. c6 $6 {Er will seinen
+schwachen Bauern loswerden} bxc6 31. Nxc6 $4 {Wie immer in solchen Situationen
+nicht nachvollziehbar} Rxc6 {Weiß hat eine Minusfigur ohne Kompensation} 32.
+Bxg7 {funktioniert auch nicht mehr. Fazit dieser Partie: Die abstrakte
+Eröffnung habe ich viel zu langsam und zu vorsichtig gespielt. Die Grundidee
+e6-e5 ist ja nicht wirklich schwierig zu sehen. Erst als das Spiel konkreter
+wurde, habe ich schneller und besser gespielt. Die Variantenberechnung hat gut
+funktioniert. Lösung: Eröffnungen immer auf Basis eines konkreten Motivs
+spielen, sonst gerät man in Zeitnot und irgendwann auch in schlechte Stellungen
+} 0-1
+

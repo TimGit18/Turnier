@@ -1,0 +1,39 @@
+[Event "Salzkammergut-Open (B-Turnier)"]
+[Site "?"]
+[Date "2014.06.08"]
+[Round "?"]
+[White "Karlhuber, Richard"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[WhiteElo "1773"]
+[BlackElo "1770"]
+[PlyCount "89"]
+[EventDate "2012.04.21"]
+[SourceDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum oder
+auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz rochiert oder
+in der Mitte bleibt} e6 {Das ist die übliche Antwort von Schwarz. Er
+kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll Weiß auf
+Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel am
+Damenflügel beginnen} 7. f4 {Dieser aggressive Bauernvorstoß ist die weiße
+Standardmethode. Er möchte Schwarz mit einem schnellen Vorstoß e4-e5 vom Brett
+fegen.} h6 {Dieser Zug ist vielleicht unterbewertet. Er passt gut in das
+Konzept mit g7-g5 und einem späteren Sd7-e5} 8. Bh4 {Weiß erreicht nichts mit
+dem Schlagen des Springers} Be7 {Schwarz verhindert mechanisch den Vorstoß
+e4-e5} 9. Qf3 {Weiß überdeckt e4, bringt die Dame auf den Königsflügel und
+bereitet die lange Rochade vor} Qc7 {Ein wichtiger Zug, der e5 überdeckt und
+den Königsläufer von Weiß nicht nach c4 läßt} 10. O-O-O {Weiß hat seine
+Figuren sehr aggressiv aufgestellt, wohingegen Schwarz mehr auf die
+Koordination seiner Figuren geachtet hat} Nbd7 {In dieser Stellung hat Weiß
+mehrere Optionen} 11. g4 g5 12. fxg5 Ne5 13. Qg3 Nfxg4 14. gxh6 Bxh4 (14...
+Rxh6 15. Bxe7 Qxe7) 15. Qxh4 Rxh6 16. Qg3 Bd7 17. h3 O-O-O 18. Be2 Nf6 19. Qf4
+Rdh8 20. h4 Nh5 (20... d5 21. Rdg1 $4 Nd3+) 21. Bxh5 Rxh5 22. Nf3 Bc6 23. Ng5
+Qe7 24. Rdf1 f6 25. Nf3 Nxf3 26. Rxf3 f5 27. Rfh3 e5 28. Qe3 fxe4 29. Rd1 $2
+Rxh4 30. Rxh4 Rxh4 31. Qg3 Rf4 32. Qg6 Rf6 33. Qg8+ Rf8 34. Qc4 Kb8 35. Qb4 Rd8
+(35... Qg5+ 36. Kb1 Rd8) 36. Nxe4 Bxe4 $4 (36... Qh4 37. Rxd6 Rf8 38. b3 Qxe4)
+37. Qxe4 Qg5+ 38. Kb1 d5 39. Qb4 d4 40. a4 Qg4 41. Rf1 Qg2 42. Re1 Qd5 (42...
+Rc8) 43. Qe7 d3 44. cxd3 Qxd3+ 45. Ka1 1/2-1/2
+

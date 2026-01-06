@@ -1,0 +1,86 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.08.07"]
+[Round "9"]
+[White "Kolb, Wolfgang"]
+[Black "Schmitz, Tim"]
+[Result "*"]
+[ECO "A26"]
+[WhiteElo "2031"]
+[BlackElo "1820"]
+[Annotator "Tim Schmitz"]
+[PlyCount "71"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.08.08"]
+
+1. c4 Nf6 2. g3 g6 3. Nc3 Bg7 4. Bg2 O-O 5. e4 d6 6. Nge2 e5 7. d3 Nc6 8. O-O
+Be6 9. Nd5 Qd7 {Bis zu diesem Punkt war die Theorie wohlbekannt. Weiß
+verfügt über mehr Raum im Zentrum und über den unglaublich starken Springer
+auf d5.} 10. f4 $5 {Dieser Vorstoß sieht etwas verfrüht aus, punktet aber
+recht gut.} Bg4 $1 {Das ist die richtige Antwort. Schwarz nutzt die Fesselung
+auf e2 aus, die nicht gut aufgelöst werden kann.} 11. Ne3 {Weiß klärt die
+Situation im Zentrum auf, zieht aber den Springer von dem schönen Feld
+zurück. Dafür erobert der Zug das Läuferpaar, denn der Rückzug nach e6
+kostet wegen f4-f5 eine Figur!} Bh3 $4 {Dieser Zug ist jedoch ein riesiger
+positioneller Fehler. Zwar werden die weißfeldrigen Läufer getauscht, aber
+dies begünstigt nur Weiß. Zudem kommt der Vorstoß f4-f5 mit Tempo, wonach
+die Stellung auf dem Königsflügel strategisch gewonnen ist. Die Ursache für
+den Fehlzug liegt in Sorglosigkeit und mangelndem Stellungsverständnis, nicht
+in ein einer Fehlberechnung.} ({Die einzig richtige Fortsetzung lautet} 11...
+Bxe2 12. Qxe2 Nd4 13. Qf2 {Weiß hat jetzt auch schon Schwerfiguren auf der
+f-Linie postiert und wird f4-f5 spielen. Der schwarze Springer ist hier aber
+sehr stark und sichert das Gegenspiel mit} b5 {nebst Öffnung der b-Linie.})
+12. f5 $1 {Dieser Zug zementiert den weißen Vorteil und unterbindet jegliches
+schwarzes Gegenspiel.} Bxg2 13. Kxg2 {Der Abtausch war erzwungen. Schwarz muss
+irgendwie versuchen, den Vorstoß g3-g4-g5 mit Beerdigung des schwarzen
+Läufers zu unterbinden.} h5 $6 {Aber so nicht. Der Zug verhindert 
+(vermeintlich) g3-g4, schwächt aber auch die schwarze Königsstellung -
+insbesondere den Punkt g6.} ({Besser ist} 13... Nd4 {, obwohl} 14. g4 Nxe2 15.
+Qxe2 {für Weiß eine deutlich bessere Stellung ergibt.}) 14. h3 {Weiß
+überhastet nichts, sondern hat alle Zeit der Welt. Schwarz kann sowieso
+nichts tun, außer auf einen weißen Fehler zu hoffen.} ({Es ging auch direkt} 
+14. g4 hxg4 15. Ng3) 14... Nd4 {Jetzt ist es zu spät.} 15. g4 Bh6 $2 {Ein
+schon ziemlich verzweifelter Versuch, Aktivität zu erzeugen und das drohende
+g4-g5 zu verhindern. Aber dieser Zug ist ein sehr großer Fehler, der nicht
+von ungefähr kommt.} 16. Nd5 $1 {Eine einfache Widerlegung des schwarzen Zugs.
+Schwarz kann den Springer wegen des hängenden Läufers und Qualitätsverlust
+auf f8 nicht schlagen, gleichzeitig droht vernichtend Sd5xf6.} Bg7 {Das
+Eingeständnis, das der vorhergehende Zug nicht gut war.} 17. Nxd4 exd4 18.
+Nxf6+ Bxf6 19. gxh5 $5 {Sieht vernichtend aus, aber jetzt kann Schwarz die
+Stellung partiell schließen. Vielleicht war Lc1-h6 noch stärker (sagt
+jedenfalls die Engine).} g5 20. Qg4 Kh7 $1 {Jetzt, wo es zu spät ist, fängt
+Schwarz an genau zu spielen. Der Bauer auf g5 kann wegen der Fesselung auf der
+g-Linie nicht genommen werden. Gleichzeitig findet der König etwas Schutz
+hinter dem weißen h-Bauern. Der Minusbauer fällt angesichts der schlechten
+Stellung ohnehin nicht mehr in das Gewicht.} 21. Kh1 {Weiß hebt die Drohung
+auf der g-Linie auf. Schwarz könnte den Bauern versuchen zu verteidigen mit
+Th8-g8, aber seine Stellung bleibt dann weiter passiv. Besser ist es, ein
+Gegenspiel zu starten.} b5 {Dieser Zug droht zwar nichts, aber er reklamiert
+etwas Initiative und bereitet Linienöffnung am Damenflügel vor.} 22. b3 bxc4
+23. bxc4 Rab8 24. Bxg5 $2 {Dieser Zug gefällt der Engine nicht. Weiß gewinnt
+zwar einen zweiten Bauern, verspielt aber einen großen Teil seines Vorteils.
+Leider habe ich die Möglichkeiten nicht genutzt.} Rg8 {Das ist noch richtig.
+Die letzten Züge von Schwarz waren mehr oder weniger logisch.} 25. h4 {
+Weiß zementiert den Läufer, bindet aber jetzt seine Dame unnötig an den
+Läufer.} Be5 $4 {Die Idee ist richtig, aber die Ausführung verkehrt.} ({
+Viel stärker wäre gewesen} 25... Rb2 $1 {Schwarz besetzt die zweite Reihe
+und verhindert einen Damenrückzug dorthin. Es kann folgen} 26. Rg1 Be5 27. Rg2
+{Sonst droht matt auf h2.} Rxg2 28. Qxg2 f6 {Und Schwarz erobert etwas
+Material zurück mit Gegenchancen. Diese Wendungen habe ich in der Partie
+leider völlig übersehen.}) 26. Qe2 {Sehr kontrolliert. Weiß verhindert das
+Eindringen auf der zweiten Reihe und löst gleichzeitig die ärgerliche
+Fesselung auf.} f6 {Eigentlich ist dieser Zug richtig, wenn ich nur die
+Abwicklung korrekt gesehen hätte.} 27. Bf4 $2 {Das sieht sehr natürlich aus,
+ist aber ein Fehler. Schwarz kann jetzt forciert die zweite Linie besetzen.}
+Qf7 $4 {Dies ist der dritte oder vierte schwere Fehler von Schwarz - zuviel
+für die strapazierte Stellung.} ({Richtig ist hier natürlich nur} 27... Bxf4
+28. Rxf4 Qg7 $1 29. Qf2 Qg3 30. Rf3 Qxf2 31. Rxf2 Kh6 {Es klingt seltsam, aber
+die Stellung erfährt eine ausgeglichene Beruteilung aufgrund der aktiven
+Stellung der schwarzen Türme und der schwachen Bauern auf der h-Linie. Es ist
+unglaublich, wieviele Chancen hier auf Ausgleich vergeben wurden.}) 28. Bxe5 {
+Jetzt ist die Partie gelaufen. Weiß besetzt die g-Linie und nistet einen Turm
+auf g6 ein. Die Bauern auf h5 bzw. h4 sind in diesem Fall keine Schwäche mehr,
+sondern schnüren Schwarz ein.} dxe5 29. Rg1 Rb4 30. Rg6 Rgb8 {Der Rest ist
+Agonie.} 31. Rag1 Rb1 32. h6 Rxg1+ 33. Kxg1 Rb1+ 34. Kh2 Qf8 35. Qg2 Rd1 36.
+Rg7+ *
+

@@ -1,0 +1,29 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2010.01.30"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Gizunterman, Yuriy"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1877"]
+[BlackElo "1621"]
+[Annotator "Tim Schmitz"]
+[PlyCount "35"]
+[EventDate "2010.01.24"]
+
+1. e4 c5 2. c3 e5 {Eine unübliche Antwort auf den Alapin-Sizilianer.} 3. d4 $5
+{Üblich ist hier Sg1-f3, aber mir gefielen die geschlossenen Stellungen nicht}
+cxd4 4. cxd4 Bb4+ 5. Bd2 Qa5 {Ein ungewöhnlich aggressiver Zug} 6. Nf3 d6 7.
+Bc4 {Jetzt gefiel mir die Stellung wieder: Weiß kann kurz rochieren und
+Schwarz hat eine Schwäche auf d6} Nf6 $2 {Dieser ungenaue Zug erlaubt eine
+taktische Lösung, nach der Schwarz schlechter steht} 8. Bxf7+ Kxf7 9. Qb3+ Be6
+{Das geht vielleicht noch gerade, sieht aber hochgradig verdächtig aus} 10.
+Ng5+ Kg6 11. Nxe6 $5 (11. Qxe6 Bxd2+ 12. Nxd2 Kxg5 13. Qf5+ Kh6 14. h4 Nxe4 15.
+Qxe4 Nc6 {und es ist einfach kein Matt zu sehen}) 11... Bxd2+ 12. Nxd2 Nxe4 {
+Den Zug habe ich übersehen. Jetzt muss Weiß aufpassen} 13. Rd1 (13. Qd3 $2
+Qxd2+ 14. Qxd2 Nxd2 15. Kxd2 Nc6 {und Schwarz steht gar nicht mal so übel})
+13... b5 $2 {[%csl Ya8,Yb7,Yc6,Yd5] Das wirft allerdings fast alles weg} 14.
+Qd3 Kf6 $2 {Verliert sofort eine Figur} 15. Qxe4 Nd7 16. d5 Rac8 17. O-O {
+Jetzt droht f2-f4 und ein starker Angriff auf der f-Linie} Rc4 $4 18. Nxc4 1-0
+

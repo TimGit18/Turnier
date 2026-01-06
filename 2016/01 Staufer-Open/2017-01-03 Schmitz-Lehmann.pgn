@@ -1,0 +1,22 @@
+[Event "Staufer-Open B-Turnier"]
+[Site "?"]
+[Date "2016.01.03"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Lehmann, Tim"]
+[Result "1-0"]
+[ECO "B98"]
+[WhiteElo "1830"]
+[BlackElo "1526"]
+[PlyCount "51"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6 Bxf6 12. h4 $5 ({Negi empfiehlt} 12. Kb1
+Qb6 13. Nb3 g5 14. e5 dxe5 15. f5 exf5 16. gxf5) 12... b5 13. g5 (13. Bxb5 $6
+axb5 14. Ndxb5 Qa5 (14... Qc6 15. Rxd6 $1) 15. Nxd6+ Kf8 16. e5) (13. Ndxb5 $6
+axb5 14. Nxb5 Qa5 15. Nxd6+ Kf8 16. e5 Qxa2) 13... Be7 14. g6 $1 Nc5 15. gxf7+
+Kxf7 16. f5 Bf6 17. Qh5+ (17. e5 Bb7 18. Qh5+ Kf8 19. exf6 Bxh1 20. fxe6) 17...
+Kf8 (17... Ke7 18. fxe6 {[%csl Yd5][%cal Gc3d5]}) (17... Kg8 18. Qe8+ Kh7 19.
+Qg6+ Kg8 20. fxe6) 18. fxe6 Bxd4 $2 19. Nd5 Be3+ 20. Kb1 Qa7 21. e7+ Qxe7 22.
+Nxe7 Kxe7 23. Qf3 Rf8 24. Qxe3 Bg4 25. Be2 Be6 26. e5 1-0
+

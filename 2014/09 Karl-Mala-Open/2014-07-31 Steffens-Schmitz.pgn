@@ -1,0 +1,51 @@
+[Event "Karl-Mala-Open 2014"]
+[Site "?"]
+[Date "2014.07.31"]
+[Round "1"]
+[White "Steffens, Olaf"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2263"]
+[BlackElo "1738"]
+[Annotator "Tim Schmitz"]
+[PlyCount "48"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 $6 {Zu dem Zeitpunkt der Partie war der
+Grand-Prix-Angriff nicht besonders gut in meinem Repertoire verankert. Daher
+wählte ich eine Variante, die zwar objektiv brauchbar, aber zu einer
+unbequemen Stellung führt.} ({Später wählte ich die von Ftacnik empohlene
+Zugfolge} 3... g6 4. Nf3 Bg7 5. Bc4 Nc6 6. d3 Nf6 {, die zwar auch Risiken
+birgt, aber vor allem Gegenspiel-Chancen.}) 4. Bb5 {Der Läufer fesselt den
+Springer und tauscht sich zur rechten Zeit gegen ihn ab.} Nf6 5. Nf3 g6 6. O-O
+Bg7 7. d3 O-O {Jetzt ist der Zeitpunkt gekommen, die Struktur zu klären und
+den Angriff einzuleiten.} 8. Bxc6 bxc6 9. Qe1 Bg4 $6 {Das sieht aus wie ein
+beliebiger Entwicklungszug, der aber wahrscheinlich nicht gut ist. Schwarz
+operiert auf dem Königsflügel, der eher das weiße Gebiet ist.} ({Vielleicht
+ist ein Zug wie} 9... Rb8 {besser, der die Initiative auf den Damenflügel
+legt.}) 10. Qh4 Qd7 {Schwarz verteidigt den Läufer, der nach der Vertreibung
+des Springers auf f6 schutzlos wäre.} 11. f5 $5 {Ein mutiger Zug, der die
+Stellung öffnet.} Rab8 $6 {Schwarz greift hier fehl. Er möchte den weißen
+Damenläufer an den b-Bauern bilden, hätte aber besser das Bauernopfer
+angenommen.} ({Konsistent wäre} 11... gxf5 $1 12. Ng5 h6 {Die Stellung ist
+schwer zu halten, aber anscheinend noch spielbar.}) 12. Rb1 {Weiß hat keine
+Eile. Er mobilisiert zunächst einmal den Damenläufer, der nicht mehr an die
+Deckung des b-Bauern gebunden ist.} Rb4 {Ein etwas hilfloser Versuch, den Turm
+zu aktivieren. Er hat aber in Wirklichkeit hier keine Angriffsziele.} 13. a3
+Rb6 14. Bh6 {Weiß hat einen klaren Plan. Er wird die Läufer abtauschen und
+dann versuchen - eventuell mit Figurenopfern - auf dem Königsflügel
+durchzubrechen.} Rfb8 {Schwarz versucht das Gegenspiel irgendwie in Gang zu
+bringen. Aber gefühlt steht Weiß deutlich besser.} 15. b3 Bxf3 {Schwarz
+versucht ein Manöver, um aus seiner gedrückten Stellung auszubrechen. Dieses
+ist eigentlich nicht schlecht, funktioniert hier aber nicht.} 16. Rxf3 Bxh6 17.
+Qxh6 Ng4 18. Qh4 Ne5 {Das war das Ziel. Leider ist die Aktion eher in die
+falsche Richtung gelaufen, denn der weiße Turm ist aktiviert und Weiß hat
+eine einfache Mattdrohung auf h7.} 19. Rh3 h5 20. Rf1 Rf8 $2 {Ein Versuch, den
+Bauern auf f7 mitzuverteidigen und nach einem Schlagen auf g6 einen Tausch auf
+der f-Linie durchzuführen.} ({Besser war} 20... Kg7 {, um die Grundreihe für
+die Figuren zu räumen.}) 21. Qg5 f6 $2 {Dies schwächt den Königsflügel nur
+noch weiter.} ({Ein Fehler wäre hier auch} 21... Kh7 22. fxg6+ Nxg6 23. Qxh5+
+Kg7 24. Qh7#) 22. Qh6 {Jetzt hilft nur noch eine verzweifelte Flucht.} Kf7 23.
+fxg6+ Nxg6 24. Qh7+ Ke8 {Und Weiß gewinnt eine Menge Material.} 1-0
+

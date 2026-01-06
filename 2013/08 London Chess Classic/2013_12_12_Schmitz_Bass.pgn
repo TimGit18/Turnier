@@ -1,0 +1,30 @@
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2013.12.12"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Bass, John"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "1909"]
+[BlackElo "2048"]
+[PlyCount "43"]
+[EventDate "2013.12.13"]
+[SourceDate "2013.12.13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. Kh1
+$2 (8. d5 {Der einzige Zug, der Schwarz noch vor Probleme stellt} Bg4 9. Kh1
+Rb8 10. h3 Bxf3 11. Rxf3 Nc7 12. a4 a6 13. a5 e6 {Es ist eine sehr
+komplizierte Stellung entstanden, in der Weiﬂ mehr Chancen im Zentrum hat})
+8... cxd4 9. Nxd4 Qb6 10. Nb3 {Hier steht der Springer nicht gut. Die weiﬂen
+Leichtfiguren wirken verklumpt} (10. Be3 {verliert anscheinend Material} Ng4
+11. Bg1 Bxd4) 10... Nb4 {Auch wieder ein starker und aktiver Zug} 11. Be2 (11.
+Qe1 {gefiel mir nicht wegen} Nxd3 12. cxd3 Be6) 11... Be6 12. Nd4 {Er muss
+zur¸ck} (12. a3 {scheitert an} Nxc2) 12... Bd7 13. Be3 Qd8 {Mit etwas
+Versp‰tung ist eine klassische Drachenstellung entstanden} 14. Bf3 Nc6 15. Qd2
+a6 16. Rae1 Rc8 17. Nb3 Bg4 {Schwarz will die Stellung vereinfachen} 18. Bg1 $6
+{Keine gute Idee, aber schon der Zeitnot geschuldet} (18. e5 dxe5 19. fxe5 Nxe5
+20. Bxb7 {gewinnt einen Bauern, doch wurde nicht berechnet}) 18... Bxf3 19.
+Rxf3 Na5 20. Nxa5 Qxa5 21. Rd3 Rfe8 22. e5 {Vielleicht steht Weiﬂ etwas freier,
+aber nicht besonders im Vorteil} 1/2-1/2
+

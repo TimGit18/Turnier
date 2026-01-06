@@ -1,0 +1,48 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2019.10.25"]
+[Round "3"]
+[White "Haas , Peter"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2077"]
+[BlackElo "1838"]
+[Annotator "Tim Schmitz"]
+[PlyCount "28"]
+[SourceVersionDate "2019.11.03"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. O-O O-O {Das ist die Ausgansstellung des Klassischen Systems in der
+Najdorf-Verteidigung.} 10. f4 {Das ist der Verzögerte Flügelangriff in dem
+Klassischen System. Es ist eine sehr klassische Art, den Angriff auf das
+Zentrum für Weiß zu führen.} Qc7 $6 {Die früher übliche Art, auf den
+Vorstoß zu reagieren. Schwarz entwickelt die Dame auf ein logisches Feld,
+besetzt die c-Linie und schafft auf c4 ein Fluchtfeld für den Damenläufer.
+Allerdings stellt die Dame jetzt auch das Ziel eines Angriffs dar.} ({Die
+prinzipielle, häufigste und vermutlich auch richtige Antwort ist} 10... exf4 {
+Schwarz nimmt den Bauern direkt. Er erhält zwar auch einen schwachen Bauern
+auf d6, aber der weiße Bauer auf e4 ist auch isoliert und Ziel für schwarze
+Angriffe. Außerdem kann der Vorstoß d6-d5 die schwarze Stellung befreien.
+Die schwarzen Figuren können auf einigermaßen gute Felder platziert werden.}
+11. Bxf4 {[%csl Rd6][%cal Gf4d6,Gd1d6] Das ist die häufigste Art des Nehmens,
+aber vielleicht nicht die beste. Weiß drückt mit zwei Figuren auf den Bauern
+d6. Das Ziel von Schwarz muss es sein, den Bauern d6 loszuwerden.} Nc6 {
+Schwarz entwickelt in so einer Struktur am besten den Springer nach c6, um die
+Kontrolle über d4 zu erhalten (das ist wichtiger als c5 wie in den anderen
+Varianten)} 12. Kh1 {Der König soll aus der Diagonalen a7-g1 entfernt werden,
+um nicht von Schachs belästigt zu werden. Man kann auch vielleicht einmal
+g2-g4 spielen} d5 $1 {Mit einem Zug befreit Schwarz seine Stellung. Aus dem
+schwachen, isolierten Bauern auf d6 ist ein starker Bauer im Zentrum geworden,
+der einige wichtige Felder kontrolliert. Weiß kann entweder die Bauern
+tauschen, wonach auch er seinen Isolani loswird oder er zieht vorbei}) 11. Nd5
+{Das ist ein schlicherter Versuch, die Stellung der schwarzen Dame auszunutzen.
+Schwarz muss den Springer schlagen, es fragt sich nur mit welcher Figur?} Bxd5
+{Das ist die häufigste Fortsetzung. Schwarz nimmt es in Kauf, dass er das
+Läuferpaar verliert. Dafür ist der Bauer d6 für immer geschützt.
+Wahrscheinlich steht Weiß etwas besser, aber die schwarze Stellung ist sehr
+fest.} 12. exd5 {Hier wurde aus turniertaktischen Gründen Remis vereinbart.
+Die Stellung ist aber noch weiterhin gut spielbar, etwa} Nbd7 13. c4 Rfe8 14.
+Rc1 Bf8 {Weiß hat etwas Raumvorteil am Damenflügel, aber Schwarz kann mit
+b7-b6 und a7-a5 die Struktur zementieren.} 1/2-1/2
+

@@ -1,0 +1,38 @@
+[Event "DSAM Aalen 2008"]
+[Site "?"]
+[Date "2008.12.19"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Winkler, Stefan"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "1807"]
+[BlackElo "1877"]
+[Annotator "Tim Schmitz"]
+[PlyCount "197"]
+[EventDate "2008.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. Bd3 h6 6. Bxf6 Qxf6 7. Nf3 c5 8. e5
+(8. exd5 exd5 9. O-O Bxc3 10. bxc3 O-O 11. Ne5 Nc6 12. Nxc6 Qxc6 13. Re1 c4 14.
+Be2) (8. O-O Bxc3 9. bxc3) 8... Qd8 9. Bb5+ Bd7 10. Qd3 O-O 11. Bxd7 Qxd7 12.
+O-O Nc6 13. dxc5 Bxc5 {Schwarz hat schon etwas besseres Spiel} 14. Rad1 Qc7 15.
+Qb5 Bb4 16. Nb1 $2 {Um den Damenflügel zu entwirren, erlaubt Schwarz aber
+folgenden Angriff} a6 17. Qe2 b5 18. c3 Be7 19. Rfe1 Na5 20. Nbd2 Rfb8 21. Nd4
+b4 22. Rc1 (22. cxb4 Bxb4 23. b3) 22... Qb6 23. Rb1 Bc5 24. N2b3 Nxb3 25. Nxb3
+bxc3 26. bxc3 Be7 27. Qd3 (27. c4 {löst die Schwäche auf c3 auf}) 27... Qc7 28.
+Nd4 $4 {Verliert einzügig den Bauern e5} Rxb1 29. Rxb1 Qxe5 30. Nc6 Qc7 31.
+Nxe7+ Qxe7 32. c4 Qc5 33. cxd5 Qxd5 34. Qe2 a5 35. Rb5 Qd4 36. g3 a4 37. Qf3 {
+Versuch eines Gegenspiels} Rd8 38. Kg2 Qd3 39. Qc6 Qe2 40. Rb4 Rd1 {Schwarz
+spielt auf Matt} 41. Qe8+ Kh7 42. Qxf7 Qf1+ 43. Kf3 Rd3+ 44. Kg4 Rd5 $2 {
+Wirft den Vorteil weg} 45. Qxe6 Rg5+ 46. Kf3 Qh1+ 47. Ke2 h5 48. Qe4+ Qxe4+ 49.
+Rxe4 Ra5 50. f4 a3 51. Re5 Ra4 52. Rxh5+ Kg6 53. Rd5 Rb4 54. Ke3 Rb2 55. Rd2
+Kf5 56. Kd3 Rb6 57. Kc4 Rb2 58. Kc3 Rb6 59. h3 Rg6 60. Rd5+ Ke4 61. Rg5 Rb6 62.
+Rxg7 Rb2 63. Ra7 Rxa2 64. Kb3 Rg2 65. Ra4+ Kf3 66. g4 Kg3 67. Kxa3 Kxh3 68. f5
+Rg3+ 69. Kb2 Kh4 70. Rf4 Kg5 71. f6 $1 {Der marschiert durch} Kxf4 72. f7 Rxg4
+73. f8=Q+ Kg5 74. Kc3 Rf4 75. Qg7+ Kf5 76. Kd3 Rf3+ 77. Kd4 Rf4+ 78. Kd5 Rf3
+79. Qh6 Rd3+ 80. Kc4 Rf3 81. Qh5+ Kf4 82. Kd4 Rf2 83. Qh4+ Kf3 84. Kd3 Rg2 85.
+Qe4+ Kg3 86. Ke3 Ra2 87. Qe5+ Kh4 88. Qf6+ Kg3 89. Qg5+ Kh2 90. Qh4+ Kg2 91.
+Qe4+ Kh3 $2 {Verliert} 92. Qe6+ Kh4 93. Qxa2 Kg5 94. Qf2 Kg4 95. Ke4 Kg5 96.
+Ke5 Kg6 97. Ke6 Kh7 98. Kf7 Kh6 99. Qh4# 1-0
+

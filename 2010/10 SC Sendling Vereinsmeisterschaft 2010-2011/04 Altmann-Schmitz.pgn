@@ -1,0 +1,44 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2010.11.12"]
+[Round "4"]
+[White "Altmann, Christoph"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2044"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "80"]
+[EventDate "2010.??.??"]
+
+1. d4 d5 2. Bf4 {Eine ungewöhliche Zugfolge, um in das London-System zu
+gelangen} Nf6 3. e3 c5 4. c3 Qb6 5. Qb3 c4 6. Qc2 {Der übliche Aufbau im
+London-System} g6 {Zu lange überlegt, der Zug ist natürlich und sieht gut aus}
+7. Nd2 Bf5 8. Qc1 Nbd7 $6 {In Betracht kommt auch Sc6} (8... Bg7 {ist
+vielleicht einfacher}) 9. Be2 Bg7 10. h3 {Weiß droht mit g2-g4, aber ist das
+wirklich eine Drohung. Mir gefiel die Stellung nicht und fiel auch nicht mehr
+viel ein} h5 $2 {Mechanisch verhindere ich g2-g4, aber dieser Zug sieht nach
+Panik aus} (10... O-O {ist dagegen einfach und natürlich}) 11. Ngf3 Ne4 12. Nh4
+Qf6 {Weiß steht bereits etwas freier, denn er ist der einzige, der Hebel hat.}
+({Nach} 12... Be6 13. O-O {steht der schwarze Läufer auf e6 schlecht}) 13. Nxf5
+Qxf5 14. Nxe4 Qxe4 15. O-O O-O {Das Problem an dieser Stellung ist, dass Weiß
+sie jetzt öffnen kann und das Läuferpaar schön zur Geltung kommt} 16. f3 Qe6
+17. e4 Nf6 (17... dxe4 18. fxe4 Qxe4 19. Bxc4 {sieht zunächst schlecht für
+Schwarz aus, aber nach} Rac8 20. Bb3 Bxd4+ 21. Kh1 Bf6 {hat Schwarz einen
+Bauern mehr}) 18. Bg5 Rac8 19. Qe3 Rfe8 {Die Türme in der Mitte sichern
+zumindest die zentralen Bauern} 20. Rae1 Qc6 {Die Idee hiernach ist, e7-e6 zu
+spielen und soetwas wie eine Festung aufzubauen. Aber Weiß kann jetzt einen
+schwungvollen Mittelspielangriff aufbauen} 21. e5 Nh7 22. Bh6 e6 23. Bxg7 Kxg7
+24. f4 Rh8 {Schwarz hat überhaupt kein Gegenspiel, denn es fehlen in dieser
+Stellung sämtliche Angriffsziele. Andererseits stehen allen Bauern auf der
+Läuferfarbe} 25. Rf2 Rcg8 {Die Idee ist jetzt mit dem König zu verschwinden
+und die Bauern auf dem Königsflügel vorzuziehen} 26. Bd1 Kf8 27. b3 b5 28. a4
+bxa4 29. bxc4 Qxc4 30. Rb2 $1 {So hat Weiß jetzt eindlich eine Linie geöffnet
+und dringt mit dem Turm in die schwarze Stellung ein} a3 31. Rb4 Qc7 32. c4 a5
+33. Ra4 dxc4 34. Qxa3+ Kg7 35. Rxa5 Qd8 $2 {Jetzt ist die schwarze Stellung
+ganz passiv} 36. Qc5 Qh4 37. Rf1 Rb8 $2 {Ein Fehler in Zeitnot} (37... Rc8 38.
+Qa3 Qd8 39. Qc3 Qb6 40. Bf3 Rhd8 {hätte zumindest vernünftiges Gegenspiel
+organisiert}) 38. d5 Rhd8 39. d6 Rb3 $4 {und noch direkt einer hinterher} 40.
+Bxb3 cxb3 1-0
+

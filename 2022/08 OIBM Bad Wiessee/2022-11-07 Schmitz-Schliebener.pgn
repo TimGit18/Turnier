@@ -1,0 +1,63 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2022.11.07"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Schliebener, Stephan"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1848"]
+[BlackElo "2077"]
+[Annotator "Tim Schmitz"]
+[PlyCount "98"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.11.07"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 {Diese
+Zugfolge kennzeichnet das Anti-Pavasovic-Gambit. Schwarz verzichtet darauf
+zusätzlichen Druck gegen e5 aufzubauen, sondern polstert lieber seinen
+starken Springer auf d5.} Nc6 8. Qe2 ({Regulär ist} 8. O-O Be7 9. Qe2) 8...
+Be7 9. O-O O-O 10. Nc3 Nxc3 11. bxc3 dxe5 12. dxe5 {[%csl Yc4,Yd3,Ye4,Yg5,Yh4,
+Yh5,Yh7][%cal Gc4d3,Rd3h7,Ge2e4,Rc1h6,Gh2h4,Gf3g5,Ge2h5,Rh5h7] Tatsächlich
+ist dies die Ausgangsstellung der Hauptvariante in diesem Abspiel. Es handelt
+sich um eine sehr aggressive Struktur. Der Bauer auf e5 verschafft Raumvorteil
+auf dem Damenflügel. Und verhindert einen Springer auf f6, um den König zu
+beschützen. Die Diagonale b1-h7 wird zur Hauptangriffslinie. Die weißen
+Läufer und der Springer stehen bereit, auf den schwarzen König zu gehen.} Qc7
+{Die Dame besetzt die typisch sizilianische c-Linie und greift den Bauern auf
+e5 an wie den Läufer auf c4 (indirekt) und den Bauern auf c3.} 13. Re1 {
+Weiß möchte gerne auf dem Königsflügel angreifen, aber erst den
+Königsbauern sichern.} b6 14. Bd3 Bb7 {Die Eröffnung ist gewissermaßen
+abgeschlossen. Jetzt muss Weiß in den Angriffsmodus übergehen.} 15. Ng5 Bxg5
+16. Bxg5 Ne7 {Schwarz wählt eine sichere, aber auch recht passive
+Verteidigung. Weiß hat das Läuferpaar, mehr Raum und steht besser.} ({
+In der Partie berechnete ich} 16... Nxe5 17. Qxe5 Qxe5 18. Rxe5 f6 19. Rxe6
+fxg5 {, aber das scoret recht gut für Weiß(>75%). Allerdings benötigte ich
+über eine halbe Stunde dafür.}) 17. Qh5 Ng6 18. Re3 {Hier gabe es bereits
+über 20 Partien, von denen die meisten Weiß gewann.} h6 $2 {Dieser Zug
+sollte verlieren.} ({Die Hauptfortsetzung ist} 18... Qxc3 19. Rd1 Qc6 20. Be4
+Qxe4 21. Rxe4 Bxe4 {mit guten Remischancen für Schwarz.}) 19. Bxh6 gxh6 $4 {
+Diesen Fehler sollte die schwarze Stellung nicht mehr verkraften.} 20. Qxh6 ({
+Besser ist vielleicht direkt} 20. Rg3) 20... Rfe8 21. Rg3 $6 {Zu lasch.
+Schwarz kann sich wieder organisieren.} Re7 22. Bxg6 $6 {Der zweite
+fragwürkdige Zug hintereinander. Weiß gewinnt einiges an Material, läßt
+aber Schwarz entwischen.} ({Hier wäre der Übergan in das folgende Endspiel
+optimal:} 22. Re1 $1 Qxc3 23. Rc1 Qxe5 24. Bxg6 fxg6 25. Qxg6+ Rg7 26. Qxg7+
+Qxg7 27. Rxg7+ Kxg7 28. Rc7+ {mit sehr guten Gewinnschancen .}) 22... fxg6 23.
+Qxg6+ Rg7 24. Qxe6+ Qf7 25. Qxf7+ Kxf7 26. Rxg7+ Kxg7 {Weiß hat vier Bauern
+für den Läufer und eine angenehme Stellung, aber von einem Gewinn kann keine
+Rede mehr sein.} 27. Rd1 Kg6 28. Rd7 Be4 {Beide Seiten verbessern zunächst
+einmal die Stellung ihrer Figuren.} 29. f3 Bb1 30. a3 Kf5 31. Rd1 Ba2 {
+Wenigstens konnte der Läufer erfolgreich abgedrängt werden.} 32. Re1 Re8 33.
+Kf2 {Nun, der e-Bauer war nicht zu halten. Das quasi Bauernendspiel ist einen
+Versuch wert.} Rxe5 34. Rxe5+ Kxe5 35. Ke3 Kd5 36. Kd2 {Weiß hat Angst, dass
+Schwarz seinen Damenflügel eliminiert und nimmt eine Verteidigungsposition
+ein.} Kc4 37. Kc2 {Verhindert das Eindringen auf b3.} Bb3+ 38. Kb2 Ba4 {
+Der Läufer muss schnell wieder in das Spiel gebracht werden. Kann er die
+Bauern alleine aufhalten?} 39. h4 Kd5 {Nein - der König hilft mit.} 40. h5 Ke5
+41. f4+ {Noch ein Trick} Kf6 (41... Kxf4 $4 42. h6 {und der Bauer geht durch.})
+42. g4 Bd7 43. g5+ Kf7 44. c4 {Der weiße König muss wieder in das Spiel.} Bg4
+45. h6 Bf5 {Die Bauernkette steht. Für immer.} 46. Kc3 Ke7 47. Kb4 Kd6 48. Kb5
+Kc7 49. c5 {Wenn der b-Bauer eliminiert ist, sollte das Remis sicher sein.}
+Bd3+ 1/2-1/2
+

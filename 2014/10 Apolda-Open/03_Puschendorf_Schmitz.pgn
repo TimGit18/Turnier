@@ -1,0 +1,25 @@
+[Event "Apolda-Open"]
+[Site "?"]
+[Date "2014.08.29"]
+[Round "3"]
+[White "Puschendorf, Steffen"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E77"]
+[WhiteElo "2031"]
+[BlackElo "1743"]
+[PlyCount "98"]
+[EventDate "2014.??.??"]
+[SourceDate "2014.08.29"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 $6 (9... Bg4 10. O-O Nbd7) 10. e5 Nfd7 11. e6 Nf8 12. exf7+ Kxf7
+13. O-O Kg8 14. Bd3 Nbd7 15. Bd2 Nf6 16. Qc2 Bd7 17. Ng5 c4 $5 18. Bxc4 Rc8 19.
+Qb3 Qc7 20. Bd3 Qc5+ 21. Kh1 Qd4 (21... Ng4 $2 22. Nce4 $1) 22. Rf3 Rc7 $2 (
+22... h6 23. Nh3) 23. Be1 Ng4 $6 24. h3 $6 (24. Nce4 $1 Qxb2) 24... Rxe1+ 25.
+Rxe1 Nf2+ 26. Rxf2 Qxf2 27. Rf1 Qd2 28. Nce4 Qxb2 29. Qxb2 Bxb2 30. Nxd6 Ba3
+31. Nge4 Ba4 32. Bb5 Bc2 33. Nf6+ Kh8 34. Nde4 Bxe4 35. Nxe4 a6 36. Bd3 Nd7 37.
+f5 Ne5 38. d6 Rd7 39. Bc2 gxf5 40. Rxf5 Nc4 41. Rh5 Bb2 $4 (41... Bxd6 $1 42.
+Rd5 Rc7) 42. g4 b5 43. Rh6 Kg7 44. g5 Rf7 45. Ng3 Kg8 46. Bxh7+ Kf8 47. Nf5 (
+47. Bf5 $1) 47... Be5 48. h4 Rd7 49. Bg6 Nxd6 1-0
+

@@ -1,0 +1,25 @@
+[Event "Stockerau-Open (B-Turnier)"]
+[Site "?"]
+[Date "2022.05.29"]
+[Round "5"]
+[White "Murlasits, Martin Iii"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1744"]
+[BlackElo "1820"]
+[Annotator "Tim Schmitz"]
+[PlyCount "79"]
+[SourceVersionDate "2022.05.31"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 {Das Rapport-Jobava-System} c6 $6 (4...
+Bg7 5. e3 O-O 6. Be2 c5 7. Ne5 Nc6) 5. Qd2 Bg7 6. Ne5 Nbd7 7. e3 O-O 8. Be2
+Nxe5 9. Bxe5 Nd7 10. Bxg7 Kxg7 11. h4 e5 $2 {Zu optimistisch. Schwarz
+verschätzt blind die weiße Bedrohung.} 12. h5 e4 13. O-O-O b5 14. f3 b4 $4
+15. Na4 Nf6 $4 16. hxg6 fxg6 17. Qxb4 Be6 {Weiß steht schon auf Gewinn 
+(Mehrbauer, besserer König, Bauernstellung)} 18. Nc5 Bg8 19. b3 Qe7 20. f4
+Rab8 21. Qe1 Nd7 22. Nxd7 Qxd7 23. Qh4 a5 24. Qh6+ Kh8 25. Qxg6 a4 26. Bg4 Qe7
+27. Qg5 Qxg5 28. fxg5 axb3 29. axb3 Rf2 30. Rd2 Rbf8 31. Rhd1 Kg7 32. Bd7 Kg6
+33. Bxc6 Kxg5 34. Bd7 R2f6 35. Kb2 Be6 36. Bxe6 Rxe6 37. c4 dxc4 38. bxc4 Rb6+
+39. Kc3 Ra8 40. d5 1-0
+

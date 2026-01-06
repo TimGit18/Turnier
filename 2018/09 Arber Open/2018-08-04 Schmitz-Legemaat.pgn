@@ -1,0 +1,78 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2018.08.04"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Legemaat, Gerrit"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "1821"]
+[BlackElo "1946"]
+[PlyCount "48"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Be3 Qc7 8.
+Bd3 a6 9. f4 d6 10. Qf3 {Das ist die Ausgangsstellung der sogenannten
+Zeus-Variante im Grivas-System. Normalerweise spielt Schwarz hier Lf8-e7.
+Weiß kann dann lang oder kurz rochieren} Rb8 {Das ist ein interessanter Zug
+von Schwarz. Er stellt die normale Entwicklung hintan und bereitet die
+Gegenoffensive am Damenflügel vor} 11. O-O $6 {Das ist einfach zu feige.
+Weiß sieht Gespenster und wähnt seinen König am Königsflügel vermeintlich
+sicherer. Dabei würde die lange Rochade viel besser in das Konzept passen} ({
+Aggressiver ist auf jeden Fall} 11. O-O-O b5 12. g4 b4 13. Ne2 e5 14. g5 Nd7
+15. Ng3 {und es entbrennt ein Kampf auf gegensätzlichen Flügeln}) 11... h5 $5
+{Das ist ein sehr aggressiver Aufzug auf dem Königsflügel. Schwarz ändert
+sofort seine Strategie und greift auf dem Königsflügel an} 12. h3 {Weiß
+möchte unbedingt Sf6-g4 verhindern} b5 {Dies ist weniger ein Angriffszug als
+die Vorbereitung der Entwicklung des Läufers auf der langen Diagonalen a8-h1,
+auf der er sehr gut operiert} 13. Rae1 Be7 {Weiß hat seine Entwicklung
+abgeschlossen und muss jetzt einen Plan fassen. Schwarz hingegen steht noch
+etwas gedrängt, sein Damenläufer muss noch nach b7 und der König steht noch
+in der Mitte} 14. Nd4 $6 {Prinzipiell steht der Springer im Zentrum nicht
+schlecht. Das Problem ist, dass Schwarz ihn einfach abtauschen kann, damit
+Druck von der Stellung nimmt und die ideale lange Diagonale öffnet} Nxd4 15.
+Bxd4 Bb7 16. a3 $6 {[%csl Yb7,Yc6,Yd5,Ye4,Yf3][%cal Rb7f3] Auch das ist
+vielleicht noch kein Fehler, aber so einen Tempozug kann man sich vielleicht
+in einer geschlossenen Stellung erlauben. Leider fehlt hier ein wirklich guter
+Plan, und die Bedenkzeit wird auch schon knapp. Dabei gibt es hier gute
+Alternativen} ({Am stärksten scheint hier} 16. Qf2 e5 {Sonst spielt Weiß
+selber e5} 17. fxe5 dxe5 18. Be3 b4 $2 {mit gutem Angriff für Weiß, zum
+Beispiel} 19. Nd5 Nxd5 $2 20. Qxf7+ Kd8) 16... h4 $1 {Schwarz spielt in dieser
+Phase sehr konsistent. Der Springer soll über h5 nach g3 einsteigen. Objektiv
+ist die weiße Stellung eigentlich noch ziemlich in Ordnung, obwohl es bereits
+schwierig wird gute Züge zu finden} 17. Qf2 {Endlich kommt dieser Zug, aber
+hier ist es schon etwas spät} Nh5 {[%csl Yg3][%cal Rh5g3,Rg3f1] Der Springer
+strebt nach g3 mit Qualitätsgewinn} 18. Ne2 {Dieser Zug mag objektiv
+vollständig in Ordnung sein, aber er hinterläßt keinen guten Eindruck.
+Weiß gibt die weitere Kontrolle über die Felder e4 und d5 auf. Und der Zug
+a2-a3 vorher war nun völlig überflüssig} ({Völlig in Ordnung ist die
+Umgruppierung} 18. Rd1 Ng3 19. Rfe1 {und es wird Sc3-e2 folgen, um den
+Springer zu vertreiben oder abzutauschen}) 18... Kd7 {Schwarz setzt alles auf
+eine Karte und will den Damenturm in den Angriff einbinden. Dafür belässt er
+den König im Zentrum und hofft, dass es geschlossen bleibt} 19. e5 $5 {
+Weiß hat erkannt, dass die schwerfälligen Manöver der letzten Züge seine
+Stellung nicht verbessert haben. Daher versucht er - obwohl es auch Linien
+gegen seinen König öffnet - das Zentrum aufzubrechen} Qc6 {Das Problem ist
+jetzt, dass diese Batterie die weiße Dame an g2 bindet und die schwarzen
+Figuren (aufgrund der passiven weißen Züge von zuvor) die Diagonale
+beherrschen} 20. f5 {Das ist folgerichtig. Es wäre schlecht, auf d6 zu
+schlagen, da dann nur der schwarzfeldrige Läufer gegen den weißen König in
+das Spiel kommt. Schwarz selber kann aber auch nicht gut einen der weißen
+Bauern schlagen ohne seinen König zu gefährden} Rbf8 {Schwarz aktiviert
+seinen passiven Turm und verteidigt den Bauern f7} 21. Rc1 {Endlich einmal
+wieder ein aktiver Figurenzug. Weiß droht mit c2-c4 und Öffnung der Stellung
+gegen die schwarze Dame und später gegen den König} Bg5 {Das ist eine gute
+Antwort. Schwarz aktiviert seine letzte schlechte Leichtfigur und hat eine
+taktische Falle im Hinterkopf. Außerdem ist der Turm auf c1 bedroht.} 22. c4 {
+Trotzdem. Weiß sollte hier schon bereit sein die Qualität zu opfern. Die
+Stellung ist mittlerweile sehr scharf geworden und so weit aus dem
+Gleichgewicht, dass Material hier nicht mehr soviel zählt} b4 {Klugerweise
+schließt Schwarz den Damenflügel auf Kosten eines Bauern} (22... Bxc1 23.
+Rxc1 {hätte nur Weiß in die Hände gespielt dank Läuferpaar und viel mehr
+Bewegungsfreiheit}) 23. axb4 dxe5 {Das sieht ersteinmal leichtsinnig aus,
+stellt aber eine fiese Falle.} 24. Bxe5 $4 {Und hineingetappt. Sicher war die
+Zeitnot ein Faktor, aber die elementare Taktik muss man eigentlich sehen} (24.
+Bc5 {ist am einfachsten und wahrt alle Chancen. Es kann folgen} Nf4 25. Nxf4
+Bxf4 26. Rcd1 {mit gutem Gegenspiel}) 24... Be3 {mit Matt oder Damenverlust}
+0-1
+

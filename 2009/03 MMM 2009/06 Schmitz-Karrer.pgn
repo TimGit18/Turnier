@@ -1,0 +1,38 @@
+[Event "MMM 2009 - A-Klasse 1"]
+[Site "?"]
+[Date "2009.04.25"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Karrer, Wener"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1778"]
+[BlackElo "1879"]
+[Annotator "Tim Schmitz"]
+[PlyCount "45"]
+[EventDate "2009.??.??"]
+[WhiteTeam "SC Sendling 2"]
+[BlackTeam "SC Roter Turm Altstadt 2"]
+[TimeControl "240+2"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 Qc7 {Bereitet die
+sibirische Falle vor} 7. O-O {Besser ist De2} Nf6 8. Qe2 $2 {Das ist bereits
+ein Fehler.} (8. Nb5 Qb8 9. e5 Nxe5 10. Bf4 d6 11. Re1 $1 {ist die Alternative}
+Nxc4 12. Qa4 Bd7 13. Qxc4) 8... Ng4 9. e5 {Opfert einen zweiten Bauern und ist
+bereits notwendig} (9. h3 $4 Nd4 $1) 9... Ncxe5 10. Nxe5 Nxe5 11. Bb3 {Schwarz
+steht besser, muss aber seine Entwicklung beenden} a6 12. Bf4 Bd6 (12... d6 {
+ist viel vorsichtiger} 13. Bxe5 dxe5 14. Rac1 Qb8 15. Na4 b5 16. Rxc8+ Qxc8 17.
+Nb6 Qc6 18. Nxa8 Bd6 19. Rd1 Ke7 20. Qg4 {mit ausgeglichener Position}) 13.
+Rac1 $5 {Droht bereits Sc3-b5} Nf3+ {Schwarz will die Stellung vereinfachen}
+14. Qxf3 Bxf4 15. Nd5 {Jetzt hat Weiß die Initiative. Nach dem Abtausch auf c1
+würde Weiß den Turm auf a8 gewinnen und den Springer befreien können} Bxh2+ 16.
+Kh1 Qd8 $2 ({a)} 16... Qb8 17. g3 Bxg3 18. fxg3 O-O 19. Nb6 {Weiß hat
+Riesendruckspiel gegen c8 und f7. Schwarz hat Probleme wegen seiner
+Unterentwicklung, auch wenn die Mehrbauern seine Minusfigur kompensieren}) ({b)
+} 16... Qd6 17. Nc7+ Qxc7 18. Rxc7 Bxc7 19. Qc3 {sieht für Weiß auch sehr
+freundlich aus}) 17. Kxh2 exd5 $4 {Verständlich, dass Schwarz nicht mit einer
+Figur weniger spielen will. Aber jetzt wird er mattgesetzt} 18. Rfe1+ Kf8 19.
+Qxd5 {Schwarz gibt auf. Das Matt auf f7 ist zwar deckbar, aber dann wird nach
+Zwischenschach auf c5 auf c8 mattgesetzt} Qf6 20. Qc5+ Kg8 21. Qxc8+ Rxc8 22.
+Rxc8+ Qd8 23. Rxd8# 1-0
+

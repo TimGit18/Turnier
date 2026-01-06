@@ -1,0 +1,70 @@
+[Event "Baden-Baden Faschingsopen"]
+[Site "?"]
+[Date "2017.02.25"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Merz, Rafael"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "1808"]
+[BlackElo "1547"]
+[PlyCount "36"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.02.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d5 {Das verzögerte Marshall-Gambit ist zwar nicht so solide wie das
+eigentliche, aber es hat durchaus einen Überraschungseffekt} 9. exd5 Nxd5 10.
+d3 $2 {Dies ist eine schwache Fortsetzung von Weiß. Er hat Angst, in eine
+vorbereitete Variante zu laufen. Dabei sind die schwarzen Drohungen bei der
+Annahme des verzögerten Gambits gar nicht so schlimm} ({Die einzige richtige
+Fortsetzung ist} 10. Nxe5 Nxe5 11. Rxe5 {Schwarz hat mehrere Möglichkeiten in
+dieser Stellung. Am besten ist} Nf6 12. d3 Bd6 13. Re1) 10... Qd6 {Schwarz
+deckt den angegriffenen Bauern und bringt die Dame in das Spiel} ({(a) Eine
+andere Möglichkeit, den Bauern zu decken besteht in} 10... Bf6 11. Nbd2 {
+[%cal Gd2e4] Weiß droht mit der Springerentwicklung nach e4} h6 12. Ne4 Be7
+13. Ng3 Bf6 14. Nh5 {Weiß hat auf Kosten einiger geschenkter Tempi eine gute
+Stellung erreicht}) ({(b) Schwarz kann das Gambit auch aufrechterhalten und
+weiter auf Angriff spielen} 10... Bb7 11. Nxe5 Nxe5 12. Rxe5 Bf6 {Eigentlich
+wollte der Läufer nach d6, aber der Springer auf d5 hängt dann} ({Er kann
+auch wie in der Partie mit der Dame nach d6 gehen} 12... Qd6 13. Re1 Rae8 {
+Alle schwarzen Figuren stehen jetzt für den Angriff bereit}) 13. Re1 c5 14.
+Nd2 Nf4 15. Ne4 {Der schwarze Angriff findet noch keine richtigen Ziele, denn
+g2 ist überdeckt}) 11. Nc3 {Der Sinn des Zugs ist es, den starken Springer
+auf d5 zu beseitigen und die eigene Entwicklung voranzubringen. Dies geschieht
+allerdings auf Kosten einer geschwächten weißen Bauernstruktur} Nxc3 12. bxc3
+{Schwarz hat eine gute, spielbare Stellung. Aber auch Weiß kann weiterspielen}
+Kh8 {Ein auf den ersten Blick verhaltener Zug, der aber auch den f-Bauern
+mobilisiert} ({Drohend sieht} 12... Qg6 {aus} 13. Bd5 {Weiß deckt
+prophylaktisch g2 und droht selber mit dem Schlagen auf e5} Bxh3 14. Nxe5 Nxe5
+15. Rxe5 Bf6 16. Re3 {mit der Doppeldrohung des Schlagens auf a8 und auf h3})
+13. a4 {Das ist wie so oft ein korrekter Zug in der Spanischen Partie. Weiß
+droht mit dem Schlagen auf b5 und auf a8. Gleichzeitig löst Weiß auch das
+Problem mit der Entwicklung seines Damenläufers} Bb7 {Das ist die beste
+schwarze Antwort. Er bringt seinen Damenläufer auf ein aggressives Feld und
+überdeckt den Turm auf a8} 14. Ba3 Qf6 ({Nach der wiederum befürchteten
+Fortsetzung} 14... Qg6 {kann Weiß einfach nehmen} 15. Bxe7 Nxe7 16. Rxe5 {
+Weiß hat einen Bauern mehr und Schwarz kann auf der Diagonalen a8-h1 keinen
+Druck mehr aufbauen}) 15. d4 $4 {Das ist ein kapitaler Irrtum. Weiß
+verwechselt in dieser Variante einfach zwei Züge, was von ganz schlechter
+Variantenberechnung zeugt} ({Richtig ist} 15. Bxe7 $1 Qxe7 {Sonst verliert
+Schwarz den Bauern e5} 16. d4 f6 {Weiß hat jetzt ein gutes Druckspiel gegen
+den Bauern e5}) 15... exd4 {Schwarz merkt, dass der Druck gegen den Bauern e5
+zu groß wird} 16. cxd4 $2 {Nach einem Fehler folgt gleich ein zweiter. Weiß
+rechnet inkorrekt und schlägt voreilig den Bauern auf d4 zurück, nur darauf
+bedacht, den c-Bauern zu entdoppeln} ({Richtig wäre auch hier} 16. Bxe7 Nxe7
+17. Qxd4 {Jetzt kann Schwarz schlecht auf f3 schlagen, denn am Ende hängt e7}
+Qxd4 18. cxd4 {Wiederum ist der Springer auf f3 nicht gut zu schlagen, denn
+Weiß würde mit dem Turm auf e7 eindringen} Ng6 19. Ne5 {[%csl Yf7][%cal
+Re5f7,Rb3f7] In diesem Endspiel kann Weiß ohne Risiko auf Vorteil spielen})
+16... Bxa3 $1 {Eine gute und logische Replik. Schwarz übernimmt die Initiative
+} 17. Rxa3 b4 $1 {Das ist ein guter Folgezug. Der Turm wird auf ein schlechtes
+Feld zurückgedrängt und der schwarze Bauer unter Tempogewinn aus der
+Gefährdung genommen. Die weißen Bauern auf a4 und c2 sind schwach,
+mittelfristig auch der Bauer auf d4} 18. Ra2 {Der Zug gefällt zwar nicht,
+aber auf a1 steht der Turm auch nicht gut} Na5 {Der Zug erfüllt gleich
+mehrere Optionen: Der Läufer auf b7 wird demaskiert und droht auf f3 zu
+schlagen. Der Spanische Läufer auf b3 wird definitiv abgetauscht. Man kann
+Schwarz schon das bessere Spiel zuschreiben. Da er ihn mit einem Remisangebot
+verknüpfte, nahm Weiß dieses an} 1/2-1/2
+

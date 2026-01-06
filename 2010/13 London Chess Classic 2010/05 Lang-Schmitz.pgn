@@ -1,0 +1,31 @@
+[Event "London Chess Classic Open"]
+[Site "?"]
+[Date "2010.12.12"]
+[Round "5"]
+[White "Lang, Alexander"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2079"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "40"]
+[EventDate "2010.04.02"]
+
+1. d4 d5 2. Bf4 {Schon wieder London} Nf6 3. e3 c5 4. c3 Qb6 5. Qb3 Nc6 $6 {
+Ungenau, besser ist c4 wie gegen Altmann.} 6. Qxb6 axb6 7. Bc7 {Jetzt geht
+eben das einfache b5 nicht, was in der blockierten Stellung ging} Bf5 (7... Nd7
+{schützt den Bauern, sieht aber lausig aus}) 8. Bxb6 cxd4 9. exd4 Bxb1 10. Rxb1
+Rxa2 {Materialverlust habe ich vermieden, jedoch mein Läuferpaar verloren.
+Weiß erhält jetzt etwas Druckspiel} 11. Bb5 e6 ({Hier analysierte ich lange an
+} 11... g6 {, denn} 12. Nf3 Bg7 13. Ne5 O-O 14. Nxc6 bxc6 15. Bxc6 $2 Ra6 {
+funktioniert für Weiß nicht. Aber der e-Bauer kann unter Druck kommen und der
+Läufer auf g7 word etwas ausgebremst}) 12. Ne2 {Eine neue Idee. Der Springer
+soll über c1 nach d3 und c5} Bd6 13. Nc1 Ra8 14. Nd3 Nd7 {Ich will nicht den
+Springer nach c5 lassen} 15. Bc5 Bxc5 16. Nxc5 Nxc5 17. dxc5 O-O 18. O-O {
+Schwarz steht schon etwas freier, daher bot Weiß Remis} Ra5 19. Be2 ({Ich
+hatte unnötigerweise Panik vor} 19. Bxc6 bxc6 20. b4 Ra3 21. Rfc1 Rb8 {wonach
+meine Stellung in Wahrheit sehr bequem ist}) 19... Rxc5 {hatte mein Gegner
+analysiert und wollte schon mit} 20. b4 {fortsetzen, was aber verliert} Rxc3
+1/2-1/2
+

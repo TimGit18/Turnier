@@ -1,0 +1,53 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2014.11.02"]
+[Round "9"]
+[White "Lechner, Otto"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "1618"]
+[BlackElo "1738"]
+[PlyCount "28"]
+[EventDate "2014.??.??"]
+[SourceDate "2014.11.02"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. Bg5 {Das Smyslov-System ist ein
+ruhiges System, aber es enthält etwas Gift. Falls Schwarz diese Variante
+nicht ernst nimmt, so kann er leicht in einer Stellung ohne Gegenspiel landen.}
+h6 $6 {Dieser Zug ist vielleicht etwas ungenau, verdirbt aber strenggenommen
+noch nichts.} ({(a) Hier muss man schon auf die genaue Zugfolge achten. Nach
+Vigorito ist} 5... d6 $2 {schon ein Fehler, denn nach} 6. Qd2 c5 7. d5 {kann
+Schwarz nicht mehr h7-h6 spielen. Daher ist das sofortige c7-c5 genauer, mit
+dem Druck auf die weiße Stellung ausgeübt wird und die Abwesenheit des
+weißen Damenläufers ausgenutzt wird.}) ({(b) Die Hauptfortsetzung lautet
+direkt} 5... c5 $1 6. d5 h6 7. Bh4 d6 {und man transponiert in die
+Partiefortsetzung.}) 6. Bh4 c5 7. d5 d6 {Damit ist durch Zugumstellung die
+Hauptvariante erreicht worden.} 8. e4 {Weiß verzichtet auf die typische
+Smyslov-Fortsetzung. Durch Zugumstellung ist nun eine Variante aus dem
+Pseudo-Averbakh-System entstanden.} Bg4 $2 {Dieser Zug passt überhaupt nicht
+in das schwarze Konzept. Der "gute" Läufer wird zum Tausch gezwungen und ist
+damit verloren. Ich habe nicht genug über das Konzept der Stellung
+nachgedacht.} ({Viel besser ist} 8... Qa5 {Dieser Zug ist normalerweise
+richtig, denn Weiß kann ja seinen Damenläufer nicht mehr zurück auf den
+Damenflügel bringen. Schwarz droht bereits mit dem Schlagen auf e4.} {Der
+natürliche Zug} 9. Bd3 {wird jetzt mit einer typischen Idee begegnet} g5 10.
+Bg3 Nxe4 $1 11. Bxe4 Bxc3+ 12. bxc3 Qxc3+ 13. Nd2 {Schwarz wird die Figur
+unter günstigen Umständen zurückgewinnen} f5 14. Rc1 Qg7 15. Bb1 f4 16. Qh5
+Nd7 17. Ne4 Nf6 18. Nxf6+ Rxf6 {und Schwarz ist etwas besser}) 9. h3 {
+Natürlich befragt Schwarz diesen Läufer direkt} Bxf3 {Ein Rückzug auf das
+einzige Feld d7 wäre nur ein Tempoverlust für Schwarz, denn h2-h3 ist ein
+nützlicher Zug für Weiß und auf d7 nimmt man dem schwarzen Damenspringer
+sein bestes Feld.} 10. Qxf3 {Weiß rettet seine Bauernstruktur und hat das
+Läuferpaar quasi umsonst erhalten.} ({Ein riskanter Gewinnversuch ist} 10.
+gxf3 {Weiß kompromittiert seine Bauernstruktur und geht auf Königsangriff.
+Aber diese Entscheidung ist nicht notwendig.}) 10... Nbd7 {Schwarz
+komplettiert seine Enbtwicklung und droht mit einem Zug auf das schöne Feld e5
+} 11. Qe3 {Weiß weicht aus dem Tempozug aus. Aber auf e3 steht die Dame nicht
+besonders aktiv.} g5 {Schwarz gewinnt Raum auf dem Königsflügel und etwas
+Zeit. Wahrscheinlich steht Weiß etwas freier, auch wenn Schwarz nach der
+natürlichen Fortsetzung} 12. Bg3 Nh5 13. Bh2 Bd4 {ausgleichen kann.
+Angesichts des Turnierstands und einer Erschöpfung war das Remis angebracht.}
+14. Qf3 Ng7 {mit Ideen wie Sd7-e5 und f7-f5 und genügend dynamischen
+Gegenspiel-Portential} 1/2-1/2
+

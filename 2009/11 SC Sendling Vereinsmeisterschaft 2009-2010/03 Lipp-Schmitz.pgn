@@ -1,0 +1,42 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2009.10.23"]
+[Round "3"]
+[White "Lipp, Mirko"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "1845"]
+[BlackElo "1853"]
+[Annotator "Tim Schmitz"]
+[PlyCount "105"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Re1 Ng6 10. d4 {Soweit war mir die Theorie bekannt, jetzt brauchte
+ich aber über eine halbe Stunde für die korrekte Fortsetzung} Bd6 ({Die
+Theorie empfiehlt hier} 10... Nf4 11. dxe5 Qg6 12. Nh4 Bxd1 13. Nxg6 {Und
+jetzt nicht Sf4xg6 (Blitzniederlage gegen Künzner zwei Tage später), sondern}
+fxg6 14. Rxd1 O-O-O 15. Kf1 Ne6 16. c3 Bc5 17. Re1 Rhf8 {mit Druck gegen f2})
+11. hxg4 hxg4 12. Nh2 Rxh2 13. Qxg4 {Wieder in der Theorie gelandet, denn der
+Turm kann nicht genommen werden} (13. Kxh2 Qxf2 14. Re2 exd4+ 15. e5 Bxe5+ 16.
+Rxe5+ Nxe5 17. Kh1 O-O-O {und Weiß wird bald matt}) 13... Rh4 14. Qf5 Rf4 {
+Kein guter Zug. Schwarz empfiehlt Se7} (14... Ne7 15. Qxf6 gxf6 {Aber mir
+gefiel die Stellung mit den beiden Bauernschwächen nicht}) 15. Qxf6 Rxf6 16.
+Nf3 {Dank der Drohung Lg5 kann ich nicht lang rochieren} Re6 17. dxe5 Nxe5 18.
+Nxe5 Bxe5 19. c3 O-O-O 20. Be3 Bf6 21. f3 {Bis jetzt ist die Stellung für
+Schwarz in Ordnung. Aber jetzt wird die Zeitnot ein Problem} b6 $6 {Eine
+schwache Fortsetzung} (21... Bh4 22. Bf2 Bxf2+ 23. Kxf2 Red6 {ist die
+prinzipielle Alternative}) 22. Rad1 Red6 23. Rxd6 Rxd6 {Es droht jetzt immer
+einmal e4-e5} 24. Kf2 g6 $6 {Das gefällt nicht} 25. Rh1 Kd7 26. f4 Re6 {
+Auch nicht gut, Le7 wäre weniger verpflichtend gewesen} 27. Kf3 Re8 28. e5 Bd8
+29. Rh7 Ke6 30. g4 c5 31. b4 cxb4 32. cxb4 Be7 33. a3 c5 {Schwarz kriegt
+Gegenchancen} 34. bxc5 bxc5 35. Ke4 f5+ 36. exf6 Kxf6 37. Kd5 Rd8+ (37... Bf8 {
+wäre klüger gewesen} 38. Bc1 Rd8+ 39. Kc4 Rd4+) 38. Kc4 Rc8 $2 {Erst das
+verliert. Der Turm bleibt in passiver Stellung} 39. Bf2 (39. g5+ Ke6 40. Rg7 {
+gewinnt direkt}) 39... Ke6 40. Rh6 Kf7 41. Rh7+ Ke6 42. f5+ $1 Kf6 43. Be1 (43.
+Bh4+ g5 44. Be1 Bd6 45. Bc3+ Be5 46. Rh6+ Kg7 47. Rg6+ Kf7 48. Bxe5 {und Weiß
+gewinnt}) 43... Bd6 44. Bh4+ g5 45. Rh6+ Kf7 46. Bxg5 Bf8 47. Rxa6 Re8 48. Ra7+
+Kg8 49. Kd5 Rc8 50. Be7 c4 51. Bxf8 Kxf8 52. Rh7 c3 $4 {Der letzte Fehler} 53.
+Rh8+ {Eine bemerkenswert schwache Defensivleistung} 1-0
+

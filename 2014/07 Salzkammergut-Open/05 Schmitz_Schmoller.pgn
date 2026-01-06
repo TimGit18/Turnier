@@ -1,0 +1,86 @@
+[Event "Salzkammergut-Open (B-Turnier)"]
+[Site "?"]
+[Date "2014.06.09"]
+[Round "5"]
+[White "Schmitz, Tim"]
+[Black "Schmoller, Josef"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[WhiteElo "1773"]
+[BlackElo "1782"]
+[PlyCount "59"]
+[SourceDate "2014.06.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {[%csl Yb5,Ye5] Das
+Najdorf-System bildet ein sehr komplexes und aggressives Verteidigungssystem
+der Sizilianischen Verteidigung. Es wurde von Miguel Najdorf (1920-1997) in
+die Turnierpraxis eingeführt. Der charakteristische Zug a7-a6 bildet einen
+Abwartezug und etabliert eine positionell sehr gesunde Bauernstruktur. Schwarz
+kontrolliert mit den Feldern b5, c5 und e5 einen Großteil des erweiterten
+Zentrums und ist bereit, mit dem Gegenschlag e7-e5 oder dem vorsichtigeren Zug
+e7-e6 den Einfluss zu vergrößern. Ein weiteres Merkmal liegt in der
+Vorbereitung des Gegenstoßes b7-b5, der nicht nur das sehr gute
+Entwicklungsfeld b7 für den Damenläufer freimacht, sondern auch den Angriff
+b5-b4 gegen den weißen Damenspringer und damit das weiße Zentrum vorbereitet.
+Weiß hat an dieser Stelle verschiedene Möglichkeiten. Er kann versuchen,
+seine vorläufige Dominanz im Zentrum und seinen leichten
+Entwicklungsvorsprung mit aggressiven Läuferzügen untermauern.} 6. Bg5 {
+Neben dem berühmten "Englischen Angriff" bildet die Entwicklung des
+Damenläufers nach g5 das aggressivste und wichtigste System in der modernen
+Bekämpfung der Najdorf-Variante. Weiß übt sofort Druck auf den Springer f6
+aus und bereitet die lange Rochade vor. Er wird früher oder später versuchen,
+einen Bauernsturm am Königsflügel zu entfesseln und im Zentrum
+durchzubrechen. Schwarz wird daher in der Regel nicht die kurze Rochade
+anstreben, sondern den König in der Mitte belassen oder ihn auf den
+Damenflügel in eine relative Sicherheit bringen.} e6 {[%csl Yb5,Yc5,Rd5,Ye5,
+Re6,Rf5] Dieser Zug verdeutlicht die Grundidee des Systems, die in einer
+flexiblen und dynamischen Ausrichtung der Bauernstruktur besteht. Schwarz
+nimmt mit dem Zug e7-e6 die Felder d5 und f5 unter seine Kontrolle, so dass er
+jetzt die gesamte fünfte Reihe überwacht. Außerdem deckt die schwarze Dame
+nun den Springer im Falle eines Abtauschs, so dass die schwarze Bauernstruktur
+im Grunde erhalten bleibt. Allerdings verdeutlicht der Zug auch das Problem
+der schwarzen Bauernstellung. Die Felder d5, e6 und f5 sind die unter
+Umständen anfälligen Felder für weiße Figurenopfer, da sie einfach zu
+verletzen sind.} 7. f4 {Dieser Zug setzt die aggressive Strategie von Weiß 
+(Expansion im Zentrum, Kontrolle der fünften Reihe) fort. Potentielle
+Drohungen sind nun immer e4-e5 oder f4-f5. Der Vorstoß e4-e5 gewinnt zwar
+nicht forciert Material, aber er würde die schwarze Figurenkoordination
+durcheinander bringen und die schwarze Bauernstellung auf dem Königsflügel
+schwächen. Der Vorstoß f4-f5 würde die Schwäche der Felder f5 und e6
+deutlich machen.} Be7 {Der Läuferzug bildet die logische Fortsetzung, um die
+Entwicklung des Königsflügels zu beenden und die Fesselung des Springers
+aufzuheben. Es scheint allerdings so, als würde Weiß durch diesen Zug nicht
+besonders herausgefordert. Andere Züge mögen weniger solide erscheinen,
+ergeben aber ein für beide Seiten anspruchsvolles und zweischneidiges Spiel.}
+8. Qf3 {Mit diesem Zug bereitet Weiß die lange Rochade vor. Er will am
+Königsflügel einen Bauernsturm entfachen und den Turm auf die halboffene
+d-Linie stellen. Dafür nimmt er in Kauf, dass der König in die für Schwarz
+halboffene c-Linie gestellt wird. Die weiße Dame schützt außerdem den
+Bauern e4 und muss nur aufpassen, dass sie nicht von einem schwarzen Springer
+auf e5 angegriffen werden kann.} Qc7 {[%csl Yc4,Yc5,Yc6,Rc7,Rd6,Re5][%cal
+Gc7e5,Gc7c4] Die schwarze Dame besetzt ein aggressives Entwicklungsfeld. Sie
+kontrolliert e5 und verhindert die Entwicklung des weißen Königläufers nach
+c4. Dank der Kontrolle über die weißen Felder d5 und b5 kann die schwarze
+Dame nicht einfach angegriffen werden.} ({Der Zug} 8... h6 {führte im
+Interzonenturnier in Göteborg 1955 zur Argentinischen Tragödie. Die
+argentinischen Meister Oscar Panno, Herman Pilnik und Miguel Najdorf verloren
+gegen ihre sowjetischen Gegner nach} 9. Bh4 g5 10. fxg5 Nfd7 11. Nxe6 fxe6 12.
+Qh5+ Kf8 13. Bb5 {, wonach das Defensivkonzept mit den Springern auf e5 und d7
+verhindert wird. Weiß kann nun mit Th1-f1 ein wichtiges Schach auf f1 geben
+und einen sehr gefährlichen Königsangriff erhalten.}) 9. O-O-O {Weiß führt
+seinen Plan folgerichtig aus und bringt seinen König in Sicherheit. Er kann
+jetzt ohne zu zögern das Zentrum öffnen oder versuchen auf dem
+Königsflügel anzugreifen. Der Turm auf d1 erfüllt nicht nur eine offensive
+Funktion, indem er auf den Bauern d6 drückt, sondern verteidigt auch noch den
+Springer d4, der eine sehr zentrale Rolle in der weißen Figurenkoordination
+einnimmt.} O-O {Ich hielt diesen Zug nicht für möglich, denn Schwarz
+rochiert unbekümmert in den weißen Angriff hinein. Aber er wurde sogar von
+Fischer gespielt.} 10. g4 ({Besser ist hier viellecht} 10. Bd3 b5 11. e5 Bb7
+12. Qh3 {und Schwarz wird den Angriff nur schwer verteidigen}) 10... b5 11.
+Bxf6 Bxf6 12. g5 Bxd4 13. Rxd4 Bb7 14. Bg2 Nc6 15. Rd2 b4 16. Ne2 Rac8 17. Qd3
+Rfd8 18. Nd4 Nxd4 (18... Na5 $1 19. Kb1 Nc4 20. Rf2 Qb6 21. Rhf1 a5 $19) 19.
+Qxd4 d5 20. exd5 Bxd5 21. Bxd5 Rxd5 22. Qf2 (22. Qxb4 Rb8 23. Qe4 Rxd2 24. Kxd2
+Rxb2 {gefällt nicht}) 22... Rcd8 (22... Qa5 23. Rxd5 (23. Kb1 {scheitert an}
+b3) 23... Qxd5 24. Rd1 Qxa2 25. Qd4) 23. Rhd1 Qb7 24. Rxd5 Rxd5 25. Rxd5 Qxd5
+26. Qd2 Qh1+ 27. Qd1 Qa8 28. Qd4 a5 29. c3 bxc3 30. bxc3 1/2-1/2
+

@@ -1,0 +1,37 @@
+[Event "Salzkammergut Open 2010"]
+[Site "?"]
+[Date "2010.05.21"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Koller, Hubert"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "1870"]
+[BlackElo "2009"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[EventDate "2010.05.21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 {Die aktivste Variante} 5. h3 {Dieser
+Zug hält die Spannung aufrecht und schützt d4} Nf6 6. Nc3 O-O 7. O-O Bd7 8. Be3
+(8. Re1 {ist eine beachtliche Alternative, denn nach dem Tausch auf d4 steht
+der Läufer besser auf f4}) 8... exd4 9. Nxd4 Ne5 10. Be2 (10. Bb3 c5 {nebst c4
+gefiel mir nicht}) 10... c5 11. Nf3 $6 (11. Nf5 {ist aktiver, obwohl ich die
+folgende Abwicklung fürchtete} Bxf5 12. exf5 Qd7 {Aber} 13. g4 {hält die
+Stellung}) 11... Ng6 ({Ich rechnete mit} 11... Bc6 12. Nxe5 dxe5 13. Bf3 {
+wonach Schwarz aktiver steht}) (11... h6) 12. Bg5 {Der Läufer muss aktiver
+stehen} Bc6 {[%csl Ye4]} 13. Bd3 a6 14. a4 {Die kritische Stellung} b5 $6 15.
+axb5 axb5 16. Bxb5 $6 {Ich wollte unbedingt den Laeufer abtauschen} Rxa1 17.
+Qxa1 Qb6 $2 {Verliert einen Bauern} (17... Bxb5 18. Nxb5 Nxe4 19. Bxe7 Nxe7 20.
+Re1 {war die von mir angestrebte Hauptvariante mit leichtem Vorteil}) 18. Bxc6
+Qxc6 19. Re1 (19. Qa4 {hatte ich erst geplant, aber Schwarz erhaelt den Bauern
+zurueck} Qxa4 20. Nxa4 Nxe4 21. Bxe7 Nxe7 22. Re1 f5) 19... Ra8 20. Qc1 h6 21.
+Bxf6 {Sonst geht der Bauer doch verloren und die weiße Stellung ist nicht
+besser} Bxf6 22. Nd5 {Der Springer steht hier super} Bd8 23. c3 c4 24. Nd4 {
+Ein zweiter Vorposten} Qb7 25. f4 $6 {Zeitnot -- will den Sg6 von e5 ausperren,
+aber der Zug ist risky} (25. Nf5 Ne5 {[%csl Yd3][%cal Ge5d3]}) 25... Bb6 {
+Mit Remisangebot von Schwarz} 26. Kh2 Bc5 27. Re2 Ra2 28. Qb1 {Ich biete Remis}
+Qa6 29. Re1 Qa4 30. Rf1 Bxd4 $2 31. cxd4 $4 ({Wir übersehen beide} 31. Nb4 Bxc3
+32. Nxa2) 31... Qb3 32. Rf2 {Weiß steht besser, aber hat überhaupt keine Zeit
+mehr. Es könnte folgen Sd5-c3, wonach der Turm zurück muss} 1/2-1/2
+

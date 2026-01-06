@@ -1,0 +1,108 @@
+[Event "MMM 2018/2019 (C-Klasse)"]
+[Site "?"]
+[Date "2019.02.22"]
+[Round "5"]
+[White "Kreitmeier, Thomas"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1588"]
+[BlackElo "1793"]
+[Annotator "Tim Schmitz"]
+[PlyCount "88"]
+[EventDate "2019.??.??"]
+[SourceVersionDate "2019.02.23"]
+[WhiteTeam "SC Garching 7"]
+[BlackTeam "SC Sendling 3"]
+
+1. e4 c5 2. c3 d5 3. e5 {Das ist eine ungewöhnliche Reaktion auf das
+Anti-Alapin-Gambit und war von mir überhaupt nicht erwartet. Aber der Zug ist
+legal, legitim und führt zu einer Art Französischer Verteidigung - ohne,
+dass Schwarz sich bereits zu e7-e6 verpflichtet hätte.} Nc6 {Das ist der
+meistgespielte Zug in dieser Stellung. Schwarz entwickelt eine Figur und
+greift den Bauern e5 an. Die nächsten Züge beider Seiten wurden sehr schnell
+gespielt und liegen nahe.} 4. d4 Bf5 5. Nf3 e6 6. Be2 Qb6 {Die Dame kommt
+sicher etwas früh hinaus, aber sie behindert die weißen Leichtfiguren auf
+dem Damenflügel in der Entwicklung.} 7. O-O h6 $5 {Der Zug ist kein
+Entwicklungszug, aber er schafft ein Fluchtfeld für den Läufer auf f5, der
+sicher die beste Figur von Schwarz ist. Außerdem ist er eine Art Abwartezug,
+denn genauso wie Weiß auf dem Damenflügel hat Schwarz auf dem Königsflügel
+einige Probleme seine Figuren zu koordinieren und zu entwickeln.} ({Eine
+Alternative wäre} 7... Nge7 8. dxc5 Qxc5 9. Be3 Qa5 10. Nbd2 {Weiß ist in
+der Entwicklung etwas vorangekommen, aber er hat auch einen schwachen e-Bauern,
+der leicht angegriffen werden kann.}) 8. Na3 {Der Springer steht hier sicher
+nicht gut, aber er soll über c2 in das Spiel gebracht werden.} cxd4 {Die Idee
+hierbei ist die folgende. Wenn Weiß mit dem dem Bauern zurücknimmt, kann
+Schwarz mit dem Tausch auf a3 und anschließender Entwicklung des Springers
+nach e7 alle seine Probleme lösen.} 9. Nxd4 $5 {Weiß nimmt mit dem Springer
+und vereinfacht damit die Spannung im Zentrum.} ({Die Idee war nach} 9. cxd4
+Bxa3 10. bxa3 Nge7 {abzuwickeln. Vielleicht ist die Idee aber auch nicht gut.
+Schwarz hat große Probleme auf den schwarzen Feldern. Wenn Weiß den
+Damenläufer aktivieren kann, kontrolliert dieser das halbe Brett.} 11. a4 O-O
+12. Ba3 Rac8 13. Bc5 {und es ist überhaupt nicht klar, wer hier besser steht.}
+) 9... Nxd4 {Es musste der Springer getauscht werden, denn der Läufer auf f5
+war bedroht.} 10. Qxd4 Qxd4 11. cxd4 {Der Damentausch hat die Struktur der
+Stellung zementiert. Weiß hat leichten Entwicklungsvorsprung, aber auch einen
+schwachen Bauern auf d4 (der die Partie entscheiden wird). Schwarz muss seine
+Figuren in das Spiel bringen - am besten auf den Damenflügel. Vorher muss er
+aber noch einen Sicherungszug machen.} ({Etwas beunruhigend war das
+Zwischenschach} 11. Bb5+ {, das die schwarze Figurenkoordination stört.} Kd8
+12. cxd4 a6 13. Be2 Ne7 {mit einem ähnlichen Verlauf wie in der Partie, nur
+ohne schwarze Rochade.}) 11... a6 $1 {Dieser prophylaktische Zug verhindert
+nicht nur das Schach, sondern auch den Einstieg des Springers auf b5.} 12. Bd2
+Ne7 13. Rfc1 {Weiß droht die Türme nach Einstieg auf c7 zu verdoppeln und
+bereitet den Springerrückzug vor. Ich hätte allerdings mit dem anderen Turm
+begonnen.} Nc6 14. Bc3 {Hier steht der Läufer sehr bescheiden und passiv.
+Vielleicht wäre eine Entwicklung nach e3 besser.} (14. Nc2 $4 {scheitert an}
+Bxc2 15. Rxc2 Nxd4 {mit Materialverlust}) 14... Be7 {Das ist noch kein
+großartiges Feld für den Läufer, aber die Idee des Abtauschs auf a3 gefiel
+mir immer weniger. Außerdem ist der Entwicklungsrückstand nicht so schlimm,
+da das Zentrum blockiert ist.} 15. Nc2 O-O (15... Bg5 {ist keine gute Idee
+wegen} 16. Ne3 {Jetzt kann Weiß zwar einen Doppelbauern erhalten, aber auch
+wieder mehr Dynamik im Zentrum.}) 16. Ne3 Bg6 {Beide Seiten haben ihre Figuren
+umgruppiert. Jetzt stellt sich die Frage, nach dem richtigen Plan.} 17. g3 $6 {
+Das ist sehr zahm.} ({Schärfer ist} 17. f4 Rfc8 18. g4 Be4 19. f5 Bg5 {
+Wahrscheinlich hat Weiß hier überreizt und muss schon} 20. Kf2 {spielen.})
+17... Rfc8 {Schwarz muss ebenfalls eine Aktivierung seiner Türme vornehmen.}
+18. f4 Be4 $6 {Der Zug sieht optisch gut aus, weil er das Zentrum besetzt,
+aber er droht nichts und er ist auch nicht notwendig. Zumindest verhindert er
+vorerst die Platzierung des weißen Läufers auf f3.} 19. Ng4 {Der Springer
+will wahrscheinlich nach f2, aber der Plan ist ziemlich langsam.} b5 {Jetzt
+ist die Zeit für Gegenspiel gekommen. Weiß muss b5-b4 auf jeden Fall
+verhindern.} 20. a3 Bd8 $1 {Das gefällt. Der Läufer leistet jetzt nichts
+mehr auf e7 und kann viel besser auf b6 eingesetzt werden, um den schwachen
+Bauern d4 zu befragen.} ({Die Alternative} 20... Rab8 21. b4 {gefiel mir nicht.
+Die Stellung ist ziemlich blockiert und der Turm auf b8 wirkungslos.}) 21. b4
+Bb6 {Jetzt wird das Dilemma um den Bauern d4 deutlich. Weiß kann ihn nicht
+mehr vernünftig decken, und der König steht auch noch in der Diagonalen.} 22.
+Rd1 {Auf einmal tauchen taktische Möglichkeiten auf. Der Läufer auf c3
+hängt, also kann Schwarz einen Bauern gewinnen. Aber der Preis ist hoch.} Nxe5
+$5 {Weiß muss den Springer auf e5 nehmen und den Läufer auf c3 geben. Er
+verliert einen wichtigen Bauern und einen schlechten Läufer sowie erlaubt dem
+schwarzen Turm in die weiße Stellung einzudringen. Dafür kann sein Springer
+in die schwarze Stellung eintauchen.} 23. fxe5 $2 {Das ist ein Fehler, der die
+Stellung schwächt.} ({Besser scheint} 23. Nxe5 Rxc3 24. Nd7 Bd8 25. Nc5 {
+[%csl Ya6,Ye4][%cal Gc5e4,Gc5a6] Der Springer steht gut auf c5. Wenn Schwarz
+ihn abtauscht, dann erhält Weiß einen sehr starken Freibauern auf c5. Auf
+jeden Fall ist dies die beste Variante.}) 23... Rxc3 24. Nf2 {Auch kein guter
+Zug, aber die weißen Figuren sind alle ziemlich unkoordiniert.} Bg6 25. a4 {
+Vielleicht ist dies der letzte Versuch, Aktivität und Druck auszuüben. Der
+schwarze Bauer auf b5 wird unterminiert.} Rc2 {Ein Zwischenzug, um Zeit zu
+gewinnen.} 26. Kf1 bxa4 27. Rxa4 a5 {Der schwache Bauer auf a6 ist ein
+einziges Ärgernis. Wenn er vom Brett kommt, hat Schwarz keine Probleme mehr.}
+28. bxa5 $6 {Unnötig.} (28. Rda1 {scheitert an} Bxd4 {und das Läuferpaar ist
+zum Leben erwacht.}) 28... Rxa5 29. Rxa5 Bxa5 30. Bd3 $2 {Das ist alles zu
+wenig resilient. Weiß tauscht Figur auf Figur, ohne dass er Gegenspiel
+entwickelt.} (30. Ra1 {verliert vermutlich auch, aber mit mehr Initiative} Bc3
+31. Ra8+ Kh7) 30... Bxd3+ 31. Rxd3 (31. Nxd3 Rxh2 {sieht auch nicht besser aus}
+({Oder} 31... Rd2 {mit Turmtausch})) 31... Bb6 {Der Bauer auf d4 wird fallen
+und damit auch die weiße Stellung.} 32. Ke1 Rc4 33. Ng4 {Weiß möchte
+wenigstens noch den Bauern e5 behalten und nicht mit zwei Minusbauern das
+hoffnungslose Endspiel spielen. Allerdings kostet ihn der Zug auch einen
+weiteren Turmtausch.} Rxd4 34. Rxd4 Bxd4 35. Ke2 h5 36. Ne3 Bxe3 {Das ist am
+einfachsten. Schwarz wickelt in ein gewonnenes Bauernendspiel ab.} ({Hier
+gewänne auch} 36... Bxe5 37. Kd3 f5 {und die weiße Stellung ist komlett
+dominiert}) 37. Kxe3 Kh7 38. h3 Kg6 39. Kf4 Kh6 40. h4 Kg6 41. g4 hxg4 42. Kxg4
+f6 43. h5+ Kh6 44. exf6 gxf6 {Natürlich kann man auch früher aufgeben, aber
+die ist schließlich ein Mannschaftskampf.} 0-1
+

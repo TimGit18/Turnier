@@ -1,0 +1,21 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2024.01.03"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Ruddat, Mathias"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1801"]
+[BlackElo "2536"]
+[Annotator "Tim Schmitz"]
+[PlyCount "42"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2024.01.03"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 Qd8 7. Nf3 e6 8.
+Bd3 Be7 9. O-O O-O 10. Be3 Bd7 11. Qe2 Bc6 12. Ne5 Nd5 13. Qh5 $6 (13. Rad1)
+13... g6 14. Qh3 Nxe3 15. fxe3 f5 $2 16. Nxc6 $2 (16. Bc4 $1 Bd5 17. Bxd5 exd5
+18. Qf3 Bg5 19. Rae1) 16... Nxc6 17. Bc4 Rf6 18. Rad1 Na5 19. Be2 Rc8 20. e4 $6
+(20. d5 e5) 20... Nc4 21. Bxc4 Rxc4 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "?"]
+[Site "?"]
+[Date "2019.10.11"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Stiefel, Roland"]
+[Result "1-0"]
+[ECO "B28"]
+[WhiteElo "1863"]
+[BlackElo "1960"]
+[Annotator "schmi"]
+[PlyCount "71"]
+[SourceVersionDate "2019.10.12"]
+
+1. e4 c5 2. Nf3 a6 3. c3 e6 4. d4 d5 5. exd5 Qxd5 (5... exd5) 6. Be3 cxd4 7.
+cxd4 Bb4+ 8. Nc3 Nc6 9. Bd3 Qa5 10. O-O Nf6 11. Qe2 Bxc3 12. bxc3 Qxc3 13. Rac1
+Qa3 14. Rc5 $6 (14. d5 Nxd5 15. Bc5 Qa5) 14... Nd7 15. Bc1 Qb4 16. Bd2 Qb6 17.
+Rc4 (17. Rb1 $2 Nxd4 $1) 17... Nf6 18. Rb1 Qd8 19. Bg5 h6 20. Bh4 g5 21. Bg3
+Nd5 22. Ne5 Nce7 $2 23. Qh5 Rf8 24. Qxh6 Ng8 25. Qh5 Ra7 26. h4 Ngf6 27. Qe2
+Rg8 28. Rbc1 Bd7 29. Nxd7 Kxd7 30. Qe5 Ne8 31. Rc8 Qb6 32. hxg5 Ke7 33. Be4
+Ndc7 34. R1xc7+ Nxc7 35. Rxg8 Ne8 36. Qb8 1-0
+

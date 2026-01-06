@@ -1,0 +1,66 @@
+[Event "Regionalliga Süd-West 2022/23"]
+[Site "?"]
+[Date "2022.10.09"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Birth, Waldemar"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1820"]
+[BlackElo "1975"]
+[Annotator "Tim Schmitz"]
+[PlyCount "112"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2021.11.08"]
+[WhiteTeam "SC Sendling 1"]
+[BlackTeam "SK Rochade Augsburg 1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 {[%csl Yc1,Rd2,Yd4] Dieser Zugbildet das
+Tarrasch-System. Weiß verteidigt den Bauern e4 ohne seinen Springer einer
+Fesselung auszusetzen. Hiermit wird ein Universalsystem angestrebt, dass auch
+gegen c7-c5 und Lf8-e7 funktioniert. Allerdings hat der Zug auch zwei
+Nachteile: der Damenläufer auf c1 wird eingesperrt und der Bauer auf d4 wird
+nicht mehr von der weißen Dame verteidigt.} Nf6 {Das ist die aggressivste und
+herausfordernste Antwort. Schwarz entwickelt seinen Springer und greift den
+Bauern auf e4 an.} 4. e5 {Weiß entwickelt in der Folge seinen Königsflügel
+so schnell wie möglich, während er in der Zwischenzeit ein intaktes
+Bauernzentrum behält. Schwarz baut mittlerweile Druck gegen den Bauern d4 auf.
+} Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Be7 {An dieser Stelle erwartete ich das
+Abgelehnte Korchnoi-Gambit, aber Schwarz transponiert nur.} 8. O-O Qb6 {
+mit Übergang in das Angenommene Korchnoi-Gambit.} ({Thematisch ist hier} 8...
+g5 $5) 9. Qe2 $6 {Weiß will das Gambit aufrechterhalten, was sich als keine
+gute Entscheidung erweist.} ({Besser ist hier} 9. dxc5 Bxc5 10. b4 Be7 11. Re1
+{Weiß hat mehr Raum auf dem Damenflügel.}) 9... cxd4 10. cxd4 Nxd4 11. Nxd4
+Qxd4 12. Nf3 Qb6 13. Bf4 $6 {Hier kann der Läufer eigentlich nicht richtig
+stehen.} ({Ich wollte auf jeden Fall} 13. Be3 Bc5 {vermeiden, aber
+wahrscheinlich geht hier} 14. Bd2 (14. Bxc5 {ist nicht so gut, denn nach} Nxc5
+{steht der schwarze Springer sehr aktiv.})) 13... Nc5 14. Be3 Qd8 15. Bb5+ $2 {
+Das erst ist ein grober positioneller Fehler. Der Läufer muss auf dem Brett
+bleiben, wie sich später zeigt.} ({Stattdessen} 15. Bxh7 Rxh7 16. Bxc5 Bxc5
+17. Qb5+) 15... Bd7 16. Rac1 b6 17. Rc2 Bxb5 18. Qxb5+ Qd7 19. Qe2 O-O 20. Rfc1
+Rfc8 21. Nd4 Nb7 $6 {Dieser passive Rückzug gibt Weiß wieder etwas
+Gegenspiel.} 22. h3 $2 {Vergibt die Chance auf Initiative.} (22. Qb5 Qxb5 23.
+Rxc8+ Qe8 24. Rxe8+ Rxe8 25. Rc7 {mit einer ähnlichen Stellung wie in der
+Partie, aber aktiver für Weiß.}) 22... Rc5 23. Nb3 Rxc2 24. Qxc2 g6 25. Qc7
+Rd8 26. Qxd7 Rxd7 27. Rc8+ Kg7 28. Nd4 Bc5 29. a3 $2 {Ein weiterer Fehler, der
+die weißen Felder auf dem Damenflügel unwiederbringlich schwächt. Die
+vorhergehenden Züge hatten die Partie ungefähr im Gleichgewicht gehalten.}
+Na5 30. Nc2 $4 {Weiß kollabiert unter dem Stellungsdruck und verliert mit
+diesem Zug die Partie. Es war aber auch schon schwierig, eine adäquate
+Antwort zu finden.} ({(a)} 30. b4 Bxd4 31. Bxd4 Nb3 32. Be3 d4 {sah furchtbar
+aus, übersieht aber} 33. Bg5 d3 34. Bf6+ Kh6 35. f4 d2 36. Bg5+ Kg7 37. Bf6+ {
+mit Stellungswiederholung.}) ({(b) Nach der Partie wurde} 30. Bg5 Bxd4 31. Bf6+
+Kh6 32. g4 {mit Mattmotiven analysiert, zum Beispiel} Bxb2 33. g5+ Kh5 34. Rh8
+Bxe5 35. Rxh7# {Diese Abwicklung hatte ich leider ziemlich übersehen.}) 30...
+d4 $1 {Einfach und klar. Weiß kann weiteren Materialverlust kaum noch
+vermeiden.} 31. b4 {Sonst marschiert der Bauer durch.} dxe3 32. fxe3 {sieht
+furchtbar aus, ist aber alternativlos.} (32. Nxe3 Bxe3 33. fxe3 Nb3 {verliert
+einfach nur eine Figur.}) 32... Rd1+ 33. Kh2 Rd2 34. Ne1 Bxe3 35. bxa5 Bf4+ 36.
+Kg1 Bg3 37. Rc1 Bxe1 38. Rxe1 bxa5 39. Re3 h5 {Schwarz wählt einen
+langsameren, aber todsicheren Gewinnplan. Angesichts der zwei Mehrbauern und
+der aktiveren Figuren (Turm und König) ist es nur eine Frage der Zeit. Der
+Rest der Partie ist für das Protokoll.} 40. Kh2 h4 41. Re4 g5 42. Ra4 Rd5 43.
+Re4 Kg6 44. Kg1 Kf5 45. Re3 Rxe5 46. Rf3+ Kg6 47. Rc3 f5 48. Kf2 g4 49. Rc4 Kg5
+50. Rc7 g3+ 51. Kf1 Kf4 52. Rc3 Rb5 53. Rd3 e5 54. Rf3+ Ke4 55. Rc3 f4 56. Rf3
+a4 0-1
+

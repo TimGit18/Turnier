@@ -1,0 +1,27 @@
+[Event "DSAM Aalen C-Gruppe"]
+[Site "?"]
+[Date "2013.12.21"]
+[Round "3"]
+[White "Morlock, Peter"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1769"]
+[BlackElo "1757"]
+[PlyCount "56"]
+[EventDate "2013.12.20"]
+[SourceDate "2013.12.20"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 {Es entsteht eine Art Torre-Angriff} 4. Nbd2 d5
+5. e3 O-O 6. Bd3 c5 7. c3 Qb6 8. Rb1 Nc6 9. O-O Re8 {Schwarz möchte e7-e5
+spielen} 10. dxc5 Qxc5 11. e4 Nxe4 (11... dxe4 {gefiel mir nicht wegen} 12.
+Bxf6 Bxf6 13. Nxe4) 12. Nxe4 dxe4 13. Bxe4 Bg4 $6 {Das ist vielleicht etwas
+überambitioniert} (13... Be6 {sieht viel gesünder aus}) 14. Be3 Qa5 15. Qb3 Qc7
+16. Ng5 $1 {Das ist die Pointe. Jetzt wird der schwarze Damenläufer zum Problem
+} e6 17. h3 Be2 {Die Idee ist es, den Läufer nach a6 zu bringen. Aber dort
+steht er auch nicht gut} 18. Rfe1 Ba6 19. Rbd1 Rad8 20. Qa4 {Es droht der
+Verlust des Bauern a7} h6 21. Bxc6 Qxc6 22. Qxc6 bxc6 23. Ne4 Bd3 {Was sonst?
+Jetzt verliert Schwarz einen Bauern} 24. Nc5 (24. Bxa7) 24... Bc2 25. Rc1 $2 (
+25. Rxd8 Rxd8 26. Rc1 Rd1+ 27. Rxd1 Bxd1 28. Na6 {sieht schon sehr gut aus für
+Weiß}) 25... Bd3 26. Rcd1 Bc2 27. Rc1 Bd3 28. Rcd1 Bc2 1/2-1/2
+

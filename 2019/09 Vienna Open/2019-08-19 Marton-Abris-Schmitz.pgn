@@ -1,0 +1,58 @@
+[Event "Vienna Open (B-Turnier)"]
+[Site "?"]
+[Date "2019.08.19"]
+[Round "4"]
+[White "Marton-Abris, Hajdu"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "1710"]
+[BlackElo "1870"]
+[Annotator "Tim Schmitz"]
+[PlyCount "55"]
+[SourceVersionDate "2019.08.19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. f5 Be7 10. Qf3 {Das ist die Ausgangsstellung des Pseudo-Sozin-Angriffs.
+Weiß hat seine Figuren optimal und aggressiv platziert, aber Schwarz hat noch
+keine Schwächen. Aus Gründen unbererechtigter Panik wurde in der Partie auf
+die kurze Rochade verzichtet, nicht ahnend, dass die lange Rochade auch nicht
+sicherer sein wird.} Qc7 {Der Zug ist nicht schlecht und passt in das System,
+also verdirbt er noch nichts.} ({Die theoretische Empfehlung lautet} 10... O-O
+11. Be3 ({Nach} 11. O-O Bd7 12. Be3 b5 13. a3 Nxb3 {hat Schwarz (angeblich)
+Vorteil meint Andrisyan.}) 11... e5 12. Nde2 Nxb3 13. axb3 b5 14. g4 b4 15. Na4
+Bb7 {So hätte es wunschgemäß in der Partie laufen sollen, lief es aber
+nicht. Schwarz hat den gefährlichen Königsläufer entsorgt, seine
+Leichtfiguren entwickelt und greift den Bauern e4 an. Bald wird der
+Zentraldurchbruch d6-d5 folgen}) 11. Be3 {Stellungsgemäße Entwicklung von
+Weiß und Vorbereitung der langen Rochade.} Bd7 $6 {Ein Kompromisszug, der
+sich alle Optionen offenhält. Mittlerweile ist Schwarz schon so nervös, dass
+er die kurze Rochade nicht mehr wagt und bereit ist, mit dem König im Zentrum
+zu bleiben oder lang zu rochieren.} 12. O-O-O e5 {Auch eine Idee, die vom
+Prinzip her nicht schlecht ist (siehe oben). Schwarz hält die Stellung
+geschlossen und tauscht den weißen Königsläufer ab. Er hat nur nicht mit
+dem auftauchenden Springer auf d5 gerechnet, der nach dem Tausch auf f6
+unvertreibbar ist (ein sich wiederholendes Motiv der letzten Najdorf-Partien
+und insbesondere von jungen Spielern gerne bedacht).} 13. Nde2 Nxb3+ 14. cxb3
+$1 {Anstatt schematisch mit dem Bauern zum Zentrum zu schlagen, öffnet Weiß
+die c-Linie, da er damit rechnet, dass er von dieser Gebrauch machen kann. Und
+er behält recht.} b5 15. Kb1 Qb7 {Die Dame sollte dorthin. Aber nachher
+fehlen 1-2 Tempi zum Ausgleich.} (15... b4 16. Nd5 Nxd5 17. Rxd5) 16. Bg5 O-O-O
+$2 {Das ist ein ganz schlechter Zug. Schwarz rochiert sehenden Auges in die
+offenen Linien von Weiß.} ({Etwas resilienter wäre} 16... Rc8 17. Bxf6 Bxf6
+18. Rxd6 Bc6 19. Rhd1 Ke7 20. R6d2 Rhd8 21. Nd5+) 17. Bxf6 Bxf6 18. Nd5 b4 $4 {
+Das verliert einzügig. Die Idee ist es, dem Springer auf e2 den Weg nach c3
+und d5 zu verwehren. Im Prinzip ist dies keine schlechte Idee, wurde aber
+taktisch nicht geprüft (ein Indiz für die schlechte Form des Nachziehenden).
+Daher gewinnt Weiß trotz seines jungen Alters (9 Jahre) hier ziemlich einfach.
+} ({Nach} 18... Bc6 19. Nxf6 gxf6 20. Nc3 {ist das Endspiel zwar deutlich
+schlechter für Schwarz, aber unter Umständen noch zu halten.}) 19. Rc1+ $1 ({
+Und nicht das billige} 19. Nxf6 gxf6 20. Rxd6 Bc6 21. Rxd8+ Rxd8 22. Ng3 {
+, wonach sich Schwarz noch Gegenspielchancen ausrechnen darf.}) 19... Bc6 {
+Schwarz verliert schnell die Dame und auch die Partie, aber eine richtige
+Alternative war schon nicht mehr zu entdecken.} (19... Kb8 {verliert nach} 20.
+Rc7 Qb5 21. Qe3 {und um das Matt auf a7 zu vermeiden verliert Schwarz schon
+Haus und Hof}) 20. Rxc6+ Qxc6 21. Rc1 Qxc1+ 22. Nxc1 a5 23. Qd3 Bg5 24. Qa6+
+Kd7 25. Qb5+ {Matt in wenigen Zügen, daher folgte die Aufgabe. Es kann folgen}
+Kc8 26. Qc6+ Kb8 27. Qc7+ Ka8 28. Nb6# 1-0
+

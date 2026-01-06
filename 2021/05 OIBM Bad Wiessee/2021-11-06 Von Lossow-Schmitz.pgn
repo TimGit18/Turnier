@@ -1,0 +1,18 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2021.11.06"]
+[Round "8"]
+[White "Von Lossow, Marcus"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "1674"]
+[BlackElo "1835"]
+[Annotator "Tim Schmitz"]
+[PlyCount "32"]
+[SourceVersionDate "2023.03.24"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 O-O 10. Be2 Nbd7 11. O-O Qc7 12. Rad1 Rfd8 13. Nd5 Nxd5 14. exd5 Bf5
+15. Bd3 Bxd3 16. Qxd3 Rac8 1/2-1/2
+

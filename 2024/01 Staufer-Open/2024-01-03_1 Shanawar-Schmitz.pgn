@@ -1,0 +1,19 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2024.01.03"]
+[Round "3"]
+[White "Shanawaz Thabrez, Shahzaib	 "]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "1508"]
+[BlackElo "1801"]
+[Annotator "Tim Schmitz"]
+[PlyCount "34"]
+[SourceVersionDate "2024.01.03"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Be2 Nf6 6. d3 Nc6 7. O-O O-O 8. Qe1
+Nd4 9. Qh4 e6 $5 (9... Nxc2 10. Rb1 e6) 10. f5 exf5 11. Bg5 h6 $1 12. Bxh6 Ng4
+$6 (12... Nxe4 $3 13. Qxd8 Rxd8 14. Bxg7 Nxc3 $17) 13. Qxd8 Nxe2+ 14. Nxe2 Rxd8
+15. Bxg7 Kxg7 16. exf5 Bxf5 17. Ng3 Be6 1/2-1/2
+

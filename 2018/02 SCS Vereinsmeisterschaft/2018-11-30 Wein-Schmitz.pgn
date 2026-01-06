@@ -1,0 +1,84 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2018.12.01"]
+[Round "4"]
+[White "Wein, Ulrich"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B86"]
+[WhiteElo "1903"]
+[BlackElo "1781"]
+[Annotator "Tim Schmitz"]
+[PlyCount "58"]
+[SourceVersionDate "2018.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8. Ba2
+O-O 9. O-O b5 10. f4 Bb7 11. f5 e5 12. Nde2 Nbd7 13. Ng3 Nb6 {Bis hierhin war
+mir die Theorie der Stellung noch geläufig und ich hatte sehr wenig Zeit
+verbraucht. Aber da wir beide diese Eröffnung bereits Anfang des Jahres
+diskutiert haben, kannte sich der Gegner auch gut mit dem Stellungstyp gut aus.
+} ({Laut Zaven Andriasyan ist aber} 13... Rc8 {genauer, denn er bereitet ein
+Qualitätsopfer vor} 14. Bg5 Rxc3 15. bxc3 Nxe4 16. Nxe4 Bxe4 17. Bxe7 Qxe7 18.
+c4 Rc8 {[%csl Yc2][%cal Ge4c2,Gc8c2] Für die geopferte Qualität erhält
+Schwarz einen Bauern und ein sehr schönes Druckspiel auf der c-Linie.}) 14.
+Bg5 Rc8 15. Nh5 {Weiß massiert seine Kräfte auf dem Königsflügel. Er
+möchte dort seinen Raumvorteil ausnutzen, um einen Angriff gegen den
+schwarzen König zu inszenieren. Zunächst versucht er den Druck auf den
+Springer f6 zu erhöhen, damit Schwarz ihn gegen den Springer auf h5 abtauscht
+und die weiße Dame nach h5 kommen kann.} Nc4 $1 {[%csl Yb2][%cal Rc4b2,Yc8c3]
+Dieser Zug ist sehr logisch. Der Springer greift b2 an und unterbindet die
+Kommunikation des Läufers auf a2 mit dem Rest der Stellung. Der Angriff auf
+den Bauern b2 unterminiert auch die Deckung des Springers auf c3. Dass die
+Kontrolle über das Feld d5 etwas abgemildert wird, fällt nicht in das
+Gewicht, da der Läufer auch nicht mehr d5 kontrolliert.} 16. Bxc4 Rxc4 {
+Zu diesem Schlagen gab es wohl keine Alternative. Aber jetzt steht der Turm
+auf c4 sehr aktiv. Er greift e4 und c3 an.} 17. Bxf6 Bxf6 {Weiß hat eine der
+Angriffsfiguren von Schwarz eliminiert. Dafür erhält Schwarz das Läuferpaar
+und gute Aussichten im Zentrum.} 18. Qg4 {Hier droht bereits das Schlagen auf
+g7. Allerdings ist dies laut Engine gar nicht so gefährlich, so dass man hier
+auch mit d6-d5 hätte fortfahren können.} Kh8 {Der Seitschritt des Königs
+geht allen Einschlägen auf g7 aus dem Weg und ist am sichersten.} ({Die
+weiße Idee wird sichtbar nach} 18... Qe7 19. Nxg7 Bxg7 20. f6 {mit Matt oder
+Damenverlust.}) 19. Rf3 $6 {Das ist ein ungenauer bzw. schon fehlerhafter Zug.
+Weiß verkennt den schwarzen Gegenschlag im Zentrum. Er möchte statt dessen
+den Turm auf die h- oder die g-Linie stellen, um noch mehr Druck auf die
+schwarze Königsstellung auszuüben.} (19. Rad1 {war geboten, was zwar den
+Vormarsch d6-d5 nicht verhindert, ihn aber pychologisch viel schwieriger zu
+spielen macht.}) 19... d5 $1 {Schwarz ergreift die Initiative und greift im
+Zentrum an. Wenn er d5 durchsetzt, dann hat er schon ausgeglichen. Hier hat er
+Vorteil durch seine aktiven Figuren und die schlecht koordinierten weißen
+Figuren.} 20. Rd1 {Immerhin kommt jetzt der Turm auf die d-Linie und
+verhindert durch die Fesselung das Schlagen des e-Bauern. Aber Schwarz kann
+der Fesselung leicht ausweichen.} Qb6+ 21. Kh1 {Das ist die kritische Stellung.
+Wie kann Schwarz seinen Vorteil in Gewinn ummünzen?} dxe4 $6 {Schwarz trifft
+die falsche Entscheidung. Er gewinnt zwar einen Bauern und behält auch noch
+die bessere Stellung, aber der Vormarsch des Bauern wäre besser gewesen.} ({
+Der richtige Zug lautet} 21... d4 $1 {Wenn der Springer zurückgeht, dann
+schlägt Schwarz den Bauern auf c2 und übt schweren Druck auf der zweiten
+Reihe aus. Daher muss der Springer in das Zentrum ziehen.} 22. Nd5 Bxd5 23.
+Nxf6 Qxf6 24. b3 {Sonst zieht der d-Bauer nach vorn und der Abzugsangriff
+greift die weiße Dame an. Zieht sie sich züruck, so folgt d3xc2. Der Turm
+muss nach c1, wo ihn die schwarze Dame angreifen kann. Das Spiel wäre
+eigentlich schon entschieden.} Rxc2 25. exd5 {Weiß hat lauter schwache Bauern
+und keinen Angriff mehr. Schwarz hat einen gedeckten Freibauern auf d4 und
+beherrscht die einzig offene Linie.}) 22. Rh3 {Mit dem Hintergedanken, auf der
+h-Linie noch etwas im trüben zu fischen.} e3 {Greift die Dame an und öffnet
+die Diagonale des Läufers auf b7, aber der Vorstoß hat schon einiges an
+Kraft verloren.} 23. Qe2 {Das ist ein meschlicher Defensivzug. Weiß blockiert
+den Bauern und greift ihn gleichzeitig an.} Rd8 $2 {Das ist bereits ein
+ernster Fehler. Der Bauer e3 wird ohne Not aufgegeben. Der Grund für diesen
+Zug liegt darin, dem weißen Turm die offene d-Linie streitig zu machen und
+die letzte Figur in das Spiel zu bringen.} ({Besser wäre die Deckung des
+Bauern und Aktivierung des Läufers mit} 23... Bg5 $1 24. Nd5 Bxd5 25. Rxd5 Qc6
+{, wonach der c-Bauer nicht zu halten ist. Und damit auch die Partie.}) 24.
+Rxd8+ Qxd8 25. Rxe3 {Jetzt hat Weiß schon ausgeglichen. Schwarz versucht noch
+einen aktiven Zug.} Rd4 26. Nxf6 Rd2 {Die Idee ist nicht schlecht. Wenn die
+Dame wegzieht, kann Schwarz den Springer schlagen und erhält den Bauern c2.}
+27. Rd3 {Die genaueste Verteidigung. Weiß wickelt in ein günstiges Endspiel
+ab.} Rxd3 {Eigentlich ist es egal, wie Schwarz schlägt.} ({Die Alternative
+lautet} 27... Qxd3 28. Qxd3 Rxd3 29. cxd3 gxf6 {mit derselben Stellung wie in
+der Partie.}) 28. Qxd3 Qxd3 29. cxd3 gxf6 {nebst Remisangebot von Schwarz.
+Weiß steht wegen der schlechten schwarzen Bauern etwas besser. Schwarz muss
+hier schon genau spielen, denn wenn der weiße Springer nach c5 kommt, dann
+dominiert er den schwarzen Läufer völlig.} 1/2-1/2
+

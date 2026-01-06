@@ -1,0 +1,33 @@
+[Event "RMO 2010"]
+[Site "?"]
+[Date "2010.06.06"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Falkenhainer, Sven"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1892"]
+[BlackElo "1633"]
+[Annotator "Tim Schmitz"]
+[PlyCount "57"]
+[EventDate "2010.05.21"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 Nf6 5. Qd2 Nbd7 6. O-O-O e5 {Etwas
+inflexibel, nach den Erfahrungen der Bender-Partie wollte ich hier nicht nehmen
+} 7. f3 O-O 8. Nge2 (8. Bh6 {funktioniert nicht wegen} exd4) 8... a5 {Etwas
+sloppy, a6 oder c6 sind besser} 9. Bh6 b6 {Der Läufer soll über a6 in das Spiel
+} 10. h4 {Wichtig, um jede Blockade auf h5 zu verhindern} Ba6 11. Bxg7 Kxg7 12.
+h5 Rh8 $6 {Eine nicht für gut befundene Verteidigung} (12... Nxh5 13. g4 exd4
+14. Nxd4 Bxf1 15. Rdxf1 Ng3 16. Qh6+ Kf6 17. Nd5+ Ke5 18. Nc6+ Ke6 19. Nf4+ Kf6
+20. g5# {wäre schön gewesen}) 13. Ng3 {Stellt zumindest eine Drohung auf mit
+Doppelabtausch und Eindringen auf der h-Linie} Qe7 $2 {Jetzt erhalte ich
+leicht Angriff} 14. Bxa6 Rxa6 15. hxg6 fxg6 16. Qg5 Kf8 17. dxe5 {Logisch, ich
+muss die Stellung öffnen} Nxe5 18. f4 Nf7 19. Qb5 Ra8 20. Rhe1 {Weiß hat
+klaren Eröffnungsvorteil und kann auf Gewinn spielen} Rd8 (20... Re8 {ist m.E.
+besser, denn er verhindert vorerst noch e4-e5}) 21. e5 $6 {Die Öffnung
+forciert das Spiel, ist aber vielleicht nicht das Beste} dxe5 22. Rxd8+ Qxd8
+23. fxe5 Ng4 24. e6 Nfe5 $2 {Der Verlustzug, ein großer Fehler} (24... Qg5+ 25.
+Kb1 Qxb5 26. Nxb5 Nfe5 27. Nxc7 Ke7 28. Ne4 {mit guten Remischancen für Schwarz
+}) 25. Rxe5 Nxe5 26. Qxe5 Rg8 27. Nd5 Rg7 28. e7+ {Aufgegeben, es kann folgen}
+Rxe7 29. Qh8+ 1-0
+

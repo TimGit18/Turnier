@@ -1,0 +1,28 @@
+[Event "SC Sendling Simultan 2008"]
+[Site "?"]
+[Date "2008.07.11"]
+[Round "1"]
+[White "Schamberger, Alfons"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2162"]
+[BlackElo "1777"]
+[Annotator "Tim Schmitz"]
+[PlyCount "107"]
+[EventDate "2008.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. c3 Nc6 5. Bd3 Bg4 6. O-O e6 7. Nbd2 Bd6 8. Re1
+O-O 9. h3 Bh5 10. g4 Bg6 11. Bxg6 hxg6 12. e4 dxe4 13. Nxe4 Nxe4 14. Rxe4 cxd4
+15. Nxd4 Rc8 {Weiß hat nichts konkretes} 16. Re1 Qh4 17. Qf3 Nxd4 18. cxd4 f5
+19. g5 Qxd4 $6 (19... Rc2 $1 20. Be3 f4 21. Bc1 Rf5 {mit starker schwarzer
+Stellung} 22. Kf1 Rxg5 23. Re2) 20. Be3 Qe5 21. Bxa7 Qh2+ 22. Kf1 Rc2 23. Rxe6
+Rfc8 24. Rd1 Be5 25. Re7 {Weiß erhält langsam Oberwasser} Kf8 26. Rxb7 Rc1 27.
+Rbd7 Bxb2 28. Rxc1 Rxc1+ 29. Ke2 Qe5+ 30. Qe3 Rc2+ 31. Kf1 Qb5+ 32. Qd3 Rc1+
+33. Kg2 Qc6+ 34. Qd5 Rc2 35. a4 Ke8 36. Qxc6 Rxc6 37. Rb7 {Der a-Freibauer und
+der starke Turm auf der 7.Reihe sichern Weiß den Sieg} Be5 38. Bb6 Rc4 39. a5
+Ra4 40. Kf3 Kf8 41. Ke3 Ra3+ 42. Ke2 Kg8 43. Re7 Bc3 44. Ra7 Bb4 45. a6 Rxh3
+46. Be3 Rh1 47. Rb7 Re1+ 48. Kf3 Ra1 49. Rxb4 Rxa6 50. Rb6 Ra4 51. Rxg6 Kf7 52.
+Rd6 Ke7 53. Rd4 Ra6 54. Rb4 1-0
+

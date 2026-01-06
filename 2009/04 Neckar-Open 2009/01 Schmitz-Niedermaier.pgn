@@ -1,0 +1,36 @@
+[Event "13.Neckar-Open (B)"]
+[Site "?"]
+[Date "2009.04.09"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Niedermeier, Thomas"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "1832"]
+[BlackElo "1976"]
+[Annotator "Tim Schmitz"]
+[PlyCount "100"]
+[EventDate "2009.??.??"]
+[TimeControl "240+2"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 {Die Voronech-Variante} 6.
+Bd3 Nc6 7. Ne2 Be7 8. Nbc3 O-O 9. O-O Bf6 {Soweit die Theorie} 10. a3 $2 {
+Schon die erste Ungenauigkeit: Der Bauerzug ist nicht notwendig. Besser ist
+b2-b3 mit Entwicklung des Läufers nach b2 oder Lc1-e3 nebst Tc1} g6 11. c5 $6 {
+Ein übermotivierter Vorstoß} dxc5 12. dxc5 Nd5 {Aktiver als Sd7} 13. Bh6 $6 {
+Das ist allerdings schwer nachvollziehbar: der Turm will sowieso nach Te8} Nxc3
+14. Nxc3 Re8 15. Rc1 {Schwarz steht schon etwas besser} Ne5 16. Bb1 Bg4 17. f3
+Be6 {Weiß ist klar überspielt worden. Die schwarzen Läufer sind aktiver und
+die schwarzen Figuren zentralisiert} 18. Qxd8 ({Besser direkt} 18. Ne4) 18...
+Raxd8 19. Ne4 Be7 20. Bf4 f6 21. Rfd1 Kg7 22. b4 Bb3 {Die schwarzen Figuren
+fluten jetzt die weiße Stellung} 23. Re1 c6 24. Re3 Bf7 25. Rce1 $2 {Das
+verliert letztlich einen Bauern und die Partie} ({Ein repektable Alternative
+ist} 25. Ng5 fxg5 26. Bxe5+ Bf6 27. Bxf6+ Kxf6 28. Rxe8 Rxe8 29. Kf2) 25... Nc4
+26. R3e2 Nxa3 27. Ba2 Nb5 28. Bxf7 Kxf7 29. Bc1 {Will nach b2, ist aber schwach
+} (29. Bd6 Rd7 30. Kf2 b6 {bringt auch nichts ein}) 29... f5 30. Ng5+ Bxg5 31.
+Bxg5 Rxe2 32. Rxe2 Rd7 33. Kf2 Nc7 {Das Endspiel ist wahrscheinlich verloren,
+wird aber nur schwach verteidigt} 34. Bc1 Rd4 35. Rd2 {Ein simpler Trick} Rxd2+
+36. Bxd2 Ke6 37. Ke3 Kd5 38. Kd3 Ne6 39. Be3 a5 $1 40. bxa5 Nxc5+ 41. Kc3 Na6
+42. Kb3 c5 43. g3 Nb4 44. Bd2 Nc6 45. Bc3 Nd4+ 46. Ka4 Kc4 47. Bd2 Nxf3 48. Be3
+Nxh2 49. Bg1 Nf1 50. Bf2 g5 {Bei drei Minusbauern nicht zu früh aufgegeben} 0-1
+

@@ -1,0 +1,61 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2015.11.01"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Schlechtmann, Robin"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "1835"]
+[BlackElo "2154"]
+[PlyCount "80"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 {Das ist die Ausgangsstellung des berühmten "Berliner
+Endspiels". Die Stellung ist sehr kompliziert und bietet sehr viel Raum für
+taktische Manöver. In der Partie sieht man, wie Schwarz seine Strategie
+optimal umsetzt, wohingegen Weiß keinen effizienten Plan findet und die
+Verteidigung nicht optimal organisiert} 9. Nc3 {[%csl Yd5,Ye2,Ye4][%cal Gc3d5,
+Gc3e4,Gc3e2] An diesem Zug ist noch nichts auszusetzen. Weiß entwickelt eine
+Figur auf das optimale Feld und kontrolliert die schwachen weißen Felder im
+Zentrum} h6 {Dieser Zug verfolgt mehrere Ziele. Zunächst verhindert er den
+Läuferzug von Weiß nach f4, denn dann könnte Schwarz unter Tempogewinn mit
+g7-g5 den Läufer zurücktreiben. Außerdem verhindert es damit Schwarz, dass
+ein weißer Springer auf g5 auftaucht} 10. b3 {Das ist schon eine prinzipielle
+Entscheidung. Der weiße Läufer möchte Druck auf der Diagonalen a1-h8
+aufbauen. Das kann funktionieren, wenn man im richtigen Moment den Bauern auf
+e5 mit dem Vorstoß e5-e6 opfert (eventuell mit einem Springer auf f4). Wenn
+das nicht funktioniert, dann hat der weiße Läufer auf b2 keine Wirkung} ({
+Eine gute Alternative ist} 10. h3 {, um den Bauernvorstoß g2-g4 vorzubereiten
+und die Entwicklung des Läufers nach f4. Eigentlich ist dies der logischere
+Plan, denn Weiß muss irgendwann am Königsflügel vorgehen, um seine
+Bauernmehrheit dort zur Geltung zu bringen} Bd7 {Das ist der von vielen
+Großmeistern gespielte Hauptzug. Schwarz blockiert die d-Linie und macht den
+Damenflügel frei für den König} ({Daher wäre} 10... Be6 {ein Tempoverlust,
+denn nach} 11. g4 Ne7 12. Nd4 {muss der Läufer schon wieder ziehen und der
+weiße f-Bauer wird zu einer sehr beweglichen Waffe} Bd7)) 10... Be7 {[%csl
+Ye7,Yf5,Yh4][%cal Re7h4,Rf5h4] Dieser Zug ist sinnvoll, da er schwarzen Felder
+auf dem Königsflügel kontrolliert und nach der Entwicklung des weißen
+Läufers nach b2 konkurrenzlos ist} 11. Bb2 Be6 {Die schwarzen Läufer sind
+ideal platziert. Das ist die kritische Stellung. Wie soll Weiß fortfahren?}
+12. Rad1+ {Dieser Zug scheint in Ordnung zu gehen. Weiß aktiviert den Turm
+und besetzt eine offene Linie unter Tempogewinn} Kc8 {Der König sucht Schutz
+auf dem Damenflügel, wo er aufgrund des massiven Bauernschilds nicht so
+leicht angegriffen werden kann} 13. Ne4 $2 {Das scheint der falsche Plan. Der
+Springer sieht auf dem Feld e4 zunächst sehr beeindruckend aus. Aber er
+entfaltet überhaupt keine Wirkung, da er keine Figuren angreift und
+geschlagen werden kann, wenn er auf ein anderes Feld geht} ({Der richtige Plan
+lautet} 13. Ne2 Bd5 14. Ned4 Nxd4 15. Nxd4 {und der weiße Königsflügel kann
+aktiviert werden}) 13... b6 {Das ist ein prophylaktischer Zug, der ein
+Evakuierungsfeld für den König schafft} 14. c4 $6 {Auch dieser Zug bleibt
+vom Zweck her nebulös. Vermutlich hatte ich die Idee die Kontrolle über das
+Zentrum zu erlangen. Dabei ist dieses Vorgehen zu statisch, denn im Zentrum
+passiert nichts} a5 15. h3 a4 16. g4 Nh4 (16... axb3 $1 17. gxf5 Bxf5) 17. Nxh4
+Bxh4 18. Nc3 $2 axb3 19. axb3 h5 20. f3 (20. f4 hxg4 21. f5 Bd7 22. hxg4) 20...
+hxg4 21. hxg4 Bg3 22. Ne4 Ra2 23. Nxg3 Rxb2 24. Rb1 Rhh2 25. Rxb2 Rxb2 26. Nf5
+Bxf5 $6 (26... Rxb3) 27. gxf5 Rxb3 28. f4 (28. Kf2 $1) 28... Rc3 29. e6 fxe6
+30. fxe6 Rxc4 31. f5 Rc5 32. Rd1 $2 (32. Kg2) 32... Rd5 33. Ra1 Kd8 34. Ra8+
+Ke7 35. Rc8 Rxf5 36. Rxc7+ Kd6 37. Rb7 b5 38. e7 Re5 39. e8=Q Rxe8 40. Rxg7 Rf8
+0-1
+

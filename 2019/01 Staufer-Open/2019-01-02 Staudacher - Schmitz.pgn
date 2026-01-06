@@ -1,0 +1,22 @@
+[Event "Staufer-Open"]
+[Site "?"]
+[Date "2019.01.02"]
+[Round "1"]
+[White "Staudacher, Thomas"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "1998"]
+[BlackElo "1843"]
+[Annotator "schmi"]
+[PlyCount "67"]
+[SourceVersionDate "2019.01.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 O-O 10. g4 $2 d5 11. g5 d4 12. gxf6 Bxf6 13. Bxd4 exd4 14. Ne2 Nc6
+15. O-O-O a5 16. Kb1 Bxb3 $6 (16... Qb6) 17. cxb3 Qb6 $2 (17... a4) 18. Nf4 Ne7
+$2 (18... Nb4) 19. Bc4 a4 (19... Bg5) 20. Nh5 axb3 21. Bxb3 Rfd8 22. Rhg1 d3
+23. f4 Bd4 24. Rg3 Qa5 25. e5 (25. Qxa5 Rxa5 26. Rgxd3 Raa8) 25... Nf5 26. Qxa5
+Rxa5 27. Rgxd3 Raa8 28. Ng3 Nxg3 29. hxg3 Bb6 30. Rd7 Rac8 31. Bxf7+ Kf8 32.
+Bb3 Rxd7 33. Rxd7 Be3 34. a3 1-0
+

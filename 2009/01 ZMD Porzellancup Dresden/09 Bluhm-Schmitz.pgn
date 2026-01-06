@@ -1,0 +1,30 @@
+[Event "ZMD-Porzellancup Dresden"]
+[Site "?"]
+[Date "2009.01.25"]
+[Round "9"]
+[White "Bluhm, Sonja Maria"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "1676"]
+[BlackElo "1844"]
+[Annotator "Tim Schmitz"]
+[PlyCount "156"]
+[EventDate "2009.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Bb3 d5 5.
+Qe2 Bd6 6. Bg5 Be6 7. Nf3 O-O 8. O-O Nbd7 9. Nc3 d4 10. Nb1 Nc5 11. Nbd2 Bxb3
+12. axb3 Ne6 13. Rfd1 h6 14. Bh4 g5 15. Bg3 Nh5 {verliert einen Bauern} 16.
+Bxe5 Nhf4 17. Bxf4 Nxf4 18. Qf1 c5 19. e5 Be7 20. g3 Ng6 21. Re1 Qd5 22. Re4 {
+verhindert g4} f5 23. exf6 Rxf6 24. Qg2 Raf8 25. Rf1 h5 26. h4 g4 27. Ng5 Rf5
+28. Re6 Qxg2+ 29. Kxg2 Kg7 30. Rxe7+ Nxe7 31. Ne6+ Kg6 32. Nxf8+ Rxf8 33. Re1
+Nd5 34. Re5 Rf5 35. Re8 Nb4 36. Rc8 b6 37. Rc7 Rf7 38. Rc8 Nxc2 39. Nc4 Kf6 40.
+Ra8 Ne1+ 41. Kf1 Nxd3 42. Rh8 Re7 43. Rf8+ Ke6 44. Kg2 Kd5 45. Rd8+ Kc6 46.
+Rc8+ Kb5 47. Rf8 Re2 48. Kf1 Re7 49. Rf5 Kb4 50. Nd2 Re1+ 51. Kg2 Nxb2 52. Rxh5
+Kc3 53. Nf1 d3 54. Rg5 d2 55. Nxd2 Kxd2 56. Rxg4 b5 57. h5 c4 58. bxc4 bxc4 59.
+h6 Re8 60. h7 Rh8 61. Rh4 c3 62. g4 c2 63. g5 c1=Q 64. g6 Qc6+ 65. Kf1 a5 66.
+g7 Rxh7 67. Rxh7 Qc4+ 68. Kg2 Qd5+ 69. Kf1 Qc4+ 70. Kg2 a4 71. Rh4 Qg8 72. Rd4+
+Kc3 73. Rd7 Nd3 74. Ra7 Kb3 75. Rb7+ Kc2 76. Ra7 a3 77. Rxa3 Qxg7+ 78. Kf1 Qf6
+0-1
+

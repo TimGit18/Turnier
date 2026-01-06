@@ -1,0 +1,21 @@
+[Event "Vienna Chess Open (B-Turnier)"]
+[Site "?"]
+[Date "2019.08.17"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Czvitkovics, Helmut"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1870"]
+[BlackElo "1647"]
+[Annotator "Tim Schmitz"]
+[PlyCount "53"]
+[SourceVersionDate "2019.08.17"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 exd4 5. Nxd4 Be7 6. Bc4 O-O 7. O-O a6 8. a4
+Nbd7 9. Nf5 Ne5 10. Nxe7+ Qxe7 11. Be2 Be6 $5 12. f4 Nc6 13. f5 $6 (13. Bf3)
+13... Bd7 14. Bg5 Qe5 15. Bxf6 Qxf6 16. Nd5 Qd8 $2 (16... Qd4+ 17. Qxd4 Nxd4
+18. Bd3) 17. f6 g6 18. Qd2 Kh8 19. Qh6 Rg8 20. Qg5 Be6 21. Rf4 Bxd5 22. Rh4 Qf8
+23. exd5 Ne5 24. Ra3 {mit Aufgabe. Die schwarze Stellung ist nicht haltbar.}
+Nd7 25. Rxh7+ Kxh7 26. Rh3+ Qh6 27. Qxh6# 1-0
+

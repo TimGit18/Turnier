@@ -1,0 +1,19 @@
+[Event "Münchner Mannschaftsmeisterschaft"]
+[Site "?"]
+[Date "2024.10.10"]
+[Round "?"]
+[White "Lindner, Jens"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1371"]
+[BlackElo "1772"]
+[Annotator "Tim Schmitz"]
+[PlyCount "94"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2024.10.11"]
+[WhiteTeam "SK Tarrasch 4"]
+[BlackTeam "SC Sendling 2"]
+
+{[%evp 0,94,19,38,40,41,66,66,57,33,33,27,60,32,34,17,20,28,13,10,-8,6,25,-1,65,36,44,39,52,57,66,43,77,99,109,20,31,-18,-49,-84,-84,-81,-82,-65,-65,-311,-307,-300,-115,-111,-36,-50,-59,-54,-46,-51,-52,-56,-47,-48,-50,-71,-73,-72,-55,-64,-69,-77,-78,-78,-73,-71,-72,-79,-79,-88,-97,-104,-94,-101,-153,-281,-216,-232,-245,-247,-304,-325,-293,-324,-315,-490,-718,-813,-681,-991,-958]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 {Das ist das Yates-System, welches in der Stammpartie Yates-Tartakower 1926 zum Einsatz kam.} e5 {Das ist einer von zwei plausiblen schwarzen Antwortzügen.} ({Der andere lautet} 6... g6 7. O-O Bg7 8. Kh1 O-O {und es entsteht eine Mischung aus Najdorf und Drachen.}) 7. Nf3 {Hier zieht Weiß den Springr meist nach e2 zurück.} Be7 8. Be3 O-O 9. Qd2 Be6 10. Ng5 Qd7 $6 11. Nxe6 Qxe6 $2 12. h3 Nbd7 $6 13. Be2 Nc5 14. f3 Rac8 15. b3 Rfd8 16. Bc4 Qd7 $6 (16... d5 17. exd5 Qf5 $1) 17. Nd5 $14 Nxd5 18. Qxd5 $2 Bh4+ 19. Bf2 Bxf2+ 20. Kxf2 b5 21. Be2 Ne6 $15 22. c4 $4 Qa7+ 23. Kf1 Qe3 $2 (23... Nd4 $1 24. Rd1 Nc2 $1) 24. Qd3 Qxd3 25. Bxd3 Nf4 26. Be2 Nxe2 27. Kxe2 bxc4 28. bxc4 Rxc4 $17 29. Rhc1 Rdc8 30. Rxc4 Rxc4 31. Rd1 Rc6 $6 (31... Rc2+) 32. Ke3 Kf8 33. g4 Ke7 34. Rd3 Rc5 35. Ra3 a5 36. Kd3 Kd7 37. Ra4 Kc6 38. Rc4 $4 Kb5 39. a4+ Kc6 40. Kc3 d5 41. Rxc5+ Kxc5 42. exd5 Kxd5 43. Kd3 f6 44. h4 g6 45. g5 f5 46. Kc3 Kc5 47. Kb3 Kd4 0-1
+

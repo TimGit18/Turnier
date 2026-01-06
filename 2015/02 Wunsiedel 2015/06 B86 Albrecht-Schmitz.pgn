@@ -1,0 +1,64 @@
+[Event "Wunsiedel Schachfestival B-Turnier"]
+[Site "?"]
+[Date "2015.05.16"]
+[Round "6"]
+[White "Albrecht, Manuel"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[WhiteElo "1555"]
+[BlackElo "1765"]
+[PlyCount "23"]
+[SourceDate "2015.05.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 {Diese Züge
+entsprechen der Standardtheorie} 7. Bg5 {Weiß wählt eine Variante des
+Sozin-Angriffs, in der er zunächst auf die kurze Rochade verzichtet. Der
+nächste Zug von Schwarz ist ein reiner "Automatismus" und wurde ohne jedes
+Nachdenken gespielt} Nbd7 $6 {Hier habe ich die Züge verwechselt. Dieser Zug
+ist im Fischer-Angriff angebracht, wenn Weiß vorher den Läufer nach b3
+gespielt hat, aber hier fehlerhaft. Der Grund liegt darin, dass Sd7-c5 keine
+wirkliche Bedrohung mehr darstellt, denn Schwarz müsste erst b7-b5 spielen -
+wie in der Partie geschehen. Dier Zug schwächt aber entscheidend das Feld c6}
+8. O-O {Das ist der logische Entwicklungszug, der immer im Sozin- und im
+Fischer-Angriff gespielt wird} b5 $4 {[%csl Yc6,Yd5,Ye6][%cal Rd4c6,Rd4e6,
+Rc4e6,Rc3d5] Diese Vorstoß schwächt ohne Not das Feld c6 und ist eigentlich
+schon der Verlustzug. Die Schwächen der Felder e6 und c6 sind eklatant. Es
+drohen jetzt immer die thematischen Opfer auf e6 (mit dem Läufer) und auf d5 
+(mit dem Springer). Falls dann noch ein Bauer auf dem Feld d5 auftaucht und
+sich die e-Linie für den weißen Turm gegen den schwarzen König öffnet,
+dann ist die Partie wahrscheinlich schnell vorbei} 9. Bb3 $6 {Dieser Rückzug
+ist zwar thematisch, aber hier bedeutet das Opfer auf e6 schon einen schnellen
+Gewinn für Weiß} ({Nach} 9. Bxe6 $1 fxe6 10. Nxe6 {gewinnt Weiß zwar nicht
+den dritten Bauern für die Figur, da der Läufer noch auf f8 steht, aber die
+absolute Feldkontrolle im Zetnrum und der unsichere schwarze König in der
+Mitte sollten Weiß den Sieg garantieren} Qb6 {Vermutlich der beste Fluchtweg
+für die Dame} 11. Nd5 $1 {Weiß muss weiter im Zentrum nachsetzen} Nxd5 {
+Sonst verliert Schwarz mindestens die Qualität auf c7} 12. Qxd5 Bb7 $2 {
+Dieser Zug verliert sofort, aber sonst verliert Schwarz sehr viel Material} 13.
+Nc7+ $1 {Der Springer räumt das Feld e6 für die Dame} Qxc7 14. Qe6+ {und
+Weiß setzt matt}) 9... Nc5 {[%csl Yc6][%cal Rd4c6] Ich befinde mich immer
+noch Irrglauben, gegen das Fischer-System zu spielen. Zwar ist jetzt das Feld
+e6 überdeckt, aber das Feld c6 ist nach wie vor der wunde Punkt in der
+schwarzen Stellung} ({Objektiv besser ist vermutlich} 9... Qc7 {, was das Feld
+c6 überdeckt, auch wenn Schwarz danach mit dem Opfer auf e6 rechnen muss.} 10.
+Bxe6 fxe6 11. Nxe6 Qc6 {mit Kompensation für die Figur}) 10. Re1 {Nur zu
+gerne würde Weiß die schwarze Stellung mit einem Figurenopfer auf d5
+aufreißen und den schwarzen König freilegen} Qc7 $2 {[%csl Yc7,Yd5,Yf6][%cal
+Rc3d5] Ein weiterer Fehler, den die schwarze Stellung eigentlich nicht
+verkraften kann. Auf dem Feld c7 ist die Dame dem Angriff des Springers auf d5
+ausgesetzt} ({Der Grund für diese zweifelhafte Entscheidung liegt darin, dass
+nach} 10... Be7 {die Gabel} 11. Nc6 {[%csl Yd8,Ye7][%cal Rc6e7,Rc6d8] sehr
+unangenehm aussieht. Vermutlich ist diese Fortsetzung aber dennoch vorzuziehen
+gewesen} Qc7 12. Nxe7 Kxe7 {Diese Stellung mit dem König auf e7 und einer
+ständig drohenden Gabel auf d5 sieht zwar etwas merkwürdig aus, ist aber
+wohl noch haltbar}) 11. Bxf6 $1 {Das ist der logische Abtausch. Weiß
+schwächt das schwarze Bauernkorsett und nutzt die ungesicherte Stellung des
+schwarzen Königs aus} gxf6 12. Qf3 {Dieser Zug wurde mit einem Remisangebot
+verbunden, was ich annahm. Objektiv steht Weiß sehr viel besser, allerdings
+fällt die Stellungsbeurteilung nicht ganz leicht} ({Zu einem angeblich klaren
+weißen Vorteil führte} 12. Nd5 $1 {, denn nach} exd5 13. exd5+ Be7 14. Nc6 {
+[%csl Yc6,Ye1,Ye7][%cal Rc6e7,Re1e7] ist der Druck auf der e-Linie gegen den
+schwarzen König fast schon lethal} Be6 15. dxe6 Qxc6 {und Schwarz steht
+wahrscheinlich schon auf Verlust, obwohl er noch eine Mehrfigur hat}) 1/2-1/2
+

@@ -1,0 +1,36 @@
+3.Runde von Sendling 3 in Dachau
+================================
+Im Vorfeld der dritten Runde bei den Schachfreunden Dachau machte sich die dünne Personaldecke bemerkbar: zwar 
+verstärkten Olaf und Michael unsere hinteren Bretter, aber krankheitsbedingt mussten wir mit -1 antreten. Auch wenn 
+wir uns mit 3,5 Punkten aus den restlichen 7 Brettern recht achtbar schlagen konnten, reichte es trotzdem nicht für 
+die ersten Sasionpunkte. 
+
+Die Spielbedingungen waren ausgesprochen angenehm (und kein Vergleich zu etwa Trudering): sehr viel Platz für jedes 
+Brett, ruhige, konzentrierte Atmosphäre und diskrete Gastronomie. Die mit Olaf bestens vernetzten Schachfreunde boten 
+uns dazu auch noch einiges Naschwerk von ihrer Nikolausfeier an. 
+
+An Brett 1 hatte ich einen sehr soliden Stellungspieler gleicher Spielstärke, der in der Spanischen 
+Steinitz-Verteidigung alles wegtauschte, was gefärhlich aussah. Nach der Eröffnung plätscherte die Partie bis zum 
+schnellen Remisschluß vor sich hin (und auch die Stockfish-Engine langweilte sich in der Analyse bei konstant +0.1 zu Tode). 
+Dagegen hatte Hakan an Brett 2 mit Schwarz einen lebhafteren Aufbau in einem unbalancierten Halb-Slawen und gewohnt 
+lockerer Bauernstruktur. Er konnte aber die Partie auch recht schnell in den Remihafen überführen. Neben dem 
+leeren 3.Brett musste Karsten an Brett 4 in einer unregelmäßigen schwarzen Verteidigung erst lange den Druck 
+von Weiß aushalten, bis er im Endspiel einen Freibauern auf dem Damenflügel bilden konnte. Nach langem Kampf beim Stand
+von 3:4 gegen uns ging auch der Bauer verloren, wonach das Springerendspiel total remis war. Rudi's Gegner verteidigte 
+sich gegen das Londoner System ausgesprochen symmetrisch und auch die Bauernstrukturen waren gleich, also auch remis.
+
+Hinten war mehr los: Louis hatte am 6.Brett mit Schwarz in einem Slawischen Damengambit dem Gegner erlaubt, ein starkes Zentrum 
+zu bilden. Der überzog aber und Schwarz hätte mit zwei Mehrbauern in ein sehr gutes Endspiel abwickeln können. Nach 
+einer sehr vorsichtigen Fortsetzung konnte Weiß mit seinem starken Freibauern eine Stellungswiederholung und das Remis
+erzwingen. Michael, der als ausgezeichneter Navigator während der Hinfahrt fungierte, spielte in der Englischen 
+Eröffnung ein Botvinnik-System an Brett 7 mit früher Verblockung des Damenflügels. Bei der darauffolgenden Öffnung des 
+Königsflügels ergab sich ein taktisches Handgemenge, aus dem Schwarz mit entscheidendem Materialvorteil herauskam. 
+Dagegen konnte man nichts mehr ausrichten. Mehr Erfolg hatte der bereits vor der Partie zuversichtliche Olaf am 8.Brett:
+Gegen seine Owen-Verteidigung wählte der Gegner einen handzahmen Aufbau und ließ in einer Stellung mit entgegengesetzten
+Rochaden einen Angriff gegen seinen König zu, den er nur unter Materialverlust abwehren konnte. Das Endspiel mit 
+Mehrqualität und Mehrbauer wäre beinahe noch aufgrund einer übersehenen Gabel gekippt, aber Olaf konnte noch 
+rechtzeitig einen Freibauern durchbringen, da die Springer so schlecht in der Rückwärtsbewegung sind.
+
+Insgesamt also ein zufriedenstellender Auftritt trotz 0 Saisonpunkten. Wir wollen uns in der kurzen Winterpause erholen und 
+in 2018 noch den ein oder anderen Gegner ärgern. Und das beste: Von den vier Fernreisen in dieser Saison haben
+wir schon die Hälfte 'rum und "nur" noch Karlsfeld und Eching vor uns.

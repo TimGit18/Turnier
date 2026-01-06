@@ -1,0 +1,27 @@
+[Event "MMLPT 2015/2016 Halbfinale"]
+[Site "?"]
+[Date "2015.12.13"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Bruzio, Jason"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "1852"]
+[BlackElo "1863"]
+[PlyCount "120"]
+[SourceDate "2015.12.13"]
+[WhiteTeam "SC Sendling"]
+[BlackTeam "SC Garching 1980"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qb1
+(8. Qg4 $1 Kf8 9. Qd1 Nc6 10. Qb1 c4 11. Nh3) 8... c4 9. Nf3 Nc6 10. Be2 Nge7
+11. O-O h6 12. Qb2 b6 13. Rfb1 Bd7 14. h3 O-O-O 15. Nh2 Rdf8 16. Ng4 h5 17. Ne3
+g5 18. Nd1 Rfg8 19. Qc1 g4 20. h4 g3 21. f3 Rg6 22. Bg5 Nf5 23. Ne3 Nxe3 24.
+Bxe3 f6 25. exf6 Rxf6 26. Bg5 Rf5 27. f4 Be8 28. Bf3 Kd7 29. Rb2 Bg6 30. Qe1
+Rf7 31. Qxg3 Bxc2 32. Qf2 Bf5 33. Qe2 Bd3 34. Qd1 Qa5 35. Qe1 b5 36. a4 $2 b4
+37. cxb4 Qb6 38. Qe3 $2 (38. a5 Qxd4+ 39. Rf2 c3 40. b5) 38... Qxd4 39. Qxd4
+Nxd4 40. Rc1 Nxf3+ 41. gxf3 Kc6 42. Rd2 Bf5 43. Kf2 Rb8 44. b5+ Kc5 45. Ke3 a6
+46. b6 Rxb6 47. Bd8 Rb3+ 48. Kf2 Rg7 49. Bf6 Rgb7 50. a5 Rd3 51. Rxd3 Bxd3 52.
+Ke3 Rb3 53. Bd4+ Kb4 54. Bb6 Bf5+ 55. Kd4 Rxf3 56. Bc7 Kb3 57. Kc5 c3 58. Kb6
+c2 59. Be5 Bd3 60. Kc5 Rf1 0-1
+

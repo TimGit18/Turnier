@@ -1,0 +1,36 @@
+[Event "London Chess Classic Open"]
+[Site "?"]
+[Date "2010.12.08"]
+[Round "1"]
+[White "Ledger, Davy"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "C33"]
+[WhiteElo "2250"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "57"]
+[EventDate "2010.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 {Die Bogoljubow-Verteidigung im
+Königsläufergambit. Die nächsten Züge sind klar} 5. Bb3 d5 6. exd5 cxd5 7. d4
+Bd6 8. Nf3 O-O 9. O-O Be6 {Obwohl dies der richtige Zug scheint, habe ich hier
+bereits zu lange überlegt} ({Die Alternative} 9... Nc6 10. Nxd5 Nxd5 11. Bxd5
+g5 {mit Angriffschancen am Königsflügel habe ich verworfen, da Weiß alle
+Zentrumsfelder hat. Das kann nicht gut gehen}) 10. Qd3 {Der Zug hat mich
+überrascht, ich habe fest mit Se5 gerechnet, was auch der Hauptzug in dieser
+Stellung ist} (10. Ne5 Nc6 11. Bxf4 Rc8 {und Gegenspiel. Aber der FM hat hier
+einen anderen, gefährlicheren Plan}) 10... Nc6 {Immer noch logisch und daher
+zu langsam gespielt} 11. Ng5 $1 {Ein starker Schlüsselzug, Weiß hat jetzt
+Druckspiel} Rc8 {Der Zug ist vielleicht etwas zu pomadig. Er droht nicht
+wirklich Sc6xd4, und auf dem Damenflügel findet kein wirkliches Spiel statt
+wie wir sehen werden. Hier hätte ich viel konkreter spielen müssen} (11... h6
+12. Nxe6 fxe6 13. Bxf4 a6 {gibt zwar keine schöne Stellung, aber reudziert die
+ziele}) 12. Bxf4 Nb4 $6 {Das führt wohl in die Irre, aber ich hatte Panik vor
+dem Druck auf h7} 13. Qd2 a6 14. Rae1 {Eine Traumstellung für Weiß} Qd7 $2 {
+Ein klarer Schnitzer in bekannter Zeitnot. Die folgenden Züge sind nur für
+Weiß gut} 15. Na4 Rce8 16. Bxd6 Qxd6 17. Nc5 Nc6 {Jetzt kommt Weiß auch
+materiell in Vorteil} 18. Nxb7 Qb4 {Der Abtausch hilft nur Weiß} 19. Qxb4 Nxb4
+20. Nxe6 fxe6 21. Nc5 a5 22. Ba4 Rc8 23. Rxe6 {Weiß steht jetzt auf Gewinn} Ne4
+24. Rxf8+ Kxf8 25. a3 Nxc5 26. dxc5 Nxc2 27. Bxc2 Rxc5 28. Bxh7 Kf7 29. Rb6 1-0
+

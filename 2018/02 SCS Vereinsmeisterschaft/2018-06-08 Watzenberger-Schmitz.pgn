@@ -1,0 +1,70 @@
+[Event "SCS Sendling Pokal 2018"]
+[Site "?"]
+[Date "2018.06.09"]
+[Round "1"]
+[White "Watzenberger, Stefan"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "2046"]
+[BlackElo "1769"]
+[PlyCount "49"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.06.09"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 a6 7. O-O Nf6 8. b4
+{Dies ist der Flügelangriff im Sizilianischen Morra-Gambit. Praktisch stellt
+dies eine der wenigen Möglichkeiten dar, in diesem Gambit auf Vorteil zu
+spielen} Bg4 {Das ist der stellungsgemäße Zug. Schwarz entwickelt den
+Damenläufer und fesselt den schwarzen Springer. Der Bauer auf b4 ist tabu,
+denn nach dem Nehmen würde Dd1-b3 mit Doppelangriff auf b4 und f7 folgen} 9.
+b5 {Weiß muss hier konsequent weiterspielen und darf Schwarz keine Zeit
+lassen, seine Entwicklung fortzusetzen} axb5 $6 {Das ist noch kein Fehler,
+aber bereits etwas ungenau} ({Die theoretische Hauptfortsetzung lautet} 9...
+Bxf3 10. Qxf3 {Besser ist es, wenn Weiß hier mit dem Bauern schlägt} Ne5 11.
+Qe2 Rc8 {und Schwarz kann bereits eine Figur gewinnen, aber ganz so klar ist
+die Sache nicht}) 10. Nxb5 {Dieser Springer wird sich im Laufe der Zeit als
+unvertreibbar herausstellen und steht hier sehr dominant} e6 {Schwarz muss
+jetzt endlich seine Entwicklung beenden, auch wenn dies den Bauern auf d6
+schlägt} 11. Bf4 $5 {[%csl Yb5,Yd1,Yd6,Yf4][%cal Rd1d6,Rb5d6,Rf4d6] Das ist
+ein weiterer aggressiver Zug, der zu dem gesamten Aufbau von Weiß passt. Er
+entwickelt seine letzte Leichtfigur und bedroht den Bauern d6} ({Nach dem
+logischen} 11. Ba3 {folgt einfach} Nxe4 {, wonach Schwarz mit seinen wichtigen
+Zentralbauern einfach besser steht}) 11... e5 $6 {Das ist schon eine sehr
+starke Konzession. Denn nach dem folgenden Zug, wird die schwarze Stellung
+durch zahlreiche schwache Felder geschwächt} ({Einfacher war} 11... Be7 12.
+Nxd6+ Bxd6 13. Bxd6 Nxe4 14. Bf4 O-O {sehr gut für Schwarz aussieht. Und wenn
+Weiß auf d6 mit dem Läufer nimmt, dann rochiert Schwarz einfach}) 12. Bg5 Be7
+13. Bxf6 gxf6 {[%csl Yd5,Yf5,Yg7,Yh6] Schwarz hat zwar das Läuferpaar und
+noch immer einen (bedeutungslosen) Mehrbauern, aber seine Stellung weist
+bereits irreparable Schwächen auf. Die Felder d5 und f5 sind sehr schwach und
+der schwarze Doppelbauer auf der f-Linie schwächt auch noch einige Felder} 14.
+Qd3 $1 {Weiß baut jetzt sehr langsam einen Angriff auf, aber Schwarz hat
+überhaupt kein Gegenspiel} O-O {Die Rochade sieht zwar etwas merkwürdig aus,
+aber sie ist im Grunde alternativlos} 15. Nh4 {[%csl Yd3,Ye4,Yf5,Yh4][%cal
+Rh4f5] Der Springer strebt nach f5, auf dem er einen Angriff gegen den König
+oder gegen das gegnerische Zentrum unterstützt} Kh8 {Sicherheitshalber räumt
+der König bereits die g-Linie} ({Nach} 15... Rc8 16. Qg3 {ist bereits guter
+Rat teuer}) 16. Kh1 {Auch Weiß räumt die g-Linie. Das ist sicher nicht
+notwendig, kann sich Weiß aber erlauben} Ra4 {Schwarz versucht etwas
+Gegenspiel zu entwickeln. Dieser Versuch erweist sich allerdings als zurecht
+völlig harmlos} ({Konsistenter ist vielleicht} 16... Be6 {, auch wenn nach}
+17. Bxe6 fxe6 18. Qh3 Rg8 19. Qxe6 {Weiß drückend überlegen steht}) 17. Bb3
+Ra5 18. a4 Nb4 $5 {Schwarz findet noch eine zweite Möglichkeit, seine Figuren
+zu aktivieren} 19. Qd2 $1 {Das ist das richtige Feld für die Dame. Sie
+behält d6 im Auge und beobachtet auch b4 und h6} d5 $2 {Das ist der letzte
+schwere Fehler. Anders als in den entsprechenden Stellungen der
+Najdorf-Variante ist hier die Position zu offen, als dass man den Zug
+risikolos spielen kann. Der Bauer geht einfach nur verloren} 20. exd5 f5 $4 {
+[%csl Yb4,Yh4][%cal Ge7b4,Ge7h4] Das ist der letzte große Fehler in der
+Partie. Sicher öffnet Schwarz hier einige Diagonalen (um Schutz des Springers
+b4 und Angriff auf den Springer h4), aber Weiß hat eine sehr gute Replik.
+Aber Schwarz hat sowieso keine guten Züge mehr} 21. f3 {Jetzt gewinnt Weiß
+Material. Der Bauer f5 fällt - egal, ob sich der Läufer von g4 zurückzieht
+oder nicht} Bxh4 22. fxg4 Na6 {Noch hat Schwarz größere Materialverluste
+verhindert, aber alle seine Figuren sind dis-koordiniert und jetzt kommt der
+Turm entscheidend auf f5 in das Spiel} 23. Rxf5 Nc5 24. Qh6 {Der siegreiche
+Zug. Das Matt auf h7 ist nicht mehr zu verhindern} Ra6 25. d6 {[%csl Yb3,Yb5,
+Yc7,Yd6,Yf5,Yf7,Yh5,Yh6][%cal Rb3f7,Rf5f7,Gf5h5,Rh5h7] Nach Tf8-g8 gewinnt
+Tg8-g7} 1-0
+

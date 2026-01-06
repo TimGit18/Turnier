@@ -1,0 +1,51 @@
+[Event "Vienna Open (B-Turnier)"]
+[Site "?"]
+[Date "2019.08.21"]
+[Round "6"]
+[White "Frijiling, Jereon"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E84"]
+[WhiteElo "1710"]
+[BlackElo "2870"]
+[Annotator "David Vigorito"]
+[PlyCount "54"]
+[EventDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 {Das ist die sogenannte Panno-Variante im Sämisch-System. Schwarz möchte
+b7-b5-b4 spielen, um dem drohenden Aufmarsch auf dem Königsflügel etwas
+entgegen zu setzen.} 9. Nc1 {Dieser Rückzug ist sehr populär. Weiß möchte
+den Springer auf b3 oder d3 einsetzen, wo er den Damenflügel bewacht.} e5 10.
+d5 Nd4 {Schwarz muss konsequent gegen das weiße Zentrum spielen.} 11. N1e2 {
+Das ist die Rückzugsvariante.} Nxe2 12. Bxe2 Bd7 {Schwarz kann sich noch
+nicht recht entscheiden, auf welchen Flügel er spielen will.} ({Die Theorie 
+(David Vigorito) empfiehlt hier das Spiel auf dem Königsflügel.} 12... Nh5
+13. O-O-O f5 14. Kb1 Bd7 {Wahrscheinlich ist diese Abwicklung etwas
+prinzipieller als die Textfortsetzung.}) 13. O-O-O {Weiß spielt die Variante
+prinzipiell. Obwohl sich bereits die schwarzen Figuren auf dem Damenflügel
+versammelt haben, hofft Weiß auf genügend Dynamik auf dem Königsflügel und
+behält damit recht.} b5 14. cxb5 axb5 15. b4 $1 {Das ist ein starker
+Blockadezug, auch wenn er den König entblößt.} Qc8 {Die Dame visiert den
+weißen König an und "rückt" langsam auf den Damenflügel vor.} ({Das
+Problem an} 15... c6 {ist die Abwicklung} 16. dxc6 Bxc6 17. Qxd6 {Weiß hat
+einen vollen Mehrbauern und seine Figuren sind gut koordiniert im Gegensatz zu
+den schwarzen.}) 16. Kb1 {Sicher ist sicher, jetzt kann auch einmal der Turm
+auf die c-Linie.} Qb7 {Auch kein besonders guter Zug. Schwarz überdeckt ein
+weiteres Mal den Bauern b5 und verbindet die Türme.} 17. g4 {Nun geht der
+weiße Königsangriff los. Schwarz kann nicht mehr auf irgendwelche Manöver
+hoffen, sondern muss selber aktiv werden.} c5 $6 {Der Zug verliert mindestens
+einen Bauern, aber er ist zumindest aktiv.} 18. dxc6 $5 {Die Drohung auf b4
+einzuschlagen war zu stark. Jetzt öffnen sich doch einige Linien.} (18. bxc5 {
+scheitert an} b4 {und der Springer hat kein Rückzugsfeld.}) 18... Bxc6 19. h4
+{Weiß droht mit dem Aufriß der h-Linie.} ({Vermutlich wäre} 19. Qxd6 {
+am genauesten gewesen, denn Schwarz kann die Dame nicht so leicht vertreiben.})
+19... Rfd8 {Schwarz deckt den Bauern und schafft somit ein Rückzugsfeld für
+den schwarzfeldrigen Läufer.} 20. g5 {Das erleichtert die schwarze Aufgabe.} (
+20. h5 $6 {ist kritisch, aber dann kommt} d5 21. exd5 Nxd5 22. hxg6 Nxc3+ 23.
+Qxc3 hxg6 {, vermutlich auch mit Ausgleich.}) 20... Nh5 21. Nd5 Bxd5 {Dieser
+Abtausch ist unschön, aber der Springer war zu stark auf d5.} 22. Qxd5 Nf4 23.
+Qxb7 Rxb7 24. Bxf4 exf4 25. Rd5 {Weiß hat die bessere Bauernstruktur und die
+aktiveren Figuren, aber die ungleichfarbigen Läufer erhöhen die Remisbreite.}
+Bc3 26. Rxb5 Rxb5 27. Bxb5 Bxb4 1/2-1/2
+

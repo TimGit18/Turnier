@@ -1,0 +1,65 @@
+[Event "ZABO-Open Nürnberg"]
+[Site "?"]
+[Date "2010.09.18"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Wagner, Florian"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1903"]
+[BlackElo "2258"]
+[Annotator "Tim Schmitz"]
+[PlyCount "110"]
+[EventDate "2010.??.??"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be3 cxd4 7. cxd4 e6 {
+Die sicherste Variante gegen Alapin} 8. Nc3 Qd6 9. a3 Be7 10. Bd3 O-O 11. O-O
+Bd7 {Emms behandelt nur b6} 12. Bc2 {Obwohl der Zug mit der
+Damen-Läufer-Batterie logisch ist, bereitet der Läufer auf diesem Feld später
+Probleme} (12. Qe2 Rfd8 13. Rad1 Rac8 14. Rfe1 {mit der
+Nimzowitsch-Aufstellung ist vielleicht besser für Weiß} Be8 15. Bg5 {Weiß
+steht etwas freier, aber Schwarz hat keine besonderen Schwächen}) 12... Rfd8
+13. Qd3 Be8 14. Rad1 Rac8 15. Ng5 $6 (15. Rfe1 {wäre die bessere Wahl gewesen.
+Der Läufer sollte nach g5. Auf h6 kann er auf f6 schlagen} a6 16. Bg5 h6 17.
+Bxf6 Bxf6 18. Qh7+ Kf8 19. d5 $16 {und Schwarz darf diesen Bauern nicht
+schlagen}) 15... g6 16. Nge4 Nxe4 17. Qxe4 f5 {Bis hierhin war alles noch
+geplant, aber dieser Zug hat mich dann doch überrascht. Schwarz erhält die
+Initiative} 18. Qf3 (18. Qd3 f4 {und über kurz oder lang fällt der d-Bauer})
+18... Bf7 19. d5 $6 {Ein zweifelhaftes Bauernopfer. Ich halte die Spannung
+nicht mehr aufrecht. Hier gab es mindestens zwei bessere Züge} (19. Bb3 Na5 20.
+Ba2 Nc4 21. Qxb7) (19. Rfe1 Bf6 $2 20. Ne4 $1) 19... exd5 20. Rfe1 {Das
+scheint mir der Verlustzug. Aber es ist schwer für Weiß hier etwas
+Konsistentes zu finden} d4 $1 {Schwarz erobert jetzt entscheidend Raum im
+Zentrum} 21. Bf4 $4 {Stellt glatt Material ein} (21. Ba4 {war die letzte
+Chance. Die Deckung des Bauer d4 wird unterminiert und der schlechte Läufer
+entfernt} Qb8) 21... Qf6 $2 (21... Qc5 {gewinnt sofort eine Figur, wonach ich
+aufgegeben hätte}) 22. Nb1 {Hier steht der Springer zwar schlecht, aber sicher.
+Schwarz hat einen gesunden Mehrbauern und die bessere Figurenstellung (Läufer,
+Springer). Bei genauem Spiel sollte die Stellung von Weiß auch nicht zu halten
+sein. Allerdings befindet sich Schwarz auch schon in ziemlicher Zeitnot.} Bf8 {
+Ein Abwartezug, der nichts riskiert} (22... Bd5 {sieht aktiver aus, aber
+darauf folgt auch} 23. Bb3) 23. Bb3 {Der schlechte Läufer soll weg} Bxb3 24.
+Qxb3+ Qf7 25. Qg3 {Natürlich dürfen die Damen nicht getauscht werden wegen
+fehlender Schwindelchancen für Weiß} Bg7 26. Nd2 Re8 27. Nf3 $6 {Genauer ist
+b2-b4, denn auf b3 entsteht ein schlimmes Loch. Aber hier ist auch schon Weiß
+in Zeitnot} Rxe1+ 28. Nxe1 Re8 29. h4 {schafft ein Luftloch und ermöglicht
+später einmal h4-h5} Re2 30. b4 Ne5 {Schwarz aktiviert seine Figuren} 31. h5
+Ng4 {Der Punkt f2 gerät unter Beschuß} 32. hxg6 hxg6 33. Nd3 Qe6 34. f3 $2 {
+Ein taktischer Fehler in Zeitnot} (34. Qf3 {ist genauer} Re4 35. Rc1 b5 {
+und Weiß hat zumindest etwas Gegenspiel}) 34... Ne3 (34... Qb3 {sieht viel
+stärker aus} 35. Rc1 Qxd3 36. fxg4 Qxg3 37. Bxg3 fxg4 {mit gefühlt gewonnenem
+Endspiel für Schwarz}) 35. Bxe3 Qxe3+ 36. Kh2 Kf7 $2 {Wirft den Vorteil weg
+und geht unnötige Risiken ein, aber hier hatten beide keine Minute Zeit mehr}
+37. Qc7+ (37. Nf4 $5 Qxf4 38. Qxf4 Be5 39. Qxe5 Rxe5 40. Rxd4 {sieht wie eine
+gute Remisvariante aus}) 37... Qe7 38. Qc4+ Kf8 39. Qc8+ Kf7 40. Qc4+ Qe6 41.
+Qc7+ Kg8 {Hier musste die Partie nachgespielt werden, weil keiner mehr
+mitschrieb und die Zeit fiel} 42. Qd8+ (42. Qxb7 Qb3 43. Rc1 Qxd3 44. Rc8+ Kh7
+45. Rc7 Qd2 46. Rxg7+ Kh6 47. Rh7+ Kg5 {hatten wir nach der Partie analysiert,
+aber ich hatte diese Abwicklung da nicht gesehen} 48. Qc7) 42... Qe8 43. Qd5+
+Qf7 {Das war alles a tempo gespielt} 44. Qxf7+ {macht es Schwarz natürlich
+einfach} Kxf7 45. Kg1 $2 {Das ist nun ein ziemlich schlimmer Fehler} Ra2 46.
+Nc5 Rxa3 47. Nxb7 Ke6 48. Nc5+ Kd5 49. Kf1 a5 50. Nd3 Kc4 {Etwas ungenau} 51.
+bxa5 {Ein letzter Trick} Rxa5 (51... Rxd3 $2 52. Rxd3 Kxd3 {verliert nach} 53.
+a6 Kc2 54. a7 d3 55. a8=Q d2 56. Qa4+ Kc1 57. Ke2) 52. Ke2 Bh6 53. Rb1 Be3 54.
+Rb2 $4 {Der Aufgabezug} Kc3 {Zuggie} 55. Rb7 Ra2+ 0-1
+

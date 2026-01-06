@@ -1,0 +1,101 @@
+[Event "Ortenburg-Open"]
+[Site "?"]
+[Date "2022.09.10"]
+[Round "3"]
+[White "Radek, Dieter"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1809"]
+[BlackElo "1840"]
+[Annotator "Tim Schmitz"]
+[PlyCount "108"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.09.10"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 {Das Anti-Alapin-Gambit ist eine gute Waffe
+gegen Weiß, da es nicht besonders gut bekannt ist und die üblichen
+technischen Stellungen des Alapin-Systems vermeidet.} 4. c4 e6 {Mit diesem Zug
+wird in eine Art Isländisches Gambit übergeleitet.} 5. dxe6 Bxe6 6. Nf3 Nc6
+7. Be2 Bd6 {Diese Aufstellung wird von Daniel King empfohlen. Als Ausgleich
+für den Bauern erhält Schwarz Entwicklungsvorsprung, offene Linien und
+Diagonalen sowie aktives Spiel.} ({Emanuel Berg empfiehlt in Chessbase Magazin
+167 auch} 7... Be7) 8. d3 {Das Spiel muss sich in Zukunft gegen den schwachen,
+rückständigen Bauern auf d3 richten.} O-O 9. Nc3 {Das ist eine schwierige
+Stellung, zu der ich bereits einige Zeit verbrauchte. Ich möchte gerne die
+Dame nach c7 ziehen und die Türme in die Mitte bringen. Aber Dd8-c7 scheitert
+an Sc3-b5 (und a7-a6 ist sehr langsam). Außerdem beunruhigt mich die
+möghliche Fesselung Lc1-g5.} h6 {Dieser prophylaktische Zug wird auch von der
+Engine bevorzugt.} 10. O-O Re8 11. Be3 {Nach einigen Entwicklungszügen
+stellte sich hier wieder die Frage, was zu tun ist.} Nd4 $6 {Ein provokativer
+Zug, mit dem der Springer ein gutes Feld im Zentrum besetzt. Allerdings musste
+dieser Zug gut berechnet werden.} 12. Re1 {Weiß möchte sich nicht auf die
+Komplikationen einlassen, aber gibt sein Läuferpaar preis.} ({(a) So ist
+offenbar} 12. Nxd4 cxd4 13. Bxd4 Bxh2+ 14. Kxh2 Qxd4 {schlecht, denn} 15. Nb5 {
+scheitert an} Qh4+) ({(b) Besser sieht} 12. Bxd4 cxd4 13. Ne4 {aus.}) 12...
+Nxe2+ 13. Qxe2 Bg4 {An dieser Stelle war ich mit der Stellung sehr zufrieden.
+Die doppelte Fesselung ist unbequem für Weiß. Die schwarzen Figuren sind
+alle besser postiert als ihre Gegenspieler.} 14. Rad1 $1 {[%csl Yd4][%cal
+Gd3d4] Ein guter Zug, der die letzte weiße Figur in das Spiel bringt und
+gegen die schwarze Dame strahlt. Es droht unangenehm d3-d4.} Bf4 $6 {Ein
+Versuch, weitere Komplikationen zu schaffen. Im ersten Augenblick sieht es gut
+aus, denn die Fesselung scheint nach wie vor unangenehm. Allerdings findet
+auch gar keine unmittelbare Drohung statt.} ({Besser ist ein positioneller Zug
+wie} 14... Be5 {, um eine Blockade auf dem Feld d4 zu errichten.}) 15. Qf1 Bxf3
+16. gxf3 {Jetzt hat Schwarz auch kein Läuferpaar mehr, dafür ist der weiße
+Königsflügel irreparabel geschwächt (jedenfalls momentan).} Nh5 $4 {[%csl
+Yf4,Yg5][%cal Gd8g5,Gh5f4] Das ist ein schrecklicher Fehlzug, der nur mit der
+Unterschätzung des Gegners erklärt werden kann. Ich träume von einem
+schnellen Angriff auf dem Königsflügel mit Dame, Springer und Turm und
+übersehe hierbei, dass Weiß die Dame bereits in einer guten Position hat und
+den Springer schnell in das Zentrum führen kann. Auf einmal hat Weiß die
+besseren Aussichten und gutes Spiel.} ({Nach} 16... Qc7 17. Qg2 Rad8 18. Nb5
+Qb8 {steht das Spiel etwa gleich.}) 17. Qh3 $1 {Dieser Zug hält für Weiß
+alles zusammen und war auch nicht einmal schwer zu sehen. Der Springer kann
+nicht zurück, da der Läufer hängt. Die schwarze Figurenkoordination ist auf
+einmal sehr schlecht.} Re5 {Für diesen Zug hatte ich wiederum eine Menge Zeit
+verbraucht und nur noch run 10 Minuten auf der Uhr. Ich bot hier Remis an, das
+natürlich abgelehnt wurde.} ({Der ursprüngliche Plan war} 17... Qg5+ 18. Kh1
+Bxe3 19. fxe3 Rxe3 $4 {, nur um festzustellen, dass am Ende der Springer auf
+h5 hängt.}) 18. Nd5 $1 {Eine starker, zentralisierender Zug von Weiß. Der
+Läufer auf f4 kann nicht mehr gehalten werden und muss abgetauscht werden.
+Schlimmer noch: der Abtausch konsolidiert vollständig die weiße
+Bauernstruktur und schafft eine starke mobile Bauernwalze im Zentrum.} Bxe3 19.
+fxe3 Nf6 20. f4 Re8 21. Qf3 {Weiß ist aus den Komplikationen mit deutlichem
+Vorteil herausgekommen.} Nxd5 22. cxd5 {Der Freibauer ist mordsgefährlich,
+aber der Springer auf d5 war einfach zu stark.} Qf6 23. b3 Rad8 24. e4 Qd4+ 25.
+Kh1 {Wenigstens konnte ich die Figuren wieder in das Spiel bringen, aber der
+statische Vorteil von Weiß ist unbestritten.} f5 $6 {Das ist nur ein wilder
+Versuch, aktiv zu spielen. Aber mir viel kein anderer Plan ein, um Gegenspiel
+zu erzeugen.} 26. Qg2 {Das verdirbt noch nichts, aber schafft mit f4 endlich
+eine Angriffsmarke, gegen die ich operieren kann.} Rf8 27. Qg1 Qxg1+ {
+Natürlich spielt der Damentausch Weiß in die Hände, aber allzu viele Felder
+hat die Dame nicht.} 28. Kxg1 fxe4 29. dxe4 Rxf4 {Das materielle Gleichgewicht
+ist wiederhergestellt, aber das weiße Freibauernpaar sollte locker für Weiß
+gewinnen.} 30. e5 Rd4 $4 {Ein ziemliches Zugeständnis in einer ohnehin
+verlorenen Stellung, die Bewertung springt sofort auf +10. Der Bauer auf d4
+geht sowieso verloren und Turm und König können die weißen Bauern zwar
+stoppen, aber dann geht zuviel anderes Material verloren.} ({Zäher,
+wenngleich auch verloren ist} 30... Kf7 31. e6+ Ke8 32. d6 Rf6) 31. Rxd4 cxd4
+32. d6 $6 (32. e6 {ist genauer. Der Gewinn scheint hier trivial} d3 (32... Kf8
+$4 33. e7+) 33. e7 Re8 34. d6 Kf7 35. d7 d2 36. Rd1 {and game over}) 32... Kf8
+33. Kf2 Ke8 34. Kf3 d3 {Der Bauer wird verbrannt, um Zeit zu gewinnen.} 35. Ke3
+d2 36. Kxd2 Kd7 37. Kd3 Ke6 38. Kd4 {Weiß gewinnt immer noch, aber Schwarz
+hat seinen König in eine Blockadestellung gebracht.} Rf8 39. Re2 {Weiß macht
+es zu kompliziert und lässt Gegenspiel zu.} (39. Rd1 g5 40. Ke4 Rf4+ 41. Ke3
+Rf8 42. d7 Rd8 43. Ke4 {überführt in ein gewonnenes Bauernendspiel}) 39...
+Rf4+ 40. Kc5 g5 {Die Zeitkontrolle ist geschafft. Ich spielte die letzten 10,
+15 Züge sehr schnell, weil es sowieso keine guten Züge gab. Weiß musste
+immer lange Nachdenken, um den Gewinnplan zu finden. Mittlerweile war es in
+der zweiten Partie des Tages auch schon spät geworden.} 41. Rd2 Rf8 42. a4 $1
+{Das ist der Gewinnplan: es muss eine zweite Schwäche auf dem Damenflügel
+geschaffen werden, wo dann der Durchbruch erfolgt.} Rc8+ 43. Kd4 Rf8 44. Re2
+Rf5 45. a5 a6 46. Kc5 {Der König marschiert auf dem geschwächten
+Damenflügel ein.} h5 {Einzige Chance auf Gegenspiel ist selber einen
+Freibauern zu erzeugen.} 47. b4 $6 {Das sieht unnötig kompliziert aus.} g4 48.
+b5 $2 {Falscher Plan - der Damenflügel darf nicht aufgelöst werden!} axb5 49.
+Kxb5 {Das Tempo fehlt gleich für Weiß} h4 50. a6 $4 {verliert den Vorteil}
+bxa6+ 51. Kxa6 g3 {Nun wird die Stellung liquidiert. Der weiße König steht
+viel zu weit weg, um noch eine Rolle zu spielen.} 52. hxg3 hxg3 53. Rg2 Rxe5
+54. Rxg3 Kxd6 {Remis und ungläubiges Entsetzen bei Weiß.} 1/2-1/2
+

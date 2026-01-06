@@ -1,0 +1,22 @@
+[Event "DSAM Aalen 2011"]
+[Site "?"]
+[Date "2011.12.17"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Sponheim, Marko"]
+[Result "0-1"]
+[ECO "B98"]
+[WhiteElo "1873"]
+[BlackElo "1900"]
+[Annotator "Tim Schmitz"]
+[PlyCount "78"]
+[SourceVersionDate "2020.12.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O h6 10. Bxf6 Bxf6 11. h4 Nc6 12. Nb3 Bd7 13. g4 O-O-O 14. Bg2 Kb8
+15. g5 Be7 16. Kb1 Rdg8 17. Bh3 hxg5 18. hxg5 g6 19. Bg2 Rxh1 20. Rxh1 Na7 21.
+Rh7 Be8 22. f5 Nb5 23. fxe6 fxe6 24. Bh3 Nxc3+ 25. bxc3 Ba4 26. Bxe6 Rf8 27.
+Rf7 Rxf7 28. Bxf7 Qb6 29. Qg3 Qd8 30. Bxg6 Bxg5 31. Bf5 Bf6 32. Qe3 Be5 33. Be6
+Qf6 34. Bd5 Qf1+ 35. Qc1 Qf3 36. Qe1 Bxc3 37. Qg1 Be5 38. Qb6 $4 Qd1+ 39. Nc1
+Bxc2# 0-1
+

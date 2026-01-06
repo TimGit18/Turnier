@@ -1,0 +1,82 @@
+[Event "Bad Wörishofen (B-Open)"]
+[Site "?"]
+[Date "2023.03.03"]
+[Round "1"]
+[White "Lachat, Martin"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1580"]
+[BlackElo "1841"]
+[Annotator "Tim Schmitz"]
+[PlyCount "57"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.03.03"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. Bg5 {Dieser Zug ist das Smyslov-System in der
+Königsindischen Verteidigung. Im Prinzip ist es nicht besonders gefährlich,
+da Weiß den Damenläufer etwas zu früh festlegt. Allerdings sollte Schwarz
+präzise spielen (und nicht wie in der Partie mit Zugfolgen experimentieren).
+Die grundsätzliche Aufstellung besteht darin, das weiße Zentrum und
+insbesondere den Punkt d4 vom Damenflügel her anzugreifen, um das Fehlen des
+weißen Damenläufers auszunutzen.} c5 (4... O-O 5. e3 d6 6. Nf3 c5 {würde
+ebenfalls in den Text einmünden, ist aber viel genauer. Schwarz rochiert
+zunächst, um dann mit Operationen gegen das schwarze Zentrum zu beginnen.}) 5.
+e3 O-O 6. Nf3 d6 {Unter Zugumstellung ist wieder eine theoretische Stellung
+entstanden.} 7. Be2 Qb6 $2 {[%csl Yb2,Yd4][%cal Rb6c5,Rc5d4,Rb6b2] Das ist ein
+ungenauer und schlampiger Zug. Schwarz stellt sicher eine Minimaldrohung gegen
+b2 auf und erhöht etwas den Druck auf d4. Jedoch steht die schwarze Dame hier
+mittelfristig schlecht, denn es droht immer wieder einmal das Manöver Lg5xf6
+und Sc3-d5.} ({Korrekt im theoretischen Sinne ist} 7... h6 8. Bh4 Bf5 $1 {
+Hier steht der schwarze Damenläufer ideal, da er nicht mit Sf3-h4 belästigt
+werden kann.} 9. O-O Nbd7 {Alle schwarzen Leichtfiguren sind gut postiert, und
+man kann mit Operationen gegen das weiße Zentrum beginnen.}) 8. Qd2 {Weiß
+wehrt die Drohung spielend leicht ab. Nun muss sich Schwarz Gedanken über die
+drohende Gabel auf d5 machen.} Be6 {Schwarz überdeckt das Feld d5 und
+entwickelt seinen Damenläufer auf ein nicht-ideales Feld. Schon jetzt macht
+sich die ungesunde Stellung der Dame auf b6 bemerkbar.} 9. O-O Nbd7 {Schwarz
+hat seine Entwicklung der Leichtfiguren abgeschlossen. Er hat allerdings eine
+ziemlich gedrückte Stellung und muss seine Figuren umgruppieren, um Wirkung
+zu entfalten.} 10. b3 $6 {Der Zug gefällt nicht besonders, denn er deckt zwar
+c4 und nimmt die Wirkung der Dame auf b6 aus dem Spiel, aber er öffnet auch
+die Diagonale für den schwarzen Läufer.} Rfe8 {Hier steht der Turm zwar
+nicht besonders aktiv, aber er deckt prophylaktisch den Bauern auf e7, um den
+Springer beweglich zu machen.} 11. Rad1 Rad8 {Beide Farben konsolidieren
+langsam die Stellung. Man beachte, dass Weiß den raumgreifenden Zug d4-d5
+vermeidet, denn er öffnete die ganz lange Diagonale für den schwarzen
+Königsläufer. Der schwarze Damenläufer würde nach g4 gehen und sich dort
+gegen den Springer auf f3 wohl abtauschen.} 12. Qc2 {Vermutlich ist mit dem
+Zug ein stilles Remisangebot (nach Td8-c8 und Dc2-d2) verknüpft.} Bf5 $5 {
+Endlich wird der schlecht stehende Läufer aktiviert, da die Bedrohung Sc3-d5
+keine mehr ist. Mein Plan war, auf e3-e4, was viel aktiver als die
+Partiefortsetzung ist, ein Druckspiel gegen d4 aufzubauen.} 13. Bd3 {Weiß
+vereinfacht die Stellung, aber er stellt Schwarz nicht mehr vor Probleme.} Bxd3
+14. Rxd3 Qc6 $5 {Endlich wird die Dame umgruppiert. Glücklicherweise ist die
+Stellung so geschlossen, dass derart zeitraubende Manöver nicht in das
+Gewicht fallen.} 15. Rfd1 a6 16. d5 $6 {Das ist jetzt eine Konzession. Weiß
+entscheidet sich für eine Quasi-Benoni-Struktur (inklusive Bauer c4 und Bauer
+e7). Mein Spiel, was zuvor ziemlich zeitaufwändig war, kann jetzt aber auf
+bewährte Muster zurückgreifen und viel schneller werden.} Qc7 17. h3 {
+Das ist auch ein rätselhafter Zug, der hier keinen großen Sinn ergibt.} Rb8 {
+Der Damenflügel soll geöffnet werden, notfalls auch unter Opfern.} 18. R3d2
+$2 ({Hier hätte der Blockadezug} 18. a4 {geschehen müssen. Nun kommt Schwarz
+ziemlich schnell zu Initiative.}) 18... b5 19. Qd3 Qa5 $1 {Auf einmal hat
+Schwarz das viel bessere Spiel, wie so oft, wenn der weiße Zentrumsangriff in
+der Benoni-Verteidigung nicht durchbricht. Die b-Linie wird zu einem Problem
+für Weiß.} 20. e4 $6 {Weiß merkt, dass der statische Charakter der Stellung
+ihm zum Nachteil gereicht und übt sich in einem allerdings unzureichenden
+Gegenspiel.} bxc4 21. Qxc4 Qb4 {Schwarz bietet den Damentausch an, weil er
+darauf setzt, Weiß positionell zu überspielen. Außerdem wird
+Gegenspiel-Potential aus der Stellung genommen.} 22. Qxb4 $2 {Das ist ein
+schlechter Zug unter Druck.} ({Hier hätte geschehen müssen} 22. Qd3 Rec8 {
+und es droht bereits c5-c4.}) 22... cxb4 $1 {Dieser Zug gewinnt zumindest
+einen Bauern.} 23. Bxf6 $4 {Ein weiterer schwerer Fehler in einer bereits
+schlechteren Stellung. Weiß verliert die Qualität ohne Kompensation.} (23.
+Ne2 Nxe4 {[%csl Yd2,Yg5][%cal Re4g5,Re4d2] gewinnt einen Bauern für Schwarz
+in bereits besserer Stellung.}) 23... bxc3 24. Bxg7 cxd2 25. Bc3 Rec8 26. Bxd2
+Rc2 {Weiß wird seinen Mehrbauern verlieren und steht eigentlich schon auf
+Verlust.} 27. Ra1 Ne5 {Vereinfacht die Stellung entscheidend.} 28. Nxe5 dxe5
+29. Bb4 $4 {Einfach eingestellt, aber die Stellung war sowieso schon schlecht.}
+(29. Be3 Rbc8 30. a4 Rb2 31. Ra3 Rcc2 {und die weiße Stellung ist kaum zu
+halten.}) 0-1
+

@@ -1,0 +1,23 @@
+[Event "Bamberg-Open"]
+[Site "?"]
+[Date "2019.06.02"]
+[Round "6"]
+[White "Schinke, Robert"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2041"]
+[BlackElo "1835"]
+[Annotator "schmi"]
+[PlyCount "75"]
+[SourceVersionDate "2019.06.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Bf2 Qc7 10. a4 Nbd7 11. g3 b6 12. Bg2 Bb7 13. O-O Nc5 14. Qe2 O-O 15.
+Rae1 Rfe8 16. Kh1 Rac8 17. g4 d5 18. e5 Nfe4 19. Nxe4 Nxe4 20. Bg1 Bc5 21. c3
+Qe7 22. Be3 Qh4 23. Rf3 Bxd4 24. Bxd4 Nc5 $2 (24... Qxg4 $5 25. Bh3 Qh4 26. Rg1
+) 25. Rh3 Qe7 26. Re3 $6 (26. g5 hxg5 27. Qh5) 26... a5 27. f5 Ba6 28. Qc2 (28.
+Bxc5 $1 Qb7 29. Qf2 bxc5 30. f6) 28... Qd7 29. Ra1 b5 30. Qf2 Ne4 $6 (30... Nb3
+31. Rg1 Nxd4) 31. Qf4 bxa4 32. h4 Qb5 33. Bxe4 dxe4 34. f6 Qxb2 35. Rg1 Be2 $4
+36. fxg7 Bf3+ 37. Rxf3 exf3 38. Qxh6 1-0
+

@@ -1,0 +1,22 @@
+[Event "Bad Wörishofen (B-Turnier)"]
+[Site "?"]
+[Date "2023.03.08"]
+[Round "6"]
+[White "Marzec, Witold"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "1668"]
+[BlackElo "1841"]
+[Annotator "Tim Schmitz"]
+[PlyCount "68"]
+[SourceVersionDate "2023.03.08"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nc6 7. e4 e5 8. d5 Ne7
+9. O-O Bg4 $6 10. h3 Bd7 11. Bg5 h6 12. Be3 Ne8 $6 13. Qd2 Kh7 14. Ne1 f5 15.
+f4 fxe4 16. Nxe4 exf4 17. Rxf4 Nf5 18. Nd3 Nxe3 19. Qxe3 Nf6 20. Raf1 Nxe4 $4 (
+20... g5) 21. Rxf8 Bxf8 22. Qxe4 $6 (22. Bxe4 $1 $16) 22... Bg7 23. Rf7 Bf5 24.
+Qd4 $4 Qg8 $2 (24... Qf8 $1 25. Rxc7 Kg8 26. Qe3 Re8 $1 $19) 25. Rxc7 Kh8 26.
+Qe3 Re8 27. Qd2 Rc8 28. Rxc8 Qxc8 29. g4 Bxd3 30. Qxd3 Qe8 31. Qd2 Qe5 32. b3
+Qd4+ 33. Qxd4 Bxd4+ 34. Kf1 Kg7 1/2-1/2
+

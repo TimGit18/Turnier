@@ -1,0 +1,41 @@
+[Event "ZMD-Porzellancup Dresden"]
+[Site "?"]
+[Date "2009.01.24"]
+[Round "3"]
+[White "Schmidt, Carsten"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "2124"]
+[BlackElo "1844"]
+[Annotator "Tim Schmitz"]
+[PlyCount "141"]
+[EventDate "2009.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 {Abgelehntes Göring-Gambit} 5. exd5
+Qxd5 6. cxd4 Bg4 7. Be2 O-O-O 8. Nc3 Bb4 9. O-O Qf5 {Fritz empfiehlt Da5} 10.
+Be3 Nf6 11. h3 Bh5 $6 ({Ich überlegte die ganze Zeit an} 11... Bxh3 12. gxh3
+Qxh3 {aber Weiß steht gut nach} 13. Ng5 Qf5) 12. Bd3 Qd7 13. Qc2 {droht Lf5}
+Bg6 14. Bxg6 hxg6 15. Rad1 {Der Vorstoß d5 hängt in der Luft} Qf5 16. Qxf5+
+gxf5 17. Ng5 Rd7 18. d5 Ne5 19. Bd4 Ng6 20. Bxf6 gxf6 {Meine Bauernstruktur
+ist völlig zerstört, daher bleibt nur noch das Figurenspiel} 21. Nf3 Ne5 22.
+Nd4 f4 {droht f3} 23. Ne4 Rxd5 24. Nxf6 Rd6 25. Ne4 Rg6 {Schwarz steht jetzt
+aufgrund seiner aktiven Türme etwas besser} 26. a3 Ba5 27. Nf5 {droht Gabel
+auf e7} Kb8 {Jetzt ist die Stellung ausgeglichen} 28. Kh1 f3 29. Neg3 fxg2+ (
+29... c6 {ist vielleicht besser, da Fluchtfelder für Läufer und König
+geschaffen werden}) 30. Kxg2 c6 31. Rfe1 $2 {Einsteller in Zeitnot} Bxe1 32.
+Rxe1 Nd3 33. Re4 Nc5 $2 (33... Nxb2 {gibt großen Vorteil}) 34. Re7 Ne6 {
+Der Zug ist schwach} (34... Rf6 {deckt den Bauern}) 35. Rxf7 Nf4+ 36. Kf1 Rxh3
+{Schwarz träumt vom Matt, aber es ist sein König, der in Gefahr gerät} 37. Ne7
+Rg4 38. Nef5 Rh8 39. Nd6 Rd8 $2 40. Nge4 Rh4 {Langsam sollte mal b6 oder b5
+gespielt werden} 41. Ke1 Ng2+ 42. Ke2 Nf4+ 43. Kf3 Nd5 44. Nxb7 (44. Rxb7+ Ka8
+45. Rf7) 44... Rg8 45. Nbc5 Rh3+ 46. Ke2 Re8 {Die nächsten Züge lassen sich
+leider nicht genau rekonstruieren} 47. Kd2 Rd8 48. Ke2 Rh4 49. a4 Rh6 50. Nd7+
+Kc8 51. Nec5 Re8+ 52. Kd2 Re7 53. Rf8+ Kc7 54. Nb8 Rf6 55. Nba6+ Kd6 56. Rd8+
+Ke5 57. Nd3+ Kf5 58. Nac5 Nf4 59. Nxf4 Kxf4 60. Nd3+ Kf5 61. Rd4 Re4 62. Rxe4
+Kxe4 {Nach einigem Durcheinander hat Schwarz ein gewonnenes Endspiel erreicht,
+das ich leider vermassle} 63. b3 Rf3 64. Nc5+ Kd5 65. Nd3 Kd4 66. Nb4 Rxf2+ 67.
+Kc1 Kc5 $4 (67... Kc3 {gewinnt einzügig}) 68. Na6+ Kb6 69. Nb4 c5 70. Nd3 Rf3
+71. Kc2 {mit späterem Remis durch Zugwiederholung} 1/2-1/2
+

@@ -1,0 +1,109 @@
+[Event "MMM 2017/2018"]
+[Site "?"]
+[Date "2018.05.03"]
+[Round "9"]
+[White "Schmitz, Tim"]
+[Black "Reiter, Gerhard"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "1799"]
+[BlackElo "1771"]
+[PlyCount "131"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.05.03"]
+[WhiteTeam "SC Sendling 3"]
+[BlackTeam "Schach-Union 2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 {Das ist
+der Damenflügel-Angriff im Steinitz-System der Französischen Verteidigung.
+Weiß muss etwas aufpassen und darf nicht zu früh rochieren} 8. dxc5 $6 {
+Dieser Zug ist sicher kein Fehler, denn er wird in diesen Stellungsbildern der
+Französischen Steinitz-Verteidigung öfter gespielt. Aber er wirkt
+verpflichtend, denn der schwarze Läufer hat noch nicht gezogen, und Weiß
+sollte lieber die theoretische Hauptfortsetzung spielen} ({Nach} 8. Qd2 b5 9.
+dxc5 Bxc5 10. Bd3 {geht das Spiel in das Karjakin-System über}) 8... Bxc5 9.
+Qd2 {Die beiden Züge vorher waren logisch. Jetzt könnte Schwarz mit dem Zug
+b7-b5 in die Hauptvariante einlenken} Qb6 $5 {[%csl Yb2,Yc5,Ye3][%cal Rb6b2,
+Rc5e3,Rb6c5] Schwarz erhöht den Druck auf e3. Im Unterschied zum
+Karjakin-System steht hier kein Bauer auf b5. Also verhindert er auch nicht
+den Druck gegen den Bauern b2} 10. Bxc5 Qxc5 {Der Abtausch ist wohl mehr oder
+weniger erzwungen. Die nächsten Züge sind auch mehr oder weniger klar} 11.
+O-O-O O-O {Beide Seiten haben ihren König in Sicherheit gebracht. Für Weiß
+ist der König einigermaßen sicher, da er von seinen Figuren bewacht wird.
+Der schwarze König steht zwar relativ allein dort, aber ein Angriff von Weiß
+ist noch nicht in Sicht und benötigt Zeit} 12. Kb1 {Dies ist ein
+prophylaktischer Abwartezug. In vielen Situationen steht der König auf b1
+besser als auf c1. Er geht dem Angriff auf der c-Linie aus dem Weg und deckt
+auch noch den Bauern auf a2} ({Eine valide Alternative ist} 12. Bd3 {, um
+keine Zeit zu verlieren. Allerdings ist ein Tempo in solch einer Stellung
+nicht viel wert}) 12... b5 {[%csl Yb4,Yb7][%cal Rc8b7,Rb5b4] Auch dieser Zug
+passt in das Konzept. Erstens schafft er Raum für den schlechten Läufer auf
+b7, zweitens droht er mit b5-b4 den weißen Springer zu vertreiben} 13. Bd3 {
+[%csl Yd3,Yh7] Der Läufer hat hier sein Idealfeld erreicht und drückt gegen
+den Bauern auf h7} Re8 $6 {Ein verständlicher, aber leicht passiver Zug.
+Schwarz möchte gerne f8 für den Springer räumen und in manchen Variante
+auch den Bauern auf e6 gerne decken.} ({Aktiver sieht zumindest} 13... Rd8 {
+aus, da er die weiße Dame anvisiert}) 14. h4 {Mit diesem Zug wird der
+gegensätzliche Bauernsturm eingeleitet. Der Zug ist richtig und logisch,
+obwohl die weißen Bauern im Gegensatz zu den schwarzen noch keine konkreten
+Angriffsziele haben} b4 {Die richtige Antwort von Schwarz, um Weiß zu einer
+Reaktion zu provozieren} 15. Ne2 {Diesen Zug kann man kritisch sehen. Der
+Springer bleibt zwar in der Nähe des Zentrums, aber er steht sehr passiv} ({
+Mir gefiel die Variante} 15. Na4 Qa5 16. b3 {überhaupt nicht, obwohl die
+Stellung für Weiß objektiv wohl völlig in Ordnung ist}) 15... a5 {[%csl Ya4,
+Ya6][%cal Rc8a6,Ra5a4] Schwarz leitet einen neuen Plan ein. Er möchte seinen
+schlechten Damenläufer loswerden. Alternativ kann er auch nach a4 laufen und
+mit b3 drohen} 16. h5 {Weiß muss dagegenhalten. Er hofft auf eine
+Panikreaktion von Schwarz} Ba6 $1 {Die kühle Reaktion von Schwarz ist die
+sicherlich beste. Er tauscht den schlechten eigenen Läufer gegen den guten
+gegnerischen} ({Nach} 16... h6 {folgt} 17. g4 {mit Öffnung der g-Linie}) 17.
+Ng5 {[%csl Yh7][%cal Rg5h7,Rd3h7] Die offensichtliche Drohung ist jetzt Ld3xa6
+und Dd2-d3 mit Qualitätsgewinn} Nf8 {Schwarz deckt den angegriffenen Bauern.
+Allerdings kommt sein Springer auf ein passives Feld} 18. g4 {Zumindest
+konsequent, auch wenn der Bauer f4 in Zukunft schwach wird} Bxd3 19. Qxd3 Ra7 {
+[%csl Yc2,Yc7,Yc8][%cal Ge8c8,Ga7c7,Rc5c2] Nach dem Abtausch wirkt die weiße
+Stellung zwar bequemer, aber ohne echte Drohung. Schwarz verstärkt langsam
+den Griff auf die Stellung und beginnt damit, die Türme in das Spiel zu
+bringen. Der Zug ist deswegen gut, weil er die schwarzen Schwerfiguren auf der
+c-Linie vertripeln kann. Schwarz steht besser oder ausgeglichen} 20. Nd4 $6 {
+Das ist ein ungenauer Zug, vielleicht schon ein Fehler. Weiß denkt zurecht,
+dass die Figur auf e2 die schlechteste im ganzen Lager ist. Er übersieht,
+dass Schwarz jetzt zu seinen Gunsten abtauschen kann. Wie so oft war dieser
+"offensichtliche" Zug mit einem Remisangebot versehen, das relativ bequem
+abgelehnt werden kann} ({Besser ist wahrscheinlich} 20. Nf3 {, um die
+Springerbesetzung von d4 vorzubereiten}) 20... Nxd4 21. Qxd4 Rc7 {Das ist die
+Stellung, die Schwarz angestrebt hat. Erstens hat er den störenden Springer
+von c6 entfernt, zweitens baut er ganz einfach jetzt Druck auf der c-Linie auf
+und droht bereits mit Dc5xc2} 22. Qd3 ({Das Figurenendspiel nach} 22. Qxc5 Rxc5
+23. Nf3 Rc4 24. Nd4 Rec8 {gefiel nicht, obwohl es wahrscheinlich für Weiß
+objektiv noch völlig in Ordnung ist und vielleicht sogar besser als die
+Partiefortsetzung. Das Bauchgefühl besagt, dass hier Schwarz die besseren
+Aussichten hat}) 22... Rec8 {Jetzt ist die schwarze Stellung schon sehr gut}
+23. Rh2 {Ein Verteidigungszug mit der vagen Hoffnung auf Turmverdopplung.
+Nachteil: Die weiße Figurenkoordination wird deutlich schlechter} Qe7 {
+[%csl Yc4,Yc5,Yd3,Yd7,Ye4][%cal Gc7c4,Rc4f4,Gf8d7,Gd7c5,Rc5d3,Rc5e4] Zunächst
+sieht dieser Zug etwas schwach aus, da die Dame sich zurückzieht. Aber er
+verfolgt zwei Ziele mit dem Zug: Erstens soll der schwarze Turm nach c4 gehen,
+um den schwachen weißen Bauern auf f4 anzugreifen. Zweitens wird das Feld
+ideal für den Springer geräumt} 24. Nf3 {Der Springer kehrt zurück, um bei
+der Verteidigung der eigenen Stellung mitzuhelfen} Rc4 {Damit ist die erste
+Drohung realisiert. Der Turm greift nicht nur den weißen Bauern f4 an,
+sondern verhindert auch noch f4-f5, da der g-Bauer hängt} 25. Nd4 {Der beste
+Verteidigungszug, der auch noch den Springer auf ein einigermaßen gutes Feld
+stellt} Nd7 {Die zweite Idee wird verwirklicht, der Springer kommt nach c5} 26.
+g5 {Weiß bleibt wenigstens aktiv und droht seinerseits mit einem Aufreißen
+der Stellung auf dem Damenflügel} Nc5 27. Qe3 {Die Dame bleibt in der Nähe
+des Zentrums und des eigenen Springers, eine im Nachhinein richtige
+Entscheidung} ({Möglich ist auch} 27. Qh3 {mit Druck auf der h-Linie}) 27...
+Ne4 {Schwarz hat seine Idealstellung erreicht. Alle Figuren stehen gut, der
+König ist noch geschützt und es droht a5-a4, vielleicht auch einmal Se4-c3+.
+Weiß wird dann zwar nicht matt, da die weiße Dame noch nach c1 zurück kann,
+aber schön ist anders. Weiß muss jetzt also etwas tun} 28. g6 fxg6 29. hxg6
+h6 30. f5 exf5 31. Nxf5 Qxe5 32. Nxh6+ gxh6 33. Qxh6 Qg7 34. Qh5 Nf6 35. Qf5
+R4c6 36. Rxd5 Nxd5 $4 (36... Re8) 37. Qxd5+ Kf8 38. Rf2+ Rf6 39. Qd6+ Kg8 40.
+Rxf6 Re8 41. Rf1 Qe5 42. Qxe5 Rxe5 43. Rg1 Kg7 44. Kc1 Re4 45. Kd2 Rd4+ 46. Ke3
+Rh4 47. Rg2 Rc4 48. Kd3 Rh4 49. c3 Rh3+ 50. Kc2 Rh4 51. cxb4 axb4 52. Kb3 Rf4
+53. a4 bxa3 54. Kxa3 Rf8 55. b4 Ra8+ 56. Kb3 Kf6 57. Kc4 Ke6 58. b5 Kd6 59. g7
+Rg8 60. Rg6+ Kc7 61. Kc5 Kb7 62. Rg5 Kc7 63. b6+ Kb7 64. Kb5 Re8 65. Rf5 Rg8
+66. Rf7+ 1-0
+

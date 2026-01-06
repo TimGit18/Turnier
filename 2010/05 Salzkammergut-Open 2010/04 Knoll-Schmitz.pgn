@@ -1,0 +1,33 @@
+[Event "Salzkammergut Open 2010"]
+[Site "?"]
+[Date "2010.05.23"]
+[Round "4"]
+[White "Knoll, Martin"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "1983"]
+[BlackElo "1869"]
+[Annotator "Tim Schmitz"]
+[PlyCount "104"]
+[EventDate "2010.05.21"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. Nf3 Be7 7. e3 c6 8.
+Bd3 O-O 9. O-O {Soweit alles Theorie, nur verzichtet Weiß auf Dc2} Re8 10. Bxf6
+Nxf6 11. Ne5 {Der gefürchtete Pillsbury-Aufbau} a6 {Plant c5 ohne Lb5
+zuzulassen} 12. Na4 {Weiß verhindert c5} Bd6 13. f4 {Weiß zementiert seinen
+starken Springer} Qe7 14. Qf3 h6 $6 {Dieser Zug schafft leider nur eine neue
+Angriffsmarke} ({Geplant war eigentlich} 14... Bg4 15. Nxg4 Nxg4 16. Qxg4 Qxe3+
+{aber Weiß kann das Zwischenschach geben}) 15. Rae1 Qc7 16. Rc1 Be6 {soll f5
+provozieren, aber ich komme in schreckliche Zeitnot} 17. Bb1 Rad8 18. Kh1 {
+Weiß plant g4} Ne4 {Schwarz muss etwas tun, sonst marschiert Weiß einfach voran
+} 19. Qe2 Bf5 20. g4 Bh7 21. Nc3 {Rybka sieht Schwarz etwas besser} Qe7 22.
+Nxe4 Bxe4+ 23. Bxe4 dxe4 24. Qc4 Qe6 25. Qxe6 Rxe6 26. f5 Ree8 27. Nc4 f6 28.
+Nxd6 Rxd6 {Jetzt ist allerdings Weiß wieder am Drücker. Schwarz hat nur noch 5
+Minuten für 13 Züge und die schlechtere Bauernstruktur} 29. Rc3 Rd5 30. Rfc1
+Red8 31. Kg2 h5 32. h3 h4 33. Kf2 Kf7 34. Ke2 Ke7 35. Rb3 Rb5 36. Rxb5 axb5 37.
+Kd2 Ra8 38. a3 Kd6 39. Kc3 Kd5 40. Kb3 Ra4 {Etwas ungenau: Weiß bekommt noch
+einmal Gewinnchancen} 41. g5 b6 42. gxf6 gxf6 43. Rg1 c5 44. dxc5 bxc5 45. Rg4
+Ke5 (45... Rc4 $1) 46. Rxh4 Rc4 47. Rh8 Kxf5 48. a4 Rb4+ 49. Kc3 Rc4+ 50. Kb3
+Rb4+ 51. Kc3 Rc4+ 52. Kb3 Rb4+ 1/2-1/2
+

@@ -1,0 +1,79 @@
+[Event "OIBM Bad Wiessee 2010"]
+[Site "?"]
+[Date "2010.11.05"]
+[Round "7"]
+[White "Lettl, Gerhard"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[WhiteElo "2150"]
+[BlackElo "1934"]
+[Annotator "Tim Schmitz"]
+[PlyCount "50"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 ({In der realen Partie wurde die Zugumstellung} 3.
+Nc3 Nf6 4. d4 {gespielt, mit der Weiß die unbeliebte Varianten 4...Lc5 oder 4..
+.Dh4 in der Schottischen Partie vermeidet}) 3... exd4 4. Nxd4 Nf6 {[%csl Ye4]
+Mit diesem Zug attackiert Schwarz sofort das weiße Zentrum und konzentriert
+sein frühes Gegenspiel auf den weißen Bauern e4} 5. Nc3 {Vernünftige
+Entwicklung des weißen Damenspringers und Verteidigung des Bauern e4} Bb4 {
+Das ist der natürlichste Zug für Schwarz. Er entwickelt den Läufer, bereitet
+die Rochade vor und fesselt den weißen Springer, womit die Bedrohung des
+e-Bauern erneuert wird} 6. Nxc6 {[%csl Yd3][%cal Rf1d3] Mit diesem Zug gibt
+Weiß die Bemühung auf, gleichzeitig die Felder e4 und d4 decken zu wollen.
+Aber er öffnet dem weißen Läufer den Weg nach d3!} bxc6 {Nun ist Schwarz
+bereit, im Zentrum mit d7-d5 zuzuschlagen. Wenn er mit dem Damenbauern
+geschlagen hätte, könnte Weiß vorteilhaft die Damen tauschen, und der schwarze
+König stünde deplatziert.} 7. Bd3 {Da der Springer auf d4 getauscht ist,
+empfiehlt sich hier dieser Zug von selbst, da er den Bauern verteidigt und die
+Rochade vorbereitet} d5 {[%csl Ye4] Dieser Gegenstoß ist der populärste Zug.
+Der weiße Bauer steht jetzt unter großem Druck} (7... O-O {wurde in
+Wirklichkeit in der Partie gespielt. Dies ist aber etwas ungenau. Weiß
+überlegte lange an} 8. e5 Re8 9. f4 d6 {entschied sich dann aber für die
+Hauptvariante}) 8. exd5 {Weiß entschließt sich, die Spannung im Zentrum
+aufzuheben. Die andere bekannte Option ist der Vormarsch nach e5} cxd5 {
+Das Entdoppeln der Bauern schafft einen Komplex auf den c- und d-Linien} 9. O-O
+O-O 10. Bg5 $1 {Ein starker Zug und der einzige ernsthafte Versuch, Vorteil zu
+erlangen. Nach der schwarzen Rochade ist die Befreiung des Springers von der
+Fesselung mit h7-h6 und g7-g5 immer mit Risiken verbunden} c6 {Eine
+vernünftige Sicherung des d-Bauern. Auch Le6 ist möglich, gilt aber heute als
+etwas ungenau, denn Weiß kann mit Sb5 sofort das Feld d4 anvisieren} 11. Qf3 {
+[%csl Rb8,Ye4,Ye8,Yf5,Rf6,Yg6,Yh7][%cal Rd3h7,Gf3f6,Ga1d1,Gf1e1,Gf8e8,Ga8b8]
+Das bildet die traditionelle Hauptvariante. Weiß stellt die Dame auf den
+Königsflügel, wo sie den gefesselten Springer weiter unter Druck setzt. Es ist
+klar, dass die weißen Figuren den aktiveren Eindruck machen. Er ist weiter in
+der Entwicklung und seine Türme sind bereits verbunden. Allerdings verfügt das
+schwarze Bauernzentrum über Potential und seine Türme können die b- und die
+e-Linie besetzen} h6 $6 {Eine weitere Ungenauigkeit} ({Besser ist} 11... Bd6 {
+Damit gibt man Weiß die Möglichkeit, auf f6 zu nehmen. Wahrscheinlich ist es
+besser, wenn Weiß abwartet bis Schwarz h6 gespielt hat} 12. Rfe1 Rb8 {[%csl
+Rb2] Mit Besetzung der b-Linie und Druckspiel gegen den Bauern b2.} 13. Na4 {
+Dieser Zug wird am häufigsten gespielt, aber er bindet den Springer an die
+Verteidigung des Bauern b2} h6 14. Bxf6 Qxf6 15. Qxf6 gxf6 16. Rad1 Bg4 17. f3
+Be6 {mit aktivem Läuferpaar für die Bauernstruktur}) 12. Bxf6 Qxf6 13. Qxf6
+gxf6 14. Ne2 Bd6 {Das Endspiel sollte eigentlich gut spielbar für Schwarz sein.
+In der Folge agiert Weiß aber präziser und schaut tiefer in die Stellung} 15.
+c3 {Eine interessante Idee. Weiß will den Springer auf d4 etablieren} c5 {
+[%csl Rd4] Dieser Zug schafft zwar die bekannten hängenden Bauern aus der
+Tarrasch-Verteidigung, kontrolliert aber auch das Zentrum} 16. Rad1 {Weiß
+drückt gegen den Damenbauern} Rb8 17. b3 (17. Rd2 {hatte ich eigentlich
+erwartet, aber Lettl möchte nicht mit Ld6-f4 angegriffen werden}) 17... Re8 {
+Damit möchte ich den weißen Läufer an den Springer kleben, aber Weiß hat eine
+gute Antwort} 18. Ng3 {[%csl Yf5,Yh5][%cal Rg3h5,Rh5f6,Gg3f5,Gf5h6,Gf5d6] Der
+Springer visiert die Felder h5 oder f5 an} Rb6 $6 {Ein zweifelhafter Zug. Im
+Prinzip richtig, da f6 überdeckt wird. Aber er berücksichtigt nicht die
+konkreten Gegebenheiten der Stellung} (18... Bg4 {ist eine konkrete
+Alternative mit der Idee} 19. f3 Be6 20. Nf5 Bf8 21. Bc2) (18... Be5 {erlaubt}
+19. c4 {und mir gefällt weder das Vorrücken mit dem Bauern noch das Schlagen,
+da ich eine weitere Schwäche erhalte}) 19. Rfe1 Rxe1+ {Das eine Turmpaar muss
+ich wohl tauschen} (19... Rd8 20. Nf5 Bf8 21. Ne7+ $1 {und Weiß steigt mit
+Vereinfachung in die schwarze Stellung ein}) 20. Rxe1 Bd7 21. Bf5 {Weiß will
+vereinfachen, bot hier Remis an, was ich sofort annahm} Bc6 {war geplant. Aber
+dann kann kommen} 22. Nh5 Be5 23. Rc1 Bb5 24. f4 Bc7 25. Re1 Kf8 {Der weiße
+Turm darf nicht nach e7. Objektiv ist alles bei Schwarz in Ordnung, aber die
+weiße Stellung ist einfacher zu spielen Fazit dieser Partie: Das Ergebnis ist
+in Ordnung, die Ideenarmut nicht. In der Eröffnung und im späteren Mittelspiel
+wurde etwas unpräzise gespielt. Lösung: Mehr berechnen statt intuitiv zu
+spielen. Die Zeit des Gegners zur Variantenkalkulation benutzen} 1/2-1/2
+

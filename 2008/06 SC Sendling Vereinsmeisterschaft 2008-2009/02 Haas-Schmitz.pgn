@@ -1,0 +1,34 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "Munich"]
+[Date "2008.09.26"]
+[Round "2"]
+[White "Haas, Peter"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "C82"]
+[WhiteElo "2039"]
+[BlackElo "1807"]
+[Annotator "Tim Schmitz"]
+[PlyCount "49"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 {White prepares to bring the king's rook to d1 where it will bear
+down on the d5-pawn. Another point is that 9...Lc5 can met by 10.Le3, reducing
+Black's influence on the dark squares.} Bc5 10. Be3 {The opening transposes
+into the Keres-System whereas White wants to exchange the dark-squared bishops}
+Qe7 {Black sidesteps the queen, but White can attack the d5-pawn with the rook.
+} 11. Rd1 Rd8 12. c3 O-O 13. Nbd2 Bxe3 ({I considered the subsequent processing
+} 13... Bg4 14. Nxe4 ({unjustified fearing of} 14. Bxd5 Rxd5 15. Nxe4 Rxd1+ 16.
+Rxd1 Bxe3 17. Qxe3 Nxe5 $15) 14... dxe4 15. Bxc5 Qxc5 16. Qxe4 Bxf3 17. Qxf3
+Nxe5 $14) 14. Qxe3 Nc5 15. Nd4 Na5 $2 {This poor move simply gives White
+control over the weak white squares.} ({Best was to take the exchange on d4} 
+15... Nxd4 16. cxd4 Nxb3 17. Nxb3 f6 {even if the heading of the white knight
+for c5 looks unpleasant}) 16. Bc2 Nc4 $4 {Committing suicide in a definitely
+laid-back position. Now White has an easy play.} 17. Nxc4 Qh4 ({Striking back
+with a pawn loses everything:} 17... bxc4 18. Nc6 {and Black is one rook or
+two minor pieces down}) 18. Nd2 Nd7 19. N2f3 Qh5 20. Ng5 Nxe5 {A desparate
+counterattack against the double attack on h7 and e6. The final moves are
+played without too much seriousness. White gains decisive material advantage.}
+21. Qxe5 Bg4 22. f3 f6 23. fxg4 Qxg5 24. Qxg5 fxg5 25. Ne6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Staufer-Open (B-Turnier)"]
+[Site "?"]
+[Date "2023.01.03"]
+[Round "4"]
+[White "Rechner, Jan Phil"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "1632"]
+[BlackElo "1840"]
+[Annotator "Tim Schmitz"]
+[PlyCount "42"]
+[SourceVersionDate "2023.01.03"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. c3 d6 5. h3 O-O 6. Nf3 c5 7. Bd3 Qb6 8. Qc2
+Nc6 9. O-O Bd7 $6 10. Nbd2 d5 11. Rfe1 Rac8 12. Qb3 Na5 13. Qxb6 axb6 14. e4
+dxe4 15. Nxe4 Bc6 16. Rad1 Rfd8 17. Nxf6+ Bxf6 18. Be4 cxd4 19. cxd4 Bd5 20.
+Bxd5 Rxd5 21. Rd2 Nc6 1/2-1/2
+

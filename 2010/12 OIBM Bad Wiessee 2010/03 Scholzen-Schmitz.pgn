@@ -1,0 +1,91 @@
+[Event "OIBM Bad Wiessee 2010"]
+[Site "?"]
+[Date "2010.11.01"]
+[Round "3"]
+[White "Scholzen, Wolfgang"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2099"]
+[BlackElo "1930"]
+[Annotator "Tim Schmitz"]
+[PlyCount "100"]
+[EventDate "2010.07.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 {Schwarz plombiert die
+e-Linie und droht mit Sxe4} 6. Re1 {Nun droht Weiß selber mit Lxc6 und Sxe5} b5
+7. Bb3 O-O {Diese Zugfolge ist präziser als d6} 8. h3 {[%csl Yh2][%cal Gb1c3]
+ist mit die beste Art, den Marshall-Angriff zu vermeiden und wird von den
+besten Spielern benutzt. Weiß steuert die Stellung in positionelle Bahnen und
+hofft, dass diese ihm einen langandauernden Vorteil geben. Andererseits sind
+die schwarzen Ressourcen beträchtlich. Er hat einen festen Griff im Zentrum
+und seine Fähigkeit, auf beiden Seiten des Bretts zu spielen, offenbart ihm
+befriedigende Chancen. Warum kann Schwarz kein Marshall-Gambit spielen? Wegen
+h3 kommt die schwarze Dame nicht mit Tempo nach h4 und der weiße Springer mit
+Tempo nach c3. Außerdem ist h3 immer ein nützlicher Zug für Weiß. Kurzfristig
+will er seinen Läufer auf der Diagonale a2-g8 belassen.} Bb7 {Das ist der
+einzige vernünftige Zug für Schwarz, wenn er die Transposition in den
+Klassischen Spanier vermeiden will} 9. c3 {Dieser Zug gilt als leicht anrüchig,
+da Schwarz den verzögerten Marshall-Angriff spielen kann} d5 10. exd5 Nxd5 11.
+Nxe5 Nxe5 12. Rxe5 {Das ist sozusagen die Ausgangsstellung des verzögerten
+Marshall-Angriffs. Der nächste Zug ist nicht schwer zu sehen.} Nf4 {[%csl Yg2]
+[%cal Rf4g2,Rb7g2] Schwarz übt unangenehmen Druck auf g2 aus. Weiß muss sich
+entscheiden, ob er den Bauern zurückgibt oder eine schlechte Stellung (mit
+f2-f3) in Kauf nimmt} 13. d4 {Wahrscheinlich die beste Option für Weiß. Er
+öffnet Linien für den Damenläufer und bereitet den Damenausfall nach g4 vor}
+Nxg2 14. Qg4 {Die logische Konsequenz. Ich hatte hier überlegt, mit Läufer f6
+fortzusetzen. Aber die Rückführung des Springers über h4 nach g6 ist
+wahrscheinlich sicherer} Nh4 {Jetzt droht schon die Gabel auf f3} 15. Nd2 {
+[%csl Ye4,Yf3][%cal Gd2e4,Gd2f3] Weiß hat hier keine guten Züge mehr. Der
+Springer d2 überdeckt die Felder f3 und e4.} Ng6 ({Eine bessere Alternative
+ist vielleicht} 15... Bd6 {, da dem Läufer auf c1 der Ausgang versperrt ist.
+Es kann folgen} 16. Rh5 ({Nach} 16. Rg5 {ist sogar} h6 {möglich} 17. Rxg7+ Kh8
+{und der Turm bleibt eingesperrt, aber das ist eine Computervariante}) 16...
+Ng6) 16. Rh5 {Der Turm steht hier nur pseudoaktiv} Qc8 $6 {Die Idee hinter
+diesem Zug besteht darin, die weiße Dame als beste Figur abzutauschen. Das
+soll man eigentlich im Marshall-Angriff nicht forcieren, hier erhoffe ich mir
+aber gutes Spiel wegen der beiden Läufer und der weißen Schwächen} ({Auch hier
+ist} 16... Bd6 {noch möglich} 17. Nf3 Qc8 {aber die Stellung ist ausgeglichen})
+17. Nf1 Qxg4+ 18. hxg4 {Die Engines gehen von Ausgleich aus. Ich glaube, dass
+Schwarz noch einen Tick freier steht, da er Entwicklungsvorsprung hat} Bd6 ({
+Eigentlich hatte ich} 18... Nh4 {vor, aber die Stellung nach} 19. f4 {gefiel
+mir nicht, da ich das Schach auf f3 nicht geben kann, ohne den Springer zu
+verlieren}) 19. Bd5 {Erst fand ich den Zug sehr stark, aber nachher stellt
+sich heraus, dass der Turm auf d5 schlecht steht} Bxd5 {Schlagen ist
+obligatorisch} 20. Rxd5 Rfe8 {Die Türme sollen auf der e-Linie wie im
+klassischen Marshall-Angriff opererieren} 21. Be3 Re4 {Ein Tempomanöver, um
+die Türme zu verdoppeln und den Läufer d6 zu decken. Ich hatte Sorge vor a2-a4,
+da ich wegen das hängenden Läufers nicht mit c7-c6 reagieren kann} 22. f3 Re6
+23. a4 c6 24. Rh5 Rae8 {Hier bot ich Remis an. Zwar habe ich keinen Vorteil,
+aber mein Gegner wenig Zeit und die Stellung ist nicht einfach zu spielen.
+Aufgrund der Spielstärkezahlen lehnte er ab} 25. Kf2 Bf4 {Diese forcierten
+Züge spielen sich von selbst. Der Springer soll auf das schwache Feld f4, von
+wo aus er nach d3 oder d5 gehen kann} 26. Re1 $2 {Ein Fehler in Zeitnot} (26.
+axb5 {hatte mein Gegner analysiert, aber nicht zum Gewinn durchrechnen können})
+26... Bxe3+ 27. Rxe3 Rxe3 28. Nxe3 Nf4 {Jetzt kann Schwarz eine Gewinnstellung
+erreichen} 29. Rh1 Nd3+ 30. Ke2 Nxb2 31. Kd2 Nxa4 32. Ra1 Rd8 (32... f6 {
+ist - wie wir später sehen werden - eine vorzuziehende Idee}) 33. Kd3 g6 {
+Auch nicht gerade eine Erleuchtung. Hier bot Weiß Remis, aber ich wollte jetzt
+weiterspielen} 34. c4 Kg7 35. cxb5 axb5 {Diese Züge wurden alle a tempo
+gespielt} 36. Rc1 Rd6 $4 ({Ich verpasse den Gewinn melodramatisch. Jeder
+starke Spieler hätte wie folgt gespielt} 36... c5 $1 37. d5 {und die schwarzen
+Bauern müssen sich durchsetzen}) 37. Ke4 Re6+ 38. Kd3 Rd6 39. Ke4 {Ein Pendler,
+um Zeit zu gewinnen} Nb2 $2 {Ein schlechter Zug. Der Springer landet im
+Nirgendwo. Und Weiß kommt auf einmal zu Gegenspiel. Der Fluch der Zeitkontrolle
+} (39... b4 {würde wenigstens einige schwere Drohungen heraufbeschwören}) 40.
+f4 Re6+ 41. Kf3 Nd3 {Die konsequente Fortführung einer schlechten Idee.
+Pseudoaktive Figuren, aber der Springer kommt nicht raus} 42. Rd1 Nb4 43. f5 $1
+{Weiß kriegt akutes Gegenspiel, ich sehe auch die richtigen Züge nach 4,5
+Stunden nicht mehr} Re8 (43... Rd6 {ist auch besser}) 44. Rb1 Na6 {Jetzt habe
+ich für den Springer das schlechteste Feld gefunden und die Bauern werden auch
+weich. Von den beiden Mehrbauern verliere ich mindestens einen} 45. d5 cxd5 46.
+Nxd5 Rb8 $6 {Auch keine gute Idee, die Züge für Weiß liegen auf der Hand} 47.
+f6+ Kh8 48. Rc1 b4 49. Rc6 $1 {Auf einmal sah ich mich verloren. Aber die
+Stellung ist mindestens noch Remis} Ra8 50. Rb6 (50. Nb6 {funktioniert nicht
+wegen} Rd8) 50... h6 {Hier bot ich Remis an, da ich keine Gewinnaussichten
+sehe und Weiß hat sicher Kompensation für den Bauern (der auf b4 geht ja
+sowieso verloren) Fazit der Partie: Die Variantenberechnung funktioniert jetzt
+besser (time and quality). Es gibt noch elementare Schwächen im Endspiel und
+in der Bauernführung. Lösung: Möglichst alles konkret durchrechnen, nicht zu
+langes Festhalten an starren (falschen) Plänen, mehr Flexibilität} 1/2-1/2
+

@@ -1,0 +1,56 @@
+[Event "Regionalliga Süd-West 2022/23"]
+[Site "?"]
+[Date "2023.02.05"]
+[Round "?"]
+[White "Schmitz, Tim"]
+[Black "Pleyer, Felix"]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[Annotator "Tim Schmitz"]
+[PlyCount "33"]
+[SourceVersionDate "2023.02.05"]
+[WhiteTeam "SC Sendling 1"]
+[BlackTeam "SC Kempten 1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 c6 {Dies ist die
+Stützungsvariante im Fianchetto-System der Alekhine-Verteidigung. Weiß
+sollte im Stile des Modernen Systems weiterspielen.} 6. O-O Bg7 7. Re1 O-O 8.
+c3 {Das ist der thematische Zug in dieser Stellung. Der Punkt d4 wird
+gestützt. Ein Springer auf c3 würde nur die weiße Bauernstellung schwächen.
+} Bg4 {Dieser Zug gefällt Negi überhaupt nicht. Ich fand ihn eigentlich sehr
+stellungsgemäß.} 9. Nbd2 $6 {Weiß beachtet den Angriff auf das weiße
+Zentrum, insbesondere den Bauern e5. Aber der Springer verstellt etwas die
+weißen Figuren und behindert die Koordination.} (9. h3 Bxf3 10. Qxf3 dxe5 11.
+dxe5 {ist Negi's Empfehlung mit guter Stellung für Weiß. Mir gefiel die
+Stellung der Dame allerdings nicht besonders.}) 9... dxe5 10. dxe5 {[%csl Yc7]
+Schwarz hat die Schwäche e5 markiert und beginnt jetzt gegen sie zu spielen.}
+Qc7 {[%csl Yd7,Yd8,Ye5][%cal Rc7e5,Rg7e5,Gb8d7,Rd7e5,Gf8d8] In Zusammenhang
+mit der Fesselung des Springers f3 gefiel mir der Druck gegen den Bauern e5
+auch nicht. Die weiße Idee ist es, die eigenen Figuren umzugruppieren und
+dann die Figuren hinter dem Bauern e5 neu auszurichten. Außerdem räumt die
+Dame die d-Linie für den Turm.} 11. h3 {Zunächst wird der Läufer befragt,
+um den Druck von e5 abzumildern.} Be6 {Ein guter Zug, der die
+Handlungsmöglichkeiten von Weiß weiter einschränkt.} 12. Qe2 {Die Dame geht
+vorsorglich dem Turm auf der d-Linie aus dem Weg. Außerdem verstärkt sie die
+Deckung des Bauern e5 und deckt auch vorsorglich den Läufer auf c4.} ({
+Der erste Impuls war der Zug} 12. Nf1 $2 {, aber das verliert nach} Nxc3 13.
+bxc3 Bxc4) ({Die Engine schlägt vor} 12. Nd4 {und opfert scheinbar einen
+Bauern nach} Bxe5 {Aber dann folgt} 13. N2f3 Bxd4 14. Qxd4 {Weiß hat das
+Läuferpaar, guten Griff im Zentrum und Kompensation für den Bauern, das habe
+ich nicht gesehen.}) 12... b5 {Schwarz erobert Raum auf dem Damenflügel.
+Zwingend fand ich den Zug allerdings nicht.} (12... Nf4 {ist nicht so stark
+wie es aussieht.} 13. Qe4 Bxc4 14. Nxc4 Ne6 {Die weiße Dame steht sehr schön
+im Zentrum.}) 13. Bb3 Nd7 14. Nf1 Nc5 15. Bc2 {Nach einigen Umgruppierungen
+ist eine eher "Spanische" Stellung erreicht. Hier war ich wieder ganz
+zufrieden mit dem Spielverlauf.} Bc8 $6 {Diese Rückentwicklung sieht etwas
+gekünstelt aus. Schwarz liebäugelt mit dem Einsatz des Läufers auf a6,
+eventuell nach a7-a5. Eine Idee ist aber auch die Besetzung von f4 nach Sc5-e6.
+} 16. Nd4 {Jetzt, da der e-Bauern hinreichend geschützt ist, liegt die
+Zentralisierung des Springers nahe. Außerdem kann nun der f-Bauer in Marsch
+gesetzt werden. Leider hat der weiße Damenläufer keine guten Felder und der
+Springer auf f1 ist auch außer Gefecht.} Ne6 (16... Nd7 $2 {funktioniert
+nicht wegen} 17. e6) 17. Nxe6 {Ich verband die Vereinfachung der Stellung mit
+einem Remisangebot, das angenommen wurde. Für das Mannschaftsergebnis eher
+wenig nützlich, aber die Spielbedingungen (11° C Innentemperatur) waren auch
+unerträglich.} 1/2-1/2
+

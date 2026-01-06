@@ -1,0 +1,94 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.07.30"]
+[Round "1"]
+[White "IM Yelisieiev, Yevhenii"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2383"]
+[BlackElo "1820"]
+[Annotator "Tim Schmitz"]
+[PlyCount "79"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.10.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 {Das ist das gefürchtete
+Doppel-Fianchetto in der Königsindischen Verteidigung - auch wenn zu einem
+regulären Königsinder noch der typische Zug c2-c4 fehlt.} 6. b3 c5 {Das ist
+ein Versuch Druck auf das Zentrum auszuüben.} 7. Bb2 Qc7 $6 {[%csl Yb5,Yc1,
+Yc3,Yd5][%cal Gb1c3,Gc3b5,Gc3d5,Ga1c1] Hier steht die Dame nicht besonders gut,
+obwohl ich dies zunächst für einen guten Abwartezug hielt. Leider kann sie
+sehr einfach angegriffen werden - durch Springer auf d5 oder b5 oder auch
+durch einen Turm auf c1.} ({Die meist gespielte Fortsetzung und auch die
+wahrscheinlich beste ist die Auflösung des Zentrums.} 7... cxd4 8. Nxd4 {
+Das Schlagen mit dem Läufer wird kaum gespielt, da dieser auch leicht durch
+Sb8-c6 angegriffen werden kann.} d5 $1 {Schwarz befreit sich, indem er den
+Damenbauern ein zweites Mal bewegt.} 9. c4 {Victor Bologan empfiehlt} dxc4 ({
+Auch gut ist} 9... e5 $5 {Das ist der Hebel, mit dem die schwarze Stellung
+befreit wird.} 10. Nf3 e4 11. Nd4 dxc4 $1) 10. bxc4 Qb6 11. Qb3 Nfd7 $1 {
+Schwarz nutzt die Fesselung auf der langen Diagonalen aus.}) 8. c4 {Weiß
+entscheidet sich jetzt für ein "klassisches" Doppelfianchetto im Rahmen der
+KID. Er hat sicher schnell realisiert, dass die Dame auf c7 eigentlich
+deplatziert steht und er Raumvorteil im Zentrum hat. Ein Abwartezug, aber kein
+besonders guter (abgesehen von der Überdeckung des Feldes b5). Hier wäre
+Schlagen auf d4 noch immer besser gewesen.} a6 $6 9. Nc3 {Weiß hat jetzt alle
+Leichtfiguren entwickelt und ein Übergewicht im Zentrum, während Schwarz in
+der Entwicklung zurück ist.} cxd4 {Endlich, aber auch zu spät! Die weißen
+Figuren harmonieren jetzt gut im Zentrum.} 10. Nxd4 Nc6 11. Rc1 $1 {Ein ganz
+einfacher, logischer und starker Zug, der mich mehr beschäftigte als er
+eigentlich sollte. Der Turm strahlt gegen die Dame und es droht sofort Sc3-d5.
+Schwarz kann den Springer nicht nehmen. Trotzdem ist der Vorteil von Weiß
+zwar optisch da, aber noch nicht entscheidend.} Bd7 $2 {Das ist aber schon
+ziemlich passiv und ungenau. Schwarz entwickelt eine Figur, tut aber nichts
+gegen die weiße Dominanz im Zentrum.} ({Besser ist wohl} 11... Nxd4 12. Qxd4
+Be6 {, wonach Weiß etwas besser steht, da er mehr Raum hat und die Figuren
+besser im Spiel sind.}) 12. Nd5 $1 {Ein schöner zentralisierender Zug. Die
+schwarzen Figuren werden auf schlechte Felder gedrängt.} Qd8 13. Nxc6 $1 {
+Weiß wickelt jetzt mit erstaunlicher Leichtigkeit in ein vorteilhaftes
+Endspiel ab.} Bxc6 14. Nxf6+ Bxf6 15. Bxf6 exf6 16. Rc2 {Das Endspiel ist
+besser für Weiß (aber noch nicht gewonnen) aufgrund der folgenden Faktoren:
+1. Der d-Bauer von Schwarz ist isoliert und leicht zu bedrohen 2. Der
+Doppelbauer auf der f-Linie muss verteidigt werden. 3. Der Läufertausch
+würde nur Weiß nützen, da das Schwerfiguren-Endspiel leichter für Weiß
+ist.} Qe7 17. Rd2 {Die Belagerung des d-Bauern beginnt. Trotzdem hadert die
+Engine mit der Stellung aus weißer Sicht und empfiehlt Läufertausch und den
+Gegenstoß.} Rfd8 {Logisch, da der Turm den d-Bauern verteidigt, aber auch
+passiv.} ({Die folgende Abwicklung habe ich überhaupt nicht gesehen} 17...
+Bxg2 18. Kxg2 b5 19. Rxd6 bxc4 20. bxc4 Qe4+ $1 {Die Pointe. Schwarz gewinnt
+den Bauern bei ausgeglichenem Spiel zurück.}) 18. Bd5 $1 {Das sah auch gut
+aus. Weiß zementiert seinen Vorposten auf d5 - egal, ob Schwarz dort tauscht
+oder nicht.} Rac8 19. e3 Kg7 20. Qf3 {[%csl Yd1,Yd2][%cal Yf1d1,Rd1d6] Weiß
+macht überhaupt keine komplizierten Züge, sondern begnügt sich damit, den
+kleinen, aber sichtbaren Stellungsvorteil zu behalten und auszubauen. Der
+zweite Turm soll nach d1 gebracht werden und der Druck einfach gesteigert
+werden. Irgendwann macht sich der Spielstärke-Unterschied schon bemerkbar und
+es gibt die Möglichkeit einer kleinen Kombination.} Bxd5 {Der Läufer auf d5
+war einfach zu gut. Die Verteidigung des d-Bauern wird zwar nicht erleichtert,
+aber Schwarz erhält etwas Raum für seine Figuren.} 21. Rxd5 Rc5 22. Rfd1 b5
+$6 {Ein Hauch von Gegenspiel, auch wenn dieses ungenügend ist.} 23. cxb5 axb5
+24. Qe2 $1 {[%csl Yb5,Yd6][%cal Rd5b5,Re2b5,Rd1d5,Rd5d6] Weiß konzentriert
+sich auf die Schwächen von Schwarz und hat jetzt die zweite geschaffen. Jetzt
+kommt auch Technik zum Tragen.} b4 {Zögert den Bauernverlust hinaus.} 25. R5d4
+Qb7 26. Rxd6 Rdc8 $6 {Normalerweise soll man ja als Verteidiger ein Turmpaar
+tauschen.} ({Nach} 26... Rxd6 27. Rxd6 Rc1+ 28. Rd1 Rc3 {kann Schwarz
+zumindest eine aktive Grundstellung einnehmen.}) 27. Rd7 Qe4 28. R7d4 Qb7 29.
+h4 {Weiß schafft sich ein "richtiges" Luftloch auf h2.} Rc2 30. Qg4 $6 {
+Weiß "opfert" den Bauern auf a2, der Engine gefällt der Zug nicht.} Rxa2 $2 (
+{Nach} 30... h5 $1 31. Qe4 ({Oder} 31. Qd7 Qa6 32. Rxb4 Qe2 33. Rf4 Rc1 {
+mit Gegenspiel}) 31... Qxe4 32. Rxe4 Rxa2 33. Rxb4 Rcc2 34. Rf4 {gleicht die
+aktive Stellung der schwarzen Türme den Minusbauern aus.}) 31. Rxb4 Qa8 {
+Es ist wichtig auf der langen Diagonalen zu bleiben.} 32. Ra4 Rxa4 33. bxa4 Rc2
+{Schwarz muss aktiv spielen.} 34. Ra1 Qc6 ({Zäher war} 34... Rc5 35. Qd4 Ra5 {
+mit Beinahe-Ausgleich.}) 35. Qd1 Qc3 36. Qd4 Qc6 $6 (36... Qa5 {blockiert
+besser.}) 37. a5 Qf3 $4 {Scheinaktivität: Anstatt den Freibauern mit allen
+Ressourcen aufzuhalten versuche ich einen Pseudo-Angriff, der nicht nur
+verpufft, sondern einzügig die Partie einstellt.} 38. Qf4 {Sicher, aber
+unnötig. Schwarz muss jetzt ganz schnell wieder die Dame in eine
+Blockadestellung bringen.} ({Klarer ist} 38. e4 {und die schwarze Dame kann
+nicht mehr zurück, während f2 komfortabel überdeckt ist.}) 38... Rxf2 $2 {
+Jetzt ist es sehr einfach.} 39. Qxf3 Rxf3 40. a6 {Oops und Aufgabe. Insgesamt
+keine ganz so schlechte Partie, abgesehen von Anfang und Ende war ich mit dem
+Verlauf nicht zu unzufrieden. Die bessere Technik und Erfahrung des Gegners
+machten sich aber deutlich bemerkbar.} 1-0
+

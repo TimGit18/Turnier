@@ -1,0 +1,20 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2019.03.15"]
+[Round "6"]
+[White "Klein, Stefan"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B93"]
+[WhiteElo "1922"]
+[BlackElo "102"]
+[Annotator "schmi"]
+[PlyCount "51"]
+[SourceVersionDate "2019.03.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a4
+Be7 9. Bd3 Be6 10. O-O Nbd7 11. Qe1 O-O 12. Nh4 Rfe8 13. Kh1 Rac8 14. fxe5 dxe5
+15. Nf5 Bxf5 16. Rxf5 Nf8 $6 (16... Bb4) 17. Qg3 Kh8 (17... Qd6) 18. Bd2 Ne6 $2
+19. Raf1 Nd4 20. Rg5 Ne6 21. Rgf5 Nd4 22. R5f2 Bc5 $4 (22... Qd6) 23. Nd5 Qd7
+24. Rxf6 gxf6 25. Nxf6 Rg8 26. Qh4 1-0
+

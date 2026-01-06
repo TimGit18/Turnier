@@ -1,0 +1,77 @@
+[Event "MMM 2017"]
+[Site "?"]
+[Date "2017.03.17"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Kraus, Jürgen"]
+[Result "1-0"]
+[ECO "B05"]
+[WhiteElo "1808"]
+[BlackElo "1769"]
+[PlyCount "101"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.03.18"]
+[WhiteTeam "SC Sendling 2"]
+[BlackTeam "SC Neuhausen 1908 1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 {Das ist die Klassische
+Fortsetzung in der Alekhine-Verteidigung} dxe5 {Ein beruhigender Abtausch, der
+sicher nicht die stärkste Option von Schwarz ist} 6. Nxe5 Bxe2 7. Qxe2 c6 8.
+O-O ({Nach Andrew Greet führt} 8. Qf3 Nf6 9. Qb3 e6 10. Qxb7 Qxd4 11. Qc8+ Ke7
+12. Qb7+ Ke8 13. Nd3 {zu weißem Vorteil}) 8... Nd7 9. c4 {Es scheint am besten,
+den starken schwarzen Springer im Zentrum zu befragen} N5f6 10. Nc3 e6 11. Bf4
+(11. Re1 {sieht gut aus, mehr aber auch nicht} Nxe5 12. dxe5 Nd7 13. Bf4 Qc7 {
+Jetzt kann Schwarz lang rochieren und hat eigentlich ganz ordentliches Spiel})
+11... Be7 (11... Bd6 {scheitert an} 12. Nxf7 Kxf7 13. Qxe6+) 12. Rfe1 {Jetzt
+droht wieder Se5xf7} O-O 13. Rad1 {Weiß hat in wenigen Zügen eine starke
+Stellung aufgebaut. Schwarz muss irgendwie den Druck loswerden} Bb4 {Der Zug
+droht nicht wirklich etwas, aber es ist schwer für Schwarz einen guten Plan zu
+finden} 14. Rd3 {Dieser Zug ist multifunktional. Weiß überdeckt den Springer
+und will den Turm auf den Königsflügel bringen} Qa5 {Schwarz bringt die Dame
+aus der gefährlichen d-Linie, aber er entfernt sie auch von der Verteidigung
+des eigenen Königs} 15. a3 {Dieser Zug klärt die Stellung, denn Schwarz kann
+den Läufer schlecht zurückziehen} Bxc3 16. Rxc3 Nxe5 $6 ({Aktiver sieht} 16...
+c5 {aus} 17. dxc5 Qxc5 18. b4 Qd4 19. Rd3 Qxf4 20. Nxd7 Nxd7 21. Rxd7 {mit
+besserem Endspiel für Weiß}) 17. Bxe5 {Die Drohung ist ziemlich klar. Der
+Läufer kann den Springer schlagen und die weißen Figuren stürzen sich auf den
+geschwächten schwarzen König} Nd7 {Der Zug sieht passiv aus, aber es gibt
+nicht mehr viele Verteidigungsmöglichkeiten} (17... Qd8 18. Rf3) 18. Qg4 {
+Weiß droht einzügig Matt auf g7} Nxe5 19. Rxe5 f5 $5 {Eine aggressive
+Verteidigung, die allerdings auch zu weiteren Schwächen in der schwarzen
+Stellung führt} ({Die passive Alternative lautet} 19... Qd8 20. Rg3 Qf6 21. h4
+Rfd8 22. h5 {und Weiß droht mit Te5-g5}) 20. Qe2 {Weiß entschließt sich, die
+Spannung auf dem Brett zu behalten und die schwarzen Schwächen anzugreifen} ({
+Nach} 20. Rxa5 fxg4 21. Rg5 Rf4 22. Rd3 Rd8 {hat Schwarz ein gutes Druckspiel
+gegen den weißen d-Bauern}) 20... Qb6 21. c5 Qd8 22. Qc4 {Weiß wechselt die
+Strategie und greift nun den schwachen e-Bauern von Schwarz an} Rf6 23. Rxe6
+Kh8 24. Rce3 {Weiß bringt die letzte Figur zurück in das Spiel. Er hat einen
+gesunden Mehrbauern und die bessere Stellung, sollte also eigentlich einfach
+gewinnen} Qf8 25. Qe2 {Weiß droht mit Te6-e8} Rxe6 26. Rxe6 Rd8 27. Qe5 f4 28.
+f3 $5 {schafft ein Luftloch für den König und verhindert weiteres Gegenspiel.
+Die Partie kommt in die entscheidende Phase} Kg8 {Der schwarze König ist
+paralysiert} 29. Re7 $1 {Der Zug sieht gut aus und ist taktisch gerechtfertigt}
+Qf6 $6 {Schwarz muss sich irgendwie - auch unter Materialverlust - aus dem
+Umklammerung befreien} (29... Rxd4 {scheitert an} 30. Re8) 30. Qxf6 $5 {
+Weiß wählt die scheinbar einfachste Variante} ({Geplant war eigentlich} 30.
+Re8+ Rxe8 31. Qxe8+ Qf8 32. Qxf8+ Kxf8 33. Kf2 Ke7 34. Ke2 Ke6 35. Kd3 Kd5 {
+, aber hiernach fehlt Weiß ein Tempo und Schwarz hat ganz gute Remisaussichten}
+) 30... gxf6 31. Re4 {gewinnt einen zweiten Bauern} b6 $1 {Das ist die einzige
+Chance auf Gegenspiel für Schwarz} 32. Rxf4 $2 {Greift ohne Not nach dem
+schwachen Bauern. Schwarz kommt wieder in das Spiel} ({Nicht so überzeugend
+scheint} 32. b4 bxc5 33. bxc5 Rb8) ({Am besten ist wohl} 32. Re6 Rxd4 33. Rxc6
+Rd1+ 34. Kf2 Rc1 35. b4 {und die weißen Bauern am Damenflügel sollten
+entscheiden}) 32... Kf7 33. Kf2 bxc5 34. dxc5 Rd2+ 35. Kg3 Rxb2 {Schwarz hat
+auf einmal einen aktiven Turm und den besseren König. Weiß muss selber schnell
+ein paar Drohungen aufstellen} 36. Ra4 Ke6 37. Rxa7 Rb5 38. a4 Rxc5 39. Rxh7
+Rc2 40. Rh4 {Die weiße Turm muss schleunigst wieder in das Spiel gebracht
+werden. Weiß hat zwar zwei entfernte Freibauern, aber so klar ist die Sache
+nicht, denn der schwarze Freibauer auf der c-Linie ist sehr stark und kann vom
+König unterstützt werden. Der weiße König steht hingegen sehr schlecht} c5 41.
+Re4+ Kd5 42. h4 {Jetzt hat Weiß einen klaren Gewinnplan. Der h-Bauer ist nur
+noch unter großem Zeitverlust aufzuhalten, wie es auch in der Partie geschieht.
+Dann geht der weiße König zurück und hält den schwarzen c-Bauern auf} Ra2 43.
+h5 c4 44. h6 Rxa4 45. h7 Ra8 46. Kf2 {Jetzt ist der weiße König wieder im
+Quadrat des c-Bauern} f5 $2 {Zeitverlust, denn der weiße Turm wollte ohnehin
+nach h4} 47. Rh4 Rh8 48. Ke3 f4+ {Ein letzter Trick} 49. Kd2 Kc5 50. Kc3 Kd5
+51. Rh5+ {Der c-Bauer geht verloren und damit auch die Partie} 1-0
+

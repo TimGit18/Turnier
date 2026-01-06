@@ -1,0 +1,44 @@
+[Event "OIBM Bad Wiessee 2012"]
+[Site "?"]
+[Date "2012.10.29"]
+[Round "3"]
+[White "Oberhofer, Peter"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E63"]
+[WhiteElo "1726"]
+[BlackElo "1906"]
+[Annotator "Tim Schmitz"]
+[PlyCount "35"]
+[EventDate "2012.10.29"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 {Dies ist die
+Ausgangsstellung der Panno-Variante im Fianchetto-System} 7. Nc3 a6 8. Re1 Rb8
+9. a4 {Weiß verhindert mechanisch den Vormarsch auf dem Damenflügel, aber er
+schwächt auch das Feld b4} Na5 {So wird der Angriffsplan auf dem Damenflügel
+weiter fortgeführt} 10. b3 {Weiß verteidigt den Bauern c4. Eventuell kann er
+auch den Damenläufer auf b2 platzieren} Bd7 {Dieser Entwicklungszug ist nicht
+besonders attraktiv, hat aber wichtigen prophylaktischen Charakter} ({Der
+ursprüngliche Plan von Schwarz lautete} 10... c5 {, aber er scheitert nach} 11.
+dxc5 dxc5 12. Qxd8 Rxd8 13. Bf4 Ra8 14. Bc7 {und Weiß hat einfach die Qualität
+gewonnen}) 11. Bd2 {Weiß entwickelt sich und greift verdeckt den Springer a5 an
+} c5 {Nun ist es an der Zeit den Plan durchzuführen} 12. dxc5 {Eine
+interessante Entscheidung, denn so kann sich Schwarz befreien. Allerdings kann
+sich Weiß im Zentrum festsetzen} dxc5 {Die schwarzen Hoffnungen beruhen auf
+den schwarzen Felderschwächen auf dem Damenflügel} 13. Qc2 {Hier steht die
+weiße Dame recht aktiv.} Nc6 {Schwarz möchte seine schlecht postierten Figuren
+(Springer a5, Turm b8 und Läufer d7) verbessern und startet eine Umgruppierung}
+14. Rad1 {Weiß beendet die Entwicklung, nach der er etwas besser steht} Qb6 {
+Schwarz möchte die Asymmetrie in der Stellung erhalten} ({Die Alternative
+lautet} 14... Qc7 {, aber dann kann folgen} 15. Nd5 Nxd5 16. cxd5 Ne5) 15. Bf4
+{Ein wuchtiger und logischer Zug, mit dem Weiß die Kontrolle im Zentrum
+übernimmt} Rbc8 {Die Idee von diesem Zug ist, dass die Türme auf den c- und
+d-Linien aufgebaut werden sollen} ({Die Alternative} 15... Rbd8 {wird von den
+Engines schlechter beurteilt}) 16. Ne5 {Die Spannung spitzt sich zu. Jetzt
+wird die schlechte schwarze Figurenkoordination zum Problem} Nb4 {Damit
+versucht Schwarz etwas im Trüben zu fischen und Weiß zum Nehmen auf d7 zu
+verleiten} 17. Qb1 ({Die Intention war nach} 17. Nxd7 Nxd7 18. Qc1 Rfd8 {
+Gegenspiel zu erlangen, aber Weiß steht dank des Läuferpaares einfach besser})
+17... Bc6 {Hier wurde Remis vereinbart. Es kann aber folgen} 18. Nd5 {und Weiß
+steht in allen Varianten angenehmer} 1/2-1/2
+

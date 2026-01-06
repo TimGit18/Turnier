@@ -1,0 +1,64 @@
+[Event "Münchner Mannschaftsmeisterschaft"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Koch, Enrico"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "1877"]
+[BlackElo "1743"]
+[Annotator "Tim Schmitz"]
+[PlyCount "63"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+[WhiteTeam "Tarrasch 3"]
+[BlackTeam "Sendling 2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. b4 {Der Bajonettangriff war
+in den 1990er Jahren sehr gefürchtet. Er zwingt Schwarz geradezu dazu, sich
+in seine Verteidigung zu knien. Der weiße König steht ziemlich sicher und
+trotz der geschlossenen Stellung entwickelt sich schnell ein Spiel im Zentrum}
+Nh5 {Dieser Zug stellt die Hauptvariante dar und gilt als die größte
+Herausforderung von Weiß. Schwarz stellt seinen Springer auf ein aktiveres
+Feld als d7 oder e8, was deshalb geht, da Weiß das Feld h5 nicht kontrolliert.
+Der Springer beobachtet das Feld f4 und bereitet f7-f5 vor. Heute entgegnet
+man auf diesen Ausfall seitens Weiß nur noch mit Tf1-e1 Der direkteste Zug ist
+} 10. c5 {Obwohl er nicht so schlecht ist, wird er heute nicht mehr sehr oft
+gespielt} Nf4 {Schwarz kann auch direkt f7-f5 spielen, aber der direkte Zug
+ist zu bevorzugen und als Hauptvariante anzusehen} 11. Bxf4 exf4 12. Rc1 {Der
+bei weitem häufigste Zug. Weiß unterbricht die Fesselung auf der langen
+Diagonale und deckt den Springer.} h6 (12... a5) 13. h3 g5 14. Nd4 Be5 15. Bg4
+Ng6 $2 (15... Bxg4 16. hxg4 a5) 16. Bxc8 Rxc8 17. Nf5 Kh7 18. Qh5 Rh8 19. cxd6
+Kg8 20. Nb5 a6 $2 (20... cxd6) 21. Na7 Ra8 22. Rxc7 Bxd6 $2 (22... Rxa7 23.
+Ne7+) 23. Rxb7 Rh7 24. Nc6 Qf6 25. Ncd4 Be5 26. Nf3 Rc8 27. Nxe5 Qxe5 28. Qg4
+Rc2 $2 (28... Re8) 29. d6 f3 30. Rb8+ Nf8 31. Rd1 fxg2 32. d7 1-0
+

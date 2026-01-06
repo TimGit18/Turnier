@@ -1,0 +1,39 @@
+[Event "Landesliga Süd 2009/2010"]
+[Site "?"]
+[Date "2010.03.21"]
+[Round "8"]
+[White "Leckner, Dr. Thomas"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[WhiteElo "1736"]
+[BlackElo "1860"]
+[Annotator "Tim Schmitz"]
+[PlyCount "32"]
+[EventDate "2009.??.??"]
+[WhiteTeam "TV Tegernsee 1"]
+[BlackTeam "SC Sendling 1"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Bf5 {Das ist zumindest riskant. Ich spiele der
+weißen Strategie direkt in die Arme. Weiß will sowieso f2-f3 spielen, und der
+Läufer auf f5 fungiert als Angriffsziel} 4. f3 Nbd7 {Momentan wird noch e4
+verhindert, nicht aber das mögliche Scheinopfer auf d5} 5. e3 (5. Nxd5 Nxd5 6.
+e4 {gilt als Hauptvariante, die ich aber auch nicht kannte}) 5... c6 6. Bd3
+Bxd3 7. Qxd3 e5 {An dieser Stelle hatte ich eigentlich ein ganz gutes Gefühl.
+Der schwarze Aufbau sieht harmonisch aus.} 8. Nge2 Bd6 $6 {Sehr salopp} ({
+Gesünder ist} 8... Be7 9. O-O O-O {mit gutem Spiel}) 9. e4 {Ein Zug, der mich
+doch negativ überraschte. Ich kann ja schlecht auf e4 nehmen, und die
+Varianten nach exd4 gefielen überhaupt nicht. Nach langem Nachdenken spielte
+ich} O-O 10. O-O {Das ist zu vorsichtig, aber Leckner hatte Angst vor einem
+Damenflügelangriff} (10. O-O-O {sieht natürlicher aus. Darauf hatte ich geplant
+} Qa5 {[%csl Ya2][%cal Ga5a2] mit Blick auf den a2-Bauern und Entfesselung des
+Königsspringers} 11. exd5 {und hier wollte ich auch einen Bauern opfern} exd4)
+10... exd4 11. Nxd4 {Jetzt kann ich den Springer entfesseln und gleichzeitig
+den Bauern h2 bedrohen} Qc7 {[%csl Rh2][%cal Gd6h2]} 12. Kh1 $6 {Der Bauer auf
+h2 kann natürlich nicht genommen werden, da er mit f4 meinen Läufer
+einschließen würde. Aber der Zug leistet nichts zur Stellungsverbesserung} dxe4
+{Jetzt kann ich mit Tempogewinn meine Stellung befreien} 13. Nxe4 Nxe4 14. Qxe4
+Rfe8 {Jetzt habe ich leicht Ausgleich, nur mein Königsflügel könnte unter
+weißen Figurendruck geraten} 15. Qg4 Ne5 16. Qh3 Ng6 {Rybka empfiehlt hier h6,
+aber ich plane schon den Abtausch auf f4} 1/2-1/2
+

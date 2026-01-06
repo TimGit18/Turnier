@@ -1,0 +1,36 @@
+[Event "London Chess Classic Open"]
+[Site "?"]
+[Date "2010.12.11"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "McKenna, Jason"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "1930"]
+[BlackElo "2109"]
+[Annotator "Tim Schmitz"]
+[PlyCount "45"]
+[EventDate "2010.04.02"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 c6 5. Qd2 Nf6 6. f3 b5 7. Nge2 Nbd7 {
+Das Tabiya im 150-Attack} 8. a3 $6 {ist zwar logisch, aber eigentlich muss
+Weiß aggressiver spielen} (8. Bh6 Bxh6 9. Qxh6 Qa5 10. Nc1) (8. g4 Nb6 9. Ng3
+h5 10. g5 {mit scharfem Spiel}) 8... a6 9. Bh6 Bxh6 10. Qxh6 Rg8 $6 {Kein so
+toller Zug: Schwarz will g5 spielen, verdirbt sich aber die Rochade} 11. Qg5 {
+Hier steht die Dame aktiv, dachte ich. Zumindest droht e5} Qc7 {Das momentan
+beste Feld für die Dame} 12. g3 $6 {Nicht so schlecht wie er aussieht, aber
+auch nicht gut: Ich will den Läufer entwickeln, schwäche aber f3} c5 {Diese
+Antwort hatte ich unterschätzt. Die Stellung gefällt jetzt besser für Schwarz}
+13. dxc5 $2 {Ein grober Fehler, die schwarze Antwort Se5! führt zu seinem
+Vorteil} dxc5 $6 {vergibt die Chance in Vorteil zu kommen} (13... Ne5 $1 14.
+Qe3 (14. cxd6 $4 Qxc3+) 14... Qxc5 {und Schwarz steht zumindest freier und
+sein König sicherer}) 14. Bg2 (14. Bh3 {wäre ein echter Fehler wegen} Ne5)
+14... Bb7 15. Qf4 {Mit dem Damentausch will ich etwas Druck aus der Stellung
+nehmen} Qxf4 16. Nxf4 g5 {Schwarz will e4 schwächen und greift unter
+Tempogewinn an. Aber die vorhergehende Rochade wäre besser gewesen} 17. Nd3 g4
+18. f4 c4 19. Nf2 Nc5 $6 (19... e5 {hätte ich mehr gefürchtet, da ich diesen
+Bauern nicht nehmen kann}) 20. O-O-O {mit Remisgebot, denn meine Stellung ist
+einfacher zu spielen} Rd8 21. Rhe1 e6 (21... Ne6 {kam auch in Betracht mit der
+Idee Sd4}) 22. Bh1 Rxd1+ 23. Rxd1 {Weiß hat etwas Vorteil. Wenn er zu e5 kommt,
+ist seine Stellung einfacher zu spielen} 1/2-1/2
+

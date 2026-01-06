@@ -1,0 +1,37 @@
+[Event "Schachfestival Bad Wörishofen 2010"]
+[Site "?"]
+[Date "2010.03.07"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Buhn, Reinhard"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1870"]
+[BlackElo "1462"]
+[Annotator "Tim Schmitz"]
+[PlyCount "95"]
+[EventDate "2010.05.16"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 Nc6 7. Be3 {Der
+Voronezh-Aufbau. Schwarz wählt allerdings einen ungewöhnlichen Weg} e6 8. Nf3 {
+Jetzt, wo Lg4 nicht mehr möglich ist, geht dieser Zug} g6 9. Bg5 $6 ({Besser
+ist} 9. d5 $1 Ne7 10. dxe6 Bxe6 11. Qd4 Rg8 12. Ne4) 9... f6 10. Be3 {In der
+Folge verlasse ich mich zu stark auf die geschwächte schwarze Bauernstruktur}
+Bg7 11. Be2 O-O 12. O-O Ne7 {Aus den folgenden Manövern werde ich nicht schlau,
+ziehe aber auch keinen Vorteil} 13. Rc1 Nd7 14. Qd2 Nf5 15. Rfd1 Qe7 {Schwarz
+will e5 spielen} 16. h3 {Beginnende Ratlosigkeit, c5 hätte kommen sollen} b6
+17. Bd3 (17. Bf4 $1 Bb7 18. g4 g5) 17... Bb7 18. Qe2 Nxe3 19. Qxe3 Rae8 {
+Der weiße Vorteil ist nur minimal} 20. Re1 e5 21. Be4 {Was sonst?} Bxe4 22.
+Qxe4 {Die einzige Chance liegt im Spiel auf den weißen Feldern} f5 23. Qd5+ Qf7
+$6 (23... Qe6 {ist besser}) 24. Qxd6 exd4 25. Nd5 (25. Nxd4 $4 {scheitert an}
+Be5) 25... Nc5 26. Ng5 {[%csl Yd3][%cal Gc5d3] Weiß spielt aktiv, aber auch
+riskant} Qd7 27. Qxd7 Nxd7 28. Ne6 Rf7 29. Rcd1 $2 {Panik vor d3} (29. Nxg7 $1
+Rxe1+ 30. Rxe1 Kxg7 31. Rd1 {hätte den Vorteil behalten}) 29... Nc5 30. Ng5 {
+Vorteil ist wieder weg, denn Schwarz hält d4} Rxe1+ 31. Rxe1 Rf8 32. b4 Nd7 33.
+Kf1 $6 (33. Re7 {war hier angebracht} Nf6 34. Ne6 Rf7 35. Nxf6+ Bxf6 36. Re8+
+Rf8 37. Rxf8#) 33... h6 $4 {Gegenseitiges Blundern in Zeitnot} 34. Ne7+ Kh8 35.
+Nxg6+ Kg8 36. Nxf8 Bxf8 37. Ne6 Bxb4 38. Rd1 Bc5 39. Nxd4 Ne5 40. Ne6 Ba3 41.
+Rd5 {Jetzt gewinnt Weiß leicht die Bauern auf dem Könbigsflügel und marschiert
+durch} Bb2 42. Nd4 Nxc4 43. Nxf5 Kh7 44. Ne3 {Am sichersten} Nxe3+ 45. fxe3 Ba3
+46. Ke2 Bc5 47. Kd3 Kg6 48. e4 1-0
+

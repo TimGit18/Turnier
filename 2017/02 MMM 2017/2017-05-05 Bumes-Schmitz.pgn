@@ -1,0 +1,102 @@
+[Event "MMM 2017"]
+[Site "?"]
+[Date "2017.05.05"]
+[Round "7"]
+[White "Bumes, Konrad"]
+[Black "Schmitz, Tim"]
+[Result "*"]
+[ECO "E90"]
+[WhiteElo "1844"]
+[BlackElo "1817"]
+[PlyCount "62"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.05.06"]
+[WhiteTeam "SC Haar 2"]
+[BlackTeam "SC Sendling 1"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 {Dies ist ein
+ungewöhnlicher Zug in der Königsindischen Verteidigung, das
+Makogonov-Systems.} e5 {Das ist der thematische Zug für Schwarz in dieser
+Stellung} 7. d5 {Damit erhält die Stellung eine Struktur wie im
+Petrosian-System} a5 {Ein prophylaktischer Zug, der die weiße Ausbreitung am
+Damenflügel verhindert} 8. Bd3 {Anstatt den schwarzfeldrigen Läufer zu
+entwickeln, spielt Weiß eine Art Hybrid aus Makogonov-System und
+Seirawan-System. Es ist nicht besonders gefährlich, muss aber genau bespielt
+werden.} ({Der Hauptzug ist wie im Petrosian-System} 8. Bg5 Na6 9. Nd2 Qe8 10.
+g4 {Weiß versucht sein Zentrum zu sichern und das schwarze Gegenspiel auf dem
+Damenflügel zu unterbinden}) 8... Na6 {Der Springer will auf das Feld d5, um
+den Läufer auf d3 und den Bauern auf e4 anzugreifen} ({Schwarz hätte auch} 
+8... Nbd7 {spielen können. Aber der Springer steht hier nicht so aktiv wie
+auf a6 und verstellt die Läuferdiagonale}) 9. Be3 {Weiß entwickelt seine
+Figuren logisch und überdeckt das Feld c5, um einen dort auftauchenden
+aktiven Springer eventuell abzutauschen} Qe7 {Ein nützlicher Abwartezug. Die
+Dame überdeckt das Feld c5, deckt weiterhin c7 (gegen ein mögliches Sc3-b5)
+und räumt die Grundreihe.} 10. O-O Nh5 {[%csl Yf4,Yf5,Yh3][%cal Rh5f4,Rf4h3,
+Rc8h3,Gf7f5] Dieser Zug sieht optisch gut aus. Der Springer droht sich auf f4
+einzunisten, wonach besonders der Bauer auf h3 sehr gefährdet steht.
+Außerdem droht Schwarz mit dem thematischen Flankenangriff f7-f5} 11. Qd2 {
+Weiß verhindert durch Überdeckung den Einstieg auf f4} Nc5 ({Vielleicht
+wäre ein sofortiges} 11... f5 {besser, denn jetzt kann sich der Läufer auf
+c5 nicht mehr abtauschen}) 12. Bc2 f5 {Das ist die schwarze Idee. Er benutzt
+seinen klassischen Hebel, um das weiße Zentrum unter Druck zu setzen. Sofort
+droht f5-f4, wonach der weiße Läufer auf c5 sich tauschen muss} 13. Bg5 {
+Der Beginn eines seltsamen Manövers. Weiß nutzt natürlich die etwas
+löchrige Stellung am Königsflügel aus} Bf6 {Nur zu gerne würde Schwarz den
+schlechten Läufer tauschen} 14. Bh6 {Der einzige sinnvolle Zug, aber jetzt
+droht die Zugwiederholung} Bg7 15. Bg5 Bf6 {Verbunden mit einem stillen
+Remisangebot} 16. Be3 {Weiß lehnt das Remisangebot durch Ausweichung der
+Zugwiederholung ab. Jetzt muss Schwarz entscheiden, wie er das Spiel
+fortsetzen will} fxe4 {Das ist eine schwierige Entscheidung. Schwarz
+entschließt sich, das Spiel zu öffnen, obwohl die weißen Figuren gutes
+Spiel bekommen. Schwarz hätte das Spiel auch abschließen knnen.} ({Nach} 
+16... f4 17. Bxc5 dxc5 18. Nb5 Rd8 {sind die schwarzen Figuren fast alle
+deplaziert. Er muss ganz schnell g6-g5-g4 spielen, sonst ist die Stellung
+schlecht}) 17. Nxe4 Nxe4 18. Bxe4 Nf4 {Der schwarze Königsläufer steht immer
+noch schlecht. Aber wenigstens hat der schwarze Springer ein ideales Feld
+erreicht, auf dem er kaum genommen werden kann und auch nicht vertrieben
+werden kann. Der Preis für diese Entscheidung ist natürlich der dramatisch
+verbesserte Läufer auf e4} 19. Rae1 $6 {Das ist eine fragwürdige
+Entscheidung. Der Turm gehört auf die c-Linie. Wenn Weiß das Feld e2
+überdecken wollte, dann hätte er besser den anderen Turm genommen} Qg7 {
+Schwarz möchte die Dame aus dem Visier des gegnerischen Turms nehmen und
+gleichzeitig damit drohen, sie auf der h-Linie einzusetzen} 20. c5 $6 {Ein
+zweischneidiger Zug, der die Spannung auf den Höhepunkt bringt. Aber Weiß
+kann auch nicht einfach abwarten und nichts tun} Be7 {Natürlich nimmt Schwarz
+nicht den Bauern und läßt den gegnerischen Läufer in das Spiel. Außerdem
+soll der schlecht postierte Läufer von Schwarz in das Spiel zu bringen} ({
+Eine valide Alternative ist} 20... b6 {Schwarz greift den Bauern auf c5 an und
+droht mit Qualitätsgewinn} 21. cxd6 {Weiß ignoriert die Bedrohung} Ba6 22.
+dxc7 Bxf1 {Schwarz hat zwar die Qualität gewonnen, aber auch sein Zentrum
+verloren. Weiß kann auch einen gefährlichen Freibauern bilden} 23. d6 Bb5 24.
+Bxa8 Rxa8 {Die Stellung ist sehr scharf. Weiß hat zwar nur zwei Bauern für
+die Figur, aber diese sind sehr gefährlich}) 21. Rc1 {Weiß hat gemerkt, dass
+der Turm auf der völlig falschen Linie platziert war} Bf5 {Dieser Zug kann
+man im Nachhinein als sehr kritisch sehen. Schwarz will den starken weißen
+Läufer abtauschen und dann gerne den Springer auf h3 scheinopfern. Leider ist
+dieser Plan einfach nur sehr durchsichtig} ({Die korrekte Ausführung der Idee
+lautet} 21... dxc5 22. Bxc5 Bf5 {Jetzt kann der Läufer auf e4 getauscht
+werden, ohne dass der Springer nach g5 kommt}) ({Was nicht funktioniert ist} 
+21... Qh6 22. g3 Nxh3+ 23. Kg2 Nf4+ 24. gxf4 exf4 25. Bd4 {und die schwarze
+Dame hat schon erhebliche Probleme}) 22. cxd6 {Dieser Zwischenzug ist
+notwendig, um die weiße Idee auszuführen} Bxd6 23. Ng5 $1 {Schwarz hat jetzt
+schon einige Probleme. Er kann nicht gut auf e4 den Läufer schlagen, denn
+dann kommt der Springer auf e4 hervorragend zum Einsatz. Außerdem muss er der
+Drohung begegnen, dass Weiß selber auf f5 schlägt und dann auf e6 gabelt} Qf6
+{Vermutlich der beste Zug. Die Dame entgeht der Gabelung und übt verstärkt
+Druck auf der f-Linie aus} 24. Bxf5 Qxf5 25. Bxf4 exf4 26. Ne6 {Weiß hat eine
+forcierte Zugfolge gewählt, um in ein spätes Mittelspiel überzugehen. Der
+Springer auf e6 ist natürlich ein Monster und bedroht den Turm auf f8, wobei
+er von dem starken Bauern auf d5 unterstützt wird. Allerdings hat er auch den
+vergrabenen Läufer auf d6 befreit, der jetzt zum Leben erwacht} f3 $1 {
+Es ist wahnsinnig wichtig, dass Schwarz diese Resource noch zur Verfügung hat.
+Der Läufer strahlt jetzt schön gegen den weißen König. Der Bauer auf f3
+ramponiert die weiße Königsstellung. Der weiße Bauer auf h3 trägt sein
+Übriges zur geschwächten Stellung bei} 27. Nxf8 fxg2 {Der schwarze
+Gegendruck ist mindestens eine Qualität wert} 28. Kxg2 {Der Bauer muss
+genommen werden, weil sonst der Bauer h3 hängt} Bf4 {Ein weiterer wichtiger
+Zwischenzug. Schwarz holt sich die Qualität zurück} 29. Qd1 ({Der erwartete
+Zug war eigentlich} 29. Qd4 {Weiß deckt den d-Bauern und den f-Bauern.
+Außerdem steht die Dame im Zentrum ideal}) 29... Bxc1 30. Qxc1 Qxd5+ 31. f3
+Rxf8 {Hier wurde Remis vereinbart, obwohl Schwarz schon leicht besser steht 
+(Königsstellung, Bauernstruktur)} *
+

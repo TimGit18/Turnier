@@ -1,0 +1,20 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2022.11.08"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Lichtmannecker, Daniel"]
+[Result "0-1"]
+[ECO "B19"]
+[WhiteElo "1848"]
+[BlackElo "2083"]
+[Annotator "Tim Schmitz"]
+[PlyCount "60"]
+[SourceVersionDate "2022.11.08"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14. Rhe1 c5
+15. Be3 Qc7 16. c3 c4 17. Qc2 b5 18. Ne5 Nd5 19. Nxd7 Qxd7 20. Ne4 Rab8 21. g4
+b4 22. Nc5 Bxc5 23. dxc5 bxc3 24. Rxd5 Qxd5 25. Qxc3 Qe4+ 26. Ka1 Qxg4 27. c6
+Rbc8 28. Bxa7 Rxc6 29. f3 Qxh5 30. Rg1 f6 0-1
+

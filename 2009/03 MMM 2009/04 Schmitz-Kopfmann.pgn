@@ -1,0 +1,47 @@
+[Event "MMM 2009 - A-Klasse 1"]
+[Site "?"]
+[Date "2009.03.28"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Kopfmann, Dr. Gerhard"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "1832"]
+[BlackElo "1643"]
+[Annotator "Tim Schmitz"]
+[PlyCount "102"]
+[EventDate "2009.??.??"]
+[WhiteTeam "SC Sendling 2"]
+[BlackTeam "SC Neuhausen 1908 1 "]
+[TimeControl "240+2"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nc6
+5. Be3 {Zu diesem Zug gibt es zwei vernünftige Alternativen} ({a)} 5. Bb5 Bd7
+6. Nc3 g6 7. Be3 Bg7 8. Qd2 Nf6 9. f3 O-O 10. O-O-O {mit einer bekannten
+Stellung aus der Steinitz-Variante der Spanischen Partie}) ({(b)} 5. Nc3 Nf6 6.
+Bc4 Be7 7. O-O O-O 8. h3 Nxd4 9. Qxd4 Be6 10. Be3 Qd7 11. Rad1 Bxc4 12. Qxc4
+Qc6 13. Qd3 $1 {mit einer starken Stellung für Weiß in Krutko-Dzhambutov,
+Dagomys 2004}) 5... Nf6 6. Nc3 Be7 7. Be2 O-O 8. O-O a6 9. f4 Bd7 10. Bf3 Qc8 {
+Die erste kritische Stellung der Partie} 11. e5 $6 {Gibt den Raumvorteil auf,
+besser ist} ({a)} 11. h3 Bxh3 12. gxh3 Qxh3 13. Nf5 {ist nur gut für Weiß}) ({
+(b)} 11. Kh1 {schafft ein Rückzugsfeld für den Läufer}) 11... Ng4 $1 12. Nxc6
+bxc6 13. Qd4 Nxe3 14. Qxe3 d5 {Schwarz hat schon die leicht besseren Aussichten
+} 15. Kh1 Rb8 16. b3 Bf5 17. Na4 $2 {Die Idee ist richtig (der Bauer c2 kann
+gegeben werden). Aber der Springer gehört nach e2, um auf d4 einzusteigen} Rb5
+$5 {Verhindert Sc5, erlaubt aber auch wieder Gegenspiel} 18. Be2 $2 (18. c4
+dxc4 19. Bxc6 Rb4 20. Bd5 $1 {ist die richtige Antwort mit Ausgleich} cxb3 21.
+axb3 Be6 22. Rad1 Bxd5 23. Rxd5 Qe6 24. Rd3) 18... Rb4 19. Nc5 $4 {Ein Blunder
+in beginnender Zeitnot} d4 20. Qf3 Bxc5 21. Qxc6 Ba7 22. Bxa6 Qd7 {Die letzten
+Züge waren forciert. Das Endspiel ist verloren, da die schwarzen Figuren zu
+aktiv sind} 23. Qxd7 Bxd7 24. Bd3 g6 25. Be4 Bb5 $4 {Ein Fehler, der den Turm
+verlieren sollte} 26. Rfd1 $2 (26. a3 $1 {hätte fast ausgeglichen}) 26... Ba6 {
+Jetzt ist Schwarz gerettet} 27. a3 Rbb8 28. Rab1 Bb7 29. Bxb7 Rxb7 30. b4 Rfb8
+31. Rd3 c5 32. Rdb3 $6 (32. c3 c4 33. Rdd1 d3 {ist auch nicht besser}) 32... c4
+33. Rf3 Kf8 34. g4 Ke7 35. Kg2 (35. Rh3 {ist vermutlich aktiver}) 35... Ke6 36.
+Rh3 f6 37. exf6 Kxf6 38. Kf3 Re7 $1 {Leitet den gewinnbringenden Endangriff
+für Schwarz ein} 39. b5 Re3+ 40. Kg2 Re2+ $1 41. Kf1 Rxc2 42. Rxh7 Bc5 43. Rc7
+$2 (43. Re1 Rxb5 44. h3 {droht mit Matt. Schwarz kann sich aber noch retten} g5
+45. f5 Rb6 {mit Gewinn}) 43... Bb6 44. Rc6+ Kf7 45. Re1 d3 46. Ree6 Bd4 47. f5
+gxf5 48. gxf5 Rf2+ 49. Ke1 Rxf5 50. Re4 Bc3+ 51. Kd1 Rf1+ {Ein Partie voller
+Fehler und Missverständnisse} 0-1
+

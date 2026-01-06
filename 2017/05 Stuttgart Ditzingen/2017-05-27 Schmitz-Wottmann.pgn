@@ -1,0 +1,74 @@
+[Event "Ditzingen Open"]
+[Site "?"]
+[Date "2017.05.27"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Wittmann, Reiner"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "1850"]
+[BlackElo "1632"]
+[PlyCount "47"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.05.28"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 ({Flexibler ist} 5. Bd3 {
+, denn dann hat Schwarz kein Angriffsziel}) 5... Qc7 6. Be3 $2 {Das ist ein
+schlechter Zug, der im totalen Autopilot-Modus gespielt wurde. Weiß ignoriert
+den vorhergehenden schwarzen Zug und bildet sich ein, den gleichen Aufbau und
+die gleiche Reihenfolge wie im Taimanov-System zu spielen. Interessanterweise
+wurde dieser fehlerhafte Aufbau wenig später wiederholt} ({Richtig ist
+natürlich} 6. Bd3 Bb4 7. O-O {Jetzt kann Schwarz natürlich auf c3 einen
+Bauern gewinnen, aber das Schlagen ist sehr riskant. Daher vermeiden die
+meisten Schwarzspieler diese Variante und spielen erst den Springer nach f6})
+6... Bb4 $1 {Erstens droht jetzt das doppelte Schlagen auf c3. Schwarz kann
+auch mit Sg8-f6 und d7-d5 die Fesselung von c3 ausnutzen} 7. Qd2 {Das ist
+schon eine ziemliche Konzession, denn die alte Fesselung wird von einer neuen
+abgelöst. Der Schutz des Bauern e4 wird aufgeweicht} Nf6 {[%csl Ye4][%cal
+Rf6e4] Logisch, denn Schwarz entwickelt eine Figur unter Tempogewinn} 8. Bd3 {
+Weiß entwickelt sich weiter und bereitet die kurze Rochade vor} d5 $1 {
+Ein sehr starker Zug, mit dem Schwarz den Druck auf die weiße Stellung
+maximal steigert} 9. e5 $5 {Dieses Bauernopfer ist zwar nicht besonders
+originell, aber es zwingt Schwarz dazu, die Entwicklung erst einmal hinten
+anzustellen. Alle anderen Züge für Weiß sehen sehr schlecht aus} ({Nach} 9.
+exd5 Nxd5 10. Nde2 {ist die weiße Stellung passiv und zerstückelt. Schwarz
+kann sich aktiv und normal weiterentwickeln}) 9... Qxe5 10. Nf3 Qc7 11. Bf4 Bd6
+{Weiß hat einige Tempi gewonnen und damit den schwarzen Druck abgeschüttelt.
+Allerdings ist die Kompensation zu gering, da Schwarz mit geschickten
+Abtäuschen jetzt Material aus der Stellung herausnimmt} 12. Bxd6 Qxd6 13.
+O-O-O Bd7 14. Qg5 {Das ist vielleicht der einzige Zug in dieser Stellung, der
+Schwarz vielleicht noch Probleme bereiten könnte. Aber dank seines kompakten
+Zentrums mit dem gesunden Mehrbauer steht Schwarz eigentlich klar besser} O-O
+15. h4 {Das ist ein Alibi-Angriff, der zwar nichts einbringt, aber es schwer
+zu sehen, was Weiß sonst tun soll} ({Alternativ würde} 15. Rhe1 {die
+Kontrolle über das Feld e5 behaupten. Weiß könnte einen Springer dort
+etablieren und mit f2-f4 stützen}) 15... Nc6 16. h5 h6 17. Qh4 {Der weiße
+Angriff ist völlig erschlafft und zum Stehen gekommen. Nun könnte Schwarz
+seine Türme in das Zentrum bringen und mit seinen Bauern und Figuren
+vorrücken} Nb4 $6 {Das sieht aus wie ein Zeitverlust} ({Am unverblümtesten
+ist} 17... e5) 18. Rhe1 {Weiß kümmert sich nicht darum, dass Schwarz den
+Läufer schlagen kann. Es kommt nämlich eine weitere Figur in das Zentrum,
+die dann auf den Königsflügel hinüber bugsiert werden kann} Nxd3+ 19. Rxd3
+Rac8 {Endlich bringt Schwarz auch eine seiner Schwerfiguren auf ein aktives
+Feld, aber zu spät} 20. Ne5 $1 {[%csl Yd3,Yf7,Yg3,Yg6,Yg7][%cal Rd3g3,Re5f7,
+Re5g6,Rg3g7] Das Fehlen des Springers c6 bedeutet die Dominanz des weißen
+Springers auf e5. Er kann jetzt mit den noch nicht so aktiven weißen
+Schwerfiguren Drohungen gegen den schwarzen König aufstellen. Außerdem
+räumt er die dritte Reihe für den Turm} b5 {Auch Schwarz muss jetzt aktiv
+werden und aggressiv auf dem Damenflügel vorgehen} 21. Rg3 {Jetzt droht
+zunächst Dh4xf6, Weiß hat für seine Figuren optimale Felder gefunden} Kh7 {
+Dieser seltsam aussehende Zug ist vermutlich der beste. Der g-Bauern ist auf
+g7 festgelegt und auf h8 steht der König schlecht wegen des Bauern f7} 22.
+Ree3 {Weiß steht jetzt vor der Aufgabe, seine Stellung zu verstärken. Das
+gelingt am besten in dem man einen weiteren Turm auf die f-Linie bringt} Ne8 {
+Das ist ein passiver aber prophylaktischer Zug. Schwarz sichert ein weiteres
+Mal g7, aber jetzt könnte Weiß auf f7 Druck ausüben} 23. Qd4 {Die Idee ist
+es, den Springer auf e5 zu decken, ohne die f-Linie zu verstellen} ({Der
+Springer muss gedeckt bleiben} 23. Ref3 Qxe5) 23... a5 24. Ref3 $6 {Verbunden
+mit einem Remisangebot, das auch angenommen wurde. Leider ist der Zug ein
+Fehler} ({Nach der forcierten Abwicklung} 24. Nxd5 exd5 25. Nxd7 Qxd7 26. Rxe8
+{hat Weiß seinen Bauern erfolgreich zurückgewonnen und die besseren
+Aussichten, da seine Bauernstruktur besser ist. Eine mögliche Abwicklung
+lautet} f6 27. Rxf8 Rxf8 28. Qd3+ Kh8 29. Qg6 Qf7 30. Qxf7 Rxf7 31. Rd3 Rd7 32.
+Kd2 {und es gibt ein Spiel auf zwei Ergebnisse}) 1/2-1/2
+

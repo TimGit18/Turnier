@@ -1,0 +1,21 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2007.11.07"]
+[Round "4"]
+[White "Uzun, Hakan"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C80"]
+[Annotator "Tim Schmitz"]
+[PlyCount "50"]
+[EventDate "2007.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6
+5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. h3 {Ungewöhnlich} Bc5 10. Bf4 {
+will sich nach g5 auf h2 zurückziehen} O-O 11. Nbd2 Qe7 12. Nxe4 $6 dxe4 13.
+Ng5 Bxb3 14. cxb3 Nxe5 15. Nxe4 Bb6 16. Qd5 {Der Damenzug sieht aktiv aus, ist
+aber nicht besonders gut} Ng6 17. Bg3 Rad8 18. Qf5 Rfe8 19. Rfe1 Qb4 20. Kf1
+Ba5 21. Re2 Qd4 22. f3 Re6 23. a3 Rd5 {Gewinnt eine Figur} 24. Bf2 Qd3 25. Qg4
+f5 0-1
+

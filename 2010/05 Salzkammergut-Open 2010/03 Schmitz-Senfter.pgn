@@ -1,0 +1,33 @@
+[Event "Salzkammergutopen 2010"]
+[Site "?"]
+[Date "2010.05.23"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Senfter, Karl"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[WhiteElo "1869"]
+[BlackElo "1950"]
+[Annotator "Tim Schmitz"]
+[PlyCount "61"]
+[EventDate "2010.05.21"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. Bd3 h6 {
+Zu sloppy} 8. O-O Be7 9. a3 a6 {Schwarz bereitet b7-b5 vor} 10. Bf4 {Hier war
+ich eigentlich schon ganz zufrieden, Schwarz muss jetzt eine Entscheidung
+treffen, um die Spannung etwas abzubauen} dxc4 11. Bxc4 b5 12. Bb3 (12. Ba2 {
+gefiel mir nicht wegen} b4) 12... Na5 13. Ba2 Bb7 {Schwarz hat wahrscheinlich
+schon Ausgleich} 14. Qe2 Bd5 $2 {Ein positioneller Bock, wonach ich Druckspiel
+bekomme} 15. Nxd5 Nxd5 16. Bd2 {Hier kontrolliert der Läufer am meisten und
+verhindert die schwarze Rochade} Nc6 17. Rac1 Qd7 $6 {ist auch nicht gut} 18.
+Qe4 Rc8 19. Ne5 {Jetzt hat Weiß Vorteil} Nxe5 20. Rxc8+ Qxc8 21. dxe5 Qa8 22.
+Rc1 {Ist wahrscheinlich am besten, obwohl hier schon Kd7 kommen kann} Bg5 $1 {
+Schwarz findet die aktivste Verteidigung} 23. f4 Bd8 24. f5 {Energisch} O-O 25.
+Kh1 ({Max Müller empfiehlt} 25. f6 {aber der Computer findet} Bb6+ 26. Kh1 Ne3)
+25... Bg5 $2 {Das erleichtert Weiß} 26. Bxg5 hxg5 27. Bb1 $2 (27. fxe6 $1 Nf4 (
+27... fxe6 28. Bb1 Nf4 29. Qh7+ Kf7 30. Rc7+ Ke8 31. Be4 Qd8 32. Bg6+ {und matt
+}) 28. exf7+ Kh8 29. Qxa8 Rxa8 30. e6 {und Weiß gewinnt} Ng6 31. Rc3 Rd8 32.
+Rh3+ Nh4 33. Bb3 Rc8 34. Bc2 Rxc2 35. f8=Q+ Kh7 36. Qf5+) 27... Nf4 28. fxe6
+Qxe4 29. exf7+ Kxf7 $1 {Nur so kann Schwarz im Endspiel bestehen} 30. Bxe4 Ke6
+31. g3 1/2-1/2
+

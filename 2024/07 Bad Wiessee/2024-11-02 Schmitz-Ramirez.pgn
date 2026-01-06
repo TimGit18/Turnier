@@ -1,0 +1,17 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2024.11.02"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Ramirez, Cristian"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "1859"]
+[BlackElo "2051"]
+[Annotator "Tim Schmitz"]
+[PlyCount "62"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2024.11.03"]
+
+{[%evp 0,62,16,28,25,20,42,5,11,11,3,4,-2,-12,-20,17,10,11,6,18,14,13,13,13,13,13,26,7,5,5,23,-29,-40,-58,-58,-110,-70,-113,-130,-127,-107,-106,-104,-110,-102,-102,-70,-72,13,-148,-139,-136,-170,-166,-127,-140,-146,-361,-390,-404,-391,-406,-376,-373,-377]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 $6 exd4 6. cxd4 Bb4+ 7. Nbd2 $5 (7. Nc3 $6 Nxe4 $1 8. O-O Bxc3 $1 9. d5 Bf6 10. Re1 Ne7 11. Rxe4 d6 12. Bg5 Bxg5 13. Nxg5 h6 $1 14. Qe2 hxg5 15. Re1 Be6 $1 16. dxe6 f6 17. Re3 c6 18. Rh3 Rxh3 19. gxh3 g6) 7... Nxe4 8. O-O $2 (8. d5 $1 Ne7 9. O-O Nxd2 10. Bxd2 Bxd2 11. d6 $1 cxd6 12. Qxd2) 8... d5 $6 9. Nxe4 O-O $1 10. Bd3 dxe4 11. Bxe4 Bg4 12. a3 Be7 13. Qd3 Bxf3 14. Qxf3 $6 Nxd4 15. Qh3 g6 16. Bh6 $2 (16. Bxb7) 16... Re8 17. Rad1 c6 18. Bb1 $2 Bf6 19. Be3 c5 20. b4 b6 21. bxc5 bxc5 22. Ba2 Qa5 $2 23. Bxd4 $2 (23. Bxf7+ $1 Kxf7 24. Qxh7+ Bg7 25. Bh6 Rg8 26. f4 Rad8 27. Rxd4 cxd4 28. f5 Qe5) 23... Bxd4 24. Qb3 Re7 25. Rd3 $19 Qc7 26. Rf3 Kg7 27. Qc2 Rb8 28. Rb1 $4 Rxb1+ 29. Qxb1 Qa5 30. Kf1 Qd2 31. Bc4 Bc3 $19 0-1
+

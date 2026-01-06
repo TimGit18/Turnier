@@ -1,0 +1,33 @@
+[Event "Vienna Open 2009"]
+[Site "?"]
+[Date "2009.08.20"]
+[Round "?"]
+[White "Graf, Tobias"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "1861"]
+[BlackElo "1864"]
+[Annotator "Tim Schmitz"]
+[PlyCount "67"]
+[EventDate "2009.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. e3 Be7 8.
+Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. h3 Ng6 {Schien mir genauer als direkt Ld6,
+denn dann geht Se5} 12. Bg3 Bd6 13. Bxd6 Qxd6 14. Rab1 Qe7 {Die Dame gehört
+nach e7, um einen eventuellen Königsflügel angriff zu unterstützen} 15. b4
+Ne4 {Besser ist vielleicht a7-a6} 16. b5 Nh4 $6 {Der erste von schwachen
+Zügen, starke Spieler spielen laut CB Sg5} (16... Ng5 17. Qe2 Qf6 18. Nxg5
+Qxg5 19. bxc6 bxc6 20. f4 {Dautov-Vaganjan, 1997}) 17. Nxh4 Qxh4 18. Bxe4 dxe4
+19. bxc6 bxc6 {Weiß steht deutlich besser, der schwarze Angirff ist versandet
+und die Bauernsstruktur schlecht} 20. Rfc1 {Meistens wird Se2 (4x in CB)
+gespielt} Ba6 21. Qa4 Bd3 22. Rb7 $1 {Der Turm steht wie eine Wucht} a6 (22...
+Re6 23. Rxa7 Rf8 {wollte ich nicht zulassen}) 23. Qa3 $6 (23. Qxc6 $1 Re6 24.
+Qc7 Rf8 {mit Traumstellung für Weiß} (24... Rf6 $4 25. Rb8+ {und matt}))
+23... Qd8 $6 (23... Re6 {ist auf jeden Fall besser, da aktiver}) 24. Na4 $1 Qa5
+$2 {Der Verlustzug, ein schwerer Fehler. Ich war bereits in Zeitnot, wollte
+den Springer fesseln und zog, ohne zu überlegen} 25. Qb3 Qd5 26. Qxd5 cxd5 27.
+Rcc7 {Jetzt geht es schnell vorbei} Rf8 28. Nb6 Rad8 29. Nd7 Rfe8 30. Ne5 Rf8
+31. Nxf7 Rc8 (31... Rb8 {hätte das Leiden etwas verlängert}) 32. Nh6+ Kh8 33.
+Rxg7 Rc1+ 34. Kh2 1-0
+

@@ -1,0 +1,76 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.07.31"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Hoffmann, Steffen"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteElo "1820"]
+[BlackElo "1419"]
+[Annotator "Tim Schmitz"]
+[PlyCount "69"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.10.15"]
+
+1. e4 e5 2. Nf3 Nc6 {Steffen Hoffmann ist der Vater von Sebastian Hoffmann,
+besitzt allerdings nicht dessen Spielstärke. Er spielt auch bei SC Noris
+Tarrasch Nürnberg.} 3. Bb5 g6 {Die Smyslov-Verteidigung war beliebt in den
+1980er Jahren und wird heute gelegentlich von Spielern wie Nepomniachtchi oder
+Mamedyarov gespielt.} 4. Nc3 $6 {Das ist kein besonders ambitionierter Zug,
+mir war jedoch die Theorie gar nicht mehr geläufig.} ({Die Ausgangsstellung
+des Modernen Smyslov-Systems wird erreicht nach} 4. c3 $1 Nge7 (4... a6 5. Ba4
+Bg7 6. d4 exd4 7. cxd4 b5 8. Bc2 {transponiert in das Aronian-System.}) 5. d4
+exd4 6. cxd4 d5 7. exd5 Nxd5 8. O-O Bg7) 4... Bg7 5. d3 {Nach den
+Unsicherheiten in der Eröffnung der ersten Partie strebte ich eine sehr
+ruhige Entwicklung an.} h6 $6 {Ein sehr verhaltener Zug, der zwar Lc1-g5
+verhindert, aber nichts zur Entwicklung beiträgt.} 6. Be3 Nge7 {Das schwarze
+Spiel macht einen sehr zurückhaltenden und zögerlichen Eindruck. Mir schien
+es hier ratsam die Stellung zu öffnen.} 7. d4 exd4 8. Nxd4 O-O 9. Qd2 $5 {
+[%csl Yh6][%cal Re3h6,Rd2e3] Dieser Zug erfüllt mehrere Zwecke: 1.Er deutet
+die lange rochade an und verbindet die Türme 2. Er bedroht den Bauern auf h6.}
+Nxd4 10. Bxd4 a6 $6 {Auch dies ist ein Zug, der nichts für die Entwicklung
+tut. Der Läufer stand auf b5 sowieso nicht besonders aktiv und muss sowieso
+wieder in das Spiel.} 11. Bxg7 Kxg7 12. Be2 {Weiß hat bereits einen
+positionellen Vorteil. Seine Figuren sind besser koordiniert und entwickelt
+und er hat mehr Raum im Zentrum. Die schwarzen Bauern sind bereits geschwächt
+und der schwarze König ist potentiell unsicher.} d6 13. O-O {Die lange
+Rochade wäre ambitionierter, aber auch riskanter. Schwarz könnte schnell mit
+b7-b5 einen Gegenangriff starten, da er sonst keine konstruktiven Pläne hat.}
+Be6 14. Rad1 {Jetzt sind fast alle Figuren im Spiel. Der Vorstoß f2-f4-f5
+liegt in der Luft.} Ng8 $2 {Das ist ein nicht erklärbarer Rückzug und Fehler.
+Der Springer leistet nichts auf g8. Er kann im günstigen Fall vielleicht auf
+f6 wieder in das Spiel kommen.} ({Ein mögliches Gegenspiel wäre} 14... b5 {
+, um Raum auf dem Damenflügel zu gewinnen und den Springer über c6 in das
+Spiel zu bekommen.}) 15. f4 {Es muss jetzt schnell der Stellungsvorteil von
+Weiß ausgenutzt werden.} f5 $1 {Ein guter Gegenstoß von Schwarz. Er darf das
+weitere Vorrücken des f-Bauern nicht zulassen.} 16. Bf3 {[%csl Ya8,Yb7,Ye4]
+[%cal Gf3e4,Re4b7] Der Läufer wird auf ein besseres Feld gebracht und deckt
+den Bauern e4. Gleichzeitig strahlt er gegen den Bauern b7 und den Turm a8.}
+Rb8 {Hier steht der Turm auch nicht besonders gut, immerhin deckt er den
+Bauern auf b7 und geht aus der Läuferdiagonalen.} 17. Rfe1 {Der Turm
+verlässt die wirkungslose f-Linie und geht in das (sich bald öffnende)
+Zentrum. Jetzt sind alle weißen Figuren optimal für einen
+Mittelspiel-Angriff platziert.} Qf6 {Schwarz versucht eine Festung zu bauen.}
+18. e5 $1 {Öffnet die Stellung.} dxe5 19. Rxe5 Rfd8 20. Qe3 {[%csl Ye6][%cal
+Re5e6,Re3e5] Der Druck richtet sich jetzt gegen den Läufer e6.} Rxd1+ 21. Bxd1
+Kf7 {Wenn schon der König im Mittelspiel die Leichtfiguren decken muss, ist
+etwas schief gelaufen. Alle schwarzen Figuren stehen schlecht oder gefährdet.}
+22. Bf3 {Bringt die einzige schlecht platzierte Figur wieder zurück.} c6 $2 {
+Ein weiterer Fehler, den die schwarze Stellung nicht verkraften kann. Ich war
+sicher, dass hier eine taktische Lösung lauerte.} 23. Qa7 $1 {Ein
+multifunkionaler Zug mit vielen Drohungen (gegen den Turm auf b8, den Bauern
+auf b7, wenn der Turm zieht und den Bauern auf c6). Man beachte die Fesselung
+des Bauern b7, die ohne den Zug c7-c6 nicht gewesen wäre.} Rd8 {Frühzeitige
+Kapitulation von Schwarz: er gibt den Damenflügel preis ohne wirkliches
+Gegenspiel und ist selber einem immer gefährlicheren Angriff ausgesetzt.} 24.
+Qxb7+ Ne7 25. Bxc6 g5 {Diese Gegenspiel ist nun eindeutig zu wenig. Weiß kann
+jetzt versuchen Material zu gewinnen, um dann in ein gewonnenes Endspiel
+abzuwickeln. Das Schlüsselfeld dafür ist d5.} 26. Nd5 $1 Bxd5 {Erzwungen.}
+27. Bxd5+ Rxd5 $6 {Das Endspiel ist für Schwarz verloren.} ({Zäher war} 27...
+Kf8 28. Qb4 {mit der Drohung Te5-e6} (28. Re6 $4 {verliert direkt wegen} Qd4+
+$1) 28... Rd6 29. Bb3 {Der Läufer ist sehr wichtig, um den schwarzen König
+in einer Art Mattnetz zu halten.}) 28. Rxd5 gxf4 29. Rd7 Qe6 30. Rxe7+ $1 {
+Wickelt in ein leicht gewonnenes Bauernendspiel ab.} Qxe7 31. Qxe7+ Kxe7 32.
+Kf2 Ke6 33. Kf3 Ke5 34. c3 h5 35. h4 {Zugzwang} 1-0
+

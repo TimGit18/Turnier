@@ -1,0 +1,32 @@
+[Event "Stadmeisterschaft Regensburg 2008"]
+[Site "?"]
+[Date "2008.09.06"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Brassat, Jürgen"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1777"]
+[BlackElo "1623"]
+[Annotator "Tim Schmitz"]
+[PlyCount "111"]
+[EventDate "2008.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Nc6 6. Bc4 a6 7. O-O Nge7 {
+In letzter Zeit sehr populär} 8. Bg5 Qc7 9. Qe2 Ng6 10. Rfd1 h6 11. Be3 b5 12.
+Bb3 Be7 13. Rac1 Qb8 14. Nd4 Bb7 15. Nxc6 Bxc6 16. Nd5 $1 {Das thematische
+Scheinopfer} Bd8 (16... exd5 17. exd5 Bb7 18. d6 Bxd6 19. Ba7+) 17. Bc5 {
+Verhindert die schwarze Rochade} Qb7 18. Qg4 {Solange der schwarze
+Damenläufer nicht ausweichen kann, steht der Springer auf d5 gut} Rg8 19. f4 {
+Der Springer soll vertrieben werden} Ne7 20. Bxe7 Bxe7 21. f5 $6 Bg5 (21...
+exd5 22. exd5 Qb6+ 23. Kh1 Bb7 24. d6 Bg5 {Weiß hat noch Angriff aber auch
+schon eine Figur weniger}) 22. fxe6 fxe6 23. Nf4 {Ziel e6} O-O-O 24. h4 Bf6 25.
+Bxe6 $1 dxe6 26. Qxe6+ Kb8 27. Rxd8+ Rxd8 28. Rxc6 Bd4+ 29. Kh1 Ka7 30. Nd5 {
+droht Tc7} Rd7 31. Rxa6+ $1 Qxa6 32. Qxd7+ Qb7 33. Qxb7+ Kxb7 34. b3 {Das
+Endspiel mit den beiden Mehrbauern muss man gewinnen} Kc6 35. g4 Be5 36. Kg2
+Bd6 37. Kf3 g5 38. h5 b4 39. Ke3 Kc5 40. Kd3 Bf8 41. Ne3 Kd6 42. Nf5+ Ke5 43.
+Ke3 Bc5+ {So erreicht man nichts als Weißer} 44. Kf3 Bf8 45. Ne3 Bc5 46. Nd5
+Ke6 47. Ke2 Ke5 48. Kd3 Bf8 49. Kc4 $1 Kxe4 50. Nxb4 Bxb4 {Verliert direkt} 51.
+Kxb4 Kf3 52. a4 Kxg4 53. a5 Kxh5 54. a6 Kh4 55. a7 g4 56. a8=Q 1-0
+

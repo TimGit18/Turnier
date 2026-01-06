@@ -1,0 +1,46 @@
+[Event "ZABO-Open Nürnberg"]
+[Site "?"]
+[Date "2010.09.19"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Zikeli, Julia"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1903"]
+[BlackElo "1658"]
+[Annotator "Tim Schmitz"]
+[PlyCount "89"]
+[EventDate "2010.??.??"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+e6 9. cxd4 Bxd6 10. Nc3 {Meistens wird hier O-O gespielt} Ne7 {Schwarz will
+den anderen Springer nach d5 stellen} 11. O-O O-O 12. Bg5 Bd7 13. Qd3 {Weiß
+hat leichten Vorteil, aber die schwarze Stellung ist ohne Schwächen} a6 14.
+Rfe1 Kh8 {Der Zug ist etwas künstlich} 15. Bc2 f5 {Das war die Absicht des
+vorhergehenden Zuges. Die Diagonale nach h7 wird versperrt. Aber der Punkt e6
+wird geschwächt} 16. Bb3 h6 $6 {Hier habe ich das Gefühl gehabt, dass eine
+taktische Lösung drin ist. Aber ich fing an zu lange nachzudenken.} 17. Bxe6 $6
+{Nach einer halben Stunde des Nachdenkens gespielt. Aber der Zug ist nicht gut.
+} (17. Bh4 {ist besser. Nach} g5 18. Bxg5 hxg5 19. Nxg5 Kg7 {hatte ich zwar
+keine zwingende Mattkombination gesehen} 20. Nxe6+ (20. Qh3 Rh8 {scheitert an})
+20... Bxe6 21. Rxe6 Ng6 22. Rae1) 17... hxg5 18. Nxg5 Ng8 {Diesen Zug habe ich
+zwar in der Vorausberechnung gesehen, aber unterschätzt.} 19. Nf7+ ({Nach} 19.
+Qh3+ {hält} Nh6 {alles zusammen}) 19... Rxf7 20. Bxf7 {Wie ist die Stellung
+einzuschätzen? Materiell sieht es für Weiß gut aus, für die beiden Figuren
+gibt es den Turm und zwei Bauern. Aber das schwarze Läuferpaar ist stark und
+kann Druck auf den weißen Königsflügel ausüben. Ich versuche daher, soviele
+Figuren wie möglich abzutauschen} Qf6 {Ich hatte mehr Angst vor Dh4} 21. Bb3
+Qh6 22. Qh3 $6 {Das ist zwar objektiv nicht gerechtfertigt, denn ich erhalte
+schwache Bauern. Aber der Druck fällt etwas ab} Qxh3 23. gxh3 Rf8 {Schwarz
+will weiter angreifen, warum auch nicht} 24. Be6 {Ich will das Läuferpaar
+abtauschen} Rf6 25. Bxd7 Nxd7 26. Nd5 {Maximale Aktivität der Figureno} Rg6+
+27. Kf1 {Kh1 mit den schwarzen Springer ist zu gefährlich} f4 28. f3 Rh6 {
+Den Bauern gebe ich gerne} 29. Re8 Nf8 30. Rae1 {Beide Spieler befinden sich
+schon in Zeitnot} Rxh3 31. Kg2 Rh6 32. h3 {Um Zeit zu gewinnen} Kh7 33. Rd8 {
+Ziel ist es, möglichst viele Figuren anzugreifen} Rg6+ 34. Kh2 Nh6 35. Ree8 Kg8
+$4 {Ein taktischer Fehler in Zeitnot. Weiß gewinnt entscheidend Material} 36.
+Rxf8+ Bxf8 37. Ne7+ Kf7 38. Nxg6 Kxg6 $2 {macht es Weiß sehr einfach} 39. Rxf8
+Nf5 40. d5 {Der schwarze König ist abgeschnitten, so dass der Springer alleine
+den Bauern aufhalten muss} Kg5 41. h4+ {Naja, ich übersah, dass der Springer
+doch wieder zurück kann} Nxh4 42. d6 Nxf3+ 43. Kg2 Ne5 44. Re8 Nd7 45. Re7 1-0
+

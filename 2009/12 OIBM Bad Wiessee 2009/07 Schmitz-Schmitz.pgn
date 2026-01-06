@@ -1,0 +1,48 @@
+[Event "OIBM Bad Wiessee 2009"]
+[Site "?"]
+[Date "2009.11.06"]
+[Round "7"]
+[White "Schmitz, Tim"]
+[Black "Schmitz, Martin"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1860"]
+[BlackElo "2040"]
+[Annotator "Tim Schmitz"]
+[PlyCount "184"]
+[EventDate "2009.??.??"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 {Die aggressive Behandlung
+der Alapin-Variante} 6. Be2 e6 7. O-O Nc6 8. Be3 $6 {Emms empfiehlt h2-h3, was
+ich nicht mehr im Kopf hatte. Der Sinn ist, den Hebel g2-g4 zur rechten Zeit
+einzusetzen} cxd4 9. cxd4 {[%csl Yc3][%cal Rb1c3]} Be7 10. Nc3 Qa5 11. Qb3 {
+Das ist aufgrund der schwarzen Antwort etwas ungenau} Qb4 $1 12. Qxb4 Bxb4 13.
+a3 Bd6 14. Rfd1 O-O-O {[%csl Rd4,Yd5] Den weißen IDB wird man hier nicht mehr
+los} 15. Rac1 Kb8 16. h3 {Zu spät} Bh5 17. Nb5 Nd5 {Weiß hat etwas Spiel für
+den Isolani. Allerdings wird der schwarzfeldrige Läufer sehr schwach} 18. Nxd6
+Rxd6 19. b4 {soll Sc6-a5 verhindern} f6 {Schwarz unterbindet weißes Spiel auf
+dem Königsflügel nach g2-g4} 20. Re1 {Der Springer soll beweglich werden} Rhd8
+21. Nd2 Bg6 22. Nb3 {Auf c5 steht der Springer besser als auf c4} Nce7 23. Bf3
+Rc8 24. Rc5 $6 (24. Nc5 {ist viel besser} b6 $4 25. Bf4) 24... b6 25. Rxc8+
+Kxc8 26. Rc1+ Kd8 27. g4 {Ein Verhinderungszug gegen Sf5, aber mir gehen die
+konstruktiven Züge aus} Bd3 28. Nd2 {[%csl Ye4][%cal Rb3d2,Rd2e4]} Rd7 29. Ne4
+Rc7 30. Rxc7 Kxc7 31. Bc1 {[%csl Ra3,Ya4,Yb5,Yc6] Panik vor dem Königslauf
+nach a4} h6 32. Ng3 g5 {Zementiert die weiße Bauernstruktur auf dem
+Königsflügel} 33. Nf1 Nc3 {Droht Se2+} 34. Bb2 Ncd5 35. Ne3 Nf4 36. Kh2 Kd6 37.
+Kg3 Neg6 38. d5 $2 {Ein taktischer Fehler in Zeitnot} e5 39. Ba1 Nh4 40. Bd1
+Nxd5 41. Bb3 Nxe3 42. fxe3 Be4 {Ein schlechter Läufer gegen guter
+Springer-Endspiel} 43. Bc3 b5 44. a4 a6 45. axb5 axb5 46. Kf2 Ng6 47. Bf7 Ne7
+48. Kg3 Nc8 {Das Endspiel ist schwer zu verteidigen} 49. h4 Nb6 50. Bb3 Bd5 51.
+Bc2 Nc4 52. hxg5 hxg5 (52... Nxe3 $4 {verliert} 53. gxh6 Bg8 54. h7) 53. Kf2
+Na3 54. Bd3 Bc4 55. Be4 Be6 {Schwarz fehlt der Plan} 56. Bf3 {Aber jetzt geht
+f5} f5 57. gxf5 Bxf5 58. e4 Bd7 59. Kg3 Nc4 60. Bg4 Bc6 61. Bf3 Ke7 {Ich komme
+nicht an den Bauern g5 heran} 62. Bg2 Kf6 63. Kf3 Nd6 64. Ke3 g4 65. Be1 Kg5
+66. Bg3 Nc4+ 67. Kd3 Kf6 68. Bh4+ Ke6 69. Bd8 Nd6 70. Bh4 Ne8 71. Bg5 Ng7 72.
+Bh4 Nh5 73. Ke3 Nf4 74. Bf1 {Schwarz kann jetzt die weiße Blockade brechen} Kf7
+75. Bg3 Ng6 76. Be2 Bd7 77. Bd1 Kf6 78. Bb3 Kg5 79. Bf7 Nf4 80. Bh2 $4 {
+[%csl Yg1,Yg2,Rg3,Rh4] erlaubt dem schwarzen König das Eindringen auf h4 und
+wirft die Partie einzügig hin} Kh4 81. Bb3 g3 82. Bxg3+ {schon erzwungen} (82.
+Bg1 $2 Nh3) 82... Kxg3 83. Bc2 Ng2+ {Nun ist die Partie schnell vorbei} 84. Ke2
+Kf4 85. Kf2 Ne3 86. Bd3 Ng4+ 87. Ke2 Nf6 88. Kf2 Nxe4+ 89. Ke2 Nd6 90. Kf2 Ne8
+91. Bg6 Nf6 92. Bd3 Nd5 0-1
+

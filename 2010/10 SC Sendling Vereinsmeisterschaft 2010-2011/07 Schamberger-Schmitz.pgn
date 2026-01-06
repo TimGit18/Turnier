@@ -1,0 +1,42 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2011.02.13"]
+[Round "7"]
+[White "Schamberger, Alfons"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2072"]
+[BlackElo "1905"]
+[Annotator "Tim Schmitz"]
+[PlyCount "111"]
+[EventDate "2010.08.11"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Nge2 d5 6. exd5 Nxd5 7. O-O Be6 8.
+Ne4 O-O 9. Ng5 Bg4 {Darauf basierte meine Wahl} 10. h3 Bh5 11. g4 Bg6 {Weiß
+kann jetzt den Angriff auf dem Königsflügel mit f4 fortsetzen} 12. Ng3 Nb6 $6 {
+Das ist nicht der beste Zug.} (12... Nf4 {ist viel aktiver, aber ich wollte
+unbedingt den weißfeldrigen Läufer abtauschen}) 13. Bb3 Nd4 14. Nf3 Nxb3 15.
+axb3 Re8 {Die Stellung ist ziemlich ausgeglichen. Schwarz hat das Läuferpaar
+und leicht bessere Bauern. Mein Problem ist die Zeitnot} 16. Bd2 Bxd2 17. Qxd2
+Nd5 {Der Springer soll nach f4, wo er eigentlich hingehört} (17... Qd5 {
+hatte ich ursprünglich geplant, aber dann folgt} 18. Nh4) 18. Kh2 Qf6 19. Ng5 {
+Die präziseste Verteidigung} ({(a)} 19. Kg2 $2 Nf4+ 20. Kh2 Nxh3) ({(b)} 19.
+Qe2 Nf4 20. Qe3) 19... Nf4 20. N3e4 Bxe4 (20... Qe7 {ist viel besser, da die
+weiße Koordination zerstört wird}) 21. Nxe4 Qh4 22. Qe3 Re6 {Eigentlich bringt
+es nichts mehr auf die Schwäche h3 zu spielen. Besser wäre es die eigene
+Schwäche a7 zu verteidigen} (22... a5 23. Rfe1 Re6) 23. Rg1 b6 ({Wenn schon
+verteidigt wird, dann besser mit} 23... a6) 24. Rg3 Qe7 25. Nc3 {Weiß
+unterbindet Angriffsversuche auf der c-Linie} Qd7 26. Qe4 c6 27. Ra4 Rae8 {
+Eigentlich ist die schwarze Stellung immer noch sehr ordentlich, wird aber
+jetzt in chronischer Zeitnot (5 Minuten für 13 Züge) vernichtet} 28. Qf5 g6 29.
+Qe4 f6 30. Rg1 a5 31. b4 {Mit diesem Hebel dreht Weiß die Partie} axb4 32. Qxb4
+c5 33. Qe4 b5 34. Ra5 b4 35. Nd1 Qc7 36. Ra8 Kf7 37. Ne3 Qd7 38. Ra5 Rc8 39.
+Rga1 {Weiß kann jetzt über die a-Linie eindringen} Rec6 40. Nc4 h5 41. Ra7 R8c7
+42. Rxc7 Rxc7 43. Kg3 hxg4 44. hxg4 Qd5 $2 {Erst dies ist der entscheidende
+Fehler} (44... b3 $1 45. cxb3 Qxd3+ 46. Qxd3 Nxd3 {mit ausgeglichenem Endspiel}
+) 45. Qxd5+ Nxd5 46. Ra6 Nf4 47. g5 $1 {Ein entscheidender Durchbruch} Ne6 $4 {
+verliert sofort} (47... fxg5 48. Nxe5+ Kg7 49. Kf3 {Weiß steht besser, aber
+noch nicht auf Gewinn}) 48. Nd6+ Ke7 49. gxf6+ Kxf6 50. Ne8+ Kf5 51. Rxe6 Rd7
+52. Rf6+ Kg5 53. Rc6 Re7 54. Nd6 Rd7 55. Ne4+ Kf5 56. Rf6# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Vienna Open (B-Turnier)"]
+[Site "?"]
+[Date "2019.08.23"]
+[Round "8"]
+[White "Bernasconi, Roberto"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B99"]
+[WhiteElo "1781"]
+[BlackElo "1870"]
+[Annotator "Tim Schmitz"]
+[PlyCount "82"]
+[SourceVersionDate "2019.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. g4 $2 g5 $1 12. fxg5 Ne5 13. Qe2 Nfxg4 14. h3
+hxg5 15. Bg3 Nf6 16. Bh2 Bd7 17. Nf3 Nh5 18. Rg1 Nf4 19. Bxf4 gxf4 20. Nh2 $2
+O-O-O 21. Bg2 Kb8 22. Rgf1 Rc8 23. Kb1 Nc4 24. Rd3 Qb6 25. b3 Ne5 26. Rxf4 Nxd3
+27. Qxd3 Qg1+ 28. Bf1 Qg7 $4 (28... Qxh2 $1 29. Rxf7 Rhe8) 29. Rf3 Rc6 30. Nd1
+Rhc8 31. c4 d5 32. exd5 exd5 33. Qd2 Qe5 34. Qf4 Qxf4 35. Rxf4 Bd6 36. Rxf7 Be6
+37. Rf2 dxc4 38. bxc4 Bxc4 39. Bxc4 Rxc4 40. Kb2 Rc1 41. Ne3 Be5+ 0-1
+

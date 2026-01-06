@@ -1,0 +1,84 @@
+[Event "Baden-Baden Faschingsopen"]
+[Site "?"]
+[Date "2018.02.11"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Steiner, Kevin"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "1799"]
+[BlackElo "1588"]
+[PlyCount "99"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.02.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 {Das ist die Grundstellung des Anti-Marschall-Systems. Durch fehlendes
+c2-c3 und h2-h3 ist dem Bauernopfer d7-d5 die Kraft genommen} 9. d3 d6 10. a3
+Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Qc7 {Dies ist die erste bemerkenswerte
+Abweichung zur Hauptvariante} ({In der Theorie wird} 13... Bc8 {[%csl Yf5]
+[%cal Yc8f5] empfohlen, um das Feld f5 zu überwachen}) 14. Ng3 {Der weiße
+Springer soll nach f5 gebracht werden, um Druck auf den schwarzen König
+auszuüben} ({Eine Alternative ist} 14. Ne3 {, um die folgende Befreiung mit
+d6-d5 zu unterbinden}) 14... Rad8 {Das ist eben das Problem. Schwarz plant die
+Befreiung mit d6-d5. Weiß muss daher ein Gegenspiel gegen den Bauern auf e5
+organisieren} 15. Nf5 {Hier droht der Springer den Läufer auf e7 zu schlagen,
+mehr aber auch nicht} d5 {Das ist der offensichtliche Ausgleichszug} 16. Nxe7+
+$6 {Dieser Zug ist vielleicht etwas voreilig. Der Läufer hat nicht viel
+bewirkt auf e7 und der Springer stand auf f5 sehr gut} ({Eine günstigere
+Alternative ist} 16. Qe2 dxe4 {Schwarz hat keine Alternative wegen des Drucks
+auf e5} 17. dxe4 {Das ist eine typische Rauser-Stellung in der Spanischen
+Partie}) 16... Nxe7 $6 {So wie der Schlagabtausch verläuft, verliert Schwarz
+einen Bauern} ({Besser ist} 16... Qxe7 17. exd5 Nxd5 18. Bg5 {und die weißen
+Figuren sind etwas aktiver}) 17. exd5 Nexd5 18. Nxe5 {[%csl Yc6,Yd5,Yd6,Ye4,
+Ye8,Yf3,Yf4,Yg3,Yg4,Yh5][%cal Rb7f3,Rc7g3,Gd5f4,Gf6h5,Gf6g4,Gf8e8,Gd8d3,Ge8e5]
+Als Kompensation für den Bauern hat Schwarz eine gute Figurenstellung und
+offene Linien und Diaglonalen für seine Figuren. Er steht hier bestimmt nicht
+schlechter und Weiß muss sich überlegen, wie er am besten fortsetzt} ({
+Ein Fehler wäre} 18. Rxe5 {wegen} Nc3 19. bxc3 Bxf3 {Sonst verliert Weiß den
+ungedeckten Turm auf e5} 20. Qe1 Bc6 {und Schwarz steht schon etwas besser})
+18... c4 $2 {Das ist ein schwerer positioneller Fehler. Natürlich will
+Schwarz die d-Linie öffnen und die weiße Dame angreifen. Aber er verliert
+die Kontrolle über d4, auch wenn dieser Zug den Einfluß des Läufer auf a2
+erst einmal behindert} 19. d4 {Weiß festigt die Stellung des Springers auf e5
+und kontrolliert damit die wichtigen schwarzen Felder im Zentrum} Ne7 $6 {
+Dies ist ein weiterer ungenauer Zug. Schwarz will eine Umgruppierung auf dem
+Königsflügel erreichen und den Läufer auf b7 demaskieren. Aber er verliert
+die Kontrolle über das wichtige Feld f4} 20. Bf4 {entwickelt nicht nur den
+Läufer auf ein wichtiges Feld, sondern bedroht auch indirekt die schwarze Dame
+} Qb6 {[%csl Yd4][%cal Rd8d4,Rb6d4] Die Dame geht dem Abzug aus dem Weg und
+bedroht den Bauern auf d4} 21. c3 {[%csl Yb1,Yh7][%cal Ga2b1,Gb1h7] Weiß
+deckt den nun unangreifbaren Bauern d4 und schafft eine Route für den Läufer
+auf a2} Ng6 {Das geplante Manöver wird durchgeführt} 22. Bg3 {Der Läufer
+muss das Feld h4 kontrollieren, damit Schwarz nicht zu einem Angriff auf g2
+kommt} Nxe5 {Das ist die erste Konzession: Schwarz tauscht zwar den guten
+weißen Springer ab, bringt aber auch eine weitere Figur in das Zentrum} 23.
+Rxe5 Ne4 $2 {Das ist die zweite Konzession. Der Springer verläßt seinen
+guten Platz und tauscht sich in ein schlechteres Endspiel für Schwarz ab} 24.
+Qg4 Nxg3 25. Qxg3 {Hier kann es nur zwei Ergebnisse geben. Weiß hat einen
+gesunden Mehrbauern, die Kontrolle der einzigen offenen Linie und einen
+gedeckten Freibauern auf d4. Die Läufer sind auch noch von der gleichen Farbe.
+Der weiße Läufer steht noch schlecht, aber nicht mehr lange} Qf6 26. Rae1 Rd5
+{Schwarz setzt die Abtauschorgie fort, er hat aber auch keinen anderen
+sinnvollen Plan} 27. Bb1 Rxe5 28. Rxe5 {Weiß möchte weitere Abtäusche
+vermeiden und stattdessen Raum zu nehmen} Qh6 29. Qe3 {Es drohte ein Schach
+auf c1. Jetzt wäre ein Tausch gut für Weiß} Qc6 30. Be4 {Das erzwingt einen
+weiteren Tausch und nimmt Schwindelpotential aus der Stellung} Qc7 31. Bxb7
+Qxb7 32. Re7 {Hier war ich schon (zu) zufrieden. Wenn die Schwerfiguren die
+siebte Reihe erreichen, kann die Partie eigentlich nicht mehr lange dauern.
+Aber Schwarz hat noch lange nicht aufgegeben} Qc6 33. Re4 {Es folgen einige
+Tempozüge, um die Zeitkontrolle zu erreichen} Qd6 34. Qf4 Qb6 35. Re5 Qd6 36.
+f3 Qb6 37. Qe3 a5 {Auf einmal gerät die schöne, statische Stellung etwas aus
+dem Gleichgewicht. Schwarz droht mit Gegenspiel auf b4 und gegen den weißen
+Damenflügel} 38. d5 {Das ist ein riskanter Plan. Weiß setzt den d-Bauern in
+Marsch, der auch noch leicht blockiert werden kann} Qd6 {Schwarz hält die
+Gegenspiel-Drohung aufrecht} ({Vielleicht ist die Abwicklung in das
+Turmendpiel mit größeren Remischancen besser:} 38... Qxe3+ 39. Rxe3 Rd8 40.
+Re4 f5 41. Rd4) 39. Qd4 {Weiß deckt den Bauern und macht den Turm beweglich}
+b4 $6 {Das ist vielleicht zu einfach. Die folgende Abwicklung ist leicht zu
+berechnen} 40. axb4 axb4 41. cxb4 Qxb4 42. d6 Rd8 43. d7 Qa4 {Schwarz glaubt
+die Bauernumwandlung unterbunden zu haben, aber} 44. Re8+ (44. Re7 Kf8 45. Qd6)
+44... Rxe8 45. d8=Q {Es droht matt} h6 46. Q8d7 Qa1+ 47. Kh2 Re1 {Schwarz
+setzt mit der Restoffensive alles auf eine Karte. Aber sein König steht viel
+zu schlecht} 48. Qc8+ {Forciert das Matt} Kh7 49. Qf5+ g6 50. Qxf7# 1-0
+

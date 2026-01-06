@@ -1,0 +1,32 @@
+[Event "Vienna Open 2009"]
+[Site "?"]
+[Date "2009.08.16"]
+[Round "2"]
+[White "Arnold, Gerold"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C36"]
+[WhiteElo "1977"]
+[BlackElo "1864"]
+[Annotator "Tim Schmitz"]
+[PlyCount "62"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6 8.
+Nc3 {Gebräuchlicher ist De2+} O-O 9. O-O Qb6 {Mir schien der Zug stark, aber
+laut CB ist er schwach} 10. Kh1 Bg4 11. Bxc6 Qxc6 12. Qd3 {Wir folgen immer
+noch der Partie Westerinen-Boey, 1972. Jetzt weiche ich ab} Rfe8 13. Bd2 Rad8
+14. Rae1 {Weiß hat seine gedrückte Stellung entwickeln können. Mir fiel hier
+nichts mehr ein} a6 15. Ng5 {Sah für mich auf den ersten Blick bedrohlich aus,
+ich verbrauchte viel Zeit} Bh5 {Ein ordentlicher Defensivzug} (15... h6 16.
+Nge4 Nxe4 17. Nxe4 g5 $4 18. Nf6+ {funktioniert leider nicht}) 16. Rc1 $2 {
+Den Zug verstehe ich nicht, er ist viel zu passiv} h6 {Jetzt geht eben Se4
+nicht mehr} 17. Nh3 (17. d5 Qd7 18. Nge4 {ist zwar aktiver, aber trotzdem
+besser für Schwarz} Nxe4 19. Nxe4 Bg6) 17... g5 $2 (17... f3 $1 {sah nett aus,
+aber ich sah kein Durchkommen nach} 18. gxf3 Ng4 ({Statt dessen hätte} 18...
+Bg6 $1 {gewonnen} 19. d5 Qc8 20. Qd4 Qxh3) 19. Nf4) 18. d5 Qd7 19. Nf2 Bg6 20.
+Qh3 Qxh3 21. Nxh3 b5 {Jetzt herrscht auf beiden Seiten schreckliche Zeitnot}
+22. a3 Ne4 23. Nxe4 Bxe4 24. Ba5 Rc8 25. Bc3 Bf8 26. Nf2 Bxd5 27. Ng4 Bg7 28.
+Bxg7 Kxg7 29. Rfd1 Bc6 30. Rd2 f3 31. gxf3 $4 {taktischer Fehler in Zeitnbot}
+Bxf3+ 0-1
+

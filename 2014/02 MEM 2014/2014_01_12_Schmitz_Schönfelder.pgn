@@ -1,0 +1,76 @@
+[Event "MEM 2014"]
+[Site "?"]
+[Date "2014.01.12"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Schönfelder, Heinrich"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[WhiteElo "1792"]
+[BlackElo "1718"]
+[PlyCount "37"]
+[EventDate "2011.07.14"]
+[SourceDate "2011.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 {Der
+Rauzer-Angriff stammt aus den 1930er Jahren und bleibt die wichtigste Waffe
+gegen das Klassische System. Ein Ziel dieser Variante ist es einen
+Drachenaufbau zu verhindern, denn dieser würde die schwarze Struktur zerstören.
+Genauso wird ein Sveshnikov-Aufbau verhindert} e6 {Das ist die
+Hauptfortsetzung gegen den Rauzer-Angriff} 7. Qd2 {Der weiße Hauptzug ist
+logisch. Er deckt den Läufer gegen mögliche Angriffe und bereitet die lange
+Rochade vor} a6 {Das ist die moderne Hauptfortsetzung gegen den Rauzer-Angriff.
+Schwarz schließt damit nicht nur die Möglichkeit des Springerausfalls Sd4-b5
+aus, sondern bereitet auch noch den Vorstoß b7-b5 vor} 8. O-O-O {Weiß bringt
+seinen König in Sicherheit und bereitet den Angriff im Zentrum mit f2-f4 vor}
+Be7 {Das ist die klassische Fortsetzung. Schwarz entwickelt den Königsflügel
+und unterbricht die Fesselung} 9. f4 {Der übliche Vorstoß von Weiß erobert
+Raum im Zentrum und droht eventuell mit e4-e5} Bd7 {Der Zug ist sehr populär
+und wird auch schon früher gespielt. Schwarz deckt den Springer, so dass er
+immer b7-b5 spielen kann} 10. Nb3 (10. Nf3 {von Fischer gegen Spasski ist
+präziser und auch logischer. Der Springer wird auf dem Königsflügel gebraucht}
+b5 11. Bxf6 gxf6 12. Bd3 Qa5 13. Kb1 b4 14. Ne2 Qc5 15. f5 {Weiß hat jetzt
+endlich den Vorstoß f4-f5 durchgesetzt und das Feld f4 für seinen Springer
+freigekämpft}) 10... Rc8 {Schwarz organisiert Gegenspiel auf der c-Linie und
+zögert die kurze Rochade hinauso} 11. Bxf6 {Das ist schon die richtige Idee.
+Nach h7-h6 muss Weiß ohnehin tauschen} gxf6 {Schwarz vermeidet den
+Bauernverlust und erhält eine zwar zerrissene, aber sehr kompakte (Diamanten-)
+Struktur} 12. g4 {Im Grunde ist dies korrekt, denn f4-f5 soll gespielt werden}
+Rg8 {Schwarz aktiviert den Turm und greift den Bauern g4 an} 13. Be2 {
+Entwickelt den Läufer und deckt den Bauern, aber sonderlich aktiv wirkt der
+Zug nicht} Qc7 {Das ist das richtige Feld für die Dame - wenn sie nicht nach
+a5 kann} 14. Rhe1 {Obwohl der Zug optisch gut aussieht, da er eine Figur in
+das Zentrum bringt, ist er vielleicht schon eine Verlegenheitslösung} ({Die
+prinzipielle Alternative lautet} 14. f5 {, aber sie gefiel mir nicht wegen} Ne5
+{, wonach der Springer sehr schön auf einem Schlüsselfeld im Zentrum steht})
+14... Na5 {Das sieht wie ein Zeitverlust aus, denn die Dame muss nun ein
+weiteres Mal ziehen. Aber ich entschied mich gegen den Tausch, obwohl er eine
+schlechte weiße Figur gegen eine gute schwarze Figur gekostet hätte} 15. f5 $6
+{Wenn Weiß überhaupt weiterkommen will, dann muss er diesen Zug irgendwann
+spielen. Schwarz darf nämlich aus positionellen Gründen nicht schlagen und
+auch nicht vorbeiziehen} Nxb3+ (15... Nc4 {wirkt bedrohlicher, denn Weiß muss
+auch noch den zweiten Läufer geben} 16. Bxc4 ({Er kann dies nicht vermeiden,
+denn nach} 16. Qd4 $2 {sieht} b5 $1 {sehr stark aus}) 16... Qxc4 17. h3 {Weiß
+muss jetzt die Stellung unbedingt geschlossen halten und im Endspiel die
+schwarzen Bauernschwächen attackieren}) 16. axb3 {Nun hat Weiß auch eine
+ramponierte Bauernstruktur, die aber auch den König beschützt} Bf8 {Der Läufer
+auf e7 steht sowie sehr passiv, denn er deckt nur die Bauern d6 und f6. Auf f8
+kann er zumindest das Einbruchsfeld h6 bewachen und später einmal nach g7 oder
+h6 gehen, um auf eine bessere Diagonale zu wechseln} 17. Kb1 {Auch ein eher
+prophylaktischer Zug, mit dem Weiß den Drohungen auf der c-Linie und auf der
+Diagonalen c1-h6 aus dem Weg geht} b5 {Dieser Zug ist logisch. Der Springer
+auf c3 hat fast überhaupt kein Feld mehr (außer am Rand) und soll vertrieben
+werden} 18. Qd4 $6 {Das ist die kritische Stellung. Zwar stellt Weiß die Dame
+in das Zentrum, wo sie b4 verhindert und f6 angreift, aber hier ist sie auch
+gefährdet.} (18. b4 {ist die Alternative. Vielleicht kann Schwarz die Stellung
+dann trotzdem öffnen} Rb8 {Bevor Schwarz den a-Bauern vorrücken kann, muss er
+ersteinmal den b-Bauern decken} 19. fxe6 {Diesen Zug habe ich übersehen. Weiß
+kann jetzt Linien öffnen} fxe6 20. Rf1 Be7 21. Qh6 {Weiß hat jetzt sehr
+starkes Druckspiel, denn der schwarze König kommt nicht von der Linie weg und
+die schwarzen Figuren sind unkoordiniert}) 18... Be7 {Schwarz zieht
+vorsorglich den Läufer wieder zurück} (18... Qc5 {wäre auch möglich, denn Weiß
+kann sich} 19. Qxf6 {kaum erlauben, da nach} Bg7 20. Qg5 b4 {der schwarze
+Angriff doch schneller ist}) 19. h4 {Weiß nimmt ein weiteres schwarzes Feld
+unter Kontrolle und stellt die potentielle Drohung g4-g5 auf. Aber meine Zeit
+ist schon erheblich knapp und daher schien das Remis das kleinere Übel} 1/2-1/2
+

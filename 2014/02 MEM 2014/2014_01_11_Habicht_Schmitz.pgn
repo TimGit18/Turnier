@@ -1,0 +1,21 @@
+[Event "MEM 2014 HT"]
+[Site "?"]
+[Date "2014.01.11"]
+[Round "1"]
+[White "Habicht, Oswald"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "1631"]
+[BlackElo "1792"]
+[PlyCount "64"]
+[EventDate "2014.01.11"]
+[SourceDate "2014.01.11"]
+
+1. e4 c5 2. a3 Nc6 3. Bc4 Nf6 4. Nc3 e6 5. d3 d5 6. exd5 exd5 7. Bb5 Bd6 8. Nf3
+O-O 9. Bxc6 bxc6 10. O-O Rb8 11. h3 Re8 12. Re1 h6 13. b3 Be6 14. Ne2 Qc7 15.
+Bb2 d4 16. c4 dxc3 17. Nxc3 Bxb3 18. Rxe8+ Nxe8 19. Qe2 Nf6 20. Ne4 Nxe4 21.
+dxe4 Be6 22. Rd1 Rb3 23. Qd2 Bf4 24. Qc2 Qb6 25. Be5 Rxf3 26. gxf3 Bxe5 27. Rc1
+c4 28. Kg2 Qb3 29. a4 Qxc2 (29... Bxh3+ $1 30. Kg1 Qxf3 {nebst Matt}) 30. Rxc2
+c3 31. f4 Bb3 32. Rc1 Bd4 0-1
+

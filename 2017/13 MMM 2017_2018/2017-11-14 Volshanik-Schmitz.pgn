@@ -1,0 +1,89 @@
+[Event "MMM 2017/2018"]
+[Site "?"]
+[Date "2017.11.15"]
+[Round "?"]
+[White "Volshanik, Leonid"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "1833"]
+[BlackElo "1715"]
+[PlyCount "52"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.11.15"]
+[WhiteTeam "SC Schwabing-Nord 1"]
+[BlackTeam "SC Sendling 2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 {Das ist die grausame Abtauschvariante. Sie hat einen sehr
+remislichen Ruf und entmutigte Spieler davon, e7-e5 zu spielen.} 9. Bg5 {
+[%csl Yc7,Yd5,Ye5][%cal Rc3d5,Rf3e5,Rd5c7] Mit diesem Zug stellt Weiß eine
+Doppeldrohung auf: er möchte mit Sc3-d5 die Qualität auf c7 gewinnen und den
+Springer auf f6 bedrohen. Außerdem möchte auch noch weiterhin den Bauern auf
+e5 bedrohen, der zuvor ja wegen des Gegenschlags auf e4 nicht genommen werden
+konnte} Re8 {Dieser solide Zug ist ein Ausgleichszug und wurde schon von dem
+jungen Bobby Fischer bevorzugt. Er wird auch von Gallagher empfohlen. Weiß
+hat große Schwierigkeiten etwas gegen diesen Zug zu unternehmen oder zu
+gewinnen, aber die Remisbreite ist sehr hoch} 10. O-O {Die kurze Rochade ist
+in dieser Variante ungewöhnlich. Denn mit der langen Rochade steht der Turm
+schon aktiv auf einer offenen Linie} ({Die Hauptvariante lautet} 10. Nd5 Nxd5
+11. cxd5 c6 12. Bc4 cxd5 13. Bxd5 Nd7 {[%csl Yc5,Ye6][%cal Gd7c5,Gc5e6] und
+der Springer wird via c5 nach e6 gebracht}) 10... h6 {Dieser Zug ist eher ein
+Abwartezug als ein besonders tief durchdachter Plan. Der aktive, also gute
+Läufer wird befragt und muss sich erklären. Entweder geht er auf ein
+passiveres Feld auf h4 oder er muss sich nach e3 zurückziehen und wird dann
+gejagt} 11. Bxf6 {Das ist ein seltsamer Abtausch von Weiß. Er verzichtet
+freiwillig auf das Läuferpaar und tauscht zudem den guten Läufer ab.
+Allerdings hat der Abtausch eine giftige Idee} Bxf6 12. Nd5 {[%csl Yc7,Yf6]
+[%cal Rd5f6,Rd5c7] Dieser Zug ist noch nicht die Hauptdrohung in der Stellung,
+denn Schwarz kann mit einem Zug alle Drohungen parieren} Bd8 {Der Läufer
+steht auf g7 sowieso nicht besonders gut und kann besser auf der langen
+Diagonalen auf dem Damenflügel eingesetzt werden} 13. Rfd1 {Dieser Zug sieht
+zumindest einmal logisch aus. Weiß bringt eine Schwerfigur auf die offene
+Linie, und er will wahrscheinlich den anderen Turm auf dem Damenflügel (also
+auf der c- oder b-Linie) einzusetzen} c6 {[%csl Yd6][%cal Gd8b6] Grund für
+diesen Zug ist die Vertreibung des weißen Springers von dem fantastischen
+Feld d5. Außerdem wird eine weitere Diagonale für den schwarzen
+Königsläufer geöffnet. Der Nachteil ist allerdings die in Kauf genommene
+Schwächung des Feldes d6} 14. Ne3 {[%csl Yb4,Yc4,Yc5,Yd2][%cal Gb2b4,Gc4c5,
+Re3c4,Rc4d6,Gf3d2,Gd2c4] Jetzt wird der weiße Plan klar. Weiß will b2-b4 und
+c4-c5 spielen, um die Schwäche auf d6 zu zementieren. Danach möchte er den
+Springer über c4 auf d6 parken, wonach Schwarz wahrscheinlich den Läufer
+wieder hergeben muss} Bc7 {[%csl Ye5][%cal Gc7e5,Ge8e5] Dieser Zug ist
+notwendig, denn es gab eine konkrete Bedrohung des Bauern e5} ({Nach} 14... Na6
+15. Nxe5 Rxe5 16. Rxd8+ Kg7 {hätte Weiß einfach einen Bauern gewonnen und
+durch die Fesselung des Läufers c8 und der Kontrolle der d-Linie einen
+entscheidenden Vorteil gehabt}) 15. Bd3 $5 {Der Zug kann nicht gutgeheißen
+werden. Weiß erklärte nach der Partie, Angst vor dem Vorstoß f7-f5 zu haben.
+Dies scheint aber übervorsichtig} ({Viel gefährlicher sieht das folgende
+Szenario aus} 15. b4 Nd7 16. c5 Nf8 17. Nc4 Bg4 {um Sf3-d2 zu verhindern} 18.
+Nd6 {und das Läuferpaar ist Geschichte}) 15... Nd7 {Der Läufer auf d3 steht
+nicht nur dem eigenen Turm im Weg, sondern stellt auch noch ein hervorragendes
+Angriffsziel dar} 16. g4 {[%csl Yd3,Ye3,Ye4,Yf5,Yg4][%cal Rg4f5,Re4f5,Re3f5,
+Rd3e4] Dieser Zug ist aber schon ein schwerer positioneller Fehlgriff. Weiß
+möchte für alle Zeiten f7-f5 verhindern, schwächt dabei aber alle schwarzen
+Felder auf dem Königsflügel} Nc5 {[%csl Yd3,Ye6][%cal Rc5d3,Gc5e6]
+Natürlich ist der Zug nicht dazu da, um den Läufer abzutauschen, sondern der
+Springer soll über e6 in das Spiel gebracht werden} 17. Bc2 {Weiß möchte
+natürlich den Läufer behalten. Jetzt droht b2-b4 mit Tempogewinn} Ne6 {
+Hier steht der Springer optimal. Er kann auf f4 oder auch bei Bedarf auf d4
+eingesetzt werden} 18. Ng2 {Weiß überdeckt das Feld f4, bringt aber seinen
+zuvor sehr gut platzierten Springer in eine sehr passive Position} Ng7 $6 {
+Der Springerrückzug bedroht den Bauern auf g4, nur stand der Springer vorher
+besser} 19. h3 h5 {Schwarz möchte Linien auf dem Königsflügel öffnen,
+dafür steht der Springer eigentlich ganz gut} 20. Nh2 {Jetzt steht auch der
+zweite Springer passiv, man kann sagen, dass Schwarz klar besser steht} Be6 {
+Der Zug sieht logisch aus. Schwarz entwickelt eine Figur und greift den
+c-Bauern an. Dazu stellt er die Kontrolle über die d-Linie wieder her, auf
+der seine Schwerfiguren abgetauscht werden können} 21. b3 {Weiß schützt
+zwar den schwachen Bauern auf c4, entwertet dafür völlig den Läufer} Rad8
+22. Rxd8 Rxd8 23. Rd1 Rxd1+ 24. Bxd1 {Nach dieser Abtauschorgie sollte Schwarz
+das bessere Endspiel haben. Vermutlich ist die Remisbreite noch nicht
+überschritten} hxg4 25. hxg4 {Dieser Abtausch war noch logisch} f5 $2 {
+Zu ungeduldig von Schwarz. Er will die Stellung öffnen und seine Läufer zur
+Geltung. In Wirklichkeit erlaubt er Weiß, ein Gegenspiel aufzuziehen und
+seine Figuren zu aktivieren} 26. Nh4 {[%csl Yf5,Yg6][%cal Rh4g6,Rh4f5,Rg4f5,
+Re4f5] Der schlechte weiße Springer ist mit einem Male aktiv und legt den
+Finger auf den wunden Punkt in der schwarzen Stellung (den schwachen Bauern g6)
+} Kf7 {Aus mannschaftstaktischen Gründen wurde hier Remis gegeben} 1/2-1/2
+

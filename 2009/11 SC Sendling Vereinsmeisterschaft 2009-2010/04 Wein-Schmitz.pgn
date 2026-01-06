@@ -1,0 +1,31 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2009.12.12"]
+[Round "4"]
+[White "Wein, Ulrich"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "C36"]
+[WhiteElo "1953"]
+[BlackElo "1877"]
+[Annotator "Tim Schmitz"]
+[PlyCount "80"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. dxc6 Nxc6 7. d4 Bb4+ {
+Gebräuchlich ist auch Lg4} 8. Nc3 O-O (8... Ne4 {ist frühreif} 9. d5 Nxc3 10.
+bxc3 Bxc3+ 11. Bd2 Bxa1 12. Qxa1 Ne7 13. Qxg7 {war Ullis Idee}) 9. Be2 (9. Bxf4
+$6 Ne4 10. Bd2 Re8 11. Nxe4 Rxe4+ 12. Be2 Bxd2+ 13. Qxd2 Qe7 {Und Weiß kann
+nicht mehr rochieren}) 9... Ne4 10. Bd2 Re8 11. d5 $6 Bxc3 (11... Nd4 $1 12.
+Nxd4 $2 Qh4+) 12. Bxc3 (12. bxc3 Qb6) 12... Nxc3 13. bxc3 Ne5 {[%csl Yc4,Ye3]
+Spiel auf die weißen Schwächen} 14. O-O Ng4 15. Qd2 Ne3 16. Rfe1 Bg4 {Zu lange
+überlegt} (16... Bf5 17. Nd4 Be4 18. Bf3 Bxf3 19. Nxf3 Nxc4 20. Rxe8+ Qxe8 21.
+Qxf4) 17. Nd4 Qg5 18. Bxg4 Qxg4 19. Nb5 Rad8 $5 (19... f3 {funktioniert nicht}
+20. Nc7 Nxg2 21. Rxe8+ Rxe8 22. Nxe8 Nf4+) 20. c5 Re5 (20... Rxd5 $4 21. Qxd5
+Nxd5 22. Rxe8#) 21. c4 Rg5 $2 (21... Nxc4 $1 22. Qf2 Rexd5 {[%csl Yd2][%cal
+Rd5d2]}) 22. Re2 Nxc4 23. Rae1 $1 Ne3 (23... Nxd2 $4 24. Re8+ Rxe8 25. Rxe8#)
+24. Nc3 h5 25. Qd3 f3 {Schlimme Zeitpanik auf beiden Seiten} 26. Qxe3 fxe2 27.
+Rxe2 h4 28. d6 Rg6 29. h3 Qe6 30. Qd3 Qf6 $2 (30... Rg3 $1 31. Qd2) 31. Nd5 $1
+{Gleicht sofort aus} Qa1+ 32. Kh2 Re6 33. Ne7+ Kh8 34. Rxe6 fxe6 35. Qe4 Qf6
+36. Qxh4+ $2 Qxh4 37. Ng6+ Kg8 38. Nxh4 Kf7 39. Kg3 Kf6 40. Kf4 g5+ 0-1
+

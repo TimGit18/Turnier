@@ -1,0 +1,149 @@
+[Event "Schwarzach Open"]
+[Site "?"]
+[Date "2015.08.25"]
+[Round "5"]
+[White "Meul, Willi"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "1826"]
+[BlackElo "1811"]
+[PlyCount "52"]
+[EventDate "2015.??.??"]
+[SourceDate "2015.08.25"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. d5 {Eigentlich
+wurde die Partie mit anderen Zügen eröffnet. Es entsteht die Grundstellung
+des Petrosian-Systems. Tigran Petrosian entwickelte das System mit Weiß in
+den 1960er Jahren und gewann viele Partien damit, vor allem gegen die schwarze
+Hauptfortsetzung Sb8-d7. Das System ist heute weniger beliebt als früher,
+weil Schwarz einen relativ einfachen, aber effektiven Plan gegen den weißen
+Aufbau spielen kann. Der Zug d4-d5 ist typisch für die Klassischen Varianten
+in der Königsindischen Verteidigung. Meist macht man ihn aber erst nach der
+Springer-Entwicklung Sb8-c6 wie im Mar del Plata-System, um den schwarzen
+Damenspringer auf ein schlechtes Feld zu treiben.} a5 {[%csl Ya5,Ya6,Yb4,Yb8]
+[%cal Gb8a6,Ga6c5,Ga5b4] Das ist die grundsätzliche schwarze Idee. Schwarz
+möchte den Damenspringer auf das Feld c5 stellen, um dort einen unangenehmen
+Druck auf die weiße Stellung auszuüben. Damit der Springer dort nicht
+vertrieben werden kann, spielt Schwarz zunächst den Randbauern, um das Feld
+b4 zu kontrollieren. Dieser Zug wird als die flexibelste Antwort angesehen.
+Schwarz plant Sc6-a5 und möchte nicht durch b2-b4 wieder vertrieben werden.
+Es handelt sich um ein schwarzes Schlüssselkonzept, denn Schwarz überdeckt
+so b4 ohne mit c7-c5 sein Zentrum aufzubrechen} 8. Bg5 {Weiß entwickelt den
+Läufer plangemäß auf das aggressivste Feld und verhindert den befreienden
+Vorstoß f7-f5} h6 {Dieser Zug ist vernünftig. Schwarz sollte immer die
+Möglichkeit haben, die Fesselung mit g6-g5 abzuschütteln, selbst wenn es
+nicht immer klug ist, diese Möglichkeit anzuwenden} 9. Bh4 {Natürlich
+möchte Weiß die Fesselung aufrecherhalten. Aber hier steht der Läufer nicht
+mehr ganz so aktiv und bereits an den Rand gedrängt} Na6 {[%csl Yb4,Yc5][%cal
+Ga6b4,Ga6c5] Der Springer soll auf das vorherbestimmte Feld c5 gehen und
+behält auch noch so b4 im Auge. Außerdem versperrt der Springer auf a6 nicht
+den Weg des Damenläufers c8, wie er es auf d7 tun würde} 10. Nd2 {Der
+Springer hat auf dem f3 hat keine große Zukunft mehr und zieht sich deshalb
+zurück. Außerdem kann Weiß f2-f3 spielen, falls sein Läufer in Gefahr
+geraten sollte und somit auch noch ein weiteres Mal den neuralgischen Punkt e4
+decken} Nc5 $6 {Das ist schon die erste Ungenauigkeit, die allerdings noch
+nicht zu einer direkt schlechteren Stellung führt. Zunächst einmal ist der
+zusätzliche Druck auf e4 verpufft, denn der e-Bauer ist zuverlässig gedeckt
+und kann auch noch mit f2-f3 ganzg einfach gestützt werden. Außerdem deckt
+der Springer auf a6 auch noch zuverlässig das Feld und den Bauern c7, so dass
+ein weißer Springerausfall weniger dramatisch aussieht wie in der Partie.} ({
+Der korrekte Zug lautet} 10... Qe8 $1 {[%csl Yb5,Yc7][%cal Ga6c7,Rc3b5,Rb5c7]
+Schwarz schüttelt die Fesselung ab, ohne auf das schwächende g6-g5
+zurückzugreifen. Er plant, den Springer f6 nach h7 zu überführen, um
+Dorhungen auf dem Königsflügel zu schaffen. Man beachte, dass der
+neuralgische Punkt c7 jetzt von dem Springer auf a6 gedeckt wird. Die
+langfristigen weißen Ziele liegen am Damenflügel, aber zunächst muss er
+wohl weitere konsolidierende Züge am Königsflügel machen.} 11. O-O {
+Manchmal verschiebt Weiß die Rochade, aber das sollte Schwarz nicht
+beunruhigen} Nh7 {Dies ist die einzige Möglichkeit, am Königsflügel in das
+Spiel zu kommen. Es ist etwas absurd, dass es die beiden Springer an den Rand
+verschlagen hat und trotzdem Gegenspiel generiert werden kann.} 12. a3 {Weiß
+droht nun mit b2-b4, weil der Springer auf a6 nach dem Bauerntausch gefesselt
+ist} Bd7 {Schwarz entfesselt den Springer und entwickelt seinen Damenläufer}
+13. b3 {Die meisten Weißspieler nehmen die Drohung a5-a4 sehr ernst und
+spielen diesen Tempoverlust. Es gibt einige wenige, die das ignorieren} h5 {
+Wenn Schwarz in dieser Variante h6-h5 spielt, dann muss Weiß sofort prüfen,
+ob sein Läufer auf h4 noch sicher ist. In dieser Stellung ist das sicher
+nicht der Fall, denn Schwarz droht mit g6-g5 und h5-h4} 14. f3 {Weiß sichert
+so seinem Läufer das Rückzugsfeld f2} Bh6 {[%csl Ye3,Yf4,Yg5,Yh6][%cal Gh6e3]
+Der Läufer strebt nach e3. Weiß muss entscheiden, ob er diesen Zug zulassen
+soll oder die Läufer tauschen oder es ganz verhindern soll. Eigentlich würde
+Weiß den Läufertausch gerne vermeiden, denn er verlöre die Kontrolle über
+die schwarzen Felder} 15. Rb1 {Die meisten Spieler können daher mit dem
+aktiven Läufer gut leben. Der Zug bereitet aktives Spiel am Damenflügel vor,
+auch wenn Schwarz versucht, eine Barriere auf den schwarzen Feldern zu
+errichten}) 11. f3 {Weiß hat überhaupt keinen Grund, von seinem bisherigen
+Plan abzuweichen. Der Zug stabilisiert das weiße Zentrum, nimmt Schwarz das
+Feld g4 und öffnet eine Rückzugsmöglichkeit für den Läufer auf h4} Bd7 {
+Im Prinzip ist dies das richtige Feld für den Läufer. Die Idee ist die
+Kontrolle über die Felder b5 und a4 zu behalten, da die weißen Felder
+anfällig in der schwarzen Stellung sind} 12. O-O {Logische Entwicklung von
+Weiß: der König wird erst einmal in Sicherheit gebracht} Qe8 $6 {Das ist der
+Beginn des Dramas. Schwarz hat einfach die Züge in der Eröffnung
+durcheinander gebracht. Nun ist der Zug nach e8 gar nicht mehr so gut, denn
+der Punkt c7 ist jetzt ohne Schutz.} ({Möglicherweise wäre ein schlichte
+Fortsetzung wie} 12... g5 13. Bf2 b6 14. Qc2 Nh5 15. b3 f5 {einfach
+zielführender gewesen. Natürlich sieht die weiße Stellung gesünder aus,
+aber Schwarz hat Luft zum Atmen und kann auf Initiative auf dem Damenflügel
+hoffen}) 13. Bf2 {Dieser Rückzug rezentralisiert den Läufer und macht den
+Sidestep der Dame vollkommen überflüssig, da der Springer auf f6 nicht mehr
+gefesselt ist} b6 {Dieser Zug ist positionell erzwungen. Der Springer soll
+stabilisiert werden} 14. Nb5 {[%csl Yc7][%cal Gb5c7] Das ist ein starker Zug.
+Der Springer ist sehr unangehm auf dem Damenflügel und droht mit
+Qualitätsgewinn und Bauerngewinn} Bxb5 $2 {Das ist ein positionell
+furchtbarer Zug und im höheren Sinn der Verlustzug. Schwarz gibt ohne Not das
+Läuferpaar auf. Die ohnehin schon geschwächten weißen Felder verlieren
+ihren natürlichen Beschützer. Weiß erhält zwar einen Doppelbauern, aber
+auch die offene c-Linie, auf der der schwarze Bauer auf c7 einen furchtbaren
+Eindruck macht} ({Nichts sprach gegen} 14... Qc8 {[%csl Yf5,Yf7,Yh7][%cal
+Gf6h7,Gf7f5] Die Dame behält die weißen Felder im Auge und der Damenläufer
+bleibt erhalten. Schwarz kann mit Sf6-h7 und f7-f5 fortsetzen und es wäre
+noch nichts verdorben}) 15. cxb5 Nh5 $6 {Natürlich muss Schwarz irgendwie
+aktiv werden, aber das ist der falsche Weg. Das einzige gute Feld für den
+schwarzen Springer ist f4 und das kann leicht kontrolliert werden} 16. g3 $1 {
+Jetzt kontrolliert Weiß vollständig die Stellung. Die einzige gute schwarze
+Figur ist der Springer auf c5, den Weiß bloß abtauschen muss.} f5 $5 {Das
+ist der einzige Zug, der Gegenspiel verspricht. Der Springer auf h5 steht zwar
+etwas wackelig, aber die Öffnung der Stellung kann die schwarze Position nur
+verbessern. Inzwischen ist klar geworden, dass die Eröffnung für Schwarz
+ziemlich schiefgelaufen ist.} 17. Qc2 $1 {Ein ruhiger und stellungsgemäßer
+Zug. Weiß behält die Kontrolle über die Stellung und übt Druck auf der
+c-Linie aus} ({Nach} 17. exf5 gxf5 18. f4 Nf6 19. fxe5 Qxe5 {erwachen die
+schwarzen Figuren wieder zum Leben und atmen auf. Schwarz kontrolliert nun das
+Feld e4. Er bringt den Turm auf die e-Linie und einen Springer nach e4.}) 17...
+f4 {Dieser Zug wurde von Schwarz nach langem Nachdenken gespielt. Der riesige
+Nachteil ist, dass der Läufer auf g7 zum Großbauern wird und für immer
+hinter der schwarzen Bauernkette beerdigt ist. Andererseits ist die
+Stellungsöffnung nur gut für Weiß und das weiße Läuferpaar} (17... Nf6 18.
+exf5 gxf5 19. Qxf5 Nxd5 20. Qc2 {ist wegen der Schwäche der Diagonalen b3-g8
+nicht zu empfehlen}) (17... Bf6 18. exf5 gxf5 19. Qxf5 Bg5 20. Qc2 {sieht auch
+nicht besser aus. Der tote weiße Läufer erwacht zum Leben und die schwarze
+Bauernstellung ist zweifelhaft}) 18. g4 {Logisch. Wenn Weiß den
+Königsflügel abschließt, dann hat er Zeit und Ressourcen, den Damenflügel
+zu übernehmen} Nf6 19. a3 $2 {Dieser so natürliche Zug ist ein schwerer
+Fehler. Weiß ist zu ungeduldig mit der Drohung b2-b4, die Schwarz eigentlich
+nicht verhindern kann. Das Spiel geht danach nur noch auf zwei Ergebnisse} ({
+Richtig ist} 19. b3 $1 Qe7 20. a3 Nh7 21. b4 axb4 22. axb4 Nb7 {[%csl Ya1,Ya6,
+Yc1,Yc7,Yf1][%cal Rf1c1,Rc2c7,Ra1a6,Rc1a1] und es wird ein unerfreulicher
+Abend für Schwarz. Das Gegenspiel ist gleich null. Weiß muss nur noch auf
+den Schwächen von Schwarz kauen.}) 19... a4 {Der einzige Weg, um die obige
+Wendung zu verhindern} 20. b4 {Konsequent, aber falsch} axb3 21. Nxb3 Nfd7 {
+Die einzige Gefahr, die jetzt noch von der weißen Stellung ausgeht, ist der
+mögliche Durchbruch a4-a5} 22. Nxc5 {Dieser Generalabtausch verflacht die
+Stellung} Nxc5 23. Bxc5 dxc5 24. Ra2 Qe7 25. Bc4 Qd6 26. a4 Ra5 {Die Stellung
+ist total blockiert. Es gibt keine einzige Durchbruchsmöglichkeit, daher Remis
+} 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Zabo-Open"]
+[Site "?"]
+[Date "2015.10.20"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Bachstein, Dustin"]
+[Result "*"]
+[ECO "C88"]
+[WhiteElo "1756"]
+[BlackElo "2056"]
+[PlyCount "47"]
+[SourceDate "2015.10.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. Nc3 $6 (9. d3 d6 10. a3 Na5 11. Ba2 c5) 9... d6 10. a4 Na5 11. Ba2 bxa4
+$6 12. d4 exd4 13. Nxd4 Re8 14. Bg5 Nxe4 $2 15. Bxe7 $2 (15. Nxe4 $1 Bxe4 16.
+Bd2 $1 $16) 15... Rxe7 16. Nd5 Re8 17. Qf3 Ng5 18. Qf5 Ne6 $2 19. Nxe6 fxe6 20.
+Rxe6 Rxe6 21. Qxe6+ Kh8 22. Re1 Nc6 $4 23. Nxc7 Rc8 24. Ne8 *
+

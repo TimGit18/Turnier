@@ -1,0 +1,72 @@
+[Event "MMM 2017"]
+[Site "?"]
+[Date "2017.03.31"]
+[Round "4"]
+[White "Bender, Gerhard"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[WhiteElo "1894"]
+[BlackElo "1808"]
+[PlyCount "33"]
+[EventDate "2017.??.??"]
+[WhiteTeam "Bayern München 4"]
+[BlackTeam "SC Sendling 1"]
+
+1. e4 c5 2. Bc4 {Eine ungebräuchliche Art des Anti-Sizilianers} d6 {Es
+besteht der begründete Verdacht, dass Weiß nur eine Transposition in den
+Offenen Sizilianer vornehmen will. Daher möchte Schwarz sich die
+Najdorf-Variante offenhalten} 3. Nf3 Nc6 {Dieser Zug gibt den Najdorf-Gedanken
+wieder auf. Er möchte e4-e5 einfach verhindern} ({Es gefällt nicht} 3... Nf6
+4. e5 dxe5 5. Nxe5 e6 {, denn beide schwarzen Läufer sind hinter den Bauern
+eingeklemmt}) 4. O-O Nf6 5. Re1 e6 {Dieser Zug ist vielleicht verpflichtend,
+aber eigentlich nicht schlecht. Schwarz möchte schnell rochieren und den
+Läufer dazu auf e7 positionieren.} ({(a) Von MVL stammt die Fortsetzung} 5...
+Bg4 {gegen Caruana} 6. c3 e6 7. d4 cxd4 8. cxd4 Bxf3 9. gxf3 d5 {mit Ausgleich}
+) ({(b) Eine ganz andere Idee als den Gegenschlag im Zentrum verfolgt die
+Fianchettierung des schwarzen Königsläufers} 5... g6 6. c3 Bg7 7. d4 {
+Aber die Stellung ist weniger zäh als diejenigen mit den Gegenschlägen mit
+d6-d5}) 6. c3 {Weiß verfolgt seinen ursprünglichen Plan und bereitet d3-d4
+vor. Danach kann er versuchen seine Figuren hinter seinen mächtigen
+Zentrumsbauern zu platzieren} Be7 {Schwarz bereitet die kurze Rochade vor und
+blockiert die e-Linie, schützt damit auch indirekt den eigenen König vor dem
+Turm auf e1} 7. d4 {Konsequente Umsetzung des bisherigen Spiels} d5 {Der Zug
+geht in dieser Stellung, aber er sieht etwas unseriös aus. Auf jeden Fall
+zwingt er Weiß zum Handeln und zur Beendigung des langsamen Manövrierens.} ({
+Eine Alternative ist durchaus} 7... cxd4 8. cxd4 d5 9. exd5 Nxd5 {Weiß hat
+ein freies Figurenspiel, aber auch einen isolierten Damenbauern. Die schwarze
+Stellung ist sehr fest}) 8. exd5 exd5 9. Bb5 {Weiß hat die Stellung geöffnet
+und übt weiter einen gewissen unangenehmen Druck auf die schwarze Stellung aus
+} O-O {Die Rochade ist ein absolutes Muss, denn die schwarzen Figuren waren
+zweifach gefesselt} 10. Bg5 {Ein logischer Entwicklungszug, der allerdings
+noch keine akute Gefahr darstellt} h6 {Die Grundidee, die hinter der Befragung
+des weißen Läufers steckt, ist es, das Feld g5 auch für den Springer
+unzugänglich zu machen. Der Zug beinhaltet allerdings auch ein Bauernopfer} ({
+Ein schwerer Fehler wäre hingegen} 10... Qb6 {wegen} 11. Bxc6 bxc6 12. Rxe7 {
+und Weiß hat eine Figur gewonnen}) 11. Bh4 $6 {Weiß riskiert es nicht, den
+angebotenen Bauern zu nehmen} ({Das Bauernopfer spekuliert auf eine etwas
+spekulative Stellung nach} 11. Bxf6 Bxf6 12. dxc5 Bg4 13. Nbd2 d4 {Schwarz hat
+das Läuferpaar, gut platzierte Figuren und wird seinen schwachen Damenbauern
+loswerden}) 11... Be6 {Für diesen Zug wurde zu lange überlegt. Er ist im
+Grunde logisch und sieht harmonisch aus. Der Läufer kann nicht angegriffen
+werden, verteidigt den potentiell schwachen Bauern auf d5 und räumt die
+Grundreihe. Außerdem wird die schwarze Dame jetzt beweglich} ({Zu lange
+betrachtete Schwarz die Fortsetzung} 11... Bg4 12. dxc5 Bxc5 13. Bxf6 Qxf6 14.
+Qxd5 {Die Stellung ist ziemlich unklar, aber der Zentrumsbauer ist erst einmal
+weg}) 12. Qa4 {Dieser Zug ist auch eine Überraschung, aber keine schöne.
+Weiß erhöht den Druck gegen c6, nimmt aber wieder nicht den Bauern auf c5.
+Langsam stellt sich aber die Frage, wie man beide Bedrohungen gegen c5 und c6
+verteidigen kann} Ne4 $6 {Das ist eine radikale Lösung des schwarzen
+Stellungsproblems. Objektiv betrachtet ist der Zug nicht besonders gut. Er
+verpflichtet sich zu einigen Abtäuschen, wonach Weiß eigentlich leichtes
+Spiel hat} ({Eine völlig unkomplizierte und nicht schwer zu sehende
+Alternative ist} 12... Qb6 {[%csl Yb2,Gc5,Gc6,Yd4][%cal Rb6d4,Rb6b2] Der Zug
+verteidigt alle Drohungen, aktiviert die Dame und verbindet die beiden Türme
+auf der Grundreihe}) 13. Bxe7 {An dieser Stellung bot Weiß Remis an, was
+natürlich aktzeptiert wurde. Eine mögliche Fortsetzung wäre} Qxe7 14. Nbd2 {
+Das ist ein professioneller Zug in dieser Stellung} ({Schwarz hofft in dieser
+Stellung auf einige sehr saloppe Züge von Weiß wie} 14. Bxc6 bxc6 15. Qxc6
+Rfc8 16. Qa4 Rab8 17. b3 cxd4 18. cxd4 Rc2 {und für den Preis eines Bauern
+hat Schwarz eine Menge Spaß im Spiel}) 14... Nxd2 15. Nxd2 cxd4 16. Bxc6 bxc6
+17. cxd4 {mit einem Remischarakter} 1/2-1/2
+

@@ -1,0 +1,96 @@
+[Event "Ortenburg-Open"]
+[Site "?"]
+[Date "2020.09.04"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Einwiller, Dieter"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1828"]
+[BlackElo "2100"]
+[Annotator "Tim Schmitz"]
+[PlyCount "70"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.09.06"]
+
+{Das ist die erste Partie nach sechs Monaten. Der Gegner ist der spätere
+Turniersieger.} 1. e4 d5 2. exd5 Nf6 {Das ist die Moderne Fortsetzung der
+Skandinavischen Verteidigung.} 3. Nf3 Nxd5 4. d4 g6 5. c4 Nb6 6. Nc3 Bg7 7. Be3
+{Weiß deckt den potentiell gefährdeten Bauern d4.} ({Die Theorie lautet hier:
+} 7. c5 Nd5 8. Bc4 c6 9. O-O O-O {Weiß sollte ein kleines Plus haben aufgrund
+seines Raumvorteils.}) 7... O-O 8. Be2 Nc6 9. h3 {Eigentlich ist bis hierhin
+noch nicht viel passiert. Der letzte Zug verhindert für alle Zeiten die
+Fesselung des Springers f3 durch den Läufer auf g4. Aber Schwarz hat einen
+starken Zug, mit dem er das weiße Zentrum unterminieren kann.} e5 $1 {[%csl
+Yd4][%cal Re5d4,Rg7e5,Rc6d4] Schwarz übt sofort weiteren Druck gegen das
+weiße Zentrum aus und zwingt den Damenbauern zum Vormarsch.} 10. d5 Ne7 {
+Eigentlich sollte Weiß gut stehen. Er hat Raumvorteil auf dem Damenflügel
+und Entwicklungsvorsprung.} ({Hier habe ich die Alternative} 10... Na5 {
+berechnet. Schwarz verliert eine Figur nach} 11. c5 Nbc4 12. b4 $6 {Besser ist
+Le3-g5-c1} Nxe3 13. fxe3 e4 14. Nd4 {aber erhält Gegenspiel gegen den weißen
+König} Qh4+ 15. Kf1 f5) 11. O-O Nf5 {Dies ist die erste kritische Stellung.
+Schwarz würde gerne das "Loch" auf d4 besetzen und damit auch die Deckung des
+Bauern c4 unterminieren.} 12. Bc5 $2 {Das ist schon ein sehr ungenauer Zug,
+ein Denkfehler. Erstens will Schwarz sowieso mit seinem Turm nach e8, zweitens
+kann sich der Läufer nicht auf dem Feld c5 halten. Er kehrt auch ein paar
+Züge später wieder zurück.} Re8 {Hiernach ist der Vorstoß e5-e4-e3 immer
+eine Option, wonach Schwarz großen Vorteil hätte.} 13. Rc1 $6 {Nach einem
+schwachen Zug folgt ein weiterer. Anstatt auf die schwarze Expansion im
+Zentrum zu reagieren, macht Weiß einen einfachen "Entwicklungszug" aus
+allgemeinen Überlegungen (verdeckte Deckung des Bauern c4, Entfernen des
+Turms aus der Läuferdiagonalen).} ({Zweckmäßiger wäre} 13. Bd3 {Weiß
+überdeckt e4} Nd6 {[%csl Yc4,Re4][%cal Rb6c4,Rd6c4,Rd6e4,Re8e4] Schwarz
+greift ein zweites Mal den Bauern auf c4 an und droht wiederum mit dem
+Vormarsch e5-e4.} 14. Nd2 {Beide Felder werden jetzt wieder vertiedigt.} f5 15.
+Be3 {Weiß hat zumindest seine Figuren besser koordiniert als in der Partie -
+auch wenn die Stellung mit Schwarz einfacher zu spielen ist.}) 13... Nd6 {
+Jetzt ist wieder die Doppeldrohung gegen c4 und e4 angesagt.} 14. b3 {Dieser
+Zug sichert zwar den Bauern c4, verteidigt aber nur gegen eine der beiden
+Drohungen. Grundsätzlich hat Weiß keine besondere Spielidee, sondern
+versucht nur, die Stellung irgendwie zusammenzuhalten.} Nd7 {Schwarz drängt
+den weißen Damenläufer wieder zurück.} 15. Be3 $2 {Aber das macht es
+Schwarz auch zu einfach. Er muss sich gar keine originellen Züge mehr
+einfallen lassen, sondern verprobt ein weiteres Mal das bekannte Manöver.} ({
+Nach} 15. Ba3 {droht wenigstens c4-c5 und ein Bild von Gegenspiel.}) 15... Nf5
+{Wiederum wird der Läufer auf e3 angegriffen. Diesmal entscheidet sich Weiß
+notgedrungen für ein anderes Fluchtfeld.} 16. Bg5 f6 {Wenigstens wird etwas
+die Bauernstellung von Schwarz aufgelockert.} 17. Bd2 e4 {Jetzt ist Weiß mit
+allen Figuren auf dem Rückzug. Trotzdem bewertet die Engine die Stellung als
+noch nahezu ausgeglichen.} 18. Ne1 Nd4 {Schwarz hat jetzt seine Figur auf dem
+Idealfeld d4 platziert.} 19. Nc2 $6 {Gedacht, dass die schlechteste weiße
+Figur wieder in das Spiel gebracht wird. In Wirklichkeit wird nur die Deckung
+des Springers c3 untergraben, denn der Turm deckt nun den Springer nicht mehr.
+Daher wäre es besser gewesen, den Läufer zu ziehen.} ({Stärker ist sicher} 
+19. Be3 Nxe2+ 20. Qxe2 f5 21. Qd2 {Weiß versucht die Kontrolle über das Feld
+d4 und über die schwarzen Felder auf dem Königsflügel wieder zu gewinnen.})
+19... Nxe2+ 20. Qxe2 {Hiernach steht Schwarz besser. Weiß muss weiter sehr
+genau agieren.} f5 21. d6 $2 {Dieses Bauernopfer entstand in einem Modus
+beginnender Panik und Zeitnot. Es bietet keine Kompensation. Außer der
+Möglichkeit, auf dem Feld d5 einen Springer zu platzieren, der schnell
+abgetauscht werden wird.} (21. Rfd1 {ist eine bessere Idee. Die letzte noch
+nicht entwickelte Figur wird in das Zentrum gebracht. Der mögliche Vorstoß
+c4-c5 wird unterstützt.}) 21... cxd6 22. Nd5 Ne5 23. Bc3 Be6 {[%csl Yd3][%cal
+Ge5d3,Rd3c1] Weiß hat zwar - für den Kosten des Bauern - seine Figuren gut
+platziert, aber auch Schwarz hat die Entwicklung seiner Leichtfiguren beendet
+und sie sehr schön im Zentrum platziert. Inbesondere der Springer auf e5 ist
+sehr stark und wird früher oder später entscheidend auf d3 auftauchen.} 24.
+Nd4 $5 {Das ändert zwar nichts am schwarzen Angriff, sorgt aber für etwas
+Gegenspiel auf den weißen Feldern.} Bxd5 25. cxd5 Nd3 26. Ne6 $5 {Endlich
+auch einmal ein Zug, der unangenehm für Schwarz ist. Soll er selber erst die
+Qualität opfern?} Rxe6 $1 {Das ist der sicherste Zug. Der gefährliche
+Springer wird beseitigt. Außerdem ist der Bauer auf e6 mittelfristig nicht zu
+halten, wäre also ein zweiter Mehrbauer für Schwarz.} ({Nach} 26... Nxc1 27.
+Rxc1 {hat Weiß auf einmal Gegenspiel auf der langen Diagonalen, auf der
+c-Linie und im schwarzen Lager.}) 27. dxe6 Rc8 {Das ist die eigentliche Idee.
+Schwarz "fesselt" zunächst den Läufer und droht mit Materialgewinn nach
+Schlagen auf c1.} 28. Bd2 $2 {Der Zug verhindert das sofortige Aus, macht aber
+Schwarz den Weg in ein leicht gewonnenes Endspiel sehr einfach.} ({Besser ist} 
+28. Qd2 {, nachdem Schwarz zwar auch alles abtauschen kann, aber am Ende steht
+die weiße Dame noch aktiv.} Nxc1 29. Rxc1 Rxc3 30. Rxc3 Bxc3 31. Qxc3 {
+Schwarz wird seinen Vorteil nicht so einfach verwerten können wie in der
+Partie.}) 28... Nxc1 29. Rxc1 Rxc1+ 30. Bxc1 Qc8 {mit Doppelangriff auf den
+Läufer c1 und den Bauern e6.} 31. Be3 a6 32. Qc4 {Die einzige Möglichkeit,
+den sofortigen Bauernverlust zu verhindern. Aber das entstanden (gleichfarbige)
+Läuferendspiel ist trotzdem verloren.} Qxc4 33. bxc4 Kf8 34. c5 Ke7 35. cxd6+
+Kxd6 {Schwarz gewinnt den Bauern e6 und das nachfolgende Endspiel leicht.} 0-1
+

@@ -1,0 +1,52 @@
+[Event "SCS Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2017.09.15"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Watzenberger, Stefan"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "1775"]
+[BlackElo "2046"]
+[PlyCount "128"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.09.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 {Diese Stellung ist gewissermaßen die
+Ausgangsstellung der Modernen Berliner Verteidigung. Wahrscheinlich ist die
+Remisbreite sehr weit, aber jeder Zug hat eine hohe Wertigkeit.} Be7 {Schwarz
+spielt einen defensiven, aber logischen Zug (üblich ist h7-h5). Der Läufer
+kontrolliert g5 und h4, aber er läßt es auch zu, dass sein Springer
+bedrängt wird} 11. Bf4 $6 {Das ist eine etwas schlappe Replik. Der Läufer
+leistet hier nicht so viel, außer den ohnehin gedeckten Bauern auf e5 zu
+überdecken. Zwar droht irgendwann einmal e5-e6, aber den schwarzen c-Bauern
+zu entdoppeln ist im Moment ungefährlich} ({Aggressiver ist die
+Theoriefortsetzung} 11. g4 Nh4 12. Nxh4 Bxh4 13. Kg2 h5 {Weiß hat sich zu
+einem Bauernvorstoß auf dem Königflügel verpflichtet, aber auch die beste
+schwarze Figur, den Springer auf f5, entfernt}) 11... Be6 {Schwarz entwickelt
+seine letzte Leichtfigur auf das optimale Feld. Er kontrolliert die lange
+Diagonale nach a2 und plombiert die e-Linie} 12. Rfd1 {Aufgrund der immer noch
+etwas unsicheren Lage des a-Bauern bringt Weiß zuerst den Königsturm in
+Stellung.} ({Eine valide Variante ist} 12. a3 {Dann muss erst einmal Schwarz
+einen konstruktiven Plan entwickeln. Wahrscheinlich würde er wie in der
+Partie ausfallen}) 12... Rd8 {Das ist ein logischer Zug. Schwarz nimmt erst
+einmal Material aus der Stellung und bestreitet die Dominanz von Weiß auf der
+d-Linie} 13. Rxd8+ $2 {Dieser Zug ist vielleicht kein großer Fehler, ist aber
+trotzdem ungenau. Erstens wird Material abgetauscht und damit ein mögliches
+Ungleichgewicht in der Stellung verhindert. Zweitens kann jetzt Schwarz ganz
+einfach einen konstruktiven Plan finden, was nach einem anderen Zug nicht so
+einfach möglich ist. Weiß hätte am besten wieder einen nützlichen
+Abwartezug wie a2-a3 spielen sollen} Kxd8 14. Rd1+ Kc8 15. Ng5 $2 (15. Bg5)
+15... Bxg5 16. Bxg5 h6 17. Bc1 Rd8 18. Rxd8+ Kxd8 19. f4 $2 (19. b3 Nd4) 19...
+Nd4 20. Kf2 Nxc2 21. g4 g6 (21... Nb4) 22. a3 Nd4 23. Be3 c5 24. Ne4 b6 25. Kg3
+h5 26. Nf6 hxg4 27. hxg4 a5 28. Ne4 Bd5 29. Nc3 Bc6 30. Kf2 Kd7 31. Ne2 Nc2 32.
+f5 gxf5 33. gxf5 Be4 34. Ng3 Bd3 35. Kf3 Kc6 36. Kf4 Kd5 37. Bd2 Nd4 38. Bc3 a4
+39. Bd2 Nc6 40. Bc3 b5 41. e6 fxe6 42. f6 e5+ (42... Bg6 43. Kg5 Bf7 44. Kh6 e5
+45. Kg7 Ke6 46. Ne4) 43. Kg5 Ke6 44. Nh5 Nd4 45. Ba5 Kf7 46. Ng7 (46. Bxc7 $4
+Ne6+) 46... c6 47. Bc7 Nf3+ 48. Kg4 e4 49. Bd8 Nd4 50. Kf4 b4 51. Be7 bxa3 52.
+bxa3 c4 53. Bc5 Nb3 54. Bb4 Kxf6 55. Bc3+ Ke7 56. Nf5+ Ke6 57. Nd4+ Kd5 58. Nf5
+$2 (58. Nxb3 $1 cxb3 59. Bb2 Kc4 60. Ke3 Kd5 61. Kf4 c5 62. Ke3 c4 63. Kf4 Ke6
+64. Bc3 Kd5 65. Ke3) 58... c5 59. Ne7+ Ke6 60. Nf5 Nc1 61. Ng3 Na2 62. Be1 c3
+63. Nxe4 Bxe4 64. Kxe4 c2 0-1
+

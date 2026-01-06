@@ -1,0 +1,117 @@
+[Event "OIBM Bad Wiessee 2010"]
+[Site "?"]
+[Date "2010.10.31"]
+[Round "2"]
+[White "Schmitz, Tim"]
+[Black "Sand, Rosemarie"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1930"]
+[BlackElo "1471"]
+[Annotator "Tim Schmitz"]
+[PlyCount "97"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes Bauernzentrum
+mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort. Der Zug zwingt
+Weiß sofort, sich zu entscheiden. Weiß erhält einen isolierten Damenbauern,
+der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 Qxd5 4. d4 Nf6 {Dieser
+Zug führt gewöhnlich zu anderen Stellungsbildern als der Springerzug Sc6.
+Schwarz strebt eine positionelle Behandlung der Stellung an, indem er gegen
+den isolierten Damenbauern auf d4 spielt.} 5. Nf3 {Weiß stützt mit diesem
+Standardzug sein Zentrum.} Bg4 {Dieser Zug bildet eine sehr zuverlässige Waffe
+gegen das Alapin-System. Schwarz verbindet Aggression gegen d4 mit Solidität 
+(Entwicklung des Königsflügels)} 6. Be2 {Weiß deckt den Springer f3, so dass
+die Dame beweglich bleibt. Außerdem bereitet er die kurze Rochade vor.} e6 {
+Schwarz öffnet die Läuferdiagonale, so dass der Bauer c5 gedeckt bleibt.
+Außerdem kontrolliert dieser Zug noch das Feld d5, so dass er den Vorstoß
+c3-c4 und d4-d5 nicht zu fürchten braucht} 7. h3 {Es ist eigentlich
+vorteilhaft, den Läufer zu befragen. In manchen Varianten kann g2-g4 kommen.}
+Bh5 {Natürlich tauscht Schwarz nicht auf f3} 8. O-O {Am günstigsten ist es für
+Weiß, hier die Partie in ruhiges Fahrwasser zu steuern. Die Alternativen c4
+oder Sa3 mit der Idee Sb5 sind zwar hier auch spielbar, aber nicht überzeugend}
+Nc6 {Schwarz beeilt sich wiederum nicht, den Bauern auf d4 zu nehmen. Würde er
+dies tun, so würde die Stellung in eine Variante transformieren, die aus
+Zugumstellung aus dem Benjamin-Gambit transformieren kann} 9. Be3 {Der Zug ist
+nicht nur reiner Entwicklungszug, sondern droht auch beizeiten mit dxc5} cxd4 {
+Jetzt ist der richtige Zeitpunkt zu nehmen und die IDB-Struktur festzulegen}
+10. cxd4 {Weiß sollte hier auf die Majöritätsstruktur verzichten und mit dem
+Isolani spielen} Bd6 {In Verbindung mit dem folgenden Sidestep der eigentlich
+logischere und aktivere Zug wie John Emms sagt} 11. Nc3 Qa5 {Jetzt ist die
+ruhige Variante des Benjamin-Gambits erreicht. Wie in der vorhergehenden
+Variante gesehen, steht der Läufer auf d6 aktiver als auf e7} 12. a3 {Weiß
+kann hier nicht - wie vormals - Db3 spielen, denn dann folgt Db4. Die
+Abwicklung mit g2-g4 und Se5 wie in der vorhergehenden Variante ist ja dank
+des Läufers d6 nicht mehr möglich. Also verhindert Weiß Db4} O-O 13. Qb3 {
+[%csl Yb7] Es folgte der für mich überraschende Zug} Ne7 {[%csl Yd5][%cal
+Ra5d5,Re7d5,Re6d5,Rf6d5] , der aber nach John Emms ganz gut spielbar ist.
+Schwarz hat d5 gut überdeckt und seine Läufer stehen gut} 14. Nb5 $6 {
+Vielleicht etwas übermotiviert aus dem Gefühl die letzten etwas zu "bestrafen".
+Das war natürlich Unsinn, denn die schwarze Stellung ist gut spielbar} ({Nach} 
+14. Qxb7 Rab8 15. Qa6 Qxa6 16. Bxa6 Bxf3 17. gxf3 Rxb2 {steht vermutlich
+Schwarz besser}) ({Der Zug} 14. Rac1 {sieht natürlich aus} Nf5) 14... Qd8 15.
+Nxd6 {Weiß gewinnt das Läuferpaar, aber wirklich überzeugend scheint mir diese
+Variante nicht zu sein.} Qxd6 16. Rac1 b6 (16... Nf5 {sieht am besten aus.
+Wenn Weiß den Läufer wegzieht, ist das einzige Feld} 17. Bg5 ({Und nach} 17.
+Rfe1 Nxe3 18. fxe3 {wird das Feld g3 entsetzlich schwach}) 17... Ne4 {und
+diese Abwicklung wird später noch einmal folgen} (17... Bxf3 {ist sogar noch
+besser} 18. Bxf3 Nxd4) 18. g4 h6) 17. Rfd1 $6 {Was der Turm hier soll ist
+nicht klar. d4-d5 geht nicht, wie wir später sehen. Auf e1 deckt der Turm
+wenigstens noch den Läufer e2} (17. Rfe1 Rac8 18. Rxc8 Rxc8 19. Ba6) 17... Rac8
+18. d5 $2 {Die logische Folge nach den letzten schwachen Zügen. Das
+Bauernopfer bringt gar nichts, der Läufer e3 beißt auf b6 auf Granit.} Rxc1 19.
+Bxc1 Nexd5 {Schwarz hat einen gesunden Mehrbauern und die beiden weißen Läufer
+werden dominiert} 20. Bg5 $4 {Ein echter Fehlgriff, der aus der Nervösität und
+der schwachen Züge ab Zug 15 zu sehen ist.} (20. Bc4 {ist auch nicht besser}) (
+20. Qa4 {war wahrscheinlich das relativ Beste mit Angriff auf a7 und Entzerrung
+}) 20... Rc8 ({Gehofft habe ich natürlich auf} 20... Qe7 21. Bc4 {und ich habe
+den Hauch von Kompensation. Aber Schwarz kann einfach} Qc7 {spielen}) (20...
+Ne4 $1 {sieht sehr stark aus. Wo soll der Läufer hin?} 21. Bc1 {und Schwarz
+hat die Initiative übernommen. Es geht vielleicht schon} f5) 21. Bxf6 {[%csl
+Yc2,Yf4][%cal Rd6f4,Rh5g6,Rg6c2,Rc8c2] Das ist der einzig logische Zug.
+Schwarz erhält eine Bauernschwäche, ansonsten hat Weiß keine Kompensation. Der
+schwarze Springer d5 ist sehr gut, Die Dame steht zentral und auf c2 lockt ein
+Einstiegsloch (eventuell nach Lg6)} gxf6 22. Nd4 {Meine einzige Hoffnung ist
+der Übergang in ein leicht schlechteres Endspiel, wobei sich die Spielstärke
+bemerkbar macht} Bxe2 23. Nxe2 Qe5 $1 {[%csl Yb2,Ye2][%cal Re5b2,Re5e2] Ein
+starker zentralisierender Zug. Die Dame blickt auf die zweite Reihe und nach b2
+} 24. Nd4 Qg5 {Es droht bereits Sf4} 25. Nf3 {Hier ist schon wieder Zeitnot
+das Thema} Qg6 26. Qd3 Qxd3 {Vielleicht sollte Schwarz den Tausch vermeiden,
+andererseits hat er auch einen Bauern mehr} 27. Rxd3 Rc2 28. Rd2 Rc1+ 29. Kh2
+Rc7 {Schwarz hat richtig reagiert. Er hat den König abgedrängt und den
+Turmtausch vermieden, da der weiße Springer leichtere Angriffsziele hat als
+der schwarze} 30. Nd4 h6 31. Nb5 Rd7 {Jetzt hat Weiß bereits kleine
+Konzessionen erzwungen. Der Turm ist auf d7 nicht so aktiv, und h6 hat auch
+nichts zu dem schwarzen Fortkommen beigetragen. Aber die Stellung ist noch gut
+spielbar} 32. Kg3 ({Die eigentliche Idee besteht in} 32. Nc3 Kf8 33. Nxd5 exd5
+34. Kg3 Ke7 35. Kf4 Rd6 {aber ich komme nicht richtig an die schwarzen Bauern
+heran und der Freibauer auf der d-Linie wirkt sehr gefährlich.}) 32... f5 33.
+Nc3 Kg7 {Jetzt geht der Abtausch auf d5 erst recht nicht, denn der schwarze
+König ist auf f6 gut platziert} 34. Kf3 Kf6 35. Nb5 h5 $6 {Zweifelhaft, denn
+der Bauer h5 wird noch schwächer. Das ist jetzt der erste vernünftige Plan von
+Weiß} 36. h4 $4 {In Zeitpanik gespielt} (36. Nc3 {war sofort geboten, um
+Sc3-e2-f4 zu spielen, wie es später kommt}) 36... a6 $2 (36... e5 $1 37. Nc3
+e4+ 38. Kg3 (38. Ke2 $4 Nf4+ {verliert}) 38... f4+ 39. Kh2 Ke5 {und Schwarz
+hat eine Bombenstellung, die wahrscheinlich gewinnt}) 37. Nc3 {Da muss er
+sowieso hin} Ke7 38. Ne2 $2 {Wieder wird e5 erlaubt, aber ich hoffte den h5
+abzuholen} Kf6 $2 (38... e5 $1 39. Ng3 e4+ 40. Ke2 Nf4+ 41. Kd1 Rxd2+ 42. Kxd2
+Nxg2 43. Nxh5 Nxh4 {und ich habe einfach nur zwei Bauern weniger}) 39. Nf4 {
+Jetzt hat Weiß ausgeglichen, vielleicht sogar die besseren Aussichten. Ich
+will nur in die Zeitkontrolle} Ke7 40. Nxh5 {A Tempo gespielt} e5 {Endlich
+kommt der thematische Zug, aber vielleicht zu spät} 41. Ke2 {Ich will jetzt
+allen Schwindelmanövern aus dem Weg gehen} b5 42. Ke1 {Der Plan sieht vor mit
+Sg3-f1 und g3 den Königsflügel zu stabilisieren} Rd6 $2 {Der erste richtige
+Patzer von Schwarz, jetzt gewinnt Weiß forciert einen Bauern} 43. Ng7 {[%csl
+Yf5] droht mit der Gabel auf f5 und Schwarz hat keine richtig gute Antwort} Rd8
+(43... Kf6 $2 {verliert nach} 44. Ne8+) (43... Rg6 44. Nxf5+ Ke6 45. Rxd5 Kxd5
+(45... Rxg2 {geht nicht wegen} 46. Ne3) 46. Ne7+ {und das Bauernendspiel muss
+Weiß gewinnen}) 44. Nxf5+ Kf6 45. Ne3 {Schwarz gibt entnervt auf. Die
+kritische Variante lautet} Nxe3 (45... Ke6 46. g4 Rd7 47. Rxd5 Rxd5 48. Nxd5
+Kxd5 {und das Endspiel ist glatt gewonnen} 49. Ke2) 46. Rxd8 Nxg2+ 47. Ke2 Nxh4
+48. Rd6+ Ke7 49. Rxa6 {und das Endspiel ist vermutlich nicht zu halten. Weiß
+holt noch den Bauern b5 und gibt den Turm gegen den Springer zurück. Dann
+entscheiden die Damenflügelfreibauern. Fazit dieser Partie: Die Berechnung
+konkreter Varianten funktioniert noch nicht richtig (Züge 36 und 38). Das
+allgemeine Stellungsgefühl versagt und es entsteht Zeitnot (Züge 14, 17 und 20)
+. Lösung: Konkreter spielen!!} 1-0
+

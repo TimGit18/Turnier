@@ -1,0 +1,30 @@
+[Event "London Chess Classic"]
+[Site "?"]
+[Date "2013.12.15"]
+[Round "9"]
+[White "Samaganova, Alexandra"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2030"]
+[BlackElo "1909"]
+[PlyCount "75"]
+[EventDate "2013.12.16"]
+[SourceDate "2013.12.16"]
+
+1. c4 Nf6 2. e3 g6 3. Nf3 Bg7 4. Nc3 O-O 5. Be2 d6 6. Rb1 Bf5 {Verhindert
+zumindest d2-d4} 7. d3 e5 8. Qc2 Nbd7 9. b4 Re8 10. e4 Be6 11. O-O Nh5 {Es ist
+an der Zeit etwas zu unternehmeno} (11... Nf8 {ist doch sehr passiv}) 12. Rd1
+f5 $6 {Aktiv, aber auch zweischneidig} 13. Ng5 $1 {Weiß gewinnt das Läuferpaar}
+Nhf6 14. Nxe6 Rxe6 15. f3 Kh8 16. Be3 f4 {Es entsteht der übliche
+Königsindische Angriff - allerdings fehlt der wichtige Damenläufer auf den
+weißen Feldern} 17. Bf2 Nh5 {Der Springer ist zum zweiten Mal am Rand gelandet}
+(17... Ne8 {wäre wohl besser}) 18. b5 g5 19. Nd5 Rh6 20. a4 Ndf6 21. Nxf6 Nxf6
+22. h3 Rg6 23. d4 {Weiß hat noch einen Hebel} Nd7 24. dxe5 Bxe5 25. c5 Qe7 $2 {
+Der entscheidende Fehler. c5-c6 musste unbedingt verhindert werden} (25... b6 {
+sieht nicht schön aus, blockiert aber die Stellung} 26. cxd6 Rxd6) 26. c6 $1
+bxc6 27. Qxc6 Rf8 28. Qxc7 h5 29. Bd4 Bxd4+ 30. Rxd4 g4 31. fxg4 hxg4 32. Bxg4
+Qf6 33. Rbd1 Rxg4 {Das bringt zwar nichts mehr, zwingt aber noch etwas
+Präzision auf} 34. hxg4 f3 35. Rxd6 f2+ 36. Kf1 Qh4 37. Qc3+ Kg8 38. Rg6+ {
+nebst Matt} 1-0
+

@@ -1,0 +1,17 @@
+[Event "Ortenburg-Open (B)"]
+[Site "?"]
+[Date "2025.09.13"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Susallek, Markus"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1840"]
+[BlackElo "1965"]
+[Annotator "Tim Schmitz"]
+[PlyCount "45"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2025.09.13"]
+
+{[%evp 0,45,19,31,40,4,17,11,11,14,-4,-1,-1,20,10,1,54,18,6,-45,67,85,85,71,80,97,208,208,207,233,486,465,839,231,197,265,720,710,747,747,738,736,736,736,29989,29992,29995,1641]} 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 {Endlich! Endlich erscheint einmal das Pavasovic-Gambit. Und im Gegensatz zu anderen Gegnern wurde es auch angenommen.} 8. Bb3 dxe5 {Das ist die Kritische Fortsetzung: Schwarz nimmt das Gambit an.} ({Bekannt ist hier die "schlechte" Französische Variante} 8... d5 9. Nh4 $1 {Der einzige Sinn dieses Zugs ist es, die Entwicklung des schwarzen Damenläufers zu unterbinden.} e6 {Schwarz hat hier wohl nichts anderes.} 10. Nf3 {Jetzt sind wir in einer für Weiß vorteilhaften Version der Franzöischen Vorstoß-Variante gelandet. Der weiße Damenspringer kann direkt nach c3 entwickelt werden.}) 9. d5 Nd4 $2 {Das ist schon ein ziemlicher Fehler. Schwarz verliert völlig die Kontrolle über das Zentrum.} ({Die beste und theoretische Antwort ist} 9... Na5 {mit der Fortsetzung} 10. Nc3 Nxb3 11. Qxb3 e6 12. Nxe5 Be7 13. Qb5+ Kf8 $11) 10. Nxd4 exd4 11. Qxd4 e6 {Schwarz setzt seine Hoffnungen auf diesen gefesselten Bauern.} 12. Nc3 Nxd5 $4 {Vermutlich ist dies der entscheidende Fehler. Jetzt geht es mit der schwarzen Stellung schnell bergab.} 13. Nxd5 exd5 14. O-O Be6 $2 {Das ist der dritte und letzte Fehler. Schwarz musste unbedingt das Läuferschach auf a4 mit a7-a6 oder Dd8-a5 verhindern. Aber er war schon in ziemlicher Zeitnot und kannte die Eröffnung überhaupt nicht.} 15. Ba4+ $1 {Natürlich. Schwarz hat keine gute Möglichkeit, das Schach abzuwenden.} Ke7 {Traurig, aber wahr.} ({Die Variante} 15... Bd7 16. Re1+ Be7 17. Qxg7 Rf8 18. Bh6 {ist hoffnungslos für Schwarz.}) 16. Re1 $6 {Innerlich hatte ich die Partie womöglich schon abgehakt. Der Zug gewinnt auch, ist aber weniger klar.} ({Schnörkellos gewann} 16. Qb4+ $1 Kf6 ({Nach} 16... Qd6 17. Qxb7+ {geht mindestens der Turm verloren.}) 17. Qh4+ Kg6 18. Qg3+ Bg4 19. Qxg4+ Kf6 20. Bg5+ Ke5 21. Qf4+ Ke6 22. Rae1#) 16... f6 17. Bf4 Qb6 $2 {Beschleunigt das Ende} 18. Qxd5 Kf7 19. Rxe6 Qxe6 20. Qxb7+ Kg6 21. Qxa8 Qc4 22. Qe8+ Kf5 23. Be3 {Schwarz hatte schon lange keine Lust mehr weiterzuspielen. Jetzt macht es auch keinen Sinn.} 1-0
+

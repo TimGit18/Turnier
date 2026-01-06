@@ -1,0 +1,57 @@
+[Event "Vienna Chess Open B"]
+[Site "?"]
+[Date "2013.08.18"]
+[Round "?"]
+[White "Horvath, Dominik"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "1734"]
+[BlackElo "1796"]
+[PlyCount "57"]
+[EventDate "2013.08.18"]
+[SourceDate "2013.08.18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be7 8. Be3
+O-O 9. Qd2 Be6 10. O-O-O a5 {Soweit so gut, das Nemet-System} 11. Na4 {Aber
+was ist das? Weiß will direkt die Schwäche auf b6 ausnutzen - und es gelingt! 
+(wenn auch nicht sofort)} Nbd7 {[%csl Rb6,Rc5][%cal Gd7b6,Gd7c5] Der Zug ist
+logisch. Schwarz entwickelt eine Figur und überdeckt das schwache Feld b6 bzw.
+c5 nach dem Bauernvorstoß d6-d5} ({Andriasyan empfiehlt} 11... d5 12. Nb6 d4
+13. Nxa8 Nc6) 12. g4 {Weiß greift weiter forsch an, die Haltung passt zur
+Jugend des Spielers} d5 {Dieser Zug schien mir richtig, denn so entledigt sich
+Schwarz seines schwachen Bauern d6 und gleicht im Zentrum aus} 13. g5 {Weiß
+wählt die schärfste Variante, sie sollte aber eigentlich nur zu Ausgleich
+reichen} ({Kritischer schien mir} 13. Nbc5 {Aber dann geht auch} d4 14. Nxe6
+fxe6 {Wenn Weiß jetzt den Läufer zurückzieht, kann Schwarz auf e4 mit dem
+Springer schlagen, wonach Le7xg5 mit Damengewinn droht - leider auch nicht
+gesehen}) 13... d4 {Die nächsten Züge sind mehr oder weniger erzwungen} 14.
+gxf6 dxe3 15. Qxe3 Bxf6 16. Kb1 Qc7 $2 {Diesen Zug spielte ich mehr oder
+weniger instinktiv, um die Dame aus der Fesselung zu nehmen und den Bauern c2
+zu beobachten. In Wirklichkeit verliert er bereits im höheren Sinn! Er tut
+nichts gegen die Felderschwächen b6 und d5, lädt sogar zu dem Partiemanöver ein
+} ({Geboten war hier absolut} 16... Bg5 $1 {damit der schlechte Läufer endlich
+aktiviert wird. Eine mögliche Fortsetzung lautet} 17. Qf2 Rb8 18. Bb5 b6 19.
+Rhg1 Bf4 {Schwarz steht noch nicht gut, insbesondere der Springer auf d7 und
+der Turm auf b8 sind noch recht passiv. Aber die Stellung ist viel besser als
+die Fortsetzung, die in der Partie gewählt wurde} 20. Qg2 Bh6 21. Nc3 Qc7 22.
+Nd5 Bxd5 23. Rxd5 Nf6 24. Rd3 Rfd8 {Hier hat Schwarz schon Ausgleich erreicht,
+da seine Stellung konsolidiert ist und der weiße Springer auf b3 sehr schlecht
+steht}) 17. Bb5 $1 {Ein sehr guter Entwicklungszug. Weiß legt das gegnerische
+Figurenspiel fast lahm und die Schwäche auf b6 macht sich langsam bemerkbar}
+Rac8 $6 {Der Zug ist zumindest ungenau, denn er lädt zum Einstieg auf b6
+förmlich ein} ({Etwas vorsichtiger ist} 17... Rfd8) ({Vielleicht war auch} 
+17... Be7 {angebracht, aber dann sieht} 18. Bxd7 Bxd7 19. Nb6 Ra6 20. Nd5 Qd8 {
+stark aus}) 18. c4 $5 {Obwohl der Zug positionell sehr riskant ist, scnürt er
+Schwarz weiter ein. Der Rest der Abwicklung geht erstaunlich einfach} Rfd8 19.
+Bxd7 Bxd7 20. Nb6 Rb8 ({Vielleicht war das Qualitätsopfer} 20... a4 {besser,
+aber ich bin mir nicht sehr sicher gewesen nach} 21. Nxc8 axb3 22. Nb6 bxa2+
+23. Kxa2 Bc6) 21. Nd5 Qc6 22. Rhg1 Kf8 $4 {Das ist der Verlustzug, ein grober
+Fehler. Die schwarze Stellung fällt nun schnell auseinander} ({Der Zug} 22...
+b6 {sieht zwar sehr passiv aus, hält aber die Stellung noch so gerade zusammen}
+23. f4 Qd6 {Weiß ist eindeutig am Drücker, die Stellung ist eben sehr
+unangenehm zu spiielen}) 23. Nxa5 Qa6 $2 {Der Zug sieht zwar pseudeaktiv aus,
+verliert aber einzügig. Die schwarze Dame kommt hier nicht mehr heraus} 24.
+Qc5+ {Danach gewinnt Weiß in jeder Variante} Kg8 25. Nc7 Be7 26. Nxa6 Bxc5 27.
+Nxc5 Bc6 28. Rxd8+ Rxd8 29. Ncxb7 1-0
+

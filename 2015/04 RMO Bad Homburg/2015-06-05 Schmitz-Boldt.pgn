@@ -1,0 +1,68 @@
+﻿[Event "RMO Bad Homburg"]
+[Site "?"]
+[Date "2015.06.05"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Boldt, Kai-Ulrich"]
+[Result "0-1"]
+[ECO "B98"]
+[WhiteElo "1835"]
+[BlackElo "1719"]
+[PlyCount "54"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O {Diese Stellung ist eine bekannte Stellung aus der Theorie der
+Najdorf-Variante mit dem Läuferzug nach g5.} Nc6 $5 {[%csl Yd4][%cal Rc6d4]
+Dieser Zug ist in Amateurkreisen sehr verbreitet, aber in der offiziellen
+Theorie nicht besonders verbreitet. Es entsteht eine Stellung aus dem
+Rauzer-Angriff, in der der Springer auf d4 sofort befragt wird, aber auch die
+Deckung des Springers f6 vernachlässigt wird.} 10. g4 $6 {Wahrscheinlich ist
+dieser Zug hier nicht besonders genau, denn Schwarz hat bereits einen Druck
+gegen das weiße Zentrum aufgebaut. Eine Aktion auf dem Königsflügel ist
+daher momentan nicht sehr erfolgsversprechend.} ({Wahrscheinlich ist es
+folgende Fortsetzung am günstigsten} 10. Nxc6 {Am besten tauscht Weiß den
+Springer ab, der einen starken Druck auf das weiße Zentrum ausübt} Qxc6 {
+[%csl Yc6,Yd5,Ye4,Ye5,Yf6][%cal Rc6e4,Rf6e4,Gf4e5,Ge4e5] Weiß hat zwar einen
+gut platzierten Springer gegen den schwarzen Damenspringer abgetauscht.
+Andererseits steht die Dame auf c6 nicht ganz so günstig wie auf c7. Sie
+greift zwar den Bauern e4 an, aber die Deckung des Feldes e5 ist geschwächt.
+Am natürlichsten erscheint nun die Fortsetzung} 11. Bd3 b5 12. Rhe1 Bb7 {
+Weiß hat wie in der Klassischen Hauptvariante einen starken Druck auf das
+schwarze Zentrum aufgebaut} 13. Qg3 $1 {[%csl Ye5,Yg7][%cal Gg3e5,Gg3g7] Das
+ist der Schlüsselzug der weißen Strategie. Weiß bereitet den Durchbruch
+e4-e5 und bedroht gleichzeitig das Feld g7, die Achillesferse der schwarzen
+Stellung}) 10... Nxd4 {Schwarz nutzt die Gelegenheit, dass Weiß den Tausch
+auf c6 nicht selbst vorgenommen hat. Er lockt zwar damit einen der weißen
+Türme in das Zentrum, aber er beseitigt auch den starken Springer auf d4 und
+verstärkt damit die Kontrolle über die weißen Felder im Zentrum und auf dem
+Damenflügel} 11. Rxd4 b5 {[%csl Yb4,Yb5,Yb7,Ye4][%cal Rb5b4,Rc8b7,Rb7e4,Gd4b4]
+Das ist der logische und folgerichtige Zug von Schwarz. Der Läufer soll nach
+b7 entwickelt werden und es soll Raum auf dem Damenflügel gewonnen werden.
+Momentan kann der Bauer auf b5 noch nicht nach b4 vorrücken, da der Turm auf
+d4 dieses Feld noch kontrolliert} 12. Bxf6 $6 {Dieser Abtausch ist der Beginn
+einer fatalen Opferidee, die zwar in manchen Varianten der
+Najdorf-Verteidigung funktioniert, aber nur, wenn noch ein Springer auf d4
+steht (und nicht nur auf c3)} Bxf6 $1 {Natürlich schlägt Schwarz mit dem
+Läufer. Denn dieser Zug bedroht gleichzeitig auch den Turm auf d4, was sich
+später als ein verhängnisvoller Doppelangriff herausstellt.} 13. Bxb5+ $2 {
+Der Zug ist sehr konsistent, aber in der konkreten Stellung ein schwerer
+Fehler. Zunächst erhält zwar Weiß drei Bauern für die geopferte Figur,
+aber er öffnet Linien für die schwarzen Schwerfiguren und gibt ihnen sehr
+viele Angriffschancen} axb5 14. Nxb5 Qc6 $1 {Das ist der Schlüsselzug der
+schwarzen Verteidigungsstrategie. Die schwarze Dame auf c6 verhindert den
+Vorschritt e4-e5 des e-Bauern von Weiß, wonach dieser gute Kompensation
+gehabt hätte} 15. Nxd6+ Ke7 16. Rd3 $2 {Dieser Rückzug ist ein weiterer
+Fehler und Zeitverlust, den die weiße Stellung nicht mehr verkraftet} ({Nach
+dem riskanten, aber aussichtsreichen} 16. Rc4 {folgt} Qxd6 17. e5 Qd5 18. exf6+
+gxf6 19. Rc7+ {Weiß hat zwar keine volle Kompensation für die Figur, aber
+gewisse Schwindelchancen durch die exponierte Stellung der schwarzen Dame und
+die unsichere schwarze Königsstellung}) 16... Rxa2 {Jetzt hat Schwarz keine
+Sorgen mehr. Er hat bereits Materialvorteil, droht mit Turmtausch und bedroht
+auch den weißen Bauern auf b2} 17. Rhd1 $6 {Auch dieser Zug ist nicht
+besonders stark, aber der b-Bauer war nicht mehr gut zu verteidigen} Ra1+ 18.
+Kd2 Rxd1+ 19. Kxd1 Bxb2 {Natürlich könnte man hier die Partie auch aufgeben,
+aber es sollte bis zum 20.Zug gehen, so dass Schwarz noch einige kleine
+Aufgaben zu lösen hat} 20. f5 Rd8 21. fxe6 Bxe6 22. Nf5+ Bxf5 23. gxf5 Rd4 24.
+Qe3 Qxe4 25. Qg5+ Kf8 26. f6 Rxd3+ 27. cxd3 Qxd3+ 0-1
+

@@ -1,0 +1,82 @@
+[Event "RMO Bad Homburg B-Turnier"]
+[Site "?"]
+[Date "2018.05.31"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Bajorski, Leszek"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[WhiteElo "1763"]
+[BlackElo "1970"]
+[Annotator "Tim Schmitz"]
+[PlyCount "95"]
+[EventDate "2018.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. O-O-O Be7 13. Kb1 O-O 14. Ne4 Nxe4
+15. Qxe4 Nf6 16. Qe2 Qd5 {Bis zu diesem Punkt entspricht die Stellung der
+bekannten Theorie. Nun erfolgt eine Abweichung, da ich die Theorie nicht
+kannte und die Eröffnung ohnehin eher nach "Gefühl" gespielt habe.} 17. Ne5
+$6 {Dieser Zug ist nicht schlecht, da er zentralisiert, aber er verhindert
+nicht die schwarze Hauptidee. Und diese ist nun einmal den Damentausch auf e4
+vorzunehmen.} ({Die Hauptvariante lautet} 17. Be3 Ng4 18. Bc1 Rfd8 19. Ne5 Nxe5
+20. dxe5 Qb5 {und Weiß erhält ein etwas besseres Endspiel.}) 17... Qe4 {
+Diesem Damentausch kann man eigentlich nicht ausweichen.} ({(a) Der eine
+Bauernraub ist schlecht wegen} 17... Qxg2 18. Rdg1 Qe4 19. Qxe4 Nxe4 20. Bxh6 {
+und trotz fehlender Damen hat Weiß ausgezeichneten Angriff}) ({(b) Der andere
+Bauernraub ist auch nicht viel besser} 17... Qxd4 18. Bxh6 Qe4 19. Qxe4 Nxe4
+20. Be3 {mit besserem Spiel für Weiß wegen des mobilen h-Bauern}) 18. Qxe4
+Nxe4 19. Be3 Rfd8 {Die Eröffnung ist beendet. Die Partie geht nun in ein
+ausgeglichenes Mittelspiel über.} 20. g4 ({Eigentlich will Weiß} 20. f3 {
+spielen, aber nach} Ng3 21. Rh3 Nf5 22. Bf2 c5 {kommt der Bauer auf d4 unter
+einem zu starken Druck}) 20... c5 {Schwarz spielt trotzdem den Gegenzug im
+Zentrum, dies unterminiert auch etwas die Stellung des starken Springers auf
+e5.} 21. dxc5 {Es ist eigentlich schade das Zentrum aufzugeben. Auch der
+folgende Figurenabtausch war so nicht beabsichtigt. Aber ich sah keine
+vernünftige Alternative zum Verlauf in der Partie.} Bxc5 22. Bxc5 Nxc5 {
+Das Endspiel sieht sehr ausgeglichen aus. Die weiße Bauernstruktur ist
+vielleicht etwas schlechter. Trotzdem rechnete ich mir noch gute Chancen aus.}
+23. f3 {Es ist wichtig, dem gegnerischen Springer keine Felder zu geben.} f6 {
+Und so denkt Schwarz auch. Wenigstens schwächt die Vertreibung den schwarzen
+e-Bauern.} 24. Nc4 Kf8 25. Kc1 b6 $6 {Das sieht aus wie ein etwas unnötiger
+Zug. Der b-Bauer war noch gar nicht angegriffen und so leicht kommt der weiße
+Springer auch nicht nach d6. Aber vielleicht hatte Schwarz Bedenken vor Sc6-a5.
+} (25... Ke7 {sieht viel natürlicher aus.}) 26. Rxd8+ Rxd8 27. Rd1 {Im
+Prinzip war ich mit einem möglichen Remis an dieser Stelle schon
+hochzufrieden und spielte auf weitere Vereinfachung. Aber das ist eigentlich
+die falsche Einstellung.} Rxd1+ 28. Kxd1 Ke7 29. Kd2 f5 30. Ne3 $2 {Das ist
+bereits ein Fehler. Der Springer stand auf c4 eigentlich ganz gut und
+zentralisiert. Jetzt kann der schwarze König auf dem Königsflügel
+eindringen.} (30. Ke3 {war geboten, um im Zentrum gegenzuhalten.}) 30... Kf6
+31. b4 $5 {Jetzt, wo mir die Gefahr klar wurde, fing ich an wieder aktiv zu
+spielen. Weiß muss schnell seine Bauernmehrheit auf dem Damenflügel
+mobilisieren, da sonst Schwarz den Königsflügel erobert und dort einen
+Freibauern bildet.} Nd7 32. c4 Ke5 {Etwas ungenau. Der König dringt zwar auf
+f4 ein, aber er läßt Weiß nach vorne kommen.} ({Der bessere Zug ist} 32...
+Ne5 {Er verhindert den Vormarsch des weißen Königs nach d3 und greift die
+Bauern f3 und g4 an. Wie soll Weiß sie schützen?}) 33. Kd3 Kf4 {Der Bauer
+auf f3 ist verloren. Weiß muss schnell aktiv spielen.} 34. gxf5 exf5 35. Kd4 {
+Jetzt "droht" c4-c5 noch nicht wirklich, da der König auch den eigenen
+Springer decken muss.} Kg5 $2 {Und schon wendet sich das Blatt nach diesem Zug
+wieder für Weiß. Schwarz verschmäht den Bauern f3, der auch den Bauern f5
+kostete, und erobert zwar den Bauern auf h5, aber der weiße c-Bauern kommt in
+das Rennen.} 36. c5 bxc5+ 37. bxc5 Kxh5 38. c6 {Weiß hat hier richtig großen
+Vorteil. Schwarz muss jetzt sehr genau spielen und darf sich keinen weiteren
+Fehler mehr erlauben.} Nb6 {Only Move.} 39. Nxf5 $2 {Der Zug vergibt wohl den
+Gewinn, obwohl er gut gefällt, den er greift den Bauern g7 an und visiert d6
+sowie das Umwandlungsfeld c8.} ({Die Engine empfiehlt} 39. c7 g5 40. Nxf5 Kg6
+41. Nd6 Kf6 42. a4 Ke6 43. a5 {und Schwarz kann den Springer nicht retten})
+39... Kg6 40. Ke5 h5 $5 {Ein verzweifelter Gegenangriff von Schwarz, der
+eigentümlicherweise Erfolg hat.} 41. f4 $2 {Das zweite Mal wird der Gewinn
+ausgelassen, weil ich das entscheidende Motiv mit a2-a4 wieder übersah.} (41.
+c7 Kg5 42. a4 h4 {und jetzt sollte sich der Springer opfern, wonach Weiß
+genügend Tempi hat, um den gegnerischen Springer auf c8 zu erobern und eine
+Dame zu bekommen.} 43. Nxh4 Kxh4 44. a5 Nc8 45. Ke6 g5 46. Kd7 Kg3 47. Kxc8
+Kxf3 48. Kd7 g4 49. c8=Q {mit eigentlich einfachem Gewinn}) 41... Kf7 42. c7 h4
+43. Nxh4 {Weiß beseitigt den schwarzen h-Bauern, aber er wird seinen c-Bauern
+auch verlieren.} Ke7 44. Nf5+ Kd7 45. Nxg7 Kxc7 46. Ne6+ Kd7 47. f5 Ke7 48. Nd4
+{Weiß steht immer noch etwas besser und hat mögliche Gewinnaussichten. Aber
+dazu benötigt man neben viel Geduld und Kondition auch eine sehr gute Technik.
+An allen Eigenschaften mangelt es in dieser Partie und daher wurde Remis
+geboten und auch angenommen.} 1/2-1/2
+

@@ -1,0 +1,21 @@
+[Event "ZMD-Porzellancup Dresden"]
+[Site "?"]
+[Date "2009.01.25"]
+[Round "8"]
+[White "Schmitz, Tim"]
+[Black "Linnemann, Niklas"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1844"]
+[BlackElo "1396"]
+[Annotator "Tim Schmitz"]
+[PlyCount "19"]
+[EventDate "2009.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+
+{79MB, Fritz11.ctg, IBM-741D9F1A5A5} 1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e5
+5. Nf3 d6 6. Bc4 h6 {Das ruft nach einer taktischen Lösung} 7. Bxf7+ Kxf7 8.
+Nxe5+ Ke8 (8... Ke6 9. Qd5+ Ke7 10. Qf7#) (8... Kf6 9. Qd4 Ke7 10. Ng6+ Ke8 11.
+Nxh8) (8... Ke7 9. Nd5+ Ke6 10. Qg4+ Kxe5 11. Bf4+ Kxe4 12. Nc3+ Kd3 13. Qe2+
+Kd4 14. O-O-O+ Kc5 15. Qb5#) 9. Qh5+ Ke7 10. Qf7# 1-0
+

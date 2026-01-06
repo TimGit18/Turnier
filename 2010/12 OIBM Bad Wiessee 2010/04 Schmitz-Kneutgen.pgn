@@ -1,0 +1,59 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2010.11.02"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Kneutgen, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "1930"]
+[BlackElo "2122"]
+[Annotator "Tim Schmitz"]
+[PlyCount "47"]
+[EventDate "2010.05.02"]
+
+1. e4 e6 2. d4 d5 3. Nd2 {In der Tarrasch-Variante verteidigt Weiß e4 ohne die
+Fesselung der Winawer-Variante zuzulassen. Andererseits sperrte er auch den
+Damenläufer ein und unterbindet die Verteidigung des Bauern d4. Schwarz wird
+daher einen Gegenangriff gegen d4 starten} Nf6 {Schwarz entwickelt sich und
+führt den Angriff auf e4 fort} 4. e5 {Weiß hält sein Bauernzentrum intakt und
+entwickelt seine Königflügelfiguren so schnell wie möglich} Nfd7 5. Bd3 c5 6.
+c3 Nc6 7. Ngf3 Be7 8. O-O g5 {Ein erschreckender Zug für Weiß. Der Springer
+soll nach e1 getreiben werden. Extreme Maßnahmen sind angesagt} 9. dxc5 $1 {
+Ein häßlich anmutender Zug, der es Schwarz erlaubt auf e5 zu nehmen, so dass
+das weiße Zentrum bis auf den Stumpf auf c5 amputiert wurde. Andererseits ist
+der g-Bauer auch häßlich. Der Stumpf soll zu einer Speespitze werden und das
+Feld d4 wird für den Springer frei} g4 10. Nd4 Ndxe5 11. Bb5 Bd7 12. Bxc6 ({
+Das Buch von McDonald empfiehlt erstmal} 12. b4) 12... bxc6 13. b4 {[%csl Re5,
+Rf4] An diese Stellung konnte ich mich noch vage erinnern bzw. an ähnliche aus
+dem Korchnoi-Gambit. Wie ist sie einzuschätzen? Weiß hat Raumvorteil auf dem
+Damenflügel und sein König steht gut. Schwarz hat die bessere Bauernstruktur,
+die Bauernmehrheit im Zentrum und im Endspiel die besseren Aussichten mit dem
+Läuferpaar. Kurzfristig dürfte Weiß die besseren Aussichten, langfristig
+Schwarz. Der Kampf geht um das Schlüsselfeld e5} ({Ilja Smirin spielte hier in
+seiner Partie gegen Akopian direkt} 13. f4) 13... Ng6 14. f4 {Der Zug sieht
+gut aus, obwohl er mir direkt nach der Ausführung gar nicht gefiel. Ich muss
+aber e5 verhindern, da sonst Schwarz zu gutem Spiel mit den beiden Läufern
+kommt} ({Die Variante} 14. Qxg4 {geht wohl nicht} e5 15. Nf5 h5 16. Qf3 e4 17.
+Qh3 Nf4 {und ich verliere Material}) 14... gxf3 {Das war das weiße Ziel. Die
+f-Linie wird geöffnet und Druck gegen den schwarzen König aufgebaut} (14...
+Nxf4 {hatte ich befürchtet, es ist aber harmlos} 15. Rxf4 e5 16. Nxc6 $1 {
+erobert den Bauern zurück und Schwarz erhält eine schlechte Stellung} Bxc6 17.
+Rxg4) 15. Qxf3 {[%csl Yf7] In der Folge richtet sich das weiße Spiel gegen f7}
+O-O $1 {Seltsamerweise geht dieser Zug, der etwas riskant aussieht} 16. N2b3 {
+[%csl Yc6][%cal Rb3a5,Ra5c6,Rd4c6] An dieser Stelle habe ich zu lange überlegt,
+dabei ist das der logische Zug. Die Springer gehören auf den Damenflügel, wo
+die weiße Bauernmehrheit spielt. Außerdem wird für radikale schnelle
+Entwicklung der Weg frei gemacht} e5 {Früher oder später muss Schwarz diesen
+Zug spielen} 17. Nf5 Bxf5 18. Qxf5 Qc8 {Auch logisch, denn Schwarz möchte
+schnell in das Endspiel. Aber Weiß kann noch gut reagieren} 19. Bh6 Qxf5 20.
+Rxf5 {Hier machte ich ein Remisangebot, da ich die Stellung mit Weiß für gut
+spielbar halte. Es könnte folgen} Rfc8 (20... Rfe8 21. Raf1 f6 22. Na5 Rac8 23.
+Nb7 {führt zu den unten gelösten Problemen mit dem Einsteigen auf d6}) 21. Raf1
+f6 22. Na5 Rc7 {um dem Springer das Feld b7 zu nehmen, denn ein Eindringen auf
+d6 wäre lästig} 23. g3 Rd8 24. h4 {Schwarz steht im Zentrum etwas besser, aber
+Weiß hat mehr Raum und seine Stellung ist etwas freier Fazit der Partie: Es
+ist nichts schief gegangen, die unangenehmen fanzösischen Strukturen konnten
+vermieden werden. Die Variantenberechnung könnte besser sein (Züge 20 und 14),
+aber das allgemeine Stellungsgefühl war gut} 1/2-1/2
+

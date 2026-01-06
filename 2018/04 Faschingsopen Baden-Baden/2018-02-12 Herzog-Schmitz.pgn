@@ -1,0 +1,80 @@
+[Event "Baden-Baden Faschingsopen"]
+[Site "?"]
+[Date "2018.02.12"]
+[Round "5"]
+[White "Herzog, Manfred"]
+[Black "Schmitz, Tim"]
+[Result "1/2-1/2"]
+[ECO "E99"]
+[WhiteElo "1688"]
+[BlackElo "1799"]
+[PlyCount "58"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.02.12"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 {Das ist die Moderne Variante des Mar del Plata-Systems.
+Der aggressive Läuferzug ist der Hauptzug in dem Komplex mit dem
+Springerrückzug. Der Läufer unterstützt nicht nur den Vorstoß c4-c5,
+sondern nimmt auch noch den Bauern a7 in das Visier. Der Nachteil dieses Zuges
+ist, dass der schwarze Bauernsturm ein einfaches Tempo gewinnt. Nach f5-f4
+kann mit g4-g3 ein Bauer geopfert werden. In dieser Variante ist der weiße
+Damenflügelangriff sehr zielgerichtet, aber die Verteidigung seines Königs
+kann kompliziert werden.} f5 {Dieser Zug ist der typische Angriffszug von
+Schwarz, der einen Bauernsturm auf dem Königsflügel starten will} 11. f3 {
+Weiß verteidigt seinen Bauern und schafft ein Rückzugsfeld für den Läufer,
+der damit auf der langen Diagonale bleiben kann} Nf6 $2 {Dieser schematisch
+gespielte Zug ist bereits eine ernsthafte Ungenauigkeit. Der Springer erhöht
+zwar den Druck auf e4, aber der Bauer ist gut verteidigt. Außerdem versperrt
+der Springer den Weg für den Turm, der unter Umständen über f6 in das Spiel
+gebracht werden kann} ({Die richtige Fortsetzung lautet} 11... f4 12. Bf2 g5 {
+Jetzt kann Weiß zu verschiedenen Mitteln greifen, um am Damenflügel weiter
+anzugreifen} 13. Nb5 {Dieser Zug ist eine Idee von Korchnoi, die auch in der
+Partie angewendet wurde}) 12. c5 {Die logische Fortsetzung von Weiß. Er
+möchte gerne auf dem Damenflügel die c-Linie öffnen und zwei Schwächen auf
+d6 und c7 schaffen} f4 13. Bf2 g5 {Die letzten Züge waren nicht schwer zu
+finden. Nun folgt die interessante Idee von Korchnoi} 14. Nb5 {[%csl Ya7,Yc7,
+Yd6,Yf2][%cal Rb5d6,Rb5c7,Rb5a7,Yf2a7] Der Springer macht einen Sprung auf den
+Damenflügel, wo er drei Bauern auf einmal angreift. Er kooperiert hier sehr
+gut mit dem Läufer auf f2} a6 {Nach langem Nachdenken gespielt. Die
+Alternativen gefielen alle nicht} 15. Na7 {Schwarz findet im Läufer auf c8
+ein neues Angriffsziel} Bd7 {Der Läufer konnte gerettet werden, allerdings
+entsteht eine neue Schwäche auf b7, die sofort angegriffen kann. Das weiße
+Problem ist der gefangene Springer auf a7} 16. Qb3 {[%csl Yb3,Yb7][%cal Rb3b7]
+Weiß spielt weiter aggressiv auf Angriff, obwohl diese Strategie Material
+kostet} ({Vielleicht hätte Weiß einen Bauern opfern sollen} 16. c6 bxc6 17.
+dxc6 Nxc6 18. Nxc6 Bxc6 {Der Springer wurde gerettet und Schwarz hat schlechte
+weiße Felder. Weiß kann auf der c-Linie und der Diagonalen g8-a2 angreifen})
+16... Qb8 {Ein sauberer Defensivzug, der Material gewinnt} 17. c6 Rxa7 18. Bxa7
+$6 {Hiernach erhält Schwarz zwei Figuren für den Turm und sollte eigentlich
+besser stehen} Qxa7+ 19. Kh1 Bc8 {Abgesehen vom materiellen Vorteil sind
+natürlich die schwarzen Figuren schlecht koordiniert und müssen noch einmal
+in das Spiel gebracht werden. Der Läufer auf g7 ist besonders schlecht} 20.
+Nd3 $6 {Das ist vielleicht die nächste Ungenauigkeit. Der Springer soll nach
+b4 gebracht werden. Aber Schwarz kann seine Struktur jetzt konsolidieren} b6 {
+Hiernach sind alle Einbruchsfelder auf dem Damenflügel versiegelt. Das Spiel
+muss sich also auf den Königsflügel verlagern. Dort hätte Schwarz mit den
+beiden Leichtfiguren - von denen der Läufer auf g7 allerdings keine große
+Reichweite hat - bessere Aussichten als der weiße Turm} 21. Nxe5 $2 {Das
+sieht nach einem ernsten positionellen Fehler aus. Weiß gewinnt zwar einen
+Bauern zurück und nivelliert das Materialverhältnis, aber er befreit ohne
+Not den Läufer g7 aus seinem Gefängnis und öffnet ihm eine Traumdiagonale}
+Kh8 {Ein guter, prophylaktischer Zug, der das Abzugsschach ausschließt und
+die g-Linie für den Turm räumt} ({Natürlich sollte Schwarz hier wegen des
+Abzugs nicht nehmen} 21... dxe5 22. d6+ {und Weiß gewinnt die Figur auf e7
+vorteilhaft zurück}) 22. Nd3 Ng6 {[%csl Yh4][%cal Gg6h4] Die schlechteste
+Figur von Schwarz wird in das Spiel gebracht und droht auf h4 einzusteigen} 23.
+g3 $2 {Das ist ein weiterer Fehler, den die weiße Stellung eigentlich nicht
+verkraften kann. Weiß öffnet die Stellung am falschen Flügel und bringt
+unnötig seinen König in Gefahr. Die Gefahr des Springers auf h4 war so groß
+nicht} Nh5 $2 {Schwarz revanchiert sich mit einem ebenso groben positionellen
+Fehler. Er denkt, dass g3 angegriffen und verteidigt werden muss, aber das ist
+ein Irrtum} ({Richtig ist natürlich} 23... fxg3 $1 24. hxg3 Nh5 25. g4 Nhf4
+26. Qc2 Ne5 {und Schwarz diktiert das Spiel mit Initiative. Die Springer haben
+aktive Felder gefunden und der weiße Läufer ist eine traurige Gestalt}) 24.
+g4 $5 {Ein sehr präziser Zug, der fast schon ausgleicht. Weiß kann jetzt
+fast den Königsflügel abschließen. Vermutlich frustriert von der
+Spielverlagerung nimmt Schwarz das Remisangebot an, obwohl er genauso gut
+hätte weiterspielen können. Ohne Risiko könnte kommen} Nf6 25. Kg2 h5 26. h3
+Nh4+ 27. Kh2 Ng6 28. Kg2 a5 29. Rg1 Ba6 1/2-1/2
+

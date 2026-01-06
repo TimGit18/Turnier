@@ -1,0 +1,20 @@
+[Event "Ortenburg Open"]
+[Site "?"]
+[Date "2015.10.20"]
+[Round "4"]
+[White "Schmitz, Tim"]
+[Black "Niedermeier, Thomas"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "1753"]
+[BlackElo "2256"]
+[PlyCount "72"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. dxc5 Nxc5 10. O-O-O a6 11. Qf2 Qa5 12. Kb1 f5 13. exf6 Rxf6 14. g4 Bd7
+15. Bh3 Raf8 16. Qg2 $2 Rxf4 $1 17. Bxf4 Rxf4 18. g5 Rb4 19. Nd2 Rxb2+ $1 20.
+Kxb2 Qa3+ 21. Kb1 (21. Kxa3 $2 Nd3+ 22. Kb3 Na5#) 21... Qxc3 22. Qf3 Na4 23.
+Qxc3 Nxc3+ 24. Kb2 Nxd1+ 25. Rxd1 Bxg5 26. Nf3 Bf6+ 27. c3 Kf7 28. Kc2 Na5 29.
+Rf1 Ke7 30. Nd4 Nc6 31. Nb3 Kd6 32. a4 $2 Ne5 33. a5 Nc4 34. Rf3 Ba4 35. Bf1 $4
+Nxa5 36. Bd3 h6 0-1
+

@@ -1,0 +1,83 @@
+[Event "Baden-Baden Faschingsopen"]
+[Site "?"]
+[Date "2017.02.25"]
+[Round "1"]
+[White "Doll, Rebecca"]
+[Black "Schmitz, Tim"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1264"]
+[BlackElo "1808"]
+[PlyCount "46"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.02.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be7 8. Be3
+Be6 9. Be2 {Dieses hybride System aus Englischem Angriff und Klassischem
+System ist eine beliebte Eröffnung unter Amateuren und Hobby-Schachspielern}
+O-O 10. O-O {Beide Seiten wählen ruhige Entwicklungszüge, um ihre Könige in
+Sicherheit zu bringen} ({Auch sehr beliebt ist die Fortsetzung} 10. Qd2 {
+, die von Völker und Bergmann gegen mich gespielt wurde. Wahrscheinlich ist
+die stellungsgemäße Fortsetzung} Nbd7 {die beste}) 10... d5 {In dieser
+Stellung ist der Durchbruch auf d5 sicher eine gute Idee. Kommt Schwarz in der
+Eröffnung zu diesem Befreiungszug, dann hat er mindestens Ausgleich erreicht}
+11. Bf2 $6 {Dieser Zug verhindert zwar die Gabel auf d4, passt aber nicht in
+den weißen Aufbau.} ({Nach dem kanonischen Abtausch} 11. exd5 Nxd5 12. Nxd5
+Bxd5 {kann Weiß keinen zusätzlichen Druck auf d5 aufbauen. Daher ist der
+Vorstoß richtig}) 11... d4 {Schwarz erobert Raum im Zentrum und treibt den 
+(besser postierten) Springer von Weiß zurück.} 12. Nb1 Nc6 13. c3 $1 {
+Weiß hat ein Problem mit der schlechten Entwicklung und der mangelnden
+Koordination seiner Figuren. Daher ist dieser Sprengungszug jetzt angebracht,
+denn er reduziert das schwarze Zentrum und bringt seinen zurückentwickelten
+Spöringer wieder in das Spiel} dxc3 {Schwarz kann den Bauern auf d4 nicht
+halten, aber er kann trotzdem mit dem Verlauf der Eröffnung zufrieden sein.
+Seine Läufer haben freie Felder und er kann Druck auf der c-Linie aufbauen}
+14. Nxc3 Rc8 {[%csl Yc5][%cal Rb3c5] Das einzige Problem für Schwarz in
+dieser Variante ist die Schwäche des Feldes c5, das der bislang deplatzierte
+Springer auf b3 besetzen kann. Schwarz versucht daher etwas Druck auf der
+c-Linie aufzubauen - ohne dass er Springervorstoß verhindern kann} 15. Nc5 {
+[%csl Yb7,Ye6][%cal Rc5b7,Rc5e6] Weiß ergreift sogleich die Gelegenheit, den
+Springer zu aktivieren und einen Doppelangriff auf den Bauern b7 und den
+Läufer auf e6 durchzuführen} Bxc5 {Schwarz kann den Springer nicht gut
+stehen lassen. Weiß gewinnt zwar das Läuferpaar, dafür sind die schwarzen
+Figuren aber gut postiert und die weißen Läufer haben noch keine richtigen
+Angriffsziele} 16. Bxc5 Re8 {An diesem Punkt stellt sich die Frage wie Weiß
+fortsetzen soll. Der schwarze Plan ist einfach: b7-b5, Sc6-a5-c4 und Druck auf
+den weißen Damenflügel ausüben} 17. Qxd8 {Dieser Zug sieht erst einmal
+logisch aus. Weiß nimmt mit den Damen Angriffspotential aus der Stellung und
+qualifiziert den letzten schwarzen Zug als Tempoverlust} Rexd8 {Trotzdem ist
+die schwarze Stellung hier schon angenehmer: Es droht Sc6-d4, da das Feld d4
+sehr schwach geworden ist. Außerdem sind die schwarzen Türme bereit in die
+weiße Stellung einzusickern, wohingegen die weißen Türme noch nicht im
+Spiel sind} 18. Bb6 $2 {Ein naheliegender Angriffszug, der aber die schwarze
+Replik außer acht läßt} ({Weiß hätte mit} 18. Rfd1 {die Symmetrie in der
+Stellung aufrecht erhalten sollen. Dann kann wie in der Partie folgen} Nd4 {
+mit Doppelangriff auf den Läufer e2 und auf den Läufer c5. Wenn Weiß den
+Springer schlägt, dann kommt ein schwarze Bauer nach d4 und verjagt den
+weißen Springer von c3. Dieser hat kein gutes Feld, und der schwarze Turm auf
+der c-Linie findet einen Einstieg auf c2}) 18... Rd2 $1 {[%csl Yb2,Ye2][%cal
+Rd2e2,Rd2b2] Das ist schon der eigentliche Gewinnzug. Der Turm steht sehr
+aggressiv auf d2, bedroht b2 und strahlt gegen den weißen Läufer auf e2} 19.
+b3 $2 {Das ist ein ganz schwacher Verteidigungszug. Zwar wird der Bauer von b2
+weggezogen und damit gerettet, aber der Springer auf c3 verliert seine
+natürliche Deckung und damit auch der Läufer auf e2} Nd4 {Ein einfacher und
+ästhetisch zentralisierender Zug, der einfach Material gewinnt. Wieder steht
+eine simple Doppeldrohung (gegen die Figuren c3 und e2) im Raum. Würde Weiß
+auf d4 schlagen, dann verliert er sofort eine Leichtfigur} 20. Bc4 {Das ist
+der einzige Zug, der am wenigsten Material (einen Bauern) verliert. Aber der
+einzige weiße Trumpf (das Läuferpaar) wird halbiert und die schwarzen Türme
+werden immer stärker} Bxc4 21. bxc4 Rxc4 {Alle schwarzen Figuren sind gut im
+Spiel und gut koordiniert} 22. Nb1 $2 {Wieder ist dieser Rückzug sehr
+antipositionell. Der Springer steht zum dritten Mal in der Partie auf diesem
+Feld und klemmt den eigenen Turm ein. Dabei gab es zwei valide Alternativen} ({
+(a) Am besten ist} 22. Ba5 Nc6 23. Nb1 Rdc2) ({(b)} 22. Rfc1 Rxc3 23. Rxc3 Ne2+
+24. Kf1 Nxc3 {Schwarz hat eine Figur gewonnen} 25. Rc1 Rd1+) 22... Rb2 {
+Auch dieser Zug bedient wieder mehrere Optionen: der Läufer auf b6 wird
+angegriffen, es droht Sd4-c2 und auch die Turmverdopplung auf der siebten Reihe
+} 23. Ba5 {Ein unpräziser Verteidigungszug, aber die Stellung ist für Weiß
+schon ganz schwierig} ({Die einzige Variante, die nicht gleich verliert, lautet
+} 23. Na3 Ra4 24. Bxd4 exd4 25. Rfc1 Kf8 26. Nc4 Rbxa2 {Aber auch dann hat
+Schwarz zwei Bauern mehr}) 23... Rcc2 {Jetzt ist Weiß völlig paralysiert und
+gibt die Partie auf. Zwar kann der Läufer auf d2 noch blocken, aber dann sind
+die weißen Figuen erst einmal gebunden} 0-1
+

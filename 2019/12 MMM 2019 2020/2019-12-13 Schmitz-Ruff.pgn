@@ -1,0 +1,26 @@
+[Event "MMM 2019/2020"]
+[Site "?"]
+[Date "2019.12.13"]
+[Round "3"]
+[White "Schmitz, Tim"]
+[Black "Ruff, Korbinian"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1827"]
+[BlackElo "1423"]
+[Annotator "Tim Schmitz"]
+[PlyCount "87"]
+[SourceVersionDate "2019.12.14"]
+[WhiteTeam "SC Sendling 3"]
+[BlackTeam "SG Aschheim 2"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 a6 5. Nf3 Nf6 6. Bd3 Be7 7. Nc3 d6 8. O-O
+O-O 9. Qe2 Nc6 10. h3 Bd7 11. Rd1 Rc8 12. e5 dxe5 13. dxe5 Nd5 14. Qe4 g6 (
+14... f5 15. exf6 Nxf6 16. Qh4) 15. Bh6 Nxc3 16. bxc3 f5 17. exf6 Rxf6 18. Bg5
+Rf7 19. Bxe7 Qxe7 20. Re1 Na5 21. Qb4 Qxb4 22. cxb4 Nc6 23. a3 b5 24. Ng5 Re7
+25. Rac1 Rd8 26. Rc5 Nd4 27. Rc7 Rc8 28. Rec1 Ree8 29. Rxc8 (29. Nxh7 $1 Kxh7
+30. Rxd7+ Kh6 31. Rxc8 Rxc8 32. Rxd4) 29... Rxc8 30. Rxc8+ Bxc8 31. Be4 h6 32.
+Nf3 Nxf3+ 33. Bxf3 e5 34. Kf1 Kf7 35. Ke2 Kf6 36. Ke3 Ke6 $4 37. Bg4+ Kd5 38.
+Bxc8 Kc4 39. Bxa6 Kb3 40. Bxb5 Kxa3 41. Be8 Kxb4 42. Bxg6 Kc5 43. Ke4 Kd6 44.
+Bf7 1-0
+

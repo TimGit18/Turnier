@@ -1,0 +1,28 @@
+[Event "Arber-Open"]
+[Site "?"]
+[Date "2022.08.05"]
+[Round "7"]
+[White "Bensch, Patrick"]
+[Black "Schmitz, Tim"]
+[Result "*"]
+[ECO "B91"]
+[WhiteElo "2147"]
+[BlackElo "1820"]
+[Annotator "Tim Schmitz"]
+[PlyCount "73"]
+[SourceVersionDate "2022.10.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+O-O 9. O-O Be6 10. h3 Nbd7 11. Be3 b5 12. a4 b4 13. Nd5 Nxd5 14. exd5 Bf5 15.
+Qd2 a5 16. c3 Rb8 17. f4 bxc3 18. Nxc3 exf4 19. Rxf4 Bg6 20. h4 {Schwarz steht
+laut Engine bereits deutlich besser.} ({Die Referenzpartie lautete} 20. Nb5 Ne5
+21. Rc1 Nd3 22. Rc6 Nxf4 23. Bxf4 Re8 24. Kh2 Rb7 25. Bxd6 Rd7 26. Bxe7 Rdxe7
+27. Nd6 Re2 28. Qd1 Rxb2 29. Nxe8 Be4 30. Nf6+ {1-0 (30) Antoshin,V-Moiseev,O
+Yerevan 1954}) 20... Bf6 21. Qf2 Ne5 22. Bf1 Nd3 23. Bxd3 Bxd3 24. Bd4 Be5 25.
+Rf3 Bg6 26. Nb5 Qd7 27. Rc3 Rfc8 28. Rac1 Rxc3 29. Rxc3 Qg4 30. Bxe5 dxe5 31.
+d6 Qxa4 {Bis hierhin lief alles nach Plan, jetzt läuft die Sache aber völlig
+schief.} 32. Qe2 Qa1+ $2 {Ein Panik-Schach, das die Dame in das Abseits stellt
+- aber noch nicht verliert.} 33. Kh2 Be4 $4 (33... Bf5 {war nicht schwer zu
+sehen und deckt alle Drohungen (auf d7 und c8)}) 34. Qxe4 Qxb2+ 35. Qc2 {
+Jetzt droht auch noch Matt auf c8} Qxc2+ 36. Rxc2 f5 37. d7 *
+

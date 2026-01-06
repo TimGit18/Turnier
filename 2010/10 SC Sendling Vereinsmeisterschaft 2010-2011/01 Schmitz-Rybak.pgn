@@ -1,0 +1,39 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2010.09.10"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Rybak, Leonid"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1902"]
+[BlackElo "1903"]
+[Annotator "Tim Schmitz"]
+[PlyCount "132"]
+[EventDate "2010.??.??"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 {Genauer ist sofort d2-d4} g6 5. d4 cxd4 6.
+Bc4 Nb6 7. Bb3 Bg7 {Nun kann Schwarz rochieren, was in der Variante mit Sb8-c6
+nicht funktioniert} 8. O-O O-O 9. cxd4 d5 $1 {Ein energischer Zug, der den
+weißen Einfluß im Zentrum beschneidet} 10. exd6 $6 {Dieser Zug beinhaltet ein
+Bauernopfer} Qxd6 11. Nc3 Bg4 12. h3 Bxf3 13. Qxf3 {Ich will Schwarz auf d4
+schlagen lassen, um den Turm in das Spiel zu bringen} Nc6 14. Be3 Na5 {Das
+sieht etwas künstlich aus} 15. Ne4 Qd7 16. Nc5 {Weiß kommt zu etwas Spiel} Qc6
+(16... Qb5 {hatte ich berechnet} 17. Rac1 (17. a4 $2 {ist aber ein Fehler nach}
+Qb4) 17... Nxb3 18. Nxb3 {mit etwas Druck am Königsflügel}) 17. d5 $2 Qf6 $1 {
+Schwarz erhält das bessere Endspiel} 18. Qxf6 Bxf6 19. Ne4 {In tiefer Zeitnot
+suche ich nur noch nach konkreten Zügen} Bxb2 20. Rab1 Be5 21. f4 Bg7 22. d6
+exd6 23. Nxd6 Nxb3 24. Rxb3 Nd5 25. Bd2 b6 26. Rd3 Nc7 27. f5 f6 $2 {Das
+schwächt nur unnötig die schwarze Stellung, f6 war keine richtige Drohung} 28.
+Re1 $4 {Der Turm gehört natürlich auf die c-Linie, in der Hast habe ich dies
+übersehen} Rfd8 {Das baut eine unangenehme Fesselung auf} 29. Bf4 Rd7 30. Rde3
+$2 {Der nächste Fehler} (30. Red1 Rad8 31. R3d2 Bf8 32. g4 {ist auch nicht
+wirklich erquicklich}) 30... Bf8 31. Ne4 Ne8 32. g4 Kf7 33. Kg2 Rad8 34. R1e2
+$2 {Jetzt geht auch noch der f-Bauer verloren} (34. fxg6+ hxg6 35. h4 {mit
+etwas Gegenspiel}) 34... gxf5 35. gxf5 Ng7 36. Ng3 Rd5 37. Bh6 Bc5 38. Re4 Nxf5
+39. Nxf5 Rxf5 40. Rg4 Rg8 41. Kg3 Rxg4+ 42. hxg4 Rd5 43. Kf3 a5 44. Bf4 h5 45.
+gxh5 Rxh5 46. Kg4 {Der Rest ist Technik} Rd5 47. Kf3 a4 48. Ke4 Ke6 49. Bc7
+Rd4+ 50. Kf3+ Kd7 51. Bf4 a3 52. Bg3 Rd1 53. Ke4 Rb1 54. Kd3 Rb2 55. Bf4 Rxe2
+56. Kxe2 Ke6 57. Kd3 Kf5 58. Bd2 Kg4 59. Ke2 f5 60. Kf1 Kf3 61. Bc3 f4 62. Bd2
+Ke4 63. Ke2 f3+ 64. Kf1 Kd3 65. Be1 Kc2 66. Bd2 Kb1 0-1
+

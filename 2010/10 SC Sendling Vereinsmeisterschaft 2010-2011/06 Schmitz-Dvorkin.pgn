@@ -1,0 +1,67 @@
+[Event "SC Sendling Vereinsmeisterschaft"]
+[Site "?"]
+[Date "2011.01.22"]
+[Round "6"]
+[White "Schmitz, Tim"]
+[Black "Dvorkin, Eduard"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "1905"]
+[BlackElo "1987"]
+[Annotator "Tim Schmitz"]
+[PlyCount "123"]
+[EventDate "2010.08.11"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 {Eine unorthodoxe Variante}
+6. Bc4 Nb6 7. Bb3 d6 8. exd6 Bxd6 9. cxd4 {Jetzt gefällt mir die Stellung
+wieder, da es sich um eine bekannte IDB-Position handelt} Nc6 10. O-O O-O 11.
+Nc3 Nb4 {Der Springer will nach d5} 12. a3 N4d5 13. Bc2 {Der Plan ist Angriff
+auf den König mit der Dame-Läufer-Batterie. Auf d5 ist nichts mehr zu holen}
+Be7 $6 {Der Läufer steht auf d6 eigentlich aktiver} 14. Qd3 g6 15. Bh6 Re8 {
+Hier überlegte ich zulange} 16. Ne4 {Die Springer sollen nach e5 und g5, um f7
+zu bedrohen} Nf6 17. Ne5 (17. Neg5 {verliert wegen} Ng4) 17... Nxe4 18. Qxe4
+Bf6 {Weiß steht auf jeden Fall aktiver. Die schwarze Entwicklung ist noch
+nicht beendet, der Springer auf b6 steht nicht so gut und der Isolani noch
+nicht wirklich schwach} (18... Qd5 {hatte ich eigentlich erwartet}) 19. Rfd1
+Nd5 $6 {Er will den Springer aktivieren, erlaubt aber den Läufer auf ein gutes
+Feld zu bringen} 20. Ba4 Re7 21. Rac1 Nb6 22. Bb3 Nd5 23. Qf3 {Ich will ein
+bißchen auf f7 kauen, damit er weich wird} Bg7 24. Bxg7 Kxg7 25. Ng4 {Das ist
+sehr spekulativ} Re8 26. Rc5 $6 {Nicht besonders gut, aber ich wußte nicht,
+wie noch Druck auszuüben war} h5 (26... b6 {ist wohl besser, da jetzt der
+Läufer hinaus kann}) 27. Ne3 Nxe3 28. fxe3 {Jetzt habe ich wenigstens eine
+zweite offene Linie} Qb6 29. e4 (29. Rf1 {ist auch sehr naheliegend, denn er
+kann den Läufer nicht gut nehmen} Qxb3 30. Qxf7+ Kh6 31. Rxh5+ Kxh5 32. Qh7+
+Kg5 33. h4+ Kg4 34. Qxg6+ Kxh4 35. Rf4#) 29... Qd6 {Ich habe eine
+Klasse-Stellung, aber überhaupt keine Zeit mehr. Auch Dvorkin spielt jetzt
+sehr schnell, da er nicht zufrieden mit der Stellung ist und diese schnell
+ändern will} 30. Rg5 Qe7 31. Qg3 {Immer mit dem Ziel einzügige Drohungen
+aufzustellen und Materialeinsteller zu vermeiden} Kh6 {Sehr gewagt, aber der
+Turm muss weg} 32. Rc5 {Hier steht er noch am aktivsten und kann auf c7
+eindringen} Rd8 33. Rc7 Rd7 34. Rdc1 Qd8 {Die weißen Züge waren recht einfach
+zu finden, Schwarz hat eigentlich keinen rechten Plan mehr, aber die Zeit} 35.
+Qf4+ Kg7 36. Qe5+ Kh6 37. Qf4+ Kg7 38. Qe5+ Kh6 39. Rxd7 $6 {Etwas schlapp,
+vermeidet aber die Stellungswiederholung} (39. d5 Rxc7 40. Rxc7 f6 41. Qg3 e5
+42. Qe3+ g5 43. Qc5 {sieht schon sehr gut aus}) 39... Bxd7 40. Qf4+ Kg7 {
+Endlich die Zeitkontrolle geschafft, nun kommt der ominöse erste Zug danach}
+41. Rf1 {Kaut wieder auf f7} (41. Rc7 {ist am besten, denn der Läufer kann
+nicht gut wegziehen}) 41... Be8 42. Qe5+ Kh7 $2 {Ein echter Fehlgriff, ich
+denke sehr lange nach, aber der Zug liegt auf der Hand} 43. Bxe6 $1 Kg8 {
+Erzwungen} (43... fxe6 44. Rf8 {verliert doch sofort}) 44. Bd5 Rc8 45. Rf6 $6 {
+Hopp oder topp, einfach aus Lust am Risiko mit der Drohung auf g6 zu nehmen}
+Rc1+ 46. Kf2 Kf8 47. Qg5 {greift c1 an und droht mit einigen ekligen Abzügen}
+Rc2+ 48. Ke3 $4 {Die finale Zeitnot} (48. Kf3 {ist noch relativ sicher}) 48...
+Qc7 (48... Qa5 $1 {sieht unglaublich stark aus. Aber Dvorkin hat auch keine
+Zeit mehr und muss schnelle Gegendrohungen aufstellen. Ich habe ein Schach,
+aber mehr auch nicht und das Mattnetz auf d2 ist zu}) 49. Qxg6 {Jetzt wird die
+Stellung irrational} Rxb2 50. Qh6+ {sieht auch nicht wie eine gute Idee aus}
+Ke7 51. e5 {Der letzte Einfall: er deckt zumindest den Turm und droht
+vielleicht mal mit e6} Qc3+ 52. Ke4 Re2+ 53. Kf5 Qd3+ $2 (53... Bd7+ 54. Kg5
+Rxe5+ {gewinnt für Schwarz, ist aber am Ende nicht mehr einfach zu sehen}) 54.
+Kg5 {Der Witz ist, dass der Bauer auf g2 gedeckt ist} Qxd4 $4 {Jetzt schmeißt
+Schwarz die Partie weg. Allerdings habe ich nur noch knapp eine Minute und er
+drei. Der Rest wird einfach geblitzt} 55. Rxf7+ {Noch korrekt} Bxf7 56. Qf6+ (
+56. Qd6+ Ke8 57. Bxf7+ {ist ein ziemlich simpler Gewinn, aber ohne eine
+Sekunde des Nachdenkens spiele ich das einfache Muster}) 56... Kd7 57. Qd6+ Kc8
+58. Qf8+ Kd7 59. Qxf7+ Kd8 60. Qf8+ Kd7 61. Qf7+ Kd8 62. Qf8+ {Dauerschach
+habe ich immer} 1/2-1/2
+
