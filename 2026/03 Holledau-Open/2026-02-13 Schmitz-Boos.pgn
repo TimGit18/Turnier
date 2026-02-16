@@ -1,0 +1,16 @@
+[Event "Holledau-Open"]
+[Site "?"]
+[Date "2026.02.13"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Boos, Patrick"]
+[Result "0-1"]
+[ECO "C04"]
+[WhiteElo "1722"]
+[BlackElo "1966"]
+[Annotator "Tim Schmitz"]
+[PlyCount "84"]
+[SourceVersionDate "2026.02.13"]
+
+{[%evp 0,11,19,38,43,18,28,33,33,33,50,39,44,31]} 1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bb5 a6 7. Bxc6 bxc6 8. O-O c5 9. c3 cxd4 10. cxd4 c5 11. dxc5 Nxc5 12. Nb3 Bd7 13. Bg5 Qb8 14. Rc1 Nxb3 15. axb3 Ra7 16. Be3 Rb7 17. Nd4 Be7 18. f4 g6 19. Qf3 Rc7 20. Rxc7 Qxc7 21. Rc1 Qb7 22. Qe2 O-O 23. Ra1 Ra8 24. h3 Qb4 25. Qd3 a5 26. Kh2 Qb7 27. Bd2 Qb6 28. Bc3 Bc5 29. Qd2 a4 30. bxa4 Rxa4 31. Rxa4 Bxa4 32. Qd3 Bb3 33. Nxb3 $4 Qxb3 34. Qd2 Kg7 35. Bd4 Bb4 36. Bc3 Be7 37. g3 h5 38. Qd3 $4 Bb4 39. Qd2 Bc5 40. Kg2 $4 Qc4 41. g4 Qe4+ 42. Kg3 Be3 0-1
+

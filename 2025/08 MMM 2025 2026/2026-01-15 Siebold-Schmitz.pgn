@@ -1,0 +1,16 @@
+[Event "MMM 2025/2026 (A-Klasse)"]
+[Site "?"]
+[Date "2026.01.15"]
+[Round "?"]
+[White "Siebold, Hans-Jörg"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1712"]
+[BlackElo "1730"]
+[Annotator "Tim Schmitz"]
+[PlyCount "53"]
+[SourceVersionDate "2026.01.15"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. c4 e6 5. dxe6 Bxe6 6. Nf3 Nc6 7. Nc3 Bd6 $6 (7... Be7) 8. Be2 O-O 9. O-O Re8 10. d3 h6 11. Be3 Bf5 $6 12. d4 cxd4 13. Nxd4 Nxd4 14. Bxd4 Ne4 15. Bf3 Nxc3 $4 (15... Qc7 16. h3 Rad8) 16. Bxc3 Qc7 17. g3 Rad8 18. Bd5 $1 Bh3 19. Re1 Rxe1+ 20. Qxe1 Qd7 21. Qd2 Qf5 $4 (21... Bc5 22. b4 Be7) 22. Re1 Bc5 $5 23. Qe2 (23. Bxf7+ $4 Kxf7 24. Qxd8 Bxf2+ 25. Kh1 Qf3#) 23... Bg4 24. Qf1 Bf3 25. Bxf3 Qxf3 26. Qg2 Qf5 27. h4 $6 1-0
+
