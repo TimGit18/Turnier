@@ -1,0 +1,16 @@
+[Event "Schachfestival Bad Wörishofen (B-Turnier)"]
+[Site "?"]
+[Date "2026.03.19"]
+[Round "7"]
+[White "Stiller, Björn"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1846"]
+[BlackElo "1791"]
+[Annotator "Tim Sshmitz"]
+[PlyCount "51"]
+[SourceVersionDate "2026.03.19"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 a6 7. O-O Nf6 8. Bf4 Bg4 9. h3 Bxf3 10. Qxf3 e6 11. Rfd1 Qb8 12. Na4 $5 Nd7 $6 (12... Qc7 13. Rac1 Be7) (12... b5 $2 13. e5 Nxe5 14. Bxe5 dxe5 15. Qc6+ $18) 13. Qc3 Be7 $4 (13... Nd8 $1) 14. Qxg7 $18 Bf6 15. Qh6 e5 16. Be3 Nd4 17. Bxd4 exd4 18. Nb6 Nxb6 19. Qxf6 Rf8 20. Qxd4 Nxc4 21. Qxc4 Qc8 22. Qd5 Qc6 23. Qxc6+ bxc6 24. Rxd6 Rb8 25. Rxc6 Rxb2 26. Rxa6 1-0
+
