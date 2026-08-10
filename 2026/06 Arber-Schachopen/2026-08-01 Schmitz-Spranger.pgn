@@ -1,0 +1,19 @@
+[Event "Arber.Open"]
+[Site "?"]
+[Date "2026.08.01"]
+[Round "1"]
+[White "Schmitz, Tim"]
+[Black "Spranger, Peter"]
+[Result "1-0"]
+[Annotator "Tim Schmitz"]
+[ECO "B09"]
+[WhiteElo "1755"]
+[BlackElo "1331"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "39"]
+[GameId "2338368203956261"]
+[SourceVersionDate "2026.08.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c6 6. Bd3 O-O 7. O-O b5 8. a3 Bb7 9. Qe1 Nbd7 10. e5 dxe5 11. fxe5 Nd5 12. Nxd5 cxd5 13. Bxb5 $6 Nb6 $6 (13... Nxe5 $1 14. Nxe5 Qb6) 14. Qh4 $1 h5 $2 15. g4 Qc8 $1 16. gxh5 Qxc2 $2 (16... gxh5 17. Qxh5 Qxc2) 17. h6 Qe4 18. hxg7 Qxh4 $4 19. gxf8=Q+ Rxf8 20. Nxh4 1-0
+

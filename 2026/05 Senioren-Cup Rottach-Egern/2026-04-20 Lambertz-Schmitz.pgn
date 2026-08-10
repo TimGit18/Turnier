@@ -12,7 +12,9 @@
 [WhiteFideId "-1"]
 [BlackFideId "-1"]
 [PlyCount "14"]
+[GameId "2330107373088785"]
+[EventDate "2026.??.??"]
 [SourceVersionDate "2026.04.20"]
 
-1. e4 c5 2. c3 d5 3. exd5 Nf6 4. d4 Nxd5 5. Nf3 e6 6. Bd3 cxd4 7. Nxd4 Bc5 1/2-1/2
+{[%evp 0,14,28,13,72,3,3,-4,37,3,14,15,13,11,24,4,21]} 1. e4 c5 2. c3 d5 3. exd5 Nf6 {Das ist das Anti-Alapin-Gambit im Alapin-System der Anti-Sizilianischen Verteidigung.} 4. d4 Nxd5 5. Nf3 e6 6. Bd3 cxd4 7. Nxd4 ({Eine ganz andere Art von Stellung ergibt sich nach} 7. cxd4 Bb4+ {Das ist der Punkt der schwarzen Zugfolge. Denn jetzt kann Weiß nicht einfach den Springer auf c3 ziehen, um das Schach abzuwehren, da er die Qualität verliert. Also muss er mit dem Läufer auf d2 das Schach abwehren. Dann tauscht Schwarz die Läufer und erhält eine vorteilhafte IDB-Stellung.} 8. Bd2 ({Eine schlechte Alternative ist} 8. Nbd2 $6 {wegen} Nf4) 8... Bxd2+ 9. Qxd2 O-O) 7... Bc5 {Das ist die Verbesserte Tarrasch-Variante im Anti-Alapin-Gambit gegen die Anti-Sizilianische Verteidigung. Hier wurde Remis verinbart, da Michaels Mobiltelefon zerstört war und es gab objektiv keinen Grund, dieses abzulehnen.} 1/2-1/2
 
